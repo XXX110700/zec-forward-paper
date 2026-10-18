@@ -1,7 +1,14 @@
 {
   "version": "V6.3",
-  "last_processed_15m_ts": 1792308600000,
-  "pending_signal": null,
+  "last_processed_15m_ts": 1792310400000,
+  "pending_signal": {
+    "side": "short",
+    "signal_ts": 1792310400000,
+    "signal_close": 1124.6,
+    "atr": 7.880871383177881,
+    "long_confirm": 0,
+    "short_confirm": 5
+  },
   "open_trade": null,
   "closed_trades": []
 }
