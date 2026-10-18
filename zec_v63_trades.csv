@@ -1,2 +1,3 @@
 event,side,signal_utc,entry_utc,entry,sl,tp1,tp2,exit_utc,exit_price,reason,net_r,long_confirm,short_confirm
 SIGNAL,short,2026-10-18 08:00 UTC,,,,,,,,,,0,5
+ENTRY,short,2026-10-18 08:00 UTC,2026-10-18 08:15 UTC,1124.53,1136.3513070747667,1110.3444315102797,1100.8873858504662,,,,,0,5
