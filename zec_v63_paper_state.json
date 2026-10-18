@@ -1,15 +1,19 @@
 {
   "version": "V6.3",
-  "last_processed_15m_ts": 1792337400000,
-  "pending_signal": {
+  "last_processed_15m_ts": 1792338300000,
+  "pending_signal": null,
+  "open_trade": {
     "side": "short",
     "signal_ts": 1792337400000,
-    "signal_close": 1080.79,
-    "atr": 10.065169668738477,
+    "entry_candle_ts": 1792338300000,
+    "entry": 1080.79,
+    "risk": 15.097754503107716,
+    "sl": 1095.8877545031078,
+    "tp1": 1062.6726945962707,
+    "tp2": 1050.5944909937846,
     "long_confirm": 0,
     "short_confirm": 6
   },
-  "open_trade": null,
   "closed_trades": [
     {
       "side": "short",
@@ -81,7 +85,7 @@
     }
   ],
   "long_confirm": 0,
-  "short_confirm": 6,
+  "short_confirm": 5,
   "max_drawdown": 1.133178,
-  "updated_at": "2026-10-18 15:30 UTC"
+  "updated_at": "2026-10-18 15:45 UTC"
 }
