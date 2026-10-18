@@ -301,9 +301,13 @@ def main():
     else:
         indices = [i for i, x in enumerate(c15) if x[0] > int(last)]
         if not indices:
-            print("没有新的15m已收盘K线。")
-            save_state(state)
-            return
+             print("没有新的15m已收盘K线。")
+             state["long_confirm"] = state.get("long_confirm", 0)
+             state["short_confirm"] = state.get("short_confirm", 0)
+             state["max_drawdown"] = stats(state["closed_trades"])[4]
+             state["updated_at"] = fmt_ts(state["last_processed_15m_ts"])
+             save_state(state)
+             return
 
     print(f"本次顺序处理 {len(indices)} 根新15m K线。")
 
