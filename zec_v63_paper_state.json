@@ -1,6 +1,6 @@
 {
   "version": "V6.3",
-  "last_processed_15m_ts": 1792365300000,
+  "last_processed_15m_ts": 1792366200000,
   "pending_signal": null,
   "open_trade": null,
   "closed_trades": [
@@ -158,8 +158,8 @@
       "net_r": -1.101013
     }
   ],
-  "long_confirm": 3,
+  "long_confirm": 2,
   "short_confirm": 2,
   "max_drawdown": 2.1972780000000003,
-  "updated_at": "2026-10-18 23:15 UTC"
+  "updated_at": "2026-10-18 23:30 UTC"
 }
