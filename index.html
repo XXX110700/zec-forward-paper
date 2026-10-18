@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ZEC V6.4 策略看板</title>
+
+<style>
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: #0d1117;
+  color: #ffffff;
+}
+
+.container {
+  max-width: 700px;
+  margin: auto;
+}
+
+h1 {
+  margin-bottom: 5px;
+}
+
+.subtitle {
+  color: #8b949e;
+  margin-bottom: 25px;
+}
+
+.card {
+  background: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 14px;
+  padding: 18px;
+  margin-bottom: 15px;
+}
+
+.title {
+  color: #8b949e;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.value {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.wait {
+  color: #f0b429;
+}
+
+.long {
+  color: #3fb950;
+}
+
+.short {
+  color: #f85149;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.small {
+  font-size: 13px;
+  color: #8b949e;
+}
+
+#raw {
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-size: 12px;
+  color: #8b949e;
+}
+
+button {
+  width: 100%;
+  padding: 14px;
+  border: 0;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>⚡ ZEC V6.4</h1>
+
+<div class="subtitle">
+Forward Paper Trading · 只读公开行情
+</div>
+
+<div class="card">
+<div class="title">当前策略状态</div>
+<div id="status" class="value wait">正在读取...</div>
+</div>
+
+<div class="grid">
+
+<div class="card">
+<div class="title">多头确认</div>
+<div id="longConfirm" class="value long">--</div>
+</div>
+
+<div class="card">
+<div class="title">空头确认</div>
+<div id="shortConfirm" class="value short">--</div>
+</div>
+
+</div>
+
+<div class="grid">
+
+<div class="card">
+<div class="title">累计交易</div>
+<div id="trades" class="value">--</div>
+</div>
+
+<div class="card">
+<div class="title">累计 R</div>
+<div id="totalR" class="value">--</div>
+</div>
+
+</div>
+
+<div class="grid">
+
+<div class="card">
+<div class="title">胜率</div>
+<div id="winRate" class="value">--</div>
+</div>
+
+<div class="card">
+<div class="title">最大回撤</div>
+<div id="drawdown" class="value">--</div>
+</div>
+
+</div>
+
+<div class="card">
+<div class="title">模拟持仓</div>
+<div id="position">暂无持仓数据</div>
+</div>
+
+<div class="card">
+<div class="title">最后更新时间</div>
+<div id="updated">--</div>
+</div>
+
+<button onclick="location.reload()">刷新最新结果</button>
+
+<p class="small">
+V6.3 冻结策略：5/6 确认 · TP 1.2R / 2.0R<br>
+仅用于前向模拟验证，不会自动下单。
+</p>
+
+<div class="card">
+<div class="title">原始状态数据</div>
+<div id="raw">读取中...</div>
+</div>
+
+</div>
+
+<script>
+
+async function loadData() {
+
+  try {
+
+    const response =
+      await fetch("zec_v63_paper_state.json?t=" + Date.now());
+
+    if (!response.ok) {
+      throw new Error("无法读取状态文件");
+    }
+
+    const data = await response.json();
+
+    document.getElementById("raw").textContent =
+      JSON.stringify(data, null, 2);
+
+    const trades =
+      data.closed_trades || data.trades || [];
+
+    const tradeCount = trades.length;
+
+    let wins = 0;
+    let totalR = 0;
+
+    trades.forEach(t => {
+
+      const r =
+        Number(t.net_r ?? t.r ?? 0);
+
+      totalR += r;
+
+      if (r > 0) wins++;
+
+    });
+
+    const winRate =
+      tradeCount > 0
+      ? (wins / tradeCount * 100).toFixed(1)
+      : "0.0";
+
+    document.getElementById("trades").textContent =
+      tradeCount + " 笔";
+
+    document.getElementById("winRate").textContent =
+      winRate + "%";
+
+    document.getElementById("totalR").textContent =
+      (totalR >= 0 ? "+" : "") +
+      totalR.toFixed(2) + "R";
+
+    const openTrade =
+      data.open_trade || null;
+
+    const pending =
+      data.pending_signal || null;
+
+    const status =
+      document.getElementById("status");
+
+    if (openTrade) {
+
+      const side =
+        String(openTrade.side || "").toLowerCase();
+
+      if (side === "long") {
+        status.textContent = "🟢 模拟多单持仓";
+        status.className = "value long";
+      } else {
+        status.textContent = "🔴 模拟空单持仓";
+        status.className = "value short";
+      }
+
+      document.getElementById("position").innerHTML =
+        "方向：" + (openTrade.side || "--") + "<br>" +
+        "入场：" + (openTrade.entry ?? "--") + "<br>" +
+        "止损：" + (openTrade.sl ?? "--") + "<br>" +
+        "TP1：" + (openTrade.tp1 ?? "--") + "<br>" +
+        "TP2：" + (openTrade.tp2 ?? "--");
+
+    } else if (pending) {
+
+      status.textContent = "🟡 已出现信号，等待模拟入场";
+      status.className = "value wait";
+
+      document.getElementById("position").textContent =
+        "等待下一根15分钟K线处理";
+
+    } else {
+
+      status.textContent = "⚪ 空仓等待";
+      status.className = "value wait";
+
+      document.getElementById("position").textContent =
+        "当前没有模拟持仓";
+
+    }
+
+    document.getElementById("longConfirm").textContent =
+      data.long_confirm ?? "--";
+
+    document.getElementById("shortConfirm").textContent =
+      data.short_confirm ?? "--";
+
+    document.getElementById("drawdown").textContent =
+      data.max_drawdown !== undefined
+      ? Number(data.max_drawdown).toFixed(2) + "R"
+      : "--";
+
+    const time =
+      data.last_signal_candle ||
+      data.last_processed_ts ||
+      data.updated_at ||
+      "--";
+
+    document.getElementById("updated").textContent =
+      time;
+
+  }
+
+  catch(error) {
+
+    document.getElementById("status").textContent =
+      "⚠️ 暂时无法读取数据";
+
+    document.getElementById("raw").textContent =
+      error.message;
+
+  }
+
+}
+
+loadData();
+
+</script>
+
+</body>
+</html>
