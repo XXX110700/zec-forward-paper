@@ -355,14 +355,13 @@ def main():
     elif state.get("pending_signal"):
         print("当前状态: 有待入场信号")
     else:
-        print("当前状态: 空仓等待")
-        
+        print("当前状态: 空仓等待")    
+    
     state["long_confirm"] = cl
     state["short_confirm"] = cs
     state["max_drawdown"] = dd
     state["updated_at"] = fmt_ts(state["last_processed_15m_ts"])
     save_state(state)
-
 
 if __name__ == "__main__":
     main()
