@@ -1,0 +1,45 @@
+name: ZEC V6.3 Forward Paper
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '3,18,33,48 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: zec-v63-forward-paper
+  cancel-in-progress: false
+
+jobs:
+  run-zec:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run ZEC V6.3
+        run: python zec_v63_github.py
+
+      - name: Save paper trading state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No state changes"
+          else
+            git commit -m "Update ZEC V6.3 paper state"
+            git push
+          fi
