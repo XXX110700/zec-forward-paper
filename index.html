@@ -2,310 +2,270 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b0f14">
 <title>ZEC V6.4 策略看板</title>
-
 <style>
-body {
-  margin: 0;
-  padding: 20px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  background: #0d1117;
-  color: #ffffff;
-}
-
-.container {
-  max-width: 700px;
-  margin: auto;
-}
-
-h1 {
-  margin-bottom: 5px;
-}
-
-.subtitle {
-  color: #8b949e;
-  margin-bottom: 25px;
-}
-
-.card {
-  background: #161b22;
-  border: 1px solid #30363d;
-  border-radius: 14px;
-  padding: 18px;
-  margin-bottom: 15px;
-}
-
-.title {
-  color: #8b949e;
-  font-size: 14px;
-  margin-bottom: 8px;
-}
-
-.value {
-  font-size: 24px;
-  font-weight: bold;
-}
-
-.wait {
-  color: #f0b429;
-}
-
-.long {
-  color: #3fb950;
-}
-
-.short {
-  color: #f85149;
-}
-
-.grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 12px;
-}
-
-.small {
-  font-size: 13px;
-  color: #8b949e;
-}
-
-#raw {
-  white-space: pre-wrap;
-  word-break: break-word;
-  font-size: 12px;
-  color: #8b949e;
-}
-
-button {
-  width: 100%;
-  padding: 14px;
-  border: 0;
-  border-radius: 10px;
-  font-size: 16px;
-  font-weight: bold;
-  margin-top: 10px;
-}
+:root{color-scheme:dark;--bg:#0b0f14;--card:#151b23;--border:#2b3440;--muted:#9aa6b2;--text:#f4f7fb;--green:#3fb950;--red:#ff625c;--amber:#f0b429;--blue:#58a6ff}
+*{box-sizing:border-box}
+body{margin:0;padding:22px 16px calc(30px + env(safe-area-inset-bottom));font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--text);line-height:1.45}
+.container{max-width:760px;margin:0 auto}
+header{padding:8px 2px 18px}
+h1{font-size:clamp(28px,7vw,40px);margin:0 0 4px;letter-spacing:-.5px}
+.subtitle{color:var(--muted);font-size:14px}
+.card{background:var(--card);border:1px solid var(--border);border-radius:17px;padding:18px;margin:0 0 13px;min-width:0}
+.label{color:var(--muted);font-size:14px;margin-bottom:8px}
+.value{font-size:clamp(22px,5vw,29px);font-weight:750;overflow-wrap:anywhere}
+.small{font-size:13px;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 12px}
+.statusline{display:flex;gap:12px;align-items:center}
+.dot{width:13px;height:13px;border-radius:50%;background:var(--amber);flex:0 0 auto;box-shadow:0 0 0 4px #f0b42920}
+.good{color:var(--green)}.bad{color:var(--red)}.warn{color:var(--amber)}.blue{color:var(--blue)}
+.pill{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--border);border-radius:999px;padding:5px 10px;font-size:12px;color:var(--muted)}
+.pill.good{border-color:#28683a}.pill.bad{border-color:#74322e}.pill.warn{border-color:#6b541f}
+.progress{height:8px;background:#28313c;border-radius:99px;overflow:hidden;margin:10px 0 7px}
+.progress span{display:block;height:100%;width:0;background:var(--blue);border-radius:99px;transition:width .25s}
+.actions{display:grid;grid-template-columns:1fr auto;gap:10px;margin:14px 0}
+button{font:inherit;font-weight:700;border:0;border-radius:12px;padding:13px 16px;cursor:pointer}
+.primary{background:#e6edf3;color:#0969da}.secondary{background:#202833;color:var(--text);border:1px solid var(--border)}
+button:disabled{opacity:.65}
+.detail{display:grid;grid-template-columns:110px minmax(0,1fr);gap:8px;font-size:14px;margin:7px 0}
+.detail .k{color:var(--muted)}
+details summary{cursor:pointer;color:var(--muted);font-weight:650}
+pre{white-space:pre-wrap;word-break:break-word;font-size:12px;color:#aab5c1;max-height:360px;overflow:auto;margin-bottom:0}
+hr{border:0;border-top:1px solid var(--border);margin:14px 0}
+.footer{color:var(--muted);font-size:12px;text-align:center;margin-top:22px}
+@media(max-width:380px){body{padding-left:11px;padding-right:11px}.card{padding:15px}.grid{gap:0 8px}.value{font-size:22px}.detail{grid-template-columns:94px minmax(0,1fr)}}
 </style>
 </head>
-
 <body>
-
 <div class="container">
+<header>
+  <h1>⚡ ZEC V6.4</h1>
+  <div class="subtitle">Forward Paper Trading · 只读公开行情 · 不会自动下单</div>
+</header>
 
-<h1>⚡ ZEC V6.4</h1>
+<section class="card">
+  <div class="label">当前策略状态</div>
+  <div class="statusline"><span id="statusDot" class="dot"></span><div id="status" class="value warn">正在读取数据…</div></div>
+  <div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:13px">
+    <span id="health" class="pill">数据状态检查中</span>
+    <span id="version" class="pill">策略版本：--</span>
+  </div>
+</section>
 
-<div class="subtitle">
-Forward Paper Trading · 只读公开行情
-</div>
+<section class="card">
+  <div class="label">数据健康度</div>
+  <div class="detail"><span class="k">最后处理K线</span><strong id="candleTime">--</strong></div>
+  <div class="detail"><span class="k">距当前时间</span><strong id="candleAge">--</strong></div>
+  <div class="detail"><span class="k">网页上次读取</span><strong id="pageRead">--</strong></div>
+  <div class="small" id="healthNote">网页读取成功不等于后台任务刚刚运行；请同时检查 GitHub Actions。</div>
+</section>
 
-<div class="card">
-<div class="title">当前策略状态</div>
-<div id="status" class="value wait">正在读取...</div>
+<div class="grid">
+  <section class="card">
+    <div class="label">多头确认</div><div id="longConfirm" class="value good">--</div>
+    <div class="progress"><span id="longBar"></span></div><div class="small">入场门槛 5/6</div>
+  </section>
+  <section class="card">
+    <div class="label">空头确认</div><div id="shortConfirm" class="value bad">--</div>
+    <div class="progress"><span id="shortBar"></span></div><div class="small">入场门槛 5/6</div>
+  </section>
 </div>
 
 <div class="grid">
-
-<div class="card">
-<div class="title">多头确认</div>
-<div id="longConfirm" class="value long">--</div>
+  <section class="card"><div class="label">累计交易</div><div id="trades" class="value">--</div></section>
+  <section class="card"><div class="label">累计 R</div><div id="totalR" class="value">--</div></section>
+  <section class="card"><div class="label">胜率</div><div id="winRate" class="value">--</div></section>
+  <section class="card"><div class="label">最大回撤</div><div id="drawdown" class="value">--</div></section>
 </div>
 
-<div class="card">
-<div class="title">空头确认</div>
-<div id="shortConfirm" class="value short">--</div>
+<section class="card">
+  <div class="label">模拟持仓 / 待入场信号</div>
+  <div id="position">正在读取…</div>
+</section>
+
+<section class="card">
+  <div class="label">策略规则（冻结）</div>
+  <div class="detail"><span class="k">确认门槛</span><strong>5 / 6</strong></div>
+  <div class="detail"><span class="k">止盈目标</span><strong>TP1 1.2R / TP2 2.0R</strong></div>
+  <div class="detail"><span class="k">行情周期</span><strong>15分钟；结合1小时和4小时</strong></div>
+  <div class="small">本看板用于前向模拟验证。信号分数不代表必然入场或盈利。</div>
+</section>
+
+<div class="actions">
+  <button id="refreshBtn" class="primary" onclick="loadData(true)">刷新最新结果</button>
+  <button class="secondary" onclick="toggleRaw()">原始数据</button>
 </div>
 
-</div>
+<section id="rawCard" class="card" hidden>
+  <details open>
+    <summary>状态文件 JSON</summary>
+    <pre id="raw">等待读取…</pre>
+  </details>
+</section>
 
-<div class="grid">
-
-<div class="card">
-<div class="title">累计交易</div>
-<div id="trades" class="value">--</div>
-</div>
-
-<div class="card">
-<div class="title">累计 R</div>
-<div id="totalR" class="value">--</div>
-</div>
-
-</div>
-
-<div class="grid">
-
-<div class="card">
-<div class="title">胜率</div>
-<div id="winRate" class="value">--</div>
-</div>
-
-<div class="card">
-<div class="title">最大回撤</div>
-<div id="drawdown" class="value">--</div>
-</div>
-
-</div>
-
-<div class="card">
-<div class="title">模拟持仓</div>
-<div id="position">暂无持仓数据</div>
-</div>
-
-<div class="card">
-<div class="title">最后更新时间</div>
-<div id="updated">--</div>
-</div>
-
-<button onclick="location.reload()">刷新最新结果</button>
-
-<p class="small">
-V6.3 冻结策略：5/6 确认 · TP 1.2R / 2.0R<br>
-仅用于前向模拟验证，不会自动下单。
-</p>
-
-<div class="card">
-<div class="title">原始状态数据</div>
-<div id="raw">读取中...</div>
-</div>
-
+<div class="footer">自动刷新网页：每30秒 · 数据源：GitHub Pages 状态文件<br>若数据过期，请检查 GitHub Actions 最新一次 run-zec 日志。</div>
 </div>
 
 <script>
+const STATE_URL = "zec_v63_paper_state.json";
+let lastSnapshot = "";
+let lastLoadOk = false;
 
-async function loadData() {
-
-  try {
-
-    const response =
-      await fetch("zec_v63_paper_state.json?t=" + Date.now());
-
-    if (!response.ok) {
-      throw new Error("无法读取状态文件");
-    }
-
-    const data = await response.json();
-
-    document.getElementById("raw").textContent =
-      JSON.stringify(data, null, 2);
-
-    const trades =
-      data.closed_trades || data.trades || [];
-
-    const tradeCount = trades.length;
-
-    let wins = 0;
-    let totalR = 0;
-
-    trades.forEach(t => {
-
-      const r =
-        Number(t.net_r ?? t.r ?? 0);
-
-      totalR += r;
-
-      if (r > 0) wins++;
-
-    });
-
-    const winRate =
-      tradeCount > 0
-      ? (wins / tradeCount * 100).toFixed(1)
-      : "0.0";
-
-    document.getElementById("trades").textContent =
-      tradeCount + " 笔";
-
-    document.getElementById("winRate").textContent =
-      winRate + "%";
-
-    document.getElementById("totalR").textContent =
-      (totalR >= 0 ? "+" : "") +
-      totalR.toFixed(2) + "R";
-
-    const openTrade =
-      data.open_trade || null;
-
-    const pending =
-      data.pending_signal || null;
-
-    const status =
-      document.getElementById("status");
-
-    if (openTrade) {
-
-      const side =
-        String(openTrade.side || "").toLowerCase();
-
-      if (side === "long") {
-        status.textContent = "🟢 模拟多单持仓";
-        status.className = "value long";
-      } else {
-        status.textContent = "🔴 模拟空单持仓";
-        status.className = "value short";
-      }
-
-      document.getElementById("position").innerHTML =
-        "方向：" + (openTrade.side || "--") + "<br>" +
-        "入场：" + (openTrade.entry ?? "--") + "<br>" +
-        "止损：" + (openTrade.sl ?? "--") + "<br>" +
-        "TP1：" + (openTrade.tp1 ?? "--") + "<br>" +
-        "TP2：" + (openTrade.tp2 ?? "--");
-
-    } else if (pending) {
-
-      status.textContent = "🟡 已出现信号，等待模拟入场";
-      status.className = "value wait";
-
-      document.getElementById("position").textContent =
-        "等待下一根15分钟K线处理";
-
-    } else {
-
-      status.textContent = "⚪ 空仓等待";
-      status.className = "value wait";
-
-      document.getElementById("position").textContent =
-        "当前没有模拟持仓";
-
-    }
-
-    document.getElementById("longConfirm").textContent =
-      data.long_confirm ?? "--";
-
-    document.getElementById("shortConfirm").textContent =
-      data.short_confirm ?? "--";
-
-    document.getElementById("drawdown").textContent =
-      data.max_drawdown !== undefined
-      ? Number(data.max_drawdown).toFixed(2) + "R"
-      : "--";
-
-    const time =
-      data.last_signal_candle ||
-      data.last_processed_ts ||
-      data.updated_at ||
-      "--";
-
-    document.getElementById("updated").textContent =
-      time;
-
+function parseUtc(value) {
+  if (value === null || value === undefined || value === "") return null;
+  if (typeof value === "number") {
+    const d = new Date(value > 1e12 ? value : value * 1000);
+    return Number.isNaN(d.getTime()) ? null : d;
   }
-
-  catch(error) {
-
-    document.getElementById("status").textContent =
-      "⚠️ 暂时无法读取数据";
-
-    document.getElementById("raw").textContent =
-      error.message;
-
-  }
-
+  let s = String(value).trim();
+  if (!s || s === "--") return null;
+  // Python backend format: YYYY-MM-DD HH:mm UTC
+  s = s.replace(" UTC", "Z").replace(" ", "T");
+  const d = new Date(s);
+  return Number.isNaN(d.getTime()) ? null : d;
 }
-
+function fmtDate(d) {
+  if (!d) return "--";
+  return new Intl.DateTimeFormat("zh-SG", {
+    year:"numeric",month:"2-digit",day:"2-digit",
+    hour:"2-digit",minute:"2-digit",second:"2-digit",
+    hour12:false,timeZone:"Asia/Singapore"
+  }).format(d) + " SGT";
+}
+function fmtAge(ms) {
+  if (ms < 0) return "时间异常";
+  const mins = Math.floor(ms / 60000);
+  if (mins < 1) return "不到1分钟";
+  if (mins < 60) return mins + " 分钟";
+  const hours = Math.floor(mins / 60), rem = mins % 60;
+  if (hours < 48) return hours + " 小时 " + rem + " 分钟";
+  return Math.floor(hours / 24) + " 天 " + (hours % 24) + " 小时";
+}
+function setText(id, value) { document.getElementById(id).textContent = value; }
+function setConfirm(id, barId, raw) {
+  const n = Number(raw);
+  const valid = raw !== null && raw !== undefined && raw !== "" && Number.isFinite(n);
+  setText(id, valid ? Math.max(0,Math.min(6,n)) + "/6" : "--");
+  document.getElementById(barId).style.width = valid ? (Math.max(0,Math.min(6,n))/6*100)+"%" : "0%";
+}
+function renderPosition(data) {
+  const el = document.getElementById("position");
+  const trade = data.open_trade || null, pending = data.pending_signal || null;
+  const status = document.getElementById("status");
+  const dot = document.getElementById("statusDot");
+  if (trade) {
+    const side = String(trade.side || "").toLowerCase();
+    status.textContent = side === "long" ? "模拟多单持仓" : "模拟空单持仓";
+    status.className = "value " + (side === "long" ? "good" : "bad");
+    dot.style.background = side === "long" ? "var(--green)" : "var(--red)";
+    const rows = [
+      ["方向", String(trade.side || "--").toUpperCase()],
+      ["入场价格", trade.entry ?? "--"],["止损",trade.sl ?? "--"],
+      ["止盈 TP1",trade.tp1 ?? "--"],["止盈 TP2",trade.tp2 ?? "--"]
+    ];
+    el.replaceChildren();
+    rows.forEach(([k,v])=>{
+      const row=document.createElement("div");row.className="detail";
+      const key=document.createElement("span");key.className="k";key.textContent=k;
+      const val=document.createElement("strong");val.textContent=String(v);
+      row.append(key,val);el.append(row);
+    });
+  } else if (pending) {
+    status.textContent = "已有信号，等待模拟入场";
+    status.className = "value warn"; dot.style.background = "var(--amber)";
+    el.textContent = "方向：" + String(pending.side || "--").toUpperCase() +
+      " · 信号时间：" + (parseUtc(pending.signal_ts) ? fmtDate(parseUtc(pending.signal_ts)) : (pending.signal_ts ?? "--")) +
+      " · 等待下一根15分钟K线处理。";
+  } else {
+    status.textContent = "空仓等待";
+    status.className = "value warn"; dot.style.background = "var(--amber)";
+    el.textContent = "当前没有模拟持仓，也没有待入场信号。";
+  }
+}
+function renderHealth(data) {
+  const raw = data.last_processed_15m_ts ?? data.last_signal_candle ?? data.updated_at ?? null;
+  const d = parseUtc(raw);
+  setText("candleTime", d ? fmtDate(d) : "状态文件未提供有效时间");
+  const health = document.getElementById("health");
+  const note = document.getElementById("healthNote");
+  if (!d) {
+    setText("candleAge","无法判断");
+    health.textContent="缺少时间字段"; health.className="pill bad";
+    note.textContent="后台状态文件缺少可识别的最后处理K线时间；需检查字段和后台写入逻辑。";
+    return;
+  }
+  const age = Date.now() - d.getTime();
+  setText("candleAge",fmtAge(age));
+  if (age < -60000) {
+    health.textContent="时间异常"; health.className="pill bad";
+    note.textContent="K线时间晚于设备当前时间，请检查时区或时间字段。";
+  } else if (age <= 30*60000) {
+    health.textContent="K线时间较新"; health.className="pill good";
+    note.textContent="时间在预期范围内；仍需查看 Actions 日志确认任务运行成功。";
+  } else if (age <= 60*60000) {
+    health.textContent="可能延迟"; health.className="pill warn";
+    note.textContent="最后处理K线超过30分钟。请检查最近的 GitHub Actions 是否有新运行。";
+  } else {
+    health.textContent="数据可能过期"; health.className="pill bad";
+    note.textContent="最后处理K线超过60分钟。网页刷新不会触发后台任务，请检查 Actions、部署和状态文件。";
+  }
+}
+async function loadData(manual=false) {
+  const btn=document.getElementById("refreshBtn");
+  if (manual) { btn.disabled=true; btn.textContent="正在刷新…"; }
+  try {
+    const response=await fetch(STATE_URL+"?t="+Date.now(),{cache:"no-store"});
+    if(!response.ok) throw new Error("状态文件读取失败，HTTP "+response.status);
+    const data=await response.json();
+    lastLoadOk=true;
+    setText("pageRead",fmtDate(new Date()));
+    setText("version","策略版本："+(data.version || "状态文件未标注"));
+    setConfirm("longConfirm","longBar",data.long_confirm);
+    setConfirm("shortConfirm","shortBar",data.short_confirm);
+    const trades=data.closed_trades || data.trades || [];
+    let wins=0,totalR=0;
+    trades.forEach(t=>{const r=Number(t.net_r ?? t.r ?? 0);if(Number.isFinite(r)){totalR+=r;if(r>0)wins++;}});
+    setText("trades",trades.length+" 笔");
+    setText("totalR",(totalR>=0?"+":"")+totalR.toFixed(2)+"R");
+    setText("winRate",(trades.length ? (wins/trades.length*100).toFixed(1) : "0.0")+"%");
+    const dd=data.max_drawdown;
+    setText("drawdown",dd!==undefined && Number.isFinite(Number(dd))?Number(dd).toFixed(2)+"R":"--");
+    renderPosition(data);
+    renderHealth(data);
+    document.getElementById("raw").textContent=JSON.stringify(data,null,2);
+    const snapshot=JSON.stringify({
+      status:data.open_trade ? "持仓" : data.pending_signal ? "待入场" : "空仓",
+      long:data.long_confirm,short:data.short_confirm,
+      ts:data.last_processed_15m_ts ?? data.updated_at,
+      pending:data.pending_signal,trade:data.open_trade
+    });
+    if(lastSnapshot && snapshot!==lastSnapshot && "Notification" in window && Notification.permission==="granted"){
+      try { new Notification("ZEC 策略看板更新",{body:"信号、持仓或K线处理状态发生变化，请打开看板核对。"}); } catch(e) {}
+    }
+    lastSnapshot=snapshot;
+  } catch(err) {
+    lastLoadOk=false;
+    setText("pageRead","读取失败："+err.message);
+    const health=document.getElementById("health");
+    health.textContent="状态文件读取失败";health.className="pill bad";
+    setText("status","暂时无法读取数据");
+    document.getElementById("status").className="value bad";
+    document.getElementById("statusDot").style.background="var(--red)";
+    setText("healthNote","检查 GitHub Pages 部署状态、文件路径和网络连接。");
+    document.getElementById("raw").textContent=err.stack || err.message;
+  } finally {
+    if(manual){btn.disabled=false;btn.textContent="刷新最新结果";}
+  }
+}
+function toggleRaw(){
+  const card=document.getElementById("rawCard");
+  card.hidden=!card.hidden;
+  if(!card.hidden) document.getElementById("raw").scrollIntoView({behavior:"smooth",block:"nearest"});
+}
 loadData();
-
+setInterval(()=>loadData(false),30000);
 </script>
-
 </body>
 </html>
