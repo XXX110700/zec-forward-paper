@@ -10,7 +10,7 @@ permissions:
 
 concurrency:
   group: zec-v63-forward-paper
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   run-zec:
