@@ -172,6 +172,7 @@
   "long_confirm": 5,
   "short_confirm": 0,
   "max_drawdown": 2.1972780000000003,
-  "updated_at": "2026-10-20T20:31:05.328527+00:00",
-  "last_processed_close_ts": 1792528200000
+  "updated_at": "2026-10-20T20:43:54.075343+00:00",
+  "last_processed_close_ts": 1792528200000,
+  "csv_outbox": []
 }
