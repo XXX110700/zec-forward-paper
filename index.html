@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#0b0f14">
-<title>ZEC V6.4 策略看板</title>
+<title>ZEC V6.3 策略看板</title>
 <style>
 :root{color-scheme:dark;--bg:#0b0f14;--card:#151b23;--border:#2b3440;--muted:#9aa6b2;--text:#f4f7fb;--green:#3fb950;--red:#ff625c;--amber:#f0b429;--blue:#58a6ff}
 *{box-sizing:border-box}
@@ -41,7 +41,7 @@ hr{border:0;border-top:1px solid var(--border);margin:14px 0}
 <body>
 <div class="container">
 <header>
-  <h1>⚡ ZEC V6.4</h1>
+  <h1>⚡ ZEC V6.3</h1>
   <div class="subtitle">Forward Paper Trading · 只读公开行情 · 不会自动下单</div>
 </header>
 
@@ -56,8 +56,9 @@ hr{border:0;border-top:1px solid var(--border);margin:14px 0}
 
 <section class="card">
   <div class="label">数据健康度</div>
-  <div class="detail"><span class="k">最后处理K线</span><strong id="candleTime">--</strong></div>
+  <div class="detail"><span class="k">K线收盘时间</span><strong id="candleTime">--</strong></div>
   <div class="detail"><span class="k">距当前时间</span><strong id="candleAge">--</strong></div>
+  <div class="detail"><span class="k">后台成功检查</span><strong id="backendTime">--</strong></div>
   <div class="detail"><span class="k">网页上次读取</span><strong id="pageRead">--</strong></div>
   <div class="small" id="healthNote">网页读取成功不等于后台任务刚刚运行；请同时检查 GitHub Actions。</div>
 </section>
@@ -131,8 +132,8 @@ function fmtDate(d) {
   return new Intl.DateTimeFormat("zh-SG", {
     year:"numeric",month:"2-digit",day:"2-digit",
     hour:"2-digit",minute:"2-digit",second:"2-digit",
-    hour12:false,timeZone:"Asia/Singapore"
-  }).format(d) + " SGT";
+    hour12:false,timeZone:"Asia/Shanghai"
+  }).format(d) + " 北京时间";
 }
 function fmtAge(ms) {
   if (ms < 0) return "时间异常";
@@ -185,7 +186,8 @@ function renderPosition(data) {
   }
 }
 function renderHealth(data) {
-  const raw = data.last_processed_15m_ts ?? data.last_signal_candle ?? data.updated_at ?? null;
+  setText("backendTime", data.last_processed_close_ts ? fmtDate(parseUtc(data.updated_at)) : "旧版状态未记录");
+  const raw = data.last_processed_close_ts ?? (typeof data.last_processed_15m_ts === "number" ? data.last_processed_15m_ts + 15*60000 : null);
   const d = parseUtc(raw);
   setText("candleTime", d ? fmtDate(d) : "状态文件未提供有效时间");
   const health = document.getElementById("health");
@@ -224,13 +226,14 @@ async function loadData(manual=false) {
     setText("version","策略版本："+(data.version || "状态文件未标注"));
     setConfirm("longConfirm","longBar",data.long_confirm);
     setConfirm("shortConfirm","shortBar",data.short_confirm);
-    const trades=data.closed_trades || data.trades || [];
-    let wins=0,totalR=0;
-    trades.forEach(t=>{const r=Number(t.net_r ?? t.r ?? 0);if(Number.isFinite(r)){totalR+=r;if(r>0)wins++;}});
+    const trades=data.closed_trades;
+    if(!Array.isArray(trades) || trades.some(t=>typeof t.net_r!=="number" || !Number.isFinite(t.net_r))) throw new Error("交易统计数据无效");
+    let wins=0,totalR=0,peak=0,dd=0;
+    trades.forEach(t=>{const r=t.net_r;totalR+=r;if(r>0)wins++;peak=Math.max(peak,totalR);dd=Math.max(dd,peak-totalR);});
     setText("trades",trades.length+" 笔");
     setText("totalR",(totalR>=0?"+":"")+totalR.toFixed(2)+"R");
     setText("winRate",(trades.length ? (wins/trades.length*100).toFixed(1) : "0.0")+"%");
-    const dd=data.max_drawdown;
+
     setText("drawdown",dd!==undefined && Number.isFinite(Number(dd))?Number(dd).toFixed(2)+"R":"--");
     renderPosition(data);
     renderHealth(data);
