@@ -163,8 +163,8 @@ class BarkTests(unittest.TestCase):
             self.assertNotIn('private-test-key',str(caught.exception))
 
     def test_bad_secret_and_network_errors_never_exposed(self):
-        for url in ('http://api.day.app/key','https://api.day.app/key/test',
-                    'https://api.day.app/key?x=secret','https://user:pass@api.day.app/key'):
+        for url in ('http://api.day.app/key','https://api.day.app/',
+                    'https://api.day.app/key%20secret','https://user:pass@api.day.app/key'):
             with patch.dict(os.environ,{'BARK_PUSH_URL':url}),self.assertRaises(RuntimeError):
                 b.endpoint()
         with patch.object(b.requests,'post',side_effect=RuntimeError('private-test-key')):
@@ -174,6 +174,38 @@ class BarkTests(unittest.TestCase):
         self.write(5)
         b.prepare(self.now)
         self.assertNotIn('private-test-key',self.lf.read_text())
+
+    def test_copied_full_urls_and_curl_examples(self):
+        examples = [
+            'https://api.day.app/private-test-key',
+            'https://api.day.app/private-test-key/title/body?group=example&ttl=600',
+            'curl -X GET https://api.day.app/private-test-key/title/body?group=example&ttl=600',
+            'curl -X GET "https://api.day.app/private-test-key/title/body?group=example&ttl=600"',
+        ]
+        for value in examples:
+            with patch.dict(os.environ,{'BARK_PUSH_URL':value}):
+                self.assertEqual(b.endpoint(),('https://api.day.app/push','private-test-key'))
+
+    def test_diagnostics_classify_failure_without_secrets(self):
+        for exc,code in [(b.requests.exceptions.SSLError('private-test-key'),'BARK_TLS_ERROR'),
+                         (b.requests.exceptions.Timeout('private-test-key'),'BARK_TIMEOUT'),
+                         (b.requests.exceptions.ConnectionError('private-test-key'),'BARK_CONNECTION_ERROR')]:
+            with patch.object(b.requests,'post',side_effect=exc):
+                with self.assertRaises(b.BarkError) as caught:
+                    b.send('title','body')
+                self.assertIn(code,str(caught.exception))
+                self.assertNotIn('private-test-key',str(caught.exception))
+        response=Mock(status_code=200)
+        response.json.side_effect=ValueError('private-test-key')
+        with patch.object(b.requests,'post',return_value=response):
+            with self.assertRaisesRegex(b.BarkError,'BARK_RESPONSE_ERROR'):
+                b.send('title','body')
+        response.json.side_effect=None
+        response.json.return_value={'code':400,'message':'private-test-key'}
+        with patch.object(b.requests,'post',return_value=response):
+            with self.assertRaisesRegex(b.BarkError,'BARK_REJECTED: service code 400') as caught:
+                b.send('title','body')
+            self.assertNotIn('private-test-key',str(caught.exception))
 
     def test_message_includes_direction_score_beijing_and_paper_status(self):
         self.write(1,6)
