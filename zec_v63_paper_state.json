@@ -1,7 +1,14 @@
 {
   "version": "V6.3",
-  "last_processed_15m_ts": 1792524600000,
-  "pending_signal": null,
+  "last_processed_15m_ts": 1792525500000,
+  "pending_signal": {
+    "side": "long",
+    "signal_ts": 1792525500000,
+    "signal_close": 1209.1,
+    "atr": 13.341293744551209,
+    "long_confirm": 5,
+    "short_confirm": 0
+  },
   "open_trade": null,
   "closed_trades": [
     {
@@ -158,10 +165,9 @@
       "net_r": -1.101013
     }
   ],
-  "long_confirm": 4,
-  "short_confirm": 1,
+  "long_confirm": 5,
+  "short_confirm": 0,
   "max_drawdown": 2.1972780000000003,
-  "updated_at": "2026-10-20T19:56:51.963865+00:00",
-  "last_processed_close_ts": 1792525500000,
-  "csv_outbox": []
+  "updated_at": "2026-10-20T20:08:10.090928+00:00",
+  "last_processed_close_ts": 1792526400000
 }
