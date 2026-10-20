@@ -10,7 +10,7 @@ permissions:
 
 concurrency:
   group: zec-v63-forward-paper
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   run-zec:
@@ -29,6 +29,12 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      - name: Safety regression tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Dashboard regression test
+        run: node tests/test_dashboard.cjs
+
       - name: Run ZEC V6.3
         run: python zec_v63_github.py
 
@@ -36,10 +42,21 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
+          git add -- zec_v63_paper_state.json zec_v63_trades.csv
           if git diff --cached --quiet; then
             echo "No state changes"
           else
             git commit -m "Update ZEC V6.3 paper state"
             git push
           fi
+
+      - name: Preserve corrupt state evidence
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: zec-state-diagnostics-${{ github.run_id }}
+          path: |
+            zec_v63_paper_state.json
+            zec_v63_paper_state.json.corrupt-*.bak
+            zec_v63_trades.csv
+          if-no-files-found: ignore
