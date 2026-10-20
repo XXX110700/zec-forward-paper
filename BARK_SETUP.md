@@ -4,7 +4,7 @@
 
 1. iPhone 安装 Bark 并允许通知；在 App 内点击发送测试，确认能收到。
 2. 在仓库 Settings → Secrets and variables → Actions → New repository secret 新建 `BARK_PUSH_URL`。
-3. 值为 Bark 的服务器与设备 Key 地址，例如 `https://api.day.app/你的设备Key`。不要包含后面的示例消息、查询参数或任何空格；如果复制的是 `服务器/Key/测试内容`，只保留 `服务器/Key`。不用把地址发给任何聊天，也不要提交到代码或截图中。支持 HTTPS 自建服务器（根路径部署）。
+3. 值为 Bark 的服务器与设备 Key 地址，例如 `https://api.day.app/你的设备Key`。推荐只保留 `服务器/Key`。也兼容 Bark 复制出的完整示例 URL（包含标题、正文和查询参数）或 `curl -X GET ...` 示例；程序只解析地址，不执行命令。只填设备 Key 不够。不用把地址发给任何聊天，也不要提交到代码或截图中。支持 HTTPS 自建服务器（根路径部署）。
 4. 合并本 PR 后，在 Actions → ZEC Bark notification test → Run workflow，选择 main，手动发送一条明确标注的测试通知。成功表示 Bark 服务接受请求，需在 iPhone 确认实际收到。此测试不修改模拟状态或提醒去重文件。
 5. 正常的 ZEC V6.3 Forward Paper 任务会在成功保存并推送模拟状态后，准备提醒队列、先保存队列到 GitHub，再尝试发送和保存发送结果。只在默认分支发送；优化分支、PR 测试及独立历史恢复流程均不发送正式达标通知。
 
@@ -29,3 +29,15 @@ Bark 接受请求后、去重记录成功推送前如果任务中断，或网络
 本 PR 与状态/日志自动对账 PR 独立，不修改生产 JSON/CSV、不修改策略参数。
 
 协议依据：[Bark 官方项目](https://github.com/Finb/Bark)、[Bark Server API V2](https://github.com/Finb/bark-server/blob/master/docs/API_V2.md)。
+
+## 发送失败诊断
+
+错误日志只显示固定分类，不展示 Secret、原始响应内容或请求异常：
+
+- BARK_CONFIG_MISSING / FORMAT：Secret 缺失或格式不正确。
+- BARK_TLS_ERROR / CONNECTION_ERROR / TIMEOUT：GitHub 执行环境与推送服务的 TLS、连接或超时问题。
+- BARK_HTTP_ERROR：仅展示 HTTP 数字状态码。
+- BARK_RESPONSE_ERROR：响应无法解析。
+- BARK_REJECTED：仅展示数字服务错误码；设备 Key、服务器或配置可能不正确。
+
+手机 App 内测试成功只能确认手机端链路可用，不能替代 GitHub 端测试。

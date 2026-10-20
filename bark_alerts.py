@@ -2,6 +2,8 @@
 import argparse
 import json
 import os
+import re
+import shlex
 import shutil
 import sys
 from datetime import datetime, timezone, timedelta
@@ -122,17 +124,32 @@ def prepare(now=None):
     print(f'Bark prepared: {len(ledger["pending"])} pending notification(s)')
 
 
+class BarkError(RuntimeError):
+    """Only fixed diagnostic messages; never include configuration or server text."""
+
+
 def endpoint():
-    # Accept server/key only; never store it in JSON or print it in errors.
+    raw = os.environ.get('BARK_PUSH_URL','').strip()
+    if not raw:
+        raise BarkError('BARK_CONFIG_MISSING: add repository Secret BARK_PUSH_URL')
     try:
-        p = urlsplit(os.environ.get('BARK_PUSH_URL','').strip())
+        # Bark can copy either a URL or its complete curl example. Parse only;
+        # never execute copied commands. Accept example title/body/query suffixes.
+        if raw.startswith('curl '):
+            urls = [token for token in shlex.split(raw) if token.startswith('https://')]
+            if len(urls) != 1:
+                raise ValueError('invalid')
+            raw = urls[0]
+        p = urlsplit(raw)
         segments = p.path.strip('/').split('/')
-        if (p.scheme != 'https' or not p.hostname or p.username or p.password or p.query or p.fragment
-                or len(segments) != 1 or not segments[0] or '/' in unquote(segments[0])):
+        key = unquote(segments[0])
+        if (p.scheme != 'https' or not p.hostname or p.username or p.password
+                or p.port is not None and not 1 <= p.port <= 65535
+                or not re.fullmatch(r'[A-Za-z0-9_-]+',key)):
             raise ValueError('invalid')
-        return p.scheme+'://'+p.netloc+'/push',unquote(segments[0])
-    except ValueError:
-        raise RuntimeError('BARK_PUSH_URL must be an HTTPS server/key address, without example message') from None
+        return p.scheme+'://'+p.netloc+'/push',key
+    except (ValueError,IndexError):
+        raise BarkError('BARK_CONFIG_FORMAT: use the HTTPS push URL copied from Bark, not just the key') from None
 
 
 def send(title,body):
@@ -140,11 +157,26 @@ def send(title,body):
     try:
         response = requests.post(url,json={'device_key':key,'title':title,'body':body,
                                  'group':'ZEC-V6.3','url':DASHBOARD},timeout=15,allow_redirects=False)
-        if response.status_code != 200 or response.json().get('code') != 200:
-            raise ValueError('rejected')
+    except requests.exceptions.SSLError:
+        raise BarkError('BARK_TLS_ERROR: certificate or TLS connection failed') from None
+    except requests.exceptions.Timeout:
+        raise BarkError('BARK_TIMEOUT: request timed out; the server may still have accepted it') from None
+    except requests.exceptions.ConnectionError:
+        raise BarkError('BARK_CONNECTION_ERROR: runner could not connect to Bark') from None
     except Exception:
-        # requests exceptions and response bodies can contain secret URLs/keys.
-        raise RuntimeError('Bark delivery failed; check service, secret and notification permissions') from None
+        raise BarkError('BARK_REQUEST_ERROR: request failed; raw details hidden') from None
+    if response.status_code != 200:
+        # HTTP status is numeric; do not display Location headers or body.
+        status = response.status_code if type(response.status_code) is int else 'unknown'
+        raise BarkError(f'BARK_HTTP_ERROR: HTTP {status}; verify service and configuration')
+    try:
+        result = response.json()
+    except Exception:
+        raise BarkError('BARK_RESPONSE_ERROR: service returned invalid JSON') from None
+    if not isinstance(result,dict) or result.get('code') != 200:
+        code = result.get('code') if isinstance(result,dict) else None
+        safe_code = code if type(code) is int else 'unknown'
+        raise BarkError(f'BARK_REJECTED: service code {safe_code}; check device key and service')
 
 
 def deliver(now=None):
@@ -171,7 +203,9 @@ def deliver(now=None):
                 f'事件：{event["id"]}')
         try:
             send(f'ZEC V6.3 {label}达标',body)
-        except RuntimeError:
+        except RuntimeError as exc:
+            if isinstance(exc,BarkError):
+                print(str(exc))
             failures += 1
             print(f'Bark delivery unsuccessful for {event["id"]}; queued for next successful run')
             continue
@@ -194,6 +228,9 @@ def main():
         else:
             send('ZEC V6.3 推送测试','Bark 接入测试成功。此消息不是交易信号，不会下单。')
             print('Bark accepted test notification; confirm receipt on iPhone')
+    except BarkError as exc:
+        print(str(exc),file=sys.stderr)
+        return 1
     except Exception:
         print('Bark notification step failed. Check setup; no secret values are logged.',file=sys.stderr)
         return 1
