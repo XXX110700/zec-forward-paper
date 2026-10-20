@@ -1,3 +1,4 @@
+# Reference only; active workflow: .github/workflows/zec_v63_action.yml
 name: ZEC V6.3 Forward Paper
 
 on:
@@ -50,6 +51,44 @@ jobs:
             git push
           fi
 
+      # Delivery only follows a successful trading-state push, on default branch.
+      - name: Prepare Bark threshold alerts
+        id: bark_prepare
+        if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+        env:
+          BARK_PUSH_URL: ${{ secrets.BARK_PUSH_URL }}
+        run: python bark_alerts.py prepare
+
+      - name: Persist Bark queue before delivery
+        id: bark_checkpoint
+        if: steps.bark_prepare.outcome == 'success'
+        run: |
+          if test -f zec_v63_bark_state.json; then
+            git add -- zec_v63_bark_state.json
+            if ! git diff --cached --quiet; then
+              git commit -m "Checkpoint ZEC Bark alerts"
+              git push
+            fi
+          fi
+
+      - name: Deliver Bark threshold alerts
+        id: bark_delivery
+        if: steps.bark_checkpoint.outcome == 'success'
+        env:
+          BARK_PUSH_URL: ${{ secrets.BARK_PUSH_URL }}
+        run: python bark_alerts.py deliver
+
+      - name: Save Bark delivery results
+        if: always() && (steps.bark_delivery.outcome == 'success' || steps.bark_delivery.outcome == 'failure')
+        run: |
+          if test -f zec_v63_bark_state.json; then
+            git add -- zec_v63_bark_state.json
+            if ! git diff --cached --quiet; then
+              git commit -m "Save ZEC Bark delivery results"
+              git push
+            fi
+          fi
+
       - name: Preserve corrupt state evidence
         if: failure()
         uses: actions/upload-artifact@v4
@@ -59,4 +98,6 @@ jobs:
             zec_v63_paper_state.json
             zec_v63_paper_state.json.corrupt-*.bak
             zec_v63_trades.csv
+            zec_v63_bark_state.json
+            zec_v63_bark_state.json.corrupt-*.bak
           if-no-files-found: ignore
