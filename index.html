@@ -223,7 +223,7 @@ async function loadData(manual=false) {
     const data=await response.json();
     lastLoadOk=true;
     setText("pageRead",fmtDate(new Date()));
-    setText("version","策略版本："+(data.version || "状态文件未标注"));
+    setText("version","策略版本："+(data.version || "状态文件未标注")+(data.recovery ? " · 含历史补算记录" : ""));
     setConfirm("longConfirm","longBar",data.long_confirm);
     setConfirm("shortConfirm","shortBar",data.short_confirm);
     const trades=data.closed_trades;

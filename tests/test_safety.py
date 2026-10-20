@@ -47,6 +47,7 @@ class SafetyTests(unittest.TestCase):
     def test_outbox_replay_is_idempotent_after_interruption(self):
         s = z.default_state()
         s['last_processed_15m_ts'] = z.BAR15
+        s['pending_signal'] = {'side':'long','signal_ts':z.BAR15,'signal_close':100,'atr':2,'long_confirm':5,'short_confirm':0}
         row = ['SIGNAL','long',z.fmt_ts(z.BAR15)] + ['']*9 + [5,0]
         z.append_csv(row)
         with patch.object(z, 'flush_csv', side_effect=OSError('interrupted')):
