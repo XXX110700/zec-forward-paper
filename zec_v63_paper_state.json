@@ -1,17 +1,17 @@
 {
   "version": "V6.3",
-  "last_processed_15m_ts": 1792594800000,
+  "last_processed_15m_ts": 1792597500000,
   "pending_signal": null,
   "open_trade": {
     "side": "long",
-    "signal_ts": 1792593900000,
-    "entry_candle_ts": 1792594800000,
-    "entry": 1325.28,
-    "risk": 19.83597994170929,
-    "sl": 1305.4440200582908,
-    "tp1": 1349.083175930051,
-    "tp2": 1364.9519598834186,
-    "long_confirm": 5,
+    "signal_ts": 1792596600000,
+    "entry_candle_ts": 1792597500000,
+    "entry": 1340.03,
+    "risk": 21.44657723518932,
+    "sl": 1318.5834227648106,
+    "tp1": 1365.765892682227,
+    "tp2": 1382.9231544703787,
+    "long_confirm": 6,
     "short_confirm": 0
   },
   "closed_trades": [
@@ -320,11 +320,49 @@
       "reason": "TP1",
       "gross_r": 1.2,
       "net_r": 1.099837
+    },
+    {
+      "side": "long",
+      "signal_ts": 1792593900000,
+      "entry_candle_ts": 1792594800000,
+      "entry": 1325.28,
+      "risk": 19.83597994170929,
+      "sl": 1305.4440200582908,
+      "tp1": 1349.083175930051,
+      "tp2": 1364.9519598834186,
+      "long_confirm": 5,
+      "short_confirm": 0,
+      "exit_ts": 1792596600000,
+      "exit_price": 1349.083175930051,
+      "reason": "TP1",
+      "gross_r": 1.2,
+      "net_r": 1.106463
     }
   ],
-  "long_confirm": 6,
+  "long_confirm": 5,
   "short_confirm": 0,
   "max_drawdown": 2.1972780000000003,
-  "updated_at": "2026-10-21T15:24:54.755403+00:00",
-  "last_processed_close_ts": 1792595700000
+  "updated_at": "2026-10-21T16:03:28.487402+00:00",
+  "last_processed_close_ts": 1792598400000,
+  "market_snapshot": {
+    "source": "OKX public closed candles",
+    "close_ts": 1792598400000,
+    "close": 1340.73,
+    "rsi_15m": 73.40783995404473,
+    "atr_15m": 14.087166859879096,
+    "score_1h": 3,
+    "score_4h": 3,
+    "close_1h_ts": 1792598400000,
+    "close_4h_ts": 1792598400000,
+    "supertrend_1h": 1,
+    "supertrend_4h": 1
+  },
+  "tp_confirmation_refresh": {
+    "event_id": "long:1792593900000:1792594800000:1792596600000:TP1",
+    "reason": "TP1",
+    "decision_ts": 1792597500000,
+    "long_confirm": 6,
+    "short_confirm": 0,
+    "count": 1
+  }
 }
