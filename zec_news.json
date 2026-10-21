@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-21T17:33:25.019728+00:00",
-  "last_success_at": "2026-10-21T17:33:25.019728+00:00",
+  "checked_at": "2026-10-21T18:38:38.775681+00:00",
+  "last_success_at": "2026-10-21T18:38:38.775681+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,45 @@
     }
   ],
   "items": [
+    {
+      "id": "48bf262f463c2bc38d3e",
+      "title": "Zcash Sees Heavy Whale Activity with 29,798 Tokens in Longs - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LQjIzQjVkaXZJUFRYdGhieU1wSUE2b0dsWG1wc3BiSlp6aXFUVnFKNHdweWRiYS1Hb3NpUjl5b2pDZ0dUN3p2UEtwMDNoQWpDTVpJMXZWYkNhZw?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-21T18:27:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "af494d5511dce03765a1",
+      "title": "Zcash Jumps 6% to $1,285 Even as Grayscale's ZCSH Sheds $115.5 Million in October - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Dd2liRnU4NFpDTEo0a05sc0xRdGw5MDFEbnFzRnItQ0dtamdGUHhPOGhMcVl5ZTZiUUVmNU9iQ2xYcktCeVhBTkxsQ2lMTEwtbGVNYzg1QXcxQ3ExTEdERU9KQU5kaFdpdTFxOHUtclpja0tmSkE?oc=5",
+      "source": "BigGo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-21T18:05:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "a991b1ff28e3dc20d303",
+      "title": "Zcash Sprout Holders Have Two Weeks to Move Their ZEC - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc3F4cTg2b3plN1R4dGFhR1ZoSkRYWmFVZ0JyTlB6RXlaMW85dEZLS3RYOEdRVUtFNzVjZFNDY1dtTXNMb1laUW1HaklReXMyOUhRZzhVbU5YLUFzQzJjczNRT3A3bEdwM1hlaFJkR09PcW1jZUlMYmRmb2lmWGpqWjZCY2xKTFpGRVhzUHFpTFFJWDJEcjBDZEhIMA?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-21T17:20:27+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "715f5ecbd68cf50a96e8",
       "title": "Zcash price model forecasts 2027 peak below $2,... - Pluang",
@@ -96,6 +135,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-21T15:58:31+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "944b7fbf6f0e95690b79",
+      "title": "Zcash (ZEC) Rises to a 9-Day High as Whales Bet on Further Gains: Details - CryptoPotato",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZGF5VVZZNS1hV2h0VFdhY0E1TF90MU9pRjJjWXNLcm12Y2M2dzIyckN4V0xpM0J0TVJwVFRaRXJad0hTT2pRVHFuc0Q1eVIzckZpV0FxRUFhQU9ydmRRaHlhVjBmM0V3ZTZud242SkZFY0QzdXE2YWdCSHY4bFhBUEdmYkQxR1NOMWI2cG91ZlljaXJpRGMwU042dE8?oc=5",
+      "source": "CryptoPotato",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-21T15:50:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -632,58 +684,6 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "d836b13d580494dfe3cb",
-      "title": "Cameron Winklevoss Says Zcash Could Top $5,000 As ‘The AI Hedge In Crypto’ - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPM1lWWGQ0ZTh0cVJYOEFnSk5kaFVVSFJEMnQxNG5KNEN2RzNLNzFmSms4VUtaazZiY09JSC1CS1JoNUJWaXQ5WXo1ODRSQWxRdG5sZVFWWS1xSTBzZG9wOEZfaDRmNGpmSlpLdjJ0TThBWG9EOWFmSEpvSG00czA1R2taRk01dnlidVZWZmYyM1JfanRzbk0wb0lVREdKcTRyMmtzTlVFTVZ5RldFc2sydnBidGZvUW5DTEZlVjhDcjVSZ2dnOFloOGJFcEFZd2NscnBNbUl2dDVsVXBXT3JweVBHQ29sOW1IYW5BOW4tVWdEVWdhVGNzZnBFM2tTbGdTZjdKcFVyVQ?oc=5",
-      "source": "Stocktwits",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-20T17:55:00+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "320d35dbd88a5fe3b465",
-      "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000 - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OZlpyZG5UNVB1dW5YU0hadmNhYl90cERhZEJuVmJtc0t6eTRVd0dPaC0xNUtybFB3V2RpN0doUm0zc0xCLXEyWHVOLWx4cUY4N0o5VWpScmNVZmppLVllcjBISkRfV2RVWXJVMjNDWkl0cEVnQzZoakZ3?oc=5",
-      "source": "Decrypt",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-20T17:03:26+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "95e9e6e15fdba7c79f70",
-      "title": "Zcash Foundation Names David Campbell Executive Director",
-      "url": "https://zfnd.org/zcash-foundation-names-david-campbell-executive-director/",
-      "source": "Zcash Foundation",
-      "feed": "Zcash Foundation",
-      "kind": "official",
-      "published_at": "2026-10-20T15:49:49+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "官方发布"
-    },
-    {
-      "id": "89ccba2245023ccea360",
-      "title": "Record Zcash Coinholder Vote Keeps Halvings as Zakura Tests 25-Second Blocks - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVE9kV2JIZ0o4Y1dkQmVhN0tfQlNaRm9mcGhsNGpOcVdpQVJpSmhEU1RudU9Jb0RQYU5jWnpaZFI4eS0wbldmaElJLTRoQWJxeUlxSFdwZXNUUXV5bEhXam5yVXlJRU1IRXE2ZWVKU1IwQThZbjg5V25RUWJIZzROY3diTUI3c1picGMwSElaNWFPS2xpRmhuRQ?oc=5",
-      "source": "CoinDesk",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-20T15:20:22+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
