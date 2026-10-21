@@ -36,6 +36,9 @@ pre{white-space:pre-wrap;word-break:break-word;font-size:12px;color:#aab5c1;max-
 hr{border:0;border-top:1px solid var(--border);margin:14px 0}
 .footer{color:var(--muted);font-size:12px;text-align:center;margin-top:22px}
 @media(max-width:380px){body{padding-left:11px;padding-right:11px}.card{padding:15px}.grid{gap:0 8px}.value{font-size:22px}.detail{grid-template-columns:94px minmax(0,1fr)}}
+.news-item{padding:12px 0;border-bottom:1px solid var(--border)}
+.news-item a{color:var(--blue);font-weight:650;overflow-wrap:anywhere}
+#newsFilter{background:var(--card);color:var(--text);padding:8px;border:1px solid var(--border);border-radius:8px;margin:10px 0}
 </style>
 </head>
 <body>
@@ -63,6 +66,8 @@ hr{border:0;border-top:1px solid var(--border);margin:14px 0}
   <div class="small" id="healthNote">网页读取成功不等于后台任务刚刚运行；请同时检查 GitHub Actions。</div>
 </section>
 
+<section class="card"><div class="label">止盈后双向确认刷新</div><div id="tpRefresh">--</div><div class="small">仅 TP1 / TP2 平仓产生记录；止损和浮盈不触发。常规评分仍随已收盘 K 线更新。</div></section>
+
 <div class="grid">
   <section class="card">
     <div class="label">当前多头确认</div><div id="longConfirm" class="value good">--</div>
@@ -84,6 +89,9 @@ hr{border:0;border-top:1px solid var(--border);margin:14px 0}
 <section class="card">
   <div class="label">已有模拟持仓 / 待入场信号</div>
   <div id="position">正在读取…</div>
+  <hr>
+  <div class="label">持仓 / 信号综合分析</div>
+  <div id="positionAnalysis">等待策略和消息数据…</div>
 </section>
 
 <section class="card">
@@ -92,6 +100,17 @@ hr{border:0;border-top:1px solid var(--border);margin:14px 0}
   <div class="detail"><span class="k">止盈目标</span><strong>TP1 1.2R / TP2 2.0R</strong></div>
   <div class="detail"><span class="k">行情周期</span><strong>15分钟；结合1小时和4小时</strong></div>
   <div class="small">本看板用于前向模拟验证。信号分数不代表必然入场或盈利。当前实现触及 TP1 即整笔退出；同根 K 线同时触及止损和止盈时优先按止损处理。</div>
+</section>
+
+<section class="card">
+  <div class="label">ZEC 消息面 · 近7天</div>
+  <div class="small" id="newsStatus">正在读取消息…</div>
+  <label for="newsFilter" class="small">筛选方向：</label>
+  <select id="newsFilter" onchange="renderNews()"><option value="">全部</option><option>偏利好</option><option>偏利空</option><option>中性</option><option>待核实</option></select>
+  <button class="secondary" onclick="loadNews()">刷新消息</button>
+  <div class="small">多来源公开标题聚合，不保证全网覆盖。方向为关键词初筛，未经全文核实；仅供参考，不参与策略评分或模拟交易。发布时间不等于事件发生时间。</div>
+  <div id="newsList"></div>
+  <details><summary>来源采集状态</summary><div class="small" id="newsSources">--</div></details>
 </section>
 
 <div class="actions">
@@ -113,6 +132,7 @@ hr{border:0;border-top:1px solid var(--border);margin:14px 0}
 const STATE_URL = "zec_v63_paper_state.json";
 let lastSnapshot = "";
 let lastLoadOk = false;
+let dashboardState = null;
 
 function parseUtc(value) {
   if (value === null || value === undefined || value === "") return null;
@@ -255,6 +275,10 @@ async function loadData(manual=false) {
     setText("winRate",(trades.length ? (wins/trades.length*100).toFixed(1) : "0.0")+"%");
 
     setText("drawdown",dd!==undefined && Number.isFinite(Number(dd))?Number(dd).toFixed(2)+"R":"--");
+    const refresh = data.tp_confirmation_refresh;
+    setText("tpRefresh", refresh ? `${refresh.reason} · ${fmtDate(parseUtc(refresh.decision_ts))} · 多 ${scoreText(refresh.long_confirm)} / 空 ${scoreText(refresh.short_confirm)} · 累计 ${refresh.count} 次` : "尚无止盈刷新记录（不追溯历史交易）");
+    dashboardState = data;
+    if (typeof renderAssessment === "function") renderAssessment();
     renderPosition(data);
     renderHealth(data);
     document.getElementById("raw").textContent=JSON.stringify(data,null,2);
@@ -270,6 +294,8 @@ async function loadData(manual=false) {
     lastSnapshot=snapshot;
   } catch(err) {
     lastLoadOk=false;
+    dashboardState=null;
+    if (typeof renderAssessment === "function") renderAssessment();
     setText("pageRead","读取失败："+err.message);
     const health=document.getElementById("health");
     health.textContent="状态文件读取失败";health.className="pill bad";
@@ -290,5 +316,7 @@ function toggleRaw(){
 loadData();
 setInterval(()=>loadData(false),30000);
 </script>
+<script src="analysis.js"></script>
+<script src="news.js"></script>
 </body>
 </html>

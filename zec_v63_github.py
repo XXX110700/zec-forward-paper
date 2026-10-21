@@ -219,7 +219,49 @@ def validate_state(s):
             number(s, key)
             if not 0 <= s[key] <= 6:
                 raise ValueError("Invalid confirmation score")
+    validate_refresh(s)
     return s
+
+
+def refresh_id(trade):
+    return f"{trade['side']}:{trade['signal_ts']}:{trade['entry_candle_ts']}:{trade['exit_ts']}:{trade['reason']}"
+
+
+def validate_refresh(state):
+    marker = state.get("tp_confirmation_refresh")
+    if marker is None:
+        return
+    if not isinstance(marker, dict):
+        raise ValueError("Invalid TP refresh marker")
+    count = marker.get("count")
+    if type(count) is not int or count < 1:
+        raise ValueError("Invalid TP refresh count")
+    matches = [t for t in state["closed_trades"] if t.get("reason") in ("TP1", "TP2") and refresh_id(t) == marker.get("event_id")]
+    if len(matches) != 1 or marker.get("reason") != matches[0]["reason"]:
+        raise ValueError("TP refresh does not match a closed take-profit trade")
+    ts = marker.get("decision_ts")
+    if type(ts) is not int or ts != matches[0]["exit_ts"] + BAR15:
+        raise ValueError("Invalid TP refresh timestamp")
+    for key in ("long_confirm", "short_confirm"):
+        if type(marker.get(key)) is not int or not 0 <= marker[key] <= 6:
+            raise ValueError("Invalid TP refresh score")
+
+
+def record_tp_refresh(state, closed, decision_ts, long_score, short_score):
+    # Only a newly closed TP event supplied by maybe_exit may refresh. Never scan
+    # historical trades to generate events when upgrading an existing deployment.
+    if closed is None or closed.get("reason") not in ("TP1", "TP2"):
+        return
+    event_id = refresh_id(closed)
+    previous = state.get("tp_confirmation_refresh") or {}
+    if previous.get("event_id") == event_id:
+        return
+    marker = dict(event_id=event_id, reason=closed["reason"],
+                  decision_ts=decision_ts, long_confirm=long_score,
+                  short_confirm=short_score, count=previous.get("count", 0) + 1)
+    candidate = dict(state, tp_confirmation_refresh=marker)
+    validate_refresh(candidate)
+    state["tp_confirmation_refresh"] = marker
 
 
 def load_state():
@@ -371,6 +413,7 @@ def maybe_exit(state, bar):
                 round(net_r, 6), t.get("long_confirm"), t.get("short_confirm")])
     state["open_trade"] = None
     print(f"  模拟退出 {side.upper()} {reason} {net_r:+.3f}R")
+    return t
 
 
 def stats(closed):
@@ -443,7 +486,7 @@ def main():
 
         # Old pending signal enters at this bar's open, then this bar may hit exit levels.
         maybe_enter(state, bar)
-        maybe_exit(state, bar)
+        closed = maybe_exit(state, bar)
 
         decision_ts = ts + BAR15
         i1 = last_closed_index(c1h, decision_ts, BAR1H)
@@ -453,6 +496,11 @@ def main():
         if i >= 25 and i1 >= 25 and i4 >= 25 and a15[i] is not None:
             cl = confirmations("long", i, i1, i4, c15, c1h, c4h, r15, d1, d4)
             cs = confirmations("short", i, i1, i4, c15, c1h, c4h, r15, d1, d4)
+
+        if closed is not None and closed["reason"] in ("TP1", "TP2") and (
+                min(i, i1, i4) < 25 or a15[i] is None or r15[i] is None):
+            raise RuntimeError("Insufficient indicators for TP refresh; state not committed")
+        record_tp_refresh(state, closed, decision_ts, cl, cs)
 
         print(f"{fmt_ts(ts)} | 多 {cl}/6 | 空 {cs}/6")
 
@@ -470,6 +518,15 @@ def main():
                             "", "", "", "", cl, cs])
                 print(f"  新信号 {side.upper()}，下一根15m开盘模拟入场")
 
+        state["market_snapshot"] = {
+            "source": "OKX public closed candles", "close_ts": decision_ts,
+            "close": bar[4], "rsi_15m": r15[i], "atr_15m": a15[i],
+            "score_1h": score_tf(c1h, i1), "score_4h": score_tf(c4h, i4),
+            "close_1h_ts": c1h[i1][0] + BAR1H if i1 >= 0 else None,
+            "close_4h_ts": c4h[i4][0] + BAR4H if i4 >= 0 else None,
+            "supertrend_1h": d1[i1] if i1 >= 0 else None,
+            "supertrend_4h": d4[i4] if i4 >= 0 else None,
+        }
         state["last_processed_15m_ts"] = ts
 
     n, win, total, avg, dd, streak = stats(state["closed_trades"])

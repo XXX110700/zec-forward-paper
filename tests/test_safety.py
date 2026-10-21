@@ -75,8 +75,10 @@ class SafetyTests(unittest.TestCase):
         def bars(duration):
             end = ((now-3*60000)//duration)*duration
             return [(end-i*duration,100,101,99,100) for i in range(300,0,-1)]
+        fixed_now = z.datetime.fromtimestamp(now/1000, z.timezone.utc)
         data = {'15m':bars(z.BAR15),'1H':bars(z.BAR1H),'4H':bars(z.BAR4H)}
-        with patch.object(z, 'recent_closed', side_effect=lambda bar:data[bar]):
+        with patch.object(z, 'datetime', wraps=z.datetime) as clock, patch.object(z, 'recent_closed', side_effect=lambda bar:data[bar]):
+            clock.now.return_value = fixed_now
             z.main()
             first = z.load_state()
             z.main()
@@ -85,6 +87,10 @@ class SafetyTests(unittest.TestCase):
         self.assertEqual(second['closed_trades'], [])
         self.assertEqual(second['last_processed_close_ts'], data['15m'][-1][0]+z.BAR15)
         self.assertFalse(z.CSV_FILE.exists())
+        self.assertEqual(second['market_snapshot']['close_ts'], second['last_processed_close_ts'])
+        self.assertEqual(second['market_snapshot']['close'], data['15m'][-1][4])
+        self.assertLessEqual(second['market_snapshot']['close_1h_ts'], second['last_processed_close_ts'])
+        self.assertLessEqual(second['market_snapshot']['close_4h_ts'], second['last_processed_close_ts'])
 
     def test_repository_log_matches_state(self):
         root = Path(z.__file__).parent

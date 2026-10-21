@@ -1,0 +1,33 @@
+name: ZEC public news
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '11 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: zec-news-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - run: python -m unittest discover -s tests -v
+      - run: node tests/test_news.cjs
+      - run: node tests/test_analysis.cjs
+      - run: python zec_news.py
+      - name: Save public news only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- zec_news.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update public ZEC news"
+            git push
+          fi
