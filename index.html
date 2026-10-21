@@ -36,6 +36,9 @@ pre{white-space:pre-wrap;word-break:break-word;font-size:12px;color:#aab5c1;max-
 hr{border:0;border-top:1px solid var(--border);margin:14px 0}
 .footer{color:var(--muted);font-size:12px;text-align:center;margin-top:22px}
 @media(max-width:380px){body{padding-left:11px;padding-right:11px}.card{padding:15px}.grid{gap:0 8px}.value{font-size:22px}.detail{grid-template-columns:94px minmax(0,1fr)}}
+.news-item{padding:12px 0;border-bottom:1px solid var(--border)}
+.news-item a{color:var(--blue);font-weight:650;overflow-wrap:anywhere}
+#newsFilter{background:var(--card);color:var(--text);padding:8px;border:1px solid var(--border);border-radius:8px;margin:10px 0}
 </style>
 </head>
 <body>
@@ -94,6 +97,17 @@ hr{border:0;border-top:1px solid var(--border);margin:14px 0}
   <div class="detail"><span class="k">止盈目标</span><strong>TP1 1.2R / TP2 2.0R</strong></div>
   <div class="detail"><span class="k">行情周期</span><strong>15分钟；结合1小时和4小时</strong></div>
   <div class="small">本看板用于前向模拟验证。信号分数不代表必然入场或盈利。当前实现触及 TP1 即整笔退出；同根 K 线同时触及止损和止盈时优先按止损处理。</div>
+</section>
+
+<section class="card">
+  <div class="label">ZEC 消息面 · 近7天</div>
+  <div class="small" id="newsStatus">正在读取消息…</div>
+  <label for="newsFilter" class="small">筛选方向：</label>
+  <select id="newsFilter" onchange="renderNews()"><option value="">全部</option><option>偏利好</option><option>偏利空</option><option>中性</option><option>待核实</option></select>
+  <button class="secondary" onclick="loadNews()">刷新消息</button>
+  <div class="small">多来源公开标题聚合，不保证全网覆盖。方向为关键词初筛，未经全文核实；仅供参考，不参与策略评分或模拟交易。发布时间不等于事件发生时间。</div>
+  <div id="newsList"></div>
+  <details><summary>来源采集状态</summary><div class="small" id="newsSources">--</div></details>
 </section>
 
 <div class="actions">
@@ -294,5 +308,6 @@ function toggleRaw(){
 loadData();
 setInterval(()=>loadData(false),30000);
 </script>
+<script src="news.js"></script>
 </body>
 </html>
