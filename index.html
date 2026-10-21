@@ -65,11 +65,11 @@ hr{border:0;border-top:1px solid var(--border);margin:14px 0}
 
 <div class="grid">
   <section class="card">
-    <div class="label">多头确认</div><div id="longConfirm" class="value good">--</div>
+    <div class="label">当前多头确认</div><div id="longConfirm" class="value good">--</div>
     <div class="progress"><span id="longBar"></span></div><div class="small">入场门槛 5/6</div>
   </section>
   <section class="card">
-    <div class="label">空头确认</div><div id="shortConfirm" class="value bad">--</div>
+    <div class="label">当前空头确认</div><div id="shortConfirm" class="value bad">--</div>
     <div class="progress"><span id="shortBar"></span></div><div class="small">入场门槛 5/6</div>
   </section>
 </div>
@@ -82,7 +82,7 @@ hr{border:0;border-top:1px solid var(--border);margin:14px 0}
 </div>
 
 <section class="card">
-  <div class="label">模拟持仓 / 待入场信号</div>
+  <div class="label">已有模拟持仓 / 待入场信号</div>
   <div id="position">正在读取…</div>
 </section>
 
@@ -91,7 +91,7 @@ hr{border:0;border-top:1px solid var(--border);margin:14px 0}
   <div class="detail"><span class="k">确认门槛</span><strong>5 / 6</strong></div>
   <div class="detail"><span class="k">止盈目标</span><strong>TP1 1.2R / TP2 2.0R</strong></div>
   <div class="detail"><span class="k">行情周期</span><strong>15分钟；结合1小时和4小时</strong></div>
-  <div class="small">本看板用于前向模拟验证。信号分数不代表必然入场或盈利。</div>
+  <div class="small">本看板用于前向模拟验证。信号分数不代表必然入场或盈利。当前实现触及 TP1 即整笔退出；同根 K 线同时触及止损和止盈时优先按止损处理。</div>
 </section>
 
 <div class="actions">
@@ -151,6 +151,30 @@ function setConfirm(id, barId, raw) {
   setText(id, valid ? Math.max(0,Math.min(6,n)) + "/6" : "--");
   document.getElementById(barId).style.width = valid ? (Math.max(0,Math.min(6,n))/6*100)+"%" : "0%";
 }
+function fmtPrice(value) {
+  return typeof value === "number" && Number.isFinite(value) ? value.toFixed(2) : "--";
+}
+function scoreText(value) {
+  return Number.isInteger(value) && value >= 0 && value <= 6 ? value + "/6" : "--";
+}
+function positionRows(data) {
+  const t = data.open_trade;
+  const side = t.side;
+  const score = side === "long" ? data.long_confirm : side === "short" ? data.short_confirm : null;
+  const valid = Number.isInteger(score) && score >= 0 && score <= 6;
+  return [
+    ["方向", side === "long" ? "做多 LONG" : side === "short" ? "做空 SHORT" : "未知方向"],
+    ["入场时间", fmtDate(parseUtc(t.entry_candle_ts))],
+    ["入场价格", fmtPrice(t.entry)],
+    ["固定止损", fmtPrice(t.sl)],
+    ["止盈 TP1", fmtPrice(t.tp1)], ["止盈 TP2", fmtPrice(t.tp2)],
+    ["入场时同向评分", scoreText(side === "long" ? t.long_confirm : t.short_confirm)],
+    ["当前同向评分", scoreText(score)],
+    ["当前评分达标", valid ? (score >= 5 ? "仍达到 5/6 门槛" : "已低于 5/6 门槛，原持仓仍在") : "数据不足，无法判断"],
+    ["持仓说明", "入场价和止损止盈在开仓时固定；评分变化不会自动平仓。"],
+    ["更新口径", "当前评分截至上方所示已处理 K 线收盘；不是实时行情。"]
+  ];
+}
 function renderPosition(data) {
   const el = document.getElementById("position");
   const trade = data.open_trade || null, pending = data.pending_signal || null;
@@ -161,11 +185,7 @@ function renderPosition(data) {
     status.textContent = side === "long" ? "模拟多单持仓" : "模拟空单持仓";
     status.className = "value " + (side === "long" ? "good" : "bad");
     dot.style.background = side === "long" ? "var(--green)" : "var(--red)";
-    const rows = [
-      ["方向", String(trade.side || "--").toUpperCase()],
-      ["入场价格", trade.entry ?? "--"],["止损",trade.sl ?? "--"],
-      ["止盈 TP1",trade.tp1 ?? "--"],["止盈 TP2",trade.tp2 ?? "--"]
-    ];
+    const rows = positionRows(data);
     el.replaceChildren();
     rows.forEach(([k,v])=>{
       const row=document.createElement("div");row.className="detail";
