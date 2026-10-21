@@ -63,6 +63,8 @@ hr{border:0;border-top:1px solid var(--border);margin:14px 0}
   <div class="small" id="healthNote">网页读取成功不等于后台任务刚刚运行；请同时检查 GitHub Actions。</div>
 </section>
 
+<section class="card"><div class="label">止盈后双向确认刷新</div><div id="tpRefresh">--</div><div class="small">仅 TP1 / TP2 平仓产生记录；止损和浮盈不触发。常规评分仍随已收盘 K 线更新。</div></section>
+
 <div class="grid">
   <section class="card">
     <div class="label">当前多头确认</div><div id="longConfirm" class="value good">--</div>
@@ -255,6 +257,8 @@ async function loadData(manual=false) {
     setText("winRate",(trades.length ? (wins/trades.length*100).toFixed(1) : "0.0")+"%");
 
     setText("drawdown",dd!==undefined && Number.isFinite(Number(dd))?Number(dd).toFixed(2)+"R":"--");
+    const refresh = data.tp_confirmation_refresh;
+    setText("tpRefresh", refresh ? `${refresh.reason} · ${fmtDate(parseUtc(refresh.decision_ts))} · 多 ${scoreText(refresh.long_confirm)} / 空 ${scoreText(refresh.short_confirm)} · 累计 ${refresh.count} 次` : "尚无止盈刷新记录（不追溯历史交易）");
     renderPosition(data);
     renderHealth(data);
     document.getElementById("raw").textContent=JSON.stringify(data,null,2);

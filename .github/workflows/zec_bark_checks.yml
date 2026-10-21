@@ -4,6 +4,8 @@ on:
   pull_request:
     paths:
       - 'bark_alerts.py'
+      - 'zec_v63_github.py'
+      - 'index.html'
       - 'tests/**'
       - '.github/workflows/**'
 
