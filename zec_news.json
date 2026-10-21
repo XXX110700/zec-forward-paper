@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-21T16:36:21.781367+00:00",
-  "last_success_at": "2026-10-21T16:36:21.781367+00:00",
+  "checked_at": "2026-10-21T17:33:25.019728+00:00",
+  "last_success_at": "2026-10-21T17:33:25.019728+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 21
     }
   ],
   "items": [
+    {
+      "id": "715f5ecbd68cf50a96e8",
+      "title": "Zcash price model forecasts 2027 peak below $2,... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OUFZIMWhfTHlVVHF4NWF0YUhqdzJSbDE4dTUya2c2ZnpCRGduYUlJRTM5YTJ0aHNzMEYxZDA1MGNxQ2RTdWE2UDEzYmxJRE9SR3FCcnctYm1YR1BKaTE1eWJoY1JrN2ZEMkRUMVppMW52Z1BDUXVMS3ZKVHhSbm8?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-21T17:13:57+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "17fdb6f5e2c287d306e0",
       "title": "Zcash Price Prediction: ZEC Just Jumped 12% in a Day. Can It Get Back to $1,500? - Yahoo Finance",
@@ -128,6 +141,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "6222e899b3308340312d",
+      "title": "Zcash(ZEC) Stock Price Today | Quotes & News - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQSmFMTnNNOEtodjRySjU1U1ZXVWdWU0ZsRHE2QnM2c25QLVYwWl9yY3JMLXgxU2I1ZTA1MjNKWTQ3cE9VQktJOFpOOTJJaVhvNWk0QTBEMk9vQU5OVE04WkhKUi1oNHNTcU1rT19vSXhIWjBsSVNmOVdINnNGQzV5U29zMGdQZmhqTEpFSG5Zakx6azZ1YzBLc05raUItU3UtOXVCWU8yWG9hOHpQcjk4V2oyYjBMRy1nVWhnbTc5SzA3U0RoYS1FdHJpMTVONjc5Q2JqZTJkQ1J5TWtBVDFScFZPaWV1c1BUZ3hhX2E2bmU2XzA5WmRadkNTRFB4em1OMUEwcHlpUUFzZ05HRmR4NTZrQ0xaSXpaRGVz?oc=5",
+      "source": "Moomoo",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-21T13:56:46+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "0c9441cfa2d6d8d1412a",
       "title": "Crypto Rises With Asian Tech Stocks, Zcash Extends Gain After Setting Upgrade Date - 富途牛牛",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTHZkYXZ1Tmk2UUVqcWJxWl9TQnJsSXI0dDZKTTNhTFoyS3hPV0Y3UGI4bmNSNkUtVTVRVU1xRVJXcHNJdTdVYndGNmJBMFRFM0J2dHBZeTR0bnJudlg3c2hURUhBV2lQa0YtTzd2VmtKemJFZE9IU1c0R05qOGdyV2N1ZGhQSUNuUTdLam9VV0JDaXFocXNzWnNQWjJRZk5uRmJ1R0FB?oc=5",
@@ -138,19 +164,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "6222e899b3308340312d",
-      "title": "Zcash(ZEC) Stock Price Today | Quotes & News - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNYk93ZzNpWXgxRTJhMmRwQ0NqZlIxRUE4ZlBWTThhcG1adHFkUU9WWWgtaGlaTWhQZnR3a3hycFlnYXJ2WDMwY3JaX0ljN2RBYnEzYzFvWWNnRGpTVE5WaUFzR0tGX3U5TkVMcjh1WDNLejVjZDU1MDVKd3p2QUhMTWZPdVpNeFlvT095cjhLRXNqTW0tS01yU2NGeFB4dVhTTVN6VEhyVVhYRkZMb2hpOGdMd0t0WWZoMnoyT1ZKb0NOQkdUUWlkTXpsd2NlZG1oWERYaEgwNWdHRU9pS1JLaGZ2SWtnSG8wZnRab0FlQlJpNHFnb3l2OU5WMFVaTVFTanVBdTF1VVNHVVppNUxFMUE0T2xGd1EtOS12bjY4djNfT0Qxb0t5TTEyUlhOREc2YjIwY2s1bDJPczNnRURMMU5n?oc=5",
-      "source": "Moomoo",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-21T12:54:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -242,6 +255,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "8289a40af3d864daa90e",
+      "title": "Zcash Price Forecast: ZEC bullish reversal brings $1,698 peak into focus on NU7 upgrade - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZGVEVUVtdkcxMGhiMFExS3lSV1E4c2JNdHYyTVc1cHhWc3VGQnp0QjI5TmYzU3lBOXFNSWl1N0dyTDc0ZER6YmJZel9hcWFzWmtYMDdmTHJtY1lBYTZIWk93TkZQbHpxT3gybFpySS1ROTZROHNHMW9LOWY4eVVkelFYNVJsUF9fcnZrNzNiaE54dVMyRkdMU0ItNmVlUXdGcDBqeVAzQk93Y1BDOXozdHhaRFlUUlE2QkdhVjdSUFNBSDdIRlcwQkNJR2NaMmc0TkQ1am53V2JuZGw1?oc=5",
+      "source": "www.tmgm.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-21T10:41:18+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -414,19 +440,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "6ab0809d810c5f5c59e7",
-      "title": "Zcash (ZEC) price rises 8.11% in 24 hours, driv... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd1dwR0tIZGE0ZGY3cExISDZXd0YtazVhSGFSdFJ4UC0tY0EyRW1WLV9ROGhsdExMbTdjN3AwNDlUZU1wTzBUZTNoLV9LTFE1NVhTbHZZM0stQlZESXFJaklVVVUxZDhNS3dHUjJXRGRoX1M0ZnRiS2RmRjNFRXE1TUU5X3l2S0E5TEVj?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-21T07:44:37+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "19b88c8867b8c3584c69",
       "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11% - Cryptonews.net",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OTjVJT1BZU0k0VzhOamkxMG5nck5JU2ZVRjR6NDNRcV9peW0xVmhPNk03cEdDN1lkcG0ybU9XT3VVUGhOZDZoNklES2dtOEN1clVaOXQzUzY?oc=5",
@@ -557,19 +570,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "f5aa49816659e3c201e4",
-      "title": "Zcash Advances 5.02% in an Hour to $1,201 as 24-Hour Gain Hits 7.23% - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XUHB0REdubnQ3dGtxS0tnOWxTRHhfR3FjbUFVOUpnS040T2I0NHNiX1dKcTJJZjVjSVBHSWx1d0RDZkFzbHZFTERMeXo2QXN2eEpucElJczNPZw?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-20T22:53:59+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "e7423b6a99c22a905e8d",
       "title": "ZEC：鲸鱼开盘$37.57M 10x 多头仓位| 快讯详情 - blockchain.news",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1gwQzVHWmU3MDJ6Z3gtSG10UkI2SlhxZ1AtSkRlRTljS0doRWNHbjBoSnd4cUNzT2NjRmZ1ckFEQmgwLXFDai05VWcxcTR4ckVIa0JMYXRsWmx3Z1doN3dwcFJDODVDU3V3cnFlbVROWmJFX051UHJ6S1pEOUFrUUJ5VnFxVjYy?oc=5",
@@ -622,6 +622,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "6af3ec12adcb9413d853",
+      "title": "Zcash Is More Like AI Than Bitcoin, Says Cameron Winklevoss: Predicts ZEC Price Could Eventually Top $5,000 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQ20ycmw5bnBnSnVwVzBRa2MzYmZ1dFl5bENWNW1wZ0FTRmxpTV9HWmVtLS1TeDFBc3R2QlkwSkc4Rl93OVJFOFNjaEMwT2ItQ0dNdlB0UDk3U1cxak8zdkh3bXg4WnBzbXJqNFdaZVZpVTJrTi1MWHcyZ0tnZ2RIcmxtMUFPbmtWYmpvM2hzMmM5eks2cGdGR2Z2QTJrT3pBN1p1c3RUNDJINl9VUjBvMnRsdHBIVl9NTU41TGJtMURhYmE3UzJ5bkI2LUNRRERMRUNCMjZyREg0b3RLaHdjVC1xNHdCS2pIWnF4OU9ZUVVETHh4czFF?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-20T17:55:09+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
       "id": "d836b13d580494dfe3cb",
       "title": "Cameron Winklevoss Says Zcash Could Top $5,000 As ‘The AI Hedge In Crypto’ - Stocktwits",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPM1lWWGQ0ZTh0cVJYOEFnSk5kaFVVSFJEMnQxNG5KNEN2RzNLNzFmSms4VUtaazZiY09JSC1CS1JoNUJWaXQ5WXo1ODRSQWxRdG5sZVFWWS1xSTBzZG9wOEZfaDRmNGpmSlpLdjJ0TThBWG9EOWFmSEpvSG00czA1R2taRk01dnlidVZWZmYyM1JfanRzbk0wb0lVREdKcTRyMmtzTlVFTVZ5RldFc2sydnBidGZvUW5DTEZlVjhDcjVSZ2dnOFloOGJFcEFZd2NscnBNbUl2dDVsVXBXT3JweVBHQ29sOW1IYW5BOW4tVWdEVWdhVGNzZnBFM2tTbGdTZjdKcFVyVQ?oc=5",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-20T15:20:22+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "467517f8bbbbc82526e2",
-      "title": "Zcash (ZEC) Volatility: Technical Rebound and NU7 Decision - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81MllHbnc1dTdBTjcxMUFMaUJha2pIZXNWZF9zVXNyeW9DTjBFeXRKQkR6dl9URjZ1QXR1T2p0dExhUWNKcXh0VlhnNDBNZjItYUpSd1BmMm1Pam4tWUZxLU1KTU05MjF0NktuejE4Snc?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-20T14:05:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
