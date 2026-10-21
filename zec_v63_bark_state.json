@@ -9,13 +9,5 @@
     "long": 5,
     "short": 0
   },
-  "pending": [
-    {
-      "id": "long:1792564200000",
-      "ts": 1792564200000,
-      "side": "long",
-      "score": 5,
-      "position": "模拟多单持仓"
-    }
-  ]
+  "pending": []
 }
