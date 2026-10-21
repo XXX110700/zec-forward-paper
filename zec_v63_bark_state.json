@@ -1,13 +1,21 @@
 {
   "version": 1,
-  "last_ts": 1792561500000,
+  "last_ts": 1792564200000,
   "above": {
-    "long": false,
+    "long": true,
     "short": false
   },
   "scores": {
-    "long": 4,
-    "short": 1
+    "long": 5,
+    "short": 0
   },
-  "pending": []
+  "pending": [
+    {
+      "id": "long:1792564200000",
+      "ts": 1792564200000,
+      "side": "long",
+      "score": 5,
+      "position": "模拟多单持仓"
+    }
+  ]
 }
