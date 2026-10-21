@@ -61,12 +61,14 @@ class TPRefreshTests(unittest.TestCase):
         def bars(duration):
             end=((now-3*60000)//duration)*duration
             return [(end-i*duration,100,101,99,100) for i in range(300,0,-1)]
+        fixed_now = z.datetime.fromtimestamp(now/1000, z.timezone.utc)
         data={'15m':bars(z.BAR15),'1H':bars(z.BAR1H),'4H':bars(z.BAR4H)}
         ts=data['15m'][-1][0]
         data['15m'][-1]=(ts,100,113,99,100)
         s=self.state();s['last_processed_15m_ts']=ts-z.BAR15
         z.save_state(s)
-        with patch.object(z,'recent_closed',side_effect=lambda bar:data[bar]), patch.object(z,'confirmations',side_effect=lambda side,*args: 3 if side=='long' else 4) as scores:
+        with patch.object(z,'datetime', wraps=z.datetime) as clock, patch.object(z,'recent_closed',side_effect=lambda bar:data[bar]), patch.object(z,'confirmations',side_effect=lambda side,*args: 3 if side=='long' else 4) as scores:
+            clock.now.return_value = fixed_now
             z.main(); first=z.load_state()
             self.assertEqual(scores.call_count,2)
             z.main(); second=z.load_state()

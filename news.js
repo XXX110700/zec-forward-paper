@@ -1,5 +1,6 @@
 /* Isolated news reader: never reads or writes paper-trading state. */
 let newsItems = [];
+let newsData = null;
 function renderNews() {
   const list = document.getElementById('newsList');
   const filter = document.getElementById('newsFilter').value;
@@ -29,13 +30,17 @@ async function loadNews() {
     if (!response.ok) throw new Error('HTTP '+response.status);
     const data = await response.json();
     if (data.version !== 1 || !Array.isArray(data.items) || !Array.isArray(data.sources)) throw new Error('消息格式无效');
+    newsData = data;
     newsItems = data.items;
+    if (typeof renderAssessment === "function") renderAssessment();
     const checked = parseUtc(data.checked_at);
     const stale = !checked || Date.now()-checked.getTime() > 2*60*60*1000;
     status.textContent = `${data.status === 'ok' ? '采集完成' : data.status === 'partial' ? '部分来源采集失败' : '采集失败，保留历史消息'}${stale ? ' · 数据可能过期' : ''} · 检查时间：${fmtDate(checked)}`;
     document.getElementById('newsSources').textContent = data.sources.map(s=>`${s.name}：${s.status==='ok' ? '正常（'+s.matched+'条）' : '失败'}`).join(' · ');
     renderNews();
   } catch (err) {
+    newsData=null;
+    if (typeof renderAssessment === "function") renderAssessment();
     status.textContent = '消息读取失败，现有消息可能过期：'+err.message;
     if (!newsItems.length) document.getElementById('newsList').textContent = '暂无可用消息，请稍后重试。';
   }

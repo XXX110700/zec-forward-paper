@@ -7,6 +7,7 @@ on:
       - 'zec_v63_github.py'
       - 'index.html'
       - 'news.js'
+      - 'analysis.js'
       - 'zec_news.py'
       - 'tests/**'
       - '.github/workflows/**'
@@ -27,3 +28,4 @@ jobs:
       - run: python -m unittest discover -s tests -v
       - run: node tests/test_dashboard.cjs
       - run: node tests/test_news.cjs
+      - run: node tests/test_analysis.cjs

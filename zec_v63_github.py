@@ -518,6 +518,15 @@ def main():
                             "", "", "", "", cl, cs])
                 print(f"  新信号 {side.upper()}，下一根15m开盘模拟入场")
 
+        state["market_snapshot"] = {
+            "source": "OKX public closed candles", "close_ts": decision_ts,
+            "close": bar[4], "rsi_15m": r15[i], "atr_15m": a15[i],
+            "score_1h": score_tf(c1h, i1), "score_4h": score_tf(c4h, i4),
+            "close_1h_ts": c1h[i1][0] + BAR1H if i1 >= 0 else None,
+            "close_4h_ts": c4h[i4][0] + BAR4H if i4 >= 0 else None,
+            "supertrend_1h": d1[i1] if i1 >= 0 else None,
+            "supertrend_4h": d4[i4] if i4 >= 0 else None,
+        }
         state["last_processed_15m_ts"] = ts
 
     n, win, total, avg, dd, streak = stats(state["closed_trades"])

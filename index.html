@@ -89,6 +89,9 @@ hr{border:0;border-top:1px solid var(--border);margin:14px 0}
 <section class="card">
   <div class="label">已有模拟持仓 / 待入场信号</div>
   <div id="position">正在读取…</div>
+  <hr>
+  <div class="label">持仓 / 信号综合分析</div>
+  <div id="positionAnalysis">等待策略和消息数据…</div>
 </section>
 
 <section class="card">
@@ -129,6 +132,7 @@ hr{border:0;border-top:1px solid var(--border);margin:14px 0}
 const STATE_URL = "zec_v63_paper_state.json";
 let lastSnapshot = "";
 let lastLoadOk = false;
+let dashboardState = null;
 
 function parseUtc(value) {
   if (value === null || value === undefined || value === "") return null;
@@ -273,6 +277,8 @@ async function loadData(manual=false) {
     setText("drawdown",dd!==undefined && Number.isFinite(Number(dd))?Number(dd).toFixed(2)+"R":"--");
     const refresh = data.tp_confirmation_refresh;
     setText("tpRefresh", refresh ? `${refresh.reason} · ${fmtDate(parseUtc(refresh.decision_ts))} · 多 ${scoreText(refresh.long_confirm)} / 空 ${scoreText(refresh.short_confirm)} · 累计 ${refresh.count} 次` : "尚无止盈刷新记录（不追溯历史交易）");
+    dashboardState = data;
+    if (typeof renderAssessment === "function") renderAssessment();
     renderPosition(data);
     renderHealth(data);
     document.getElementById("raw").textContent=JSON.stringify(data,null,2);
@@ -288,6 +294,8 @@ async function loadData(manual=false) {
     lastSnapshot=snapshot;
   } catch(err) {
     lastLoadOk=false;
+    dashboardState=null;
+    if (typeof renderAssessment === "function") renderAssessment();
     setText("pageRead","读取失败："+err.message);
     const health=document.getElementById("health");
     health.textContent="状态文件读取失败";health.className="pill bad";
@@ -308,6 +316,7 @@ function toggleRaw(){
 loadData();
 setInterval(()=>loadData(false),30000);
 </script>
+<script src="analysis.js"></script>
 <script src="news.js"></script>
 </body>
 </html>
