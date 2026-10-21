@@ -1,6 +1,6 @@
 {
   "version": "V6.3",
-  "last_processed_15m_ts": 1792580400000,
+  "last_processed_15m_ts": 1792582200000,
   "pending_signal": null,
   "open_trade": {
     "side": "long",
@@ -257,6 +257,7 @@
   "long_confirm": 5,
   "short_confirm": 0,
   "max_drawdown": 2.1972780000000003,
-  "updated_at": "2026-10-21T11:15:41.629327+00:00",
-  "last_processed_close_ts": 1792581300000
+  "updated_at": "2026-10-21T11:47:28.592287+00:00",
+  "last_processed_close_ts": 1792583100000,
+  "csv_outbox": []
 }
