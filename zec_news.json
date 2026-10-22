@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-22T17:33:29.766683+00:00",
-  "last_success_at": "2026-10-22T17:33:29.766683+00:00",
+  "checked_at": "2026-10-22T18:38:18.663374+00:00",
+  "last_success_at": "2026-10-22T18:38:18.663374+00:00",
   "status": "ok",
   "sources": [
     {
@@ -22,7 +22,7 @@
     {
       "name": "CoinDesk",
       "status": "ok",
-      "matched": 1
+      "matched": 0
     },
     {
       "name": "Google News EN",
@@ -48,6 +48,19 @@
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
       "verification": "官方发布"
+    },
+    {
+      "id": "c1aae54b55b5f6eea288",
+      "title": "Zcash Crypto Jumps 12% as NU7 Upgrade Nears: Can ZEC Hit $1,300? - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTGFLREx2RndMNGZuNGlfMHNMMWpzTy1QOUdwNDJ0VWFWVFV2aGpSelFnbnRReVJUSGhoeVR5SEdTM09fNm8zSG9IUjNRMGdkWXVWdjdRaEh5ZWJOaVJISmpScVFualNMLVhjT3g3YjNMQVZHTGFTOFhJOURvZjBQeUJMbDVDNGd3RThxeHVEYnAyQlhrM1VwSGRYOFlSQQ?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T15:24:21+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
     },
     {
       "id": "c4e6f1ebe2dff8216fd1",
@@ -187,6 +200,19 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-10-22T01:49:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "95e16f42b0705f7403c2",
+      "title": "David Hoffman Forecasts Zcash at 10% of Bitcoin's Market Cap - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Pd2l1TVNZaElyOEhDdldtRklPT1VfUWR3SkpTZHNVUndTSkxaQTE3MHNMZ0lIQS01bV9vc3V6X056bVU4N0N5UnI1TmlQdzV1d0VtNmItWmhaUQ?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T01:22:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -609,19 +635,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "2d09e13fa9457271c4ec",
-      "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
-      "url": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
-      "source": "CoinDesk",
-      "feed": "CoinDesk",
-      "kind": "media",
-      "published_at": "2026-10-21T10:34:37+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
       "id": "1f0ecd1567aee66eb357",
       "title": "Zcash developers select November 5 target for NU7 upgrade with 25-second blocks - Crypto News",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11VUhUMEtMRXZFZHRMNVRaVXlzLWplMk1GSFVrdW5fcnBQSEdUZWp1RDd3cHd2ODJJbERkSzVoSWxxejBRQ3Z1TDFpcnphdGZSV0NXS29FZ0htdzRGSVA5SzlBZXNBQ0pEOVJISjlzYlZ0NmhGRTk0dw?oc=5",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "0bf32effe87bcc9b77be",
-      "title": "ZEC Skyrockets by 13% in 24 Hours, BTC Price Reclaims $83K: Market Watch - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWE1qNURfNVJCNFJzOTRUSVJ4VF82MlFSYnM5aFd2SHBxMGtmeW5ONEdIVFBNNzh1enpNNHg2TW5pT3J6eWFnY2dUNXk5T2MySVNfVW9KeTZuOWNQZkVmTjhpMXNhS1BEQ2doNTBXNWcxbGdpT193ZzJ0SWZiWEkxaUVkeW1ULUZidWtFcnJ1TVRodW5aZEt6OGZmUWxFbGROcjR2bHJneUUwZw?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-21T09:17:44+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
