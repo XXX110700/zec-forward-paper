@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-22T06:42:40.116177+00:00",
-  "last_success_at": "2026-10-22T06:42:40.116177+00:00",
+  "checked_at": "2026-10-22T07:47:35.174149+00:00",
+  "last_success_at": "2026-10-22T07:47:35.174149+00:00",
   "status": "ok",
   "sources": [
     {
@@ -135,19 +135,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-22T00:20:32+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "ed06a34853b81ea2921e",
-      "title": "Zcash ETF (Derivatives) Price History and Historical Data - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY05pNlpfT1h5VjlLWWtnblpHcXdhbHpHTWdheVVuWXdLREp6cWg1N2hKTnJXeHI0WDU4XzQ2YzFMX2hKaC1ValI0S2l6V1phMGx2eEZWTkdILXRHLVp5OGdaSHdJOUhqZ29yOVRocjFyTGg0Vm94d3I1dmRydWhKbA?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-21T19:58:03+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -453,6 +440,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "dfe41d9b0b815826afa7",
+      "title": "Crypto Market Today: Bitcoin Holds Near $83,000 as Zcash Leads the Gains- What’s Next? - Coinpedia",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTy15SlpDU0x2SW9oa1FOYUZQdXh2ZjhnZlNWbmVZc3A0TTRhTUJCa1JwTkxZbkRTdVhjdVBzakdZXzVmaWhmQ2s0N2ZpcHRBRHNsVVYzNXF1NUgyTFM5bXk1di1jQlVHajg1MEVoVXE3amZ2aGZEUU13WWdDem5PMGhmTlpOYnFxS0lSLW9ITkdhUEw4b01uektZOG9IeXlDTXNtbGpEZDRwQ0FjZkptMVFUMWszY0tSbkHSAb8BQVVfeXFMT1RBUWpRTzJHbFpscEh4aFF2ek1PVUNTaWlMU25TS180YndubkplRkJud2hRZ1QzYmVlRXZfNXVfUUMxTW1oUmQyaW1yTWstUUMwdU04UEZPd3gwSm13RmU2b0Z4ME1zMGpVejJSem1rZlI2eDJXRVEwSGNYZTNxTC1Oa2lKekt0SmVaWUc3OTJvZi1QcC1vdjVuaGIwajZkRTkxSmxOd0xjYmdmWmI4STFweHlLRkFFUlBySDRKUDg?oc=5",
+      "source": "Coinpedia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-21T11:23:33+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "847d103f8f79dd815f80",
       "title": "Zcash Set Date for NU7 Upgrade to Triple Transaction Speed - Incrypted",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZnBKWG51XzVEM3k3bFJucGhhMjdRRE4ybTBVLXVNX1M5MzBiNlI1V2dqUXZHYVRUaGQtQkdPUkZ5aGNWcHRXZXJ4ZEQ4ektqcHNHMjhTOXBGOEJtQlZCVTFHNFVLeUJTWlpMSFFpMFIxSzNRSnBaemx4THlhN0JwZ2NpR3otSXQzYWRFeA?oc=5",
@@ -622,19 +622,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "dfe41d9b0b815826afa7",
-      "title": "Crypto Market Today: Bitcoin Holds Near $83,000 as Zcash Leads the Gains- What’s Next? - Coinpedia",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVEFRalFPMkdsWmxwSHhoUXZ6TU9VQ1NpaUxTblNLXzRid25uSmVGQm53aFFnVDNiZWVFdl81dV9RQzFNbWhSZDJpbXJNay1RQzB1TThQRk93eDBKbXdGZTZvRngwTXMwalV6MlJ6bWtmUjZ4MldFUTBIY1hlM3FMLU5raUp6S3RKZVpZRzc5Mm9mLVBwLW92NW5oYjBqNmRFOTFKbE53TGNiZ2ZaYjhJMXB4eUtGQUVSUHJINEpQONIBvwFBVV95cUxPVEFRalFPMkdsWmxwSHhoUXZ6TU9VQ1NpaUxTblNLXzRid25uSmVGQm53aFFnVDNiZWVFdl81dV9RQzFNbWhSZDJpbXJNay1RQzB1TThQRk93eDBKbXdGZTZvRngwTXMwalV6MlJ6bWtmUjZ4MldFUTBIY1hlM3FMLU5raUp6S3RKZVpZRzc5Mm9mLVBwLW92NW5oYjBqNmRFOTFKbE53TGNiZ2ZaYjhJMXB4eUtGQUVSUHJINEpQOA?oc=5",
-      "source": "Coinpedia",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-21T08:51:15+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "531984fe6da608952c3f",
       "title": "Zcash developers confirm November date for upgrade that triples payment speed",
       "url": "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
@@ -674,13 +661,26 @@
       "verification": "未独立核实"
     },
     {
-      "id": "6a9aacd78dda59286019",
-      "title": "Crypto Market Today: Bitcoin Holds Near $83,000 as Zcash Leads the Gains- What’s Next? - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObU9JeDJZWTBQRzUtV1NQT3ptcFdwMEotUzlocTVGbm45ZEk4XzRFTmY0ZUp0WW9WTnVFVWJkdUxuQzdyMGRudERDRVpsRmN3OUlTT0lHbnVNSWE0WENsamxUUkNNSjljWjNJQmluTndmQnBsbFZ3TFY4YkZpU0Y4UFYzVWtySUstTHpHQWwyb0xMRU5URDZZQTkxb1RqUlRidENRTEx0OGhvVTZFV0g5a2xQWUNpMkxDdzA3c0x3SkJFZVEtaGRMRkdwbnFGOVVHQXN2TlNxd3I?oc=5",
-      "source": "TradingView",
+      "id": "90a4001456c3a33dafe9",
+      "title": "Robinhood Promotes Zcash with ‘Your Agent, Your Rules’ - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNT0VwMXNMajZYVXU5WDM5c1Zpc3FzM3VfNkx4NEc1NVlUSGV0YXhrOWhEMHFBNFgxaTZlRzJyXy1ubkU0eW5uTGRDRjlZX1BZaWtLYmRwY0d2Zw?oc=5",
+      "source": "Cryptonews.net",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-21T08:00:00+00:00",
+      "published_at": "2026-10-21T07:47:27+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "19b88c8867b8c3584c69",
+      "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11% - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OTjVJT1BZU0k0VzhOamkxMG5nck5JU2ZVRjR6NDNRcV9peW0xVmhPNk03cEdDN1lkcG0ybU9XT3VVUGhOZDZoNklES2dtOEN1clVaOXQzUzY?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-21T07:31:26+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
