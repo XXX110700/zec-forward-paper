@@ -14,6 +14,8 @@ concurrency:
 
 jobs:
   run-zec:
+    # Empty preserves current GitHub execution; unknown values stop this job.
+    if: vars.ZEC_EXECUTOR == '' || vars.ZEC_EXECUTOR == 'github'
     runs-on: ubuntu-latest
     timeout-minutes: 10
 

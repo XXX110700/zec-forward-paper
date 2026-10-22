@@ -1,0 +1,55 @@
+# REVIEW ONLY. Do not deploy before the execution-authority cutover.
+name: ZEC AWS state notifications (draft)
+on:
+  push:
+    branches: [main]
+    paths:
+      - zec_v63_paper_state.json
+      - zec_v63_trades.csv
+permissions:
+  contents: write
+concurrency:
+  group: zec-v63-forward-paper
+  cancel-in-progress: false
+jobs:
+  notify:
+    if: vars.ZEC_EXECUTOR == 'aws'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - name: Prepare notification queue
+        env:
+          BARK_PUSH_URL: ${{ secrets.BARK_PUSH_URL }}
+        run: python bark_alerts.py prepare
+      - name: Persist queue before sending
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- zec_v63_bark_state.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Checkpoint ZEC Bark alerts'
+            git push
+          fi
+      - name: Deliver queued notifications
+        id: deliver
+        env:
+          BARK_PUSH_URL: ${{ secrets.BARK_PUSH_URL }}
+        run: python bark_alerts.py deliver
+      - name: Persist delivery results
+        if: always() && (steps.deliver.outcome == 'success' || steps.deliver.outcome == 'failure')
+        run: |
+          if test -f zec_v63_bark_state.json; then
+            git add -- zec_v63_bark_state.json
+            if ! git diff --cached --quiet; then
+              git commit -m 'Save ZEC Bark delivery results'
+              git push
+            fi
+          fi
