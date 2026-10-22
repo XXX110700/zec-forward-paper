@@ -1,0 +1,5 @@
+{
+  "purpose": "AWS GitHub App transport validation only",
+  "strategy_executed": false,
+  "base_commit": "050c4bb7b5ad1d4af976fd560b7000f2f08470b4"
+}
