@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-22T21:33:26.320494+00:00",
-  "last_success_at": "2026-10-22T21:33:26.320494+00:00",
-  "status": "ok",
+  "checked_at": "2026-10-22T22:32:36.124186+00:00",
+  "last_success_at": "2026-10-22T22:32:36.124186+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 2
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -32,18 +32,18 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 25
+      "matched": 24
     }
   ],
   "items": [
     {
-      "id": "5320be312100b6efce5f",
-      "title": "Zcash Foundation Details Zebra Sync Fixes Ahead Of NU7 Release - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUnpNcUJRUVliYUNHeDY3RmpTZk5MU3hrcF9ZUHZKb1ZEdFllVkFhaTZjVWd0Qk1HQUdBM1BxZ1I5d3Fja2NDMjRTM1VCZU5KY3RKQVcwMGhzQ0J5bThvd3piV0Z4V3BDTS1uOUZOdDg2eWpZTlpWclRJRlY1cHlGemE3TWVXR2IyZFJ6NlZDWnZ1WHRZbTlqXzlRVXU0M0pCNDRUY3RtWTl1ZGdYRUN1ZndVaExNQWNidnk1ag?oc=5",
-      "source": "TradingView",
+      "id": "415dc1788c662effacc3",
+      "title": "Zcash Mining Calculator: ZEC Mining Profitability - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pSFNEZzROdUdTQmhtQ05qWFFMQXY0STJ4VzktVzhQOHdiLVNxUUtiNVZuM0R3ZXptSXZSdnZYOVEwWVpxNkIxVlpfaURsbTFkZjNDU3dFNk8zdw?oc=5",
+      "source": "CoinDesk",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-22T20:30:00+00:00",
+      "published_at": "2026-10-22T19:42:13+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -100,19 +100,6 @@
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
       "verification": "官方发布"
-    },
-    {
-      "id": "1bb0da496900523fe788",
-      "title": "温氏兄弟押注 Zcash：AI 时代隐私成稀缺资产，目标 1 万美元 - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQjg1Tm5hTGtQMURzc3EwcEJhS2w5d0tZajJyMXpwcGlJQW9KejRJUTEycldUakdrZzNCVmtGOElraDNSNVNKSy11M2lPXzJ4MFRJVjNkYjhBc2l2WGdlLV9lQzBlQy1hRWo3VmZVWVlNdWVXdVpWcW5wTjdjSV9JWWtQSTNKWWsyZHpPS19DenZmRzNsQk53b054eU5CUFRjQ1lwLUdn?oc=5",
-      "source": "富途牛牛",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T15:52:15+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
     },
     {
       "id": "c1aae54b55b5f6eea288",
@@ -206,13 +193,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "f8b0a539993bf11bdecc",
-      "title": "Why Zcash price is suddenly nearing $1,300 after weeks of investors pulling out - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNWV6ZS1ETFZUVE0tT1V5MVVEdHlMV1hPS0FoZzZJdmVub1ZXczd2bGRlLWhBaW9PN1FZWGxnUHFOalNEOXZsa3F2WTNCVm1aRmZpRl9QdzMtSmt6aExNYmpGcW1xdGd6NUcwNDBRQXphMkdXYjQ2TG1IQUNzaF9lZWsxRE5QOTF0ZVd1OTlPNW9OcllhbldJcWdfdTZnUXQzYzFfUllDMWc2TlVrU2d4RXpXYUFtcUY0YUFabU9qWUNvd2YxXzh0R2lfcTZsbFU?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
+      "id": "f7734ec6a88879c914d7",
+      "title": "温氏兄弟押注 Zcash：AI 时代隐私成稀缺资产，目标 1 万美元 提供者 智通财经 - 英为财情 Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TT3R0M0p5X1JsemluOTRHZkllOVdYeVZjTUwzYUtHSVVJSUcxNEk5UF8xeU1BWU8tdHdLeHFUa2kzNGE4eWNSTXd5c25RMTBNMjQ1WlNWNkRGTndqYVd0bFktLW1xOUdmdWNUT0JQYnc?oc=5",
+      "source": "英为财情 Investing.com",
+      "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-10-22T05:28:00+00:00",
+      "published_at": "2026-10-22T07:41:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -343,6 +330,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-22T00:20:32+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "f8b0a539993bf11bdecc",
+      "title": "Why Zcash price is suddenly nearing $1,300 after weeks of investors pulling out - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSk0zQ3dIc0RGTnptMWszU3RsLURSeDdkZGZKX0J4YXRxbWdZYkJ2a3ZUWUF4U0o4Vkh4aXdja01ZR1pveVNvckx1eC13Qzh4NFF0dXhsbFlEc2ZaRlZoMFpXMXdCOTdCVzhIS29ZM092X2ZQOUxtLUxxbEtPazVPalkxMEREQWkweFN6eG1RQkUyaHhxUVNVVWo3VER5YkdZaXZvSG82Zm5PQ2tYRFpoT0RsYnpfbkpoTDFjZ2xDaXRVdnBoLWNtYVk2Z2g4RVk?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-21T22:28:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
