@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-22T16:37:58.542152+00:00",
-  "last_success_at": "2026-10-22T16:37:58.542152+00:00",
+  "checked_at": "2026-10-22T17:33:29.766683+00:00",
+  "last_success_at": "2026-10-22T17:33:29.766683+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,19 +27,19 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 97
+      "matched": 98
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 24
+      "matched": 25
     }
   ],
   "items": [
     {
       "id": "fc11bd2657fb73d054cf",
       "title": "Zebra 7.0.0 Release",
-      "url": "https://zfnd.org/elementor-25636/",
+      "url": "https://zfnd.org/zebra-7-0-0-release/",
       "source": "Zcash Foundation",
       "feed": "Zcash Foundation",
       "kind": "official",
@@ -216,6 +216,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "78c1678abb239bd1c723",
+      "title": "NEAR、ZEC、DOGE 和 ETH 10月22日价格分析：意外出现的看涨浪潮 - 币界网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4ySWwzRjI4d1lYMG92Z3B3bkJMcHo0WExOSmNLYnRWZkxLVHFZTmxPQkZGUjVzSTM5ZVV6UkxneU9rdWxETUIyZDFQaHkxWWp4OVE?oc=5",
+      "source": "币界网",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T00:36:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -420,7 +433,7 @@
       "source": "Decrypt",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-21T15:04:14+00:00",
+      "published_at": "2026-10-21T15:04:45+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-21T09:17:44+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "ad024df5edabbce3c9e1",
-      "title": "ZEC Skyrockets by 13% in 24 Hours, BTC Price Reclaims $83K: Market Watch - CryptoPotato",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUUJ1RDE0OUhXVmNobXRrWlJKa3RIRm5sQmRtYms0NjB0TGU5eThPVUp4Q1BWbjRUUHhYMmx4cUdIUVMxS2QxUXFoYk9feTNteEhuOXNMdGtmekVOTkpYU094S1dSd3R1NlFDUjR0WU54bnJKTTlDVTZoaVRaMGZyc2ZYVG5TS0pjblZ2NS1vYk90MEVFS2xJYkJR?oc=5",
-      "source": "CryptoPotato",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-21T09:07:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
