@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-23T20:34:04.814327+00:00",
-  "last_success_at": "2026-10-23T20:34:04.814327+00:00",
+  "checked_at": "2026-10-23T21:33:31.100418+00:00",
+  "last_success_at": "2026-10-23T21:33:31.100418+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 26
+      "matched": 28
     }
   ],
   "items": [
+    {
+      "id": "6cc90ca52e92e2a563d6",
+      "title": "Bitcoin vs Zcash: BTC Wins on Safety, ZEC on Privacy [2026] - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KVEI1ZkdraENkWVRQTGdYbVNBTC14R0I2SGNKajktSkZGdlIyanM4RkllZE16RVJYUThDY21lWUlxSGlvaFNFb3dYNlNreXJLek9OX3dQbW9SeUhoN09xR09UV3JheHVySlRXMl9kRHY4bnRBQUdBYm8yMA?oc=5",
+      "source": "shattered.io",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-23T19:50:08+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "539e4724b749e305d3e6",
       "title": "Bitcoin or Zcash: Which Is the Better Buy After Zcash’s 26% Monthly Drop? - 24/7 Wall St.",
@@ -258,6 +271,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "f915dbbbfb23c26af577",
+      "title": "$1,300 reclaimed: Zcash (ZEC) price forecast as ETF inflow reaches 30-day high - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSjI4MW9sdjZwd3ZOWFQwWXNHX2FXUVJhZVZaUUJkLVQ1bEJ5eVVSbFpRWXE3RHRVQ25JOUh3X2MwTk5sXzkyVk15TlpRMzRhNXFsM3NXT0FNTFpnNFRsTFRDa0ZidXVxZVRNRWMxaEktQ2stV1h3cjRPVFV2RTJKRFdXRWdIZk4waEFWMVNua2R6bzJEWDVzUnVmSm9EWkpzTDRPUFIzRkRvOTVfN0NtUVM3VW4wQWM0TS1yTEZOcHBKMVNQM2ZUMHJrUmRwc2JMS0RR?oc=5",
+      "source": "www.tmgm.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-23T01:25:17+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "bbfa3ecb765855638f86",
       "title": "Zcash NU7: block 3,543,405, activation on November 6 - CryptoTicker",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOMVhsel9hQkc4ZGtuVVNqZjVoVVJfTEZSanpZaGJhZ0pfNXpJZDFiYjF0Sy1VSmUybURNMmNRTVNIbFBzWGY1RE54bGNQak1TV0lIYzFYMzh5cmVLeXFkdTc0TUpWUldZTENTU3NPaEJXblk?oc=5",
@@ -278,19 +304,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-10-22T22:57:41+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "5320be312100b6efce5f",
-      "title": "Zcash Foundation Details Zebra Sync Fixes Ahead Of NU7 Release - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUnpNcUJRUVliYUNHeDY3RmpTZk5MU3hrcF9ZUHZKb1ZEdFllVkFhaTZjVWd0Qk1HQUdBM1BxZ1I5d3Fja2NDMjRTM1VCZU5KY3RKQVcwMGhzQ0J5bThvd3piV0Z4V3BDTS1uOUZOdDg2eWpZTlpWclRJRlY1cHlGemE3TWVXR2IyZFJ6NlZDWnZ1WHRZbTlqXzlRVXU0M0pCNDRUY3RtWTl1ZGdYRUN1ZndVaExNQWNidnk1ag?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T20:30:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -466,6 +479,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "ff313b35d74d484d2e48",
+      "title": "Zcash NU7 升级：2.2 万枚 ZEC 面临软冻结 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjbThDa3BUbDdVRUtyTDdMbXN3Q1plNENnWnRmN2VyN3VsTWVEOXREZTNrVWw3NFNXSWJ4NzhqSzNKblVyOXEweUZHZEQ?oc=5",
+      "source": "凤凰网",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T07:51:01+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
       "id": "f8b0a539993bf11bdecc",
       "title": "Why Zcash price is suddenly nearing $1,300 after weeks of investors pulling out - TradingView",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNWV6ZS1ETFZUVE0tT1V5MVVEdHlMV1hPS0FoZzZJdmVub1ZXczd2bGRlLWhBaW9PN1FZWGxnUHFOalNEOXZsa3F2WTNCVm1aRmZpRl9QdzMtSmt6aExNYmpGcW1xdGd6NUcwNDBRQXphMkdXYjQ2TG1IQUNzaF9lZWsxRE5QOTF0ZVd1OTlPNW9OcllhbldJcWdfdTZnUXQzYzFfUllDMWc2TlVrU2d4RXpXYUFtcUY0YUFabU9qWUNvd2YxXzh0R2lfcTZsbFU?oc=5",
@@ -531,13 +557,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "da1a8fb8397f6768a070",
-      "title": "Can Zcash rally to $1,700 as institutional investors return? - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnJhZWFYR25HNnZNTjBIS2x4TWEyZjZmZTdnYWx3T0Q3YXhEYktNQVc5VzFyZERxb0kzZjR6bVVnak9hWFdWXzN1dHpMS1FkZWpiSHRzY3Vmdlg4OG1jSUtPcmxiTGNrRXZaV0t2bEtic0RCMTZIZVI3bGFIc0xtdmNINTVlRXNGdG1hekI4TzZoX1h6SjN2LTNlTVItRjBMdUxjX1lQakFPcFN0RDlBdW41OEFFazJqSGctSW9hU3llcF85WW9tNVdn?oc=5",
-      "source": "FXStreet",
+      "id": "18f62f24f50d40d377af",
+      "title": "Zcash Price Forecast: ZEC reclaims $1,300 as ETF inflow hits 30-day high - Mitrade",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMmZjZU03LW9CMDBrdE9mNTl0bndhdXBhRFdsNEVGWmFCdjRxRl8xSnhVMFRwUXMxX3k1aS1zVjQwcXBVTlUxZ09qeW1SQ2xoMWV1OGZxM24xdWxXUnNGSkJ0YlFUdS12VFhVN3A5Nk1TZUd4cUNnTTltTzAybGs2aHR2Yw?oc=5",
+      "source": "Mitrade",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-22T03:07:59+00:00",
+      "published_at": "2026-10-22T03:28:28+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -658,32 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "48bf262f463c2bc38d3e",
-      "title": "Zcash Sees Heavy Whale Activity with 29,798 Tokens in Longs - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LQjIzQjVkaXZJUFRYdGhieU1wSUE2b0dsWG1wc3BiSlp6aXFUVnFKNHdweWRiYS1Hb3NpUjl5b2pDZ0dUN3p2UEtwMDNoQWpDTVpJMXZWYkNhZw?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-21T18:27:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "3ab7c14139e1402551b9",
-      "title": "October 21, 2026: ZEC 15 min · 2:00–2:15 PM EDT Crypto Prediction Market - Robinhood",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3pNNTBPOXhJTjBhRWptY2ZsZi1RZ0dBd19zbHA2eU9TeXFvcl9nbWZCZlZPZTYwNnNETWk3d19YUGIxUURxOGVXWVdnWEVFSVdlYUtwaGxpZjM3WnhHQnhTczloQjdUOHpYckhwLXJSQk1jczZfN011bWRUVTlpS29ZR1U2dnhCaHNLQVIwaWM5WTlUaGwzV2Z6VTFhMjBIb1dv?oc=5",
-      "source": "Robinhood",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-21T18:06:45+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
