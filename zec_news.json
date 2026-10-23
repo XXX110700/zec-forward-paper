@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-23T13:42:26.919634+00:00",
-  "last_success_at": "2026-10-23T13:42:26.919634+00:00",
+  "checked_at": "2026-10-23T14:40:36.455157+00:00",
+  "last_success_at": "2026-10-23T14:40:36.455157+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,15 +27,28 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 95
+      "matched": 97
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 14
+      "matched": 24
     }
   ],
   "items": [
+    {
+      "id": "eb268db492be97ea822e",
+      "title": "Bitcoin’s Early Winners Want a Repeat With Zcash: 'It's Deja Vu All Over Again' - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjBOMHJtM3FmekxuU1FNbzlBelJwUkxPY293Q1ItaXZGTHI2LUh6TU4xVzAtdGo0cWFoSGhHVlFYX05Ja0d6VE5sakZ3cVhhWVNhbG9hdHNqbnhFQzVwbWlvblVvdGhFU3NrbFBwOGdXUHEwM1pFOEtySG5pT1FtdFJvZXNUR01MTmphVzd6QlNyVG9HT2J1bktTdGcwQWtFUlM2dTVUV0tuVUh2a1h1OUZxS3RRZzlvUkkwWGFSSnlxU3NjcGt4SjROYUFEMy1KcUE?oc=5",
+      "source": "Benzinga",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-23T14:17:25+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "bc16c8df2464d806a991",
       "title": "Zcash Price Prediction: ZEC Poised to Recover as $1,000 Support Holds Ahead of NU7 Launch - FXEmpire",
@@ -115,19 +128,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "f915dbbbfb23c26af577",
-      "title": "$1,300 reclaimed: Zcash (ZEC) price forecast as ETF inflow reaches 30-day high - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSjI4MW9sdjZwd3ZOWFQwWXNHX2FXUVJhZVZaUUJkLVQ1bEJ5eVVSbFpRWXE3RHRVQ25JOUh3X2MwTk5sXzkyVk15TlpRMzRhNXFsM3NXT0FNTFpnNFRsTFRDa0ZidXVxZVRNRWMxaEktQ2stV1h3cjRPVFV2RTJKRFdXRWdIZk4waEFWMVNua2R6bzJEWDVzUnVmSm9EWkpzTDRPUFIzRkRvOTVfN0NtUVM3VW4wQWM0TS1yTEZOcHBKMVNQM2ZUMHJrUmRwc2JMS0RR?oc=5",
-      "source": "www.tmgm.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-23T01:25:17+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "bbfa3ecb765855638f86",
       "title": "Zcash NU7: block 3,543,405, activation on November 6 - CryptoTicker",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOMVhsel9hQkc4ZGtuVVNqZjVoVVJfTEZSanpZaGJhZ0pfNXpJZDFiYjF0Sy1VSmUybURNMmNRTVNIbFBzWGY1RE54bGNQak1TV0lIYzFYMzh5cmVLeXFkdTc0TUpWUldZTENTU3NPaEJXblk?oc=5",
@@ -135,6 +135,32 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T00:13:35+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "26e80721c9c80a4bbe21",
+      "title": "$ZEC 突然暴涨，聊聊我的真实看法 今天打开行情，直接被ZEC惊... - OKX",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5bEkzY0R0aUVNclR1WVIxNVlVWnpvaHVnZ2VhaDdCSUQtakdsOGJHcWNzalFVcXJHd2s3TzE1eDIwd1gtOTFfYXd5dzBGclNMTG1qNkhDX1R1RnJ6b0I5cWg3U00?oc=5",
+      "source": "OKX",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T22:57:41+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "5320be312100b6efce5f",
+      "title": "Zcash Foundation Details Zebra Sync Fixes Ahead Of NU7 Release - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUnpNcUJRUVliYUNHeDY3RmpTZk5MU3hrcF9ZUHZKb1ZEdFllVkFhaTZjVWd0Qk1HQUdBM1BxZ1I5d3Fja2NDMjRTM1VCZU5KY3RKQVcwMGhzQ0J5bThvd3piV0Z4V3BDTS1uOUZOdDg2eWpZTlpWclRJRlY1cHlGemE3TWVXR2IyZFJ6NlZDWnZ1WHRZbTlqXzlRVXU0M0pCNDRUY3RtWTl1ZGdYRUN1ZndVaExNQWNidnk1ag?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T20:30:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -242,6 +268,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "41e2ae83b3cfe8275f45",
+      "title": "灰度指数：Zcash ETF日 $14.2M 流入 - blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUF9rcU55M3JmcjVVb2RfLXgxV2FXZlVmOTJjOGN3R252ajZ2RERHWW1UcFFuckF4OTNBbW1qWW9mTzlwcWphVlBuM3hxMGlXX2hkZ3pYS1dpbUVyUG9VaEZ4YnBOZzlZOXFFbjNscnZIT01Da1JWNjRQZUpzNzZqcXItV3ZsdXdvRFhJ?oc=5",
+      "source": "blockchain.news",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T14:21:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -645,45 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "4adfc2264c55124399b5",
-      "title": "Zodl Vault plans beta access in groups of 100 for Zcash holders - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wa1hhS1R3WENkNUlxYU50QmdxOFhnWlQ2ei0yQU5mZ0cwdHlDYnBsR05hN0RsSlcwSzhDYUx1YmJZbjJST2RoQU9BaUpQdC1iZk1oR3hZbWJXQQ?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-21T15:56:26+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "944b7fbf6f0e95690b79",
-      "title": "Zcash (ZEC) Rises to a 9-Day High as Whales Bet on Further Gains: Details - CryptoPotato",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZGF5VVZZNS1hV2h0VFdhY0E1TF90MU9pRjJjWXNLcm12Y2M2dzIyckN4V0xpM0J0TVJwVFRaRXJad0hTT2pRVHFuc0Q1eVIzckZpV0FxRUFhQU9ydmRRaHlhVjBmM0V3ZTZud242SkZFY0QzdXE2YWdCSHY4bFhBUEdmYkQxR1NOMWI2cG91ZlljaXJpRGMwU042dE8?oc=5",
-      "source": "CryptoPotato",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-21T15:50:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "908d99d14a4581370a75",
-      "title": "Zcash Upgrade Will Triple Payment Speeds - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQUhfTnFLc1ZkdWVMYUFtYURkaVJGWjF1SThLdW1UVTdtTjU0UFRiQ050QWF2ZFpPcllodHNuZVcyU3pGNFhtbG81c004U05qLXlEMUI5Sl9HZkVGVkxMWlBTbEloRWh1TzhUejNYazlaemVsUUZaczVBaU9nMUlCZTVXd2NmMVhlckRSa3k0REIyT2RnLVMxTV9nLVh1Nm5aVmc?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-21T14:26:00+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
