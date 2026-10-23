@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-23T07:45:18.530901+00:00",
-  "last_success_at": "2026-10-23T07:45:18.530901+00:00",
+  "checked_at": "2026-10-23T08:37:20.208321+00:00",
+  "last_success_at": "2026-10-23T08:37:20.208321+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 95
+      "matched": 96
     },
     {
       "name": "Google News 中文",
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "281b28ef38eeaa3b1931",
+      "title": "Why is ZEC price back in focus as ETF inflows and NU7 support demand? - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT3BWS3otTnFYS2hXWlJ5UXhHTDZxMG1HRjh3ZldxclNLRTZHdzZJVjhRZV95cllhR3NzUGZLNkptbXh1Unpka0l3RXZ2OUUxaEFqdGhvMV9tV21JclI3OHdJZ21kR0dmZHIyZF9NV1VZb2NRVDhaMWFOa1BZcmlnZzB5ejQ4alVKN055MDJiT19TQ09tYU9fM280dWJFanJLRkNSenZFV3gwT2p3SWRPTDczSVg4OFNkVzZ4WWRadmdYaUJwNUww?oc=5",
+      "source": "FXStreet",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-23T06:26:03+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "50e166f3917a847d9c87",
       "title": "Why is Zcash price down today? ZEC open interest falls 12% - Crypto News",
@@ -83,19 +96,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-10-22T22:57:41+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "5320be312100b6efce5f",
-      "title": "Zcash Foundation Details Zebra Sync Fixes Ahead Of NU7 Release - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUnpNcUJRUVliYUNHeDY3RmpTZk5MU3hrcF9ZUHZKb1ZEdFllVkFhaTZjVWd0Qk1HQUdBM1BxZ1I5d3Fja2NDMjRTM1VCZU5KY3RKQVcwMGhzQ0J5bThvd3piV0Z4V3BDTS1uOUZOdDg2eWpZTlpWclRJRlY1cHlGemE3TWVXR2IyZFJ6NlZDWnZ1WHRZbTlqXzlRVXU0M0pCNDRUY3RtWTl1ZGdYRUN1ZndVaExNQWNidnk1ag?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T20:30:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -232,19 +232,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "b193ec544d4c52363e57",
-      "title": "Zcash Price Forecast: ETF inflow reaches 30-day high as ZEC regains $1,300 - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN0JNYmszVEhoeGJucFM3SFhlMVRLWFMxd19nM2RDOHFSQkRrQ0hXaTRRX3p5Y1EybkU3V2p2MGhoZ0pnaF90amlfRmNNZnhRbUIyZkYtVzVrak05YS1TcTZ6MzBoN3FWUHNJZUtjOXE5eS0xN3cxV2hNSXFsUGY0QXRhXzluODBrQXdydUJKV0NfYWlKTGltbGlMM1R4SFE5MmpsTGQyQkxLWTJtMkdGdHFTcFVxajgxYS1ibHJ6Z1dlekw5UEtUdUhDcjliTXdseWxXTnNn?oc=5",
-      "source": "www.tmgm.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T12:37:30+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "4b40a7d54d81ebae769a",
       "title": "BTC, HYPE, and ZEC Ready for a Rebound? Analyst Explains Why - CryptoRank",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDBjVzNWbk81R2V6Y1NnOVhScHB5ZE0wTlFwcmRpLXhxb25XVWtQeXZ4OXRDMEFTNFJrQVRhWTAwX1pfaWVvdGpYTmpUWmJNU2MwQmR4QlJsZGI0V2JEVGhOMi1acFQxMnpiWEo4a0VkWloybTFFTXVZQjNxeEp0SnphcERPa1JmeW1ucENpNWo0eFo2bWFHQnFtWQ?oc=5",
@@ -330,19 +317,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-22T04:22:27+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "bc0fbc6f69d81e646841",
-      "title": "Zcash Price Forecast: What next as ZEC regains $1,300 and ETF inflow reaches 30-day high? - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObTNtaFFJSDBEdXhoelZQUDBPcTRaczRNQnJLSjNUNTM5X3hla0NDYWtCQzYtLUFycEhtNlhqcFN1QzVsdndYczVDRUZjVHpYaVpPSFo3ME1YcE11X0ctMmpOYjdHREcxcVpHeXd5ZVMyT3JhU19YQ0JRT2JaWFp2ckxfVmRjazF4N3pMV3VnNm5WSzl3aklRX1V6TVJSOFRpTnhDY1VXMHJkcERzSnV4eEdmMVVpeThNNXB6M0lsODFUSThRbjZ0ZXI2dEdMc3d6OVB1Uy1B?oc=5",
-      "source": "www.tmgm.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T04:09:16+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -544,6 +518,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "320d4561461bf0e3a117",
+      "title": "Zcash Price Rallies as NU7 Upgrade Nears: Can ZEC Price Mark New ATH Above $1700? - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0I0NWVTTHp6SWFvRk5zeG4tZzhqano5NmRmMnZVOWozRzZrZlJHLUN3RThVdGV4VEI0YmJtNmFIZGZ2bmY2VGdvN0pLcWNlUURfTS1Neld6bWw4R0lEd2hXTjRRSmdQMWdwSFh2Y3lFekRBcTUzYVBtWWYzSi1TZ1VoamNiWXZFTk82dXl3azFZd1E0Wmw4ckxKVXN1bTczbzczRjMyT0ptbVJIaTRMUE1GQ3RzWlk?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-21T17:28:14+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
       "id": "a991b1ff28e3dc20d303",
       "title": "Zcash Sprout Holders Have Two Weeks to Move Their ZEC - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc3F4cTg2b3plN1R4dGFhR1ZoSkRYWmFVZ0JyTlB6RXlaMW85dEZLS3RYOEdRVUtFNzVjZFNDY1dtTXNMb1laUW1HaklReXMyOUhRZzhVbU5YLUFzQzJjczNRT3A3bEdwM1hlaFJkR09PcW1jZUlMYmRmb2lmWGpqWjZCY2xKTFpGRVhzUHFpTFFJWDJEcjBDZEhIMA?oc=5",
@@ -684,6 +671,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "0c9441cfa2d6d8d1412a",
+      "title": "Crypto Rises With Asian Tech Stocks, Zcash Extends Gain After Setting Upgrade Date - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTHZkYXZ1Tmk2UUVqcWJxWl9TQnJsSXI0dDZKTTNhTFoyS3hPV0Y3UGI4bmNSNkUtVTVRVU1xRVJXcHNJdTdVYndGNmJBMFRFM0J2dHBZeTR0bnJudlg3c2hURUhBV2lQa0YtTzd2VmtKemJFZE9IU1c0R05qOGdyV2N1ZGhQSUNuUTdLam9VV0JDaXFocXNzWnNQWjJRZk5uRmJ1R0FB?oc=5",
+      "source": "富途牛牛",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-21T13:34:51+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
