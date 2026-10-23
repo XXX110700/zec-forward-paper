@@ -1,0 +1,34 @@
+name: ZEC isolated historical recovery
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: zec-isolated-recovery-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  prepare-and-replay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - run: python -m unittest discover -s tests -v
+      - name: Prepare public historical data package
+        run: python recover_paper.py prepare --directory recovery-artifacts
+      - name: Replay into isolated candidate only
+        run: python recover_paper.py replay --directory recovery-artifacts
+      - name: Upload recovery package for review
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: zec-isolated-recovery-${{ github.run_id }}
+          path: recovery-artifacts/
+          if-no-files-found: ignore
