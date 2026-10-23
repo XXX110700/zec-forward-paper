@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-23T21:33:31.100418+00:00",
-  "last_success_at": "2026-10-23T21:33:31.100418+00:00",
+  "checked_at": "2026-10-23T22:33:06.083444+00:00",
+  "last_success_at": "2026-10-23T22:33:06.083444+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 28
+      "matched": 26
     }
   ],
   "items": [
+    {
+      "id": "6a8c6538a1d9cabac9be",
+      "title": "Zcash jumps 9% as investors treat its privacy ledger as a Bitcoin hedge - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPazMzdGVzN0EtZ0dtSmNuay1taWhvZHdOMGxjam5MSEJmNnVOZURwTF9RU3N1Q3RIRnV1bUJUSElyVlhJLWl3aG1rQV80MEJITkxkY244ZFlaX3NZSXoySG9BYU9WeHpoUkJPbVBXWjJwX09xMS1YeHRzS09tRzFTZjIxUlgyelF1cmQ5WnJ3dXZ0Y190cXphVDFIRkc2STQ?oc=5",
+      "source": "Startup Fortune",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-23T21:07:31+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "6cc90ca52e92e2a563d6",
       "title": "Bitcoin vs Zcash: BTC Wins on Safety, ZEC on Privacy [2026] - shattered.io",
@@ -44,6 +57,32 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T19:50:08+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "08e1fc391c6d211f94be",
+      "title": "Bitcoin or Zcash: Which Is the Better Buy After Zcash’s 26% Monthly Drop? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUnluV3VoNy04blIzZGZFWi12Mk5JejFDSHd6VXhJZWRRUWp2Wll6VXhHdVRHcjFiSG5BNk1nLTNJMFFhT1FuQVpDcllDajJVT1JvaGxqaGotQ3lDbVBoSmllZnp2eW9qQXFXd1R2ZHhEcDZSV09TOVJiaEI2RTVMdmRJZFpmc1ZmYWRicWZXN2RxcUl6dmZaTFNiVQ?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-23T19:30:21+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "118c0c05fdc8af63aa3c",
+      "title": "Bitcoin or Zcash: Which Is the Better Buy After Zcash’s 26% Monthly Drop? - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYaWdhQ2NPd1hBd3I1a0l3VEVfR244elRlLVRIbUJXbTNMU3FuV0k4YlpVWVYyQW5Yb1Z6elJYOUNYR1dFQkdMVEpjYTA0VkdHd1NXcEdvcE1zVFF6UXRvYW0zVGp1Y01Ob0NkMHRNanZTbkJPMG1qcDVVaDZVOEE?oc=5",
+      "source": "AOL.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-23T19:30:21+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -190,19 +229,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：launch",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "95fdebdf1c7afd03c604",
-      "title": "Monero (XMR) Gains Attention, Zcash (ZEC) Faces Wild Swings, and More: Bits Recap October 23 - CryptoPotato",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSXFocTNXdlFqY0t6cXpJcWNBallBZGtTeVFjRk85TXpYWm05c3dwempWeXEtdnUzeE52d0Q0clJabUtzRFlaX1kyOXhWZnVoN0dNV2Jha3JaenQtM0h6bHRzRU5kbVFGVmIyMzVzTzRrNVRYRGMtRWpleHotelpFTXJOTWozUVRUTjkzazJMNjFKWFZVaUV1YWtNVWdzLW80OHNLYVVxckc3UmJIZEVpRg?oc=5",
-      "source": "CryptoPotato",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-23T11:45:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -479,19 +505,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "ff313b35d74d484d2e48",
-      "title": "Zcash NU7 升级：2.2 万枚 ZEC 面临软冻结 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjbThDa3BUbDdVRUtyTDdMbXN3Q1plNENnWnRmN2VyN3VsTWVEOXREZTNrVWw3NFNXSWJ4NzhqSzNKblVyOXEweUZHZEQ?oc=5",
-      "source": "凤凰网",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T07:51:01+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
       "id": "f8b0a539993bf11bdecc",
       "title": "Why Zcash price is suddenly nearing $1,300 after weeks of investors pulling out - TradingView",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNWV6ZS1ETFZUVE0tT1V5MVVEdHlMV1hPS0FoZzZJdmVub1ZXczd2bGRlLWhBaW9PN1FZWGxnUHFOalNEOXZsa3F2WTNCVm1aRmZpRl9QdzMtSmt6aExNYmpGcW1xdGd6NUcwNDBRQXphMkdXYjQ2TG1IQUNzaF9lZWsxRE5QOTF0ZVd1OTlPNW9OcllhbldJcWdfdTZnUXQzYzFfUllDMWc2TlVrU2d4RXpXYUFtcUY0YUFabU9qWUNvd2YxXzh0R2lfcTZsbFU?oc=5",
@@ -499,19 +512,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-22T05:28:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "539303b2f7717e2706f6",
-      "title": "Crypto Rallies, ZEC Soars, Tokenization Headwinds & Pump Signs Kimchi - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTd6NWlhc2ZpdXluUkdaWnZmcU9FWXdlUVVxTWJSX0Z3SnNYcEVOU2dwSmtHRHNzQzByeGRxYlpsZ0ROME5jYjhHakpYWFBpX0NFYXFkbUQ3ZUFLX1R4NldDeWJETVh3aEZPNVlJYWZWblRMeHNNSk1VOGNKcFZqNU1ucnFKQlZUQ3dMZlduaTNERGZEMjh4TTZucUZLWGFaRDVLSlRiNE5FM3VNazdBaDg1Yw?oc=5",
-      "source": "Decrypt",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T04:54:19+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
