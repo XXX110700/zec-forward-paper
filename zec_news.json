@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-23T12:40:13.104519+00:00",
-  "last_success_at": "2026-10-23T12:40:13.104519+00:00",
+  "checked_at": "2026-10-23T13:42:26.919634+00:00",
+  "last_success_at": "2026-10-23T13:42:26.919634+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,15 +27,54 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 96
+      "matched": 95
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 26
+      "matched": 14
     }
   ],
   "items": [
+    {
+      "id": "bc16c8df2464d806a991",
+      "title": "Zcash Price Prediction: ZEC Poised to Recover as $1,000 Support Holds Ahead of NU7 Launch - FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNU95ZXdWV0ZSNDluUm9IeEVzRlNvc20xTU1yUjF2MjNkNEU5RU1lV0FJVDNfR1JaU1ZhZ0ZfR0JqY0tzSkNNM2dIa0NoczNBcTd2cHpMNEdycXhVRi1TOUtTR0tQamxKZXdTZ01CNDNpRTZxNkxXY1JDMlB2UEtpMmJ1ZUVnVDhDUlB5V3lmRU5nSENDZms3X0xGMm5leE5IV3VmWXlrc3Z0Yi1Qcl90czZMQVN2T0hOeGtfRFcxRXZBU3pYcE91eF84czN3SG4ySEJN?oc=5",
+      "source": "FXEmpire",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-23T13:34:44+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：launch",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "95fdebdf1c7afd03c604",
+      "title": "Monero (XMR) Gains Attention, Zcash (ZEC) Faces Wild Swings, and More: Bits Recap October 23 - CryptoPotato",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSXFocTNXdlFqY0t6cXpJcWNBallBZGtTeVFjRk85TXpYWm05c3dwempWeXEtdnUzeE52d0Q0clJabUtzRFlaX1kyOXhWZnVoN0dNV2Jha3JaenQtM0h6bHRzRU5kbVFGVmIyMzVzTzRrNVRYRGMtRWpleHotelpFTXJOTWozUVRUTjkzazJMNjFKWFZVaUV1YWtNVWdzLW80OHNLYVVxckc3UmJIZEVpRg?oc=5",
+      "source": "CryptoPotato",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-23T11:45:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "e474fb3205cddb127042",
+      "title": "Zcash Fund Draws $15.2 Million As October Flows Stay Negative - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV3FCWmtDSjYzcW1zeXJSXzB5ekNTSWJfT01lYmRHdjY4MTcyV3J6Sm83cU81TWIwbzgxbkF3aUx4WHdrdERRZ1JmN0tLblJ5bS1kTk5WRWxpNmZlYlExM0IzR0JiOEtNUlBqUnE5RW44TXFMR2RIVnNqbGlHMnJ0ZlAtbThNNzBMcE4tN29SQ1d6aXByZzlmV0NPNG1pR091bDBqT1FKUXFsODc3QkpZWHozNDhveWJpUEE?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-23T09:45:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "281b28ef38eeaa3b1931",
       "title": "Why is ZEC price back in focus as ETF inflows and NU7 support demand? - FXStreet",
@@ -99,32 +138,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "26e80721c9c80a4bbe21",
-      "title": "$ZEC 突然暴涨，聊聊我的真实看法 今天打开行情，直接被ZEC惊... - OKX",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5bEkzY0R0aUVNclR1WVIxNVlVWnpvaHVnZ2VhaDdCSUQtakdsOGJHcWNzalFVcXJHd2s3TzE1eDIwd1gtOTFfYXd5dzBGclNMTG1qNkhDX1R1RnJ6b0I5cWg3U00?oc=5",
-      "source": "OKX",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T22:57:41+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "232846f5c6d5208c4bf2",
-      "title": "Zcash releases Zebra 7.0.0 as NU7 node upgrade deadline approaches - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaRFZRR2txbmkyTlBFQ0JzY2VGVTlUMXpxZjc3VmhsYjBJaTNQZ21VTU1YVnozb1Z6d19OQ1JFcmhPUl9oUHN3a2labkQ2bnBvSWoxbWZtQjlyZw?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T20:45:08+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -206,6 +219,19 @@
       "verification": "官方发布"
     },
     {
+      "id": "1bb0da496900523fe788",
+      "title": "温氏兄弟押注 Zcash：AI 时代隐私成稀缺资产，目标 1 万美元 - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQjg1Tm5hTGtQMURzc3EwcEJhS2w5d0tZajJyMXpwcGlJQW9KejRJUTEycldUakdrZzNCVmtGOElraDNSNVNKSy11M2lPXzJ4MFRJVjNkYjhBc2l2WGdlLV9lQzBlQy1hRWo3VmZVWVlNdWVXdVpWcW5wTjdjSV9JWWtQSTNKWWsyZHpPS19DenZmRzNsQk53b054eU5CUFRjQ1lwLUdn?oc=5",
+      "source": "富途牛牛",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T15:52:15+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "c1aae54b55b5f6eea288",
       "title": "Zcash Crypto Jumps 12% as NU7 Upgrade Nears: Can ZEC Hit $1,300? - CryptoRank",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTGFLREx2RndMNGZuNGlfMHNMMWpzTy1QOUdwNDJ0VWFWVFV2aGpSelFnbnRReVJUSGhoeVR5SEdTM09fNm8zSG9IUjNRMGdkWXVWdjdRaEh5ZWJOaVJISmpScVFualNMLVhjT3g3YjNMQVZHTGFTOFhJOURvZjBQeUJMbDVDNGd3RThxeHVEYnAyQlhrM1VwSGRYOFlSQQ?oc=5",
@@ -216,19 +242,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "41e2ae83b3cfe8275f45",
-      "title": "灰度指数：Zcash ETF日 $14.2M 流入 - blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUF9rcU55M3JmcjVVb2RfLXgxV2FXZlVmOTJjOGN3R252ajZ2RERHWW1UcFFuckF4OTNBbW1qWW9mTzlwcWphVlBuM3hxMGlXX2hkZ3pYS1dpbUVyUG9VaEZ4YnBOZzlZOXFFbjNscnZIT01Da1JWNjRQZUpzNzZqcXItV3ZsdXdvRFhJ?oc=5",
-      "source": "blockchain.news",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T14:21:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -304,19 +317,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-10-22T08:00:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f260015eafea22168b22",
-      "title": "温氏兄弟押注 Zcash：AI 时代隐私成稀缺资产，目标 1 万美元 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xcUdqN2c0TkdIRGxzWVltTzlRaUplRGtxRjF4bXhsUUFwckRwcHhGWUxrMjhycEJpTVFpZ0E4UlBqNkxQajBTRTRtZTg?oc=5",
-      "source": "凤凰网",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T07:41:21+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
