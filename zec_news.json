@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-22T23:32:21.362751+00:00",
-  "last_success_at": "2026-10-22T23:32:21.362751+00:00",
+  "checked_at": "2026-10-23T00:46:06.290606+00:00",
+  "last_success_at": "2026-10-23T00:46:06.290606+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 24
+      "matched": 25
     }
   ],
   "items": [
+    {
+      "id": "bbfa3ecb765855638f86",
+      "title": "Zcash NU7: block 3,543,405, activation on November 6 - CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOMVhsel9hQkc4ZGtuVVNqZjVoVVJfTEZSanpZaGJhZ0pfNXpJZDFiYjF0Sy1VSmUybURNMmNRTVNIbFBzWGY1RE54bGNQak1TV0lIYzFYMzh5cmVLeXFkdTc0TUpWUldZTENTU3NPaEJXblk?oc=5",
+      "source": "CryptoTicker",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-23T00:13:35+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "232846f5c6d5208c4bf2",
       "title": "Zcash releases Zebra 7.0.0 as NU7 node upgrade deadline approaches - Cryptonews.net",
@@ -60,6 +73,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "0a6aaa880f755e4e1ffb",
+      "title": "Zcash Nears $1,300 as Grayscale ETF Pulls in $15.18 Million and Futures Open Interest Hits $2.89 Billion - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfRm1mc2E4bnZ3R2hsUll5blVnMVpZNS1oSVhYWVdyNXo0dkpodDlONzVIam5LLW5rS3U3NVhSNnVSdU5GelBodXFNQlV0bFdjOG5naGtIYjA5NERUZTFaRTN2dlRrYkV1dk9WYV84XzMxZFpwVGc?oc=5",
+      "source": "BigGo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T18:26:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -304,19 +330,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-22T00:20:32+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1dbdbc7f3d8047095e2f",
-      "title": "Zcash Price Prediction: NU7 Targets November 5 as ZEC Rallies and Remittix Counts Down to November 24 - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWJaMmxpR28wMzExWE9DQVo4c0Y0SkhIZzBIdVZiRzAtRnFEc2tUdkd1cXc1cFJVQ1NRYkRhZGFfUmwwdzV5M1FiTEp0RkpsLUVkQzhDUFJaVXhLdDRPV2h6cFRkU3ZkWjN6Y2tQUEdiQzhDZUhIRWFJeVhLaVpON0VRR0p2ZE1TOVU1blZSQUJNRGlKelNfTEZManJFeFBiaFlmc1I2TXVZMTZ2a243UnBXQnpNdjFJNmhYajA3MlQxYkU?oc=5",
-      "source": "TechBullion",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-21T22:20:33+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1f0ecd1567aee66eb357",
-      "title": "Zcash developers select November 5 target for NU7 upgrade with 25-second blocks - Crypto News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11VUhUMEtMRXZFZHRMNVRaVXlzLWplMk1GSFVrdW5fcnBQSEdUZWp1RDd3cHd2ODJJbERkSzVoSWxxejBRQ3Z1TDFpcnphdGZSV0NXS29FZ0htdzRGSVA5SzlBZXNBQ0pEOVJISjlzYlZ0NmhGRTk0dw?oc=5",
-      "source": "Crypto News",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-21T09:44:59+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
