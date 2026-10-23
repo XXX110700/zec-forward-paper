@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "checked_at": "2026-10-23T15:38:11.222195+00:00",
-  "last_success_at": "2026-10-23T15:38:11.222195+00:00",
-  "status": "partial",
+  "checked_at": "2026-10-23T16:38:31.782015+00:00",
+  "last_success_at": "2026-10-23T16:38:31.782015+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
-      "status": "error",
-      "error": "ReadTimeout"
+      "status": "ok",
+      "matched": 0
     },
     {
       "name": "Zcash Foundation",
@@ -27,12 +27,12 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 97
+      "matched": 96
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 14
+      "matched": 24
     }
   ],
   "items": [
@@ -154,19 +154,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "f915dbbbfb23c26af577",
-      "title": "$1,300 reclaimed: Zcash (ZEC) price forecast as ETF inflow reaches 30-day high - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSjI4MW9sdjZwd3ZOWFQwWXNHX2FXUVJhZVZaUUJkLVQ1bEJ5eVVSbFpRWXE3RHRVQ25JOUh3X2MwTk5sXzkyVk15TlpRMzRhNXFsM3NXT0FNTFpnNFRsTFRDa0ZidXVxZVRNRWMxaEktQ2stV1h3cjRPVFV2RTJKRFdXRWdIZk4waEFWMVNua2R6bzJEWDVzUnVmSm9EWkpzTDRPUFIzRkRvOTVfN0NtUVM3VW4wQWM0TS1yTEZOcHBKMVNQM2ZUMHJrUmRwc2JMS0RR?oc=5",
-      "source": "www.tmgm.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-23T01:25:17+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "bbfa3ecb765855638f86",
       "title": "Zcash NU7: block 3,543,405, activation on November 6 - CryptoTicker",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOMVhsel9hQkc4ZGtuVVNqZjVoVVJfTEZSanpZaGJhZ0pfNXpJZDFiYjF0Sy1VSmUybURNMmNRTVNIbFBzWGY1RE54bGNQak1TV0lIYzFYMzh5cmVLeXFkdTc0TUpWUldZTENTU3NPaEJXblk?oc=5",
@@ -174,6 +161,32 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T00:13:35+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "26e80721c9c80a4bbe21",
+      "title": "$ZEC 突然暴涨，聊聊我的真实看法 今天打开行情，直接被ZEC惊... - OKX",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5bEkzY0R0aUVNclR1WVIxNVlVWnpvaHVnZ2VhaDdCSUQtakdsOGJHcWNzalFVcXJHd2s3TzE1eDIwd1gtOTFfYXd5dzBGclNMTG1qNkhDX1R1RnJ6b0I5cWg3U00?oc=5",
+      "source": "OKX",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T22:57:41+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "5320be312100b6efce5f",
+      "title": "Zcash Foundation Details Zebra Sync Fixes Ahead Of NU7 Release - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUnpNcUJRUVliYUNHeDY3RmpTZk5MU3hrcF9ZUHZKb1ZEdFllVkFhaTZjVWd0Qk1HQUdBM1BxZ1I5d3Fja2NDMjRTM1VCZU5KY3RKQVcwMGhzQ0J5bThvd3piV0Z4V3BDTS1uOUZOdDg2eWpZTlpWclRJRlY1cHlGemE3TWVXR2IyZFJ6NlZDWnZ1WHRZbTlqXzlRVXU0M0pCNDRUY3RtWTl1ZGdYRUN1ZndVaExNQWNidnk1ag?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T20:30:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -284,6 +297,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "41e2ae83b3cfe8275f45",
+      "title": "灰度指数：Zcash ETF日 $14.2M 流入 - blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUF9rcU55M3JmcjVVb2RfLXgxV2FXZlVmOTJjOGN3R252ajZ2RERHWW1UcFFuckF4OTNBbW1qWW9mTzlwcWphVlBuM3hxMGlXX2hkZ3pYS1dpbUVyUG9VaEZ4YnBOZzlZOXFFbjNscnZIT01Da1JWNjRQZUpzNzZqcXItV3ZsdXdvRFhJ?oc=5",
+      "source": "blockchain.news",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T14:21:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "381a785ffd8870a9b21c",
       "title": "Zcash ETF (Derivatives)(ZCSH) 币价，图表，市值以及其他指标 - CoinMarketCap",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Db1VaQnZVZ0hGcDNzeXVJMjJQNGYwVEJjVWotVEEyWTQ5MGNtRzR0bno3QkNvbHJwNUdYTDhqLS1NTzdKVXdqODFWdGJmc1NUcXdTazJfV0wtamR1bm1zbl83WU1CNkxsN1l5YVhrSQ?oc=5",
@@ -375,6 +401,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "539303b2f7717e2706f6",
+      "title": "Crypto Rallies, ZEC Soars, Tokenization Headwinds & Pump Signs Kimchi - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTd6NWlhc2ZpdXluUkdaWnZmcU9FWXdlUVVxTWJSX0Z3SnNYcEVOU2dwSmtHRHNzQzByeGRxYlpsZ0ROME5jYjhHakpYWFBpX0NFYXFkbUQ3ZUFLX1R4NldDeWJETVh3aEZPNVlJYWZWblRMeHNNSk1VOGNKcFZqNU1ucnFKQlZUQ3dMZlduaTNERGZEMjh4TTZucUZLWGFaRDVLSlRiNE5FM3VNazdBaDg1Yw?oc=5",
+      "source": "Decrypt",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T04:54:19+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "1c20a444d4974d5302d9",
       "title": "Cryptocurrencies Price Prediction: Cardano, Ripple & Zcash – European Wrap 22 October - FXStreet",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOEVCSW4wdGJUcnZBQ3RPWFBkSzZQYnlnaEcyUHJzNm55bkhnQWdhaDZmS2ViTlJWWl9NbzctT0NaSTFhM3F0RnphZTJvZ3pPb0NsWnY1SlpwRGZ2aS1IRzd0REVvMXZONFd3YndMdHhJd2c3ME81Y3VPa24teHF5Si1TeEFBODVwUTdCSk5CMXoyaWZuTWlncjNtZFRjT3c2dWRvWGpWNXFMY1VMc1ZsaExua0dzdFI0dGJ0c3phSVpTb2ZoanMxR2J0U3ZzSzlGUVVSYU1B?oc=5",
@@ -382,6 +421,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-22T04:22:27+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "bc0fbc6f69d81e646841",
+      "title": "Zcash Price Forecast: What next as ZEC regains $1,300 and ETF inflow reaches 30-day high? - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObTNtaFFJSDBEdXhoelZQUDBPcTRaczRNQnJLSjNUNTM5X3hla0NDYWtCQzYtLUFycEhtNlhqcFN1QzVsdndYczVDRUZjVHpYaVpPSFo3ME1YcE11X0ctMmpOYjdHREcxcVpHeXd5ZVMyT3JhU19YQ0JRT2JaWFp2ckxfVmRjazF4N3pMV3VnNm5WSzl3aklRX1V6TVJSOFRpTnhDY1VXMHJkcERzSnV4eEdmMVVpeThNNXB6M0lsODFUSThRbjZ0ZXI2dEdMc3d6OVB1Uy1B?oc=5",
+      "source": "www.tmgm.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T04:09:16+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -434,19 +486,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-10-22T01:49:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "95e16f42b0705f7403c2",
-      "title": "David Hoffman Forecasts Zcash at 10% of Bitcoin's Market Cap - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Pd2l1TVNZaElyOEhDdldtRklPT1VfUWR3SkpTZHNVUndTSkxaQTE3MHNMZ0lIQS01bV9vc3V6X056bVU4N0N5UnI1TmlQdzV1d0VtNmItWmhaUQ?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T01:22:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -557,6 +596,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "3ab7c14139e1402551b9",
+      "title": "October 21, 2026: ZEC 15 min · 2:00–2:15 PM EDT Crypto Prediction Market - Robinhood",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3pNNTBPOXhJTjBhRWptY2ZsZi1RZ0dBd19zbHA2eU9TeXFvcl9nbWZCZlZPZTYwNnNETWk3d19YUGIxUURxOGVXWVdnWEVFSVdlYUtwaGxpZjM3WnhHQnhTczloQjdUOHpYckhwLXJSQk1jczZfN011bWRUVTlpS29ZR1U2dnhCaHNLQVIwaWM5WTlUaGwzV2Z6VTFhMjBIb1dv?oc=5",
+      "source": "Robinhood",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-21T18:06:45+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "af494d5511dce03765a1",
       "title": "Zcash Jumps 6% to $1,285 Even as Grayscale's ZCSH Sheds $115.5 Million in October - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Dd2liRnU4NFpDTEo0a05sc0xRdGw5MDFEbnFzRnItQ0dtamdGUHhPOGhMcVl5ZTZiUUVmNU9iQ2xYcktCeVhBTkxsQ2lMTEwtbGVNYzg1QXcxQ3ExTEdERU9KQU5kaFdpdTFxOHUtclpja0tmSkE?oc=5",
@@ -629,58 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-21T16:06:34+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "586b89d2a896784080fa",
-      "title": "Zcash Price Prediction: ZEC Just Jumped 12% in a Day. Can It Get Back to $1,500? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNckp5MmVJQTNucW1CWmJmdElNWHQ0UFQ3WG1GYVA0aTZpcGNkRl9Sc3FvMFBrVmRGdWlyOVd6NWd2YThxOGpSY1dYWkd1azlGSi1veC0tU1NQbldjQzNQZVJCTlNJUzA4LUw2SFN5TkZ4NnpiOWRhRTE4aVVJU0o4c0dSQlBSUkt0cnlzeXRYV1ZMX2JrQjFFeFJsc1ZSSWdrUEhjd25aX29jS0xLZGQ2cHJCeG5XZmlMdGhWUWZFb0V2dnRpaTRVNnlQNHV6dw?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-21T16:06:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "8975fa9b4b00795d1b14",
-      "title": "Zcash Developers Set NU7 Upgrade Target for November 5 at Block 3,543,405 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONnNya1JmX2hZNFBDWUVnZjR5ZVFzRlRkdFl3ZUk4ZEpOQXpGUDJLM3UzbWdIVmtOYUw2aklRd2xyUy1qTmxCTG5kaTN3eWljR0ppZFo0NGRaV2JkOEpBanFNMV82eWsyX1dKOFNGUnlTTGFlS2lSMW9kQ3NIMzlyUE5fUTdFVEdrSFlqTjgySUhTY2J3NEstSnlRY1lJRWg2bUxNNVBIYUM4ZFlsNGc?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-21T15:58:32+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "886a485d0bfa0c24ea08",
-      "title": "Zcash (ZEC) Rises to a 9-Day High as Whales Bet on Further Gains: Details - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ194enRJVGNHazREeW9FS2Z5cmZPNDZ5cDR6OGtxcnJqTlZVd281Zlg1QW83ZVQ2VndENkVOLUQ5RmNaaExjTHpWV1pWejZ2cjdBcm5WdEZrajFxckFCVlh3MnJYeHd6TDA3TzNZaWR0ZUhtbjZDRmkyX3JZaFJwaTh3OW05TF95TmtUQUZLMjVIajhyS01ZSWVwODlGcThBakJkcldsdmFMMHpy?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-21T15:58:31+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "4adfc2264c55124399b5",
-      "title": "Zodl Vault plans beta access in groups of 100 for Zcash holders - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wa1hhS1R3WENkNUlxYU50QmdxOFhnWlQ2ei0yQU5mZ0cwdHlDYnBsR05hN0RsSlcwSzhDYUx1YmJZbjJST2RoQU9BaUpQdC1iZk1oR3hZbWJXQQ?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-21T15:56:26+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
