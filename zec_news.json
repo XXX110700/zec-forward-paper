@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-23T05:33:52.533816+00:00",
-  "last_success_at": "2026-10-23T05:33:52.533816+00:00",
-  "status": "partial",
+  "checked_at": "2026-10-23T06:41:39.465639+00:00",
+  "last_success_at": "2026-10-23T06:41:39.465639+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 2
     },
     {
       "name": "Cointelegraph",
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 95
+      "matched": 97
     },
     {
       "name": "Google News 中文",
@@ -60,6 +60,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "232846f5c6d5208c4bf2",
+      "title": "Zcash releases Zebra 7.0.0 as NU7 node upgrade deadline approaches - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaRFZRR2txbmkyTlBFQ0JzY2VGVTlUMXpxZjc3VmhsYjBJaTNQZ21VTU1YVnozb1Z6d19OQ1JFcmhPUl9oUHN3a2labkQ2bnBvSWoxbWZtQjlyZw?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T20:54:23+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1d949eb4ce01a16535c3",
-      "title": "Zcash price faces positive outlook - Analysis - 21-10-2026 - Economies.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTlctN3Q5TFF4T3VmQmEzUGdsRTljS2VIN05wMXJTZDJsQ21qVFJ1QS1oUG5GeGlTUzF3Y1dzMWlYWmRuVXM3MzBoMDdzUXFEYmpVeXR6aUJoNUQ4OVRMSlFNMmNkTFcyVldVYzBjOV9aMnAwTXVRdHpJODJRcVFFUFhLOFpCR0xvZ1dITzVJOVZUTE42RmZWa1plRDNPbXZQZnc3XzZiZ0liVXc?oc=5",
-      "source": "Economies.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-21T11:40:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
