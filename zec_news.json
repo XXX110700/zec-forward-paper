@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-23T11:36:12.508592+00:00",
-  "last_success_at": "2026-10-23T11:36:12.508592+00:00",
+  "checked_at": "2026-10-23T12:40:13.104519+00:00",
+  "last_success_at": "2026-10-23T12:40:13.104519+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 95
+      "matched": 96
     },
     {
       "name": "Google News 中文",
@@ -115,16 +115,16 @@
       "verification": "未独立核实"
     },
     {
-      "id": "5320be312100b6efce5f",
-      "title": "Zcash Foundation Details Zebra Sync Fixes Ahead Of NU7 Release - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUnpNcUJRUVliYUNHeDY3RmpTZk5MU3hrcF9ZUHZKb1ZEdFllVkFhaTZjVWd0Qk1HQUdBM1BxZ1I5d3Fja2NDMjRTM1VCZU5KY3RKQVcwMGhzQ0J5bThvd3piV0Z4V3BDTS1uOUZOdDg2eWpZTlpWclRJRlY1cHlGemE3TWVXR2IyZFJ6NlZDWnZ1WHRZbTlqXzlRVXU0M0pCNDRUY3RtWTl1ZGdYRUN1ZndVaExNQWNidnk1ag?oc=5",
-      "source": "TradingView",
+      "id": "232846f5c6d5208c4bf2",
+      "title": "Zcash releases Zebra 7.0.0 as NU7 node upgrade deadline approaches - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaRFZRR2txbmkyTlBFQ0JzY2VGVTlUMXpxZjc3VmhsYjBJaTNQZ21VTU1YVnozb1Z6d19OQ1JFcmhPUl9oUHN3a2labkQ2bnBvSWoxbWZtQjlyZw?oc=5",
+      "source": "Cryptonews.net",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-22T20:30:00+00:00",
+      "published_at": "2026-10-22T20:45:08+00:00",
       "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
