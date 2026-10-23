@@ -13,6 +13,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from statistics import mean
 import requests
+from paper_audit import reconcile
 
 BASE = "https://www.okx.com"
 INST = "ZEC-USDT-SWAP"
@@ -307,6 +308,7 @@ def append_csv(row):
 
 def flush_csv(state):
     pending = state.get("csv_outbox", [])
+    reconcile(state, CSV_FILE, pending)
     if not pending:
         return
     rows = []
@@ -332,6 +334,7 @@ def flush_csv(state):
 
 
 def commit_state(state):
+    reconcile(state, CSV_FILE, EVENTS)
     state["updated_at"] = datetime.now(timezone.utc).isoformat()
     state["last_processed_close_ts"] = state["last_processed_15m_ts"] + BAR15
     state["csv_outbox"] = list(EVENTS)
@@ -435,7 +438,7 @@ def stats(closed):
             sum(vals), sum(vals)/len(vals), dd, max_streak)
 
 
-def main():
+def main(candle_source=None):
     print("=" * 66)
     print("ZEC V6.3 GitHub 低耗前向模拟")
     print("公开行情只读 | 无API Key | 无账户访问 | 不会自动下单")
@@ -445,9 +448,10 @@ def main():
     EVENTS.clear()
     state = load_state()
     flush_csv(state)
-    c15 = recent_closed("15m")
-    c1h = recent_closed("1H")
-    c4h = recent_closed("4H")
+    source = candle_source or recent_closed
+    c15 = source("15m")
+    c1h = source("1H")
+    c4h = source("4H")
     if len(c15) < 80 or len(c1h) < 40 or len(c4h) < 40:
         raise RuntimeError("已收盘K线数据不足。")
 
@@ -456,7 +460,8 @@ def main():
         validate_market(candles, duration, now_ms)
     last = state.get("last_processed_15m_ts")
     if last is not None and (last > c15[-1][0] or last < c15[0][0] - BAR15):
-        raise RuntimeError("Processing cursor outside available history; restore/backfill manually")
+        raise RuntimeError("Processing cursor outside available history. Do not reset it. "
+                           "See RECOVERY.md: prepare an isolated recovery with recover_paper.py")
 
     r15 = rsi([x[4] for x in c15])
     a15 = atr(c15, ATR_PERIOD)
@@ -478,6 +483,13 @@ def main():
              commit_state(state)
              return
 
+    # Preflight every decision before any ENTRY/EXIT or new signal. A cursor
+    # barely inside the downloaded window may still lack indicator warmup.
+    for i in indices:
+        decision = c15[i][0] + BAR15
+        if min(i, last_closed_index(c1h, decision, BAR1H),
+               last_closed_index(c4h, decision, BAR4H)) < 25:
+            raise RuntimeError("Insufficient decision warmup; do not skip candles. See RECOVERY.md")
     print(f"本次顺序处理 {len(indices)} 根新15m K线。")
 
     for i in indices:
