@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-24T03:32:48.430386+00:00",
-  "last_success_at": "2026-10-24T03:32:48.430386+00:00",
+  "checked_at": "2026-10-24T04:32:10.148133+00:00",
+  "last_success_at": "2026-10-24T04:32:10.148133+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,12 +27,12 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 96
+      "matched": 97
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 26
+      "matched": 25
     }
   ],
   "items": [
@@ -50,9 +50,22 @@
       "verification": "未独立核实"
     },
     {
+      "id": "1ba088433f02ce2f9443",
+      "title": "美国 ZEC、NEAR 现货 ETF 单日合计净流入 2151.23 万美元 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uTU1vYnRxdkJJTF9MWEVKcXBtVjFIZjJlcGNDb3Uxbnhob1RYb1pHZm8zdGNqZGozUFFTckx3RndqbjdTbGRiVVg0QlZLTzhqalpZRVJMNUMzNlFpODU3OVZPMDN6Zw?oc=5",
+      "source": "TradingView",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-24T00:57:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "0541f31d91354da4cf4e",
       "title": "Zcash soars 3,000%: Why Bitcoin billionaires are betting on the privacy coin - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTDA0ZXFnUWpPcmJWMFBMeWFwMThsZWVJdXJ6Q3lXdDJrbXpRS3pjVTRZRElVbUF0eHI5ODJpVVBCWVlQYkhHZ2o0akNLS2V1NDBsa0pnajRxb1VpSkFQQV9Cb3FBaHpxRUl6dWZFajd1azY5bzJqamE3Z1MxcGVjR3lEVldIVmd3SWpzN0Q1ZUpWZUZtZjFLaXFaQjFmQTJOVHFtWV9vVUp4TUd5aTRwY3J4U0JEdjZWd2pyb2RFZFVOb25iUWZ5WXhnLWpuUGRyWDFDTldHZDlwN1Nfc3JXeEY4WEdfZ9IB3wFBVV95cUxPTEE4TGt6cWVzWmUxWElyVm9qY0VsYk9Ha2Z1alN5eU94QzFEMlQ0aEVySnFicFVCZlJfUFJueUlEWlJ0cDZHdzlkYnJxa0ZwNVljUGMxVnowVnloQ1ZRcDZHUUl6MUYtY1ZwSGJrX2RPTEV3UUZZRnJTS0xtd0xKM21Pa1d0QXAyOGFEbUxzM3NteXhkdzh6TEZBUWZXQkh2RUJWQ0ZWQW9HS21WTHNMYV9BdldOVUlReWV6R0JxSTRQWnFBRS1EY3hYRTVxZHZ0dU5MdEpNTkx5OUV5SGpZ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZGFxV2FtckR3aUg2ZktseU9XanI3YWxBLXlFcm9QZjlvZXBWalNPbHlnbDBwa2ZjWTJMSmdmaHdDcFZ5UFdTeUd6b1czMnFaYkEtQ3pJNm14MkhWOGxLbUdQa1NTRHRmTlNRaUpudGNwdkZaeWRBQkZzdjZSenQ3eWI4U2FFWG9nUnJlazhuSzY0TEZLRGRINFR0LXZXUFZGN0JSUnYwZ1BtRmEtV3RVV2xFUnppQ1Q5MTNmZTZ4RHdvTHNjclRraWJsRjJhcUFRYllpM0NXVjlDd9IB3wFBVV95cUxPTEE4TGt6cWVzWmUxWElyVm9qY0VsYk9Ha2Z1alN5eU94QzFEMlQ0aEVySnFicFVCZlJfUFJueUlEWlJ0cDZHdzlkYnJxa0ZwNVljUGMxVnowVnloQ1ZRcDZHUUl6MUYtY1ZwSGJrX2RPTEV3UUZZRnJTS0xtd0xKM21Pa1d0QXAyOGFEbUxzM3NteXhkdzh6TEZBUWZXQkh2RUJWQ0ZWQW9HS21WTHNMYV9BdldOVUlReWV6R0JxSTRQWnFBRS1EY3hYRTVxZHZ0dU5MdEpNTkx5OUV5SGpZ?oc=5",
       "source": "The Economic Times",
       "feed": "Google News EN",
       "kind": "aggregation",
@@ -310,19 +323,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "1ba088433f02ce2f9443",
-      "title": "美国 ZEC、NEAR 现货 ETF 单日合计净流入 2151.23 万美元 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZMGpBVXJvUWpQV1h3dWl6ZGRkTzZHckdkLXE0ekFBa0pMWlltbE5USWhUMFlxV1BPNFMtaDIzaFc5dDc3UEMxREwySkI5SEpfOGYwandDQTE0SURLSDZSZDhCTkRnQQ?oc=5",
-      "source": "TradingView",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-23T09:57:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "e474fb3205cddb127042",
       "title": "Zcash Fund Draws $15.2 Million As October Flows Stay Negative - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV3FCWmtDSjYzcW1zeXJSXzB5ekNTSWJfT01lYmRHdjY4MTcyV3J6Sm83cU81TWIwbzgxbkF3aUx4WHdrdERRZ1JmN0tLblJ5bS1kTk5WRWxpNmZlYlExM0IzR0JiOEtNUlBqUnE5RW44TXFMR2RIVnNqbGlHMnJ0ZlAtbThNNzBMcE4tN29SQ1d6aXByZzlmV0NPNG1pR091bDBqT1FKUXFsODc3QkpZWHozNDhveWJpUEE?oc=5",
@@ -479,19 +479,6 @@
       "verification": "官方发布"
     },
     {
-      "id": "1bb0da496900523fe788",
-      "title": "温氏兄弟押注 Zcash：AI 时代隐私成稀缺资产，目标 1 万美元 - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQjg1Tm5hTGtQMURzc3EwcEJhS2w5d0tZajJyMXpwcGlJQW9KejRJUTEycldUakdrZzNCVmtGOElraDNSNVNKSy11M2lPXzJ4MFRJVjNkYjhBc2l2WGdlLV9lQzBlQy1hRWo3VmZVWVlNdWVXdVpWcW5wTjdjSV9JWWtQSTNKWWsyZHpPS19DenZmRzNsQk53b054eU5CUFRjQ1lwLUdn?oc=5",
-      "source": "富途牛牛",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T15:52:15+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "c1aae54b55b5f6eea288",
       "title": "Zcash Crypto Jumps 12% as NU7 Upgrade Nears: Can ZEC Hit $1,300? - CryptoRank",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTGFLREx2RndMNGZuNGlfMHNMMWpzTy1QOUdwNDJ0VWFWVFV2aGpSelFnbnRReVJUSGhoeVR5SEdTM09fNm8zSG9IUjNRMGdkWXVWdjdRaEh5ZWJOaVJISmpScVFualNMLVhjT3g3YjNMQVZHTGFTOFhJOURvZjBQeUJMbDVDNGd3RThxeHVEYnAyQlhrM1VwSGRYOFlSQQ?oc=5",
@@ -551,6 +538,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-22T09:39:05+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "1bb0da496900523fe788",
+      "title": "温氏兄弟押注 Zcash：AI 时代隐私成稀缺资产，目标 1 万美元 - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdFVpbTIyOTctVTdiVWRaZkc2bTk1cjhMOHpYREhQN0NMbG0tUEsyUUtyb0l1dlBUOFV3bUhiWE5vOTVuX1B4Y3ViWXhRdmZ5ZHJQcTRWcjZhbm8wYUMwcEdHQnBUX2E1WVFoSlFGQ2NIWm4zUnlHc1R2OWRWSjUtcHo2VFdxMGxzRFpTRmpBblMxTU9PNkozTWpXdi15VnhhV3ZNa05R?oc=5",
+      "source": "富途牛牛",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T09:02:30+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
