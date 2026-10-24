@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-24T10:31:39.937329+00:00",
-  "last_success_at": "2026-10-24T10:31:39.937329+00:00",
+  "checked_at": "2026-10-24T11:31:50.929707+00:00",
+  "last_success_at": "2026-10-24T11:31:50.929707+00:00",
   "status": "ok",
   "sources": [
     {
@@ -37,6 +37,19 @@
   ],
   "items": [
     {
+      "id": "aafa4d991c2ae52983f6",
+      "title": "Crypto Price Analysis, BTC, XRP, NEAR, SOL and ZEC, October 24: Bitcoin RSI Falls Below 46 as XRP Loses Daily Support - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UQ3JTVnJWTFJFQW9HbzVVZHRueHBHRWJ4R3ZKd0xnUXhSUE1QdGkxUDl2U2pCT2ZfN3ZfUkJRbU9QZDBaTzBzRHhWbGtDcTNWU29mYVI0dHFrSkE?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-24T10:49:45+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "ebc39739d03af44d182b",
       "title": "Monero Outperforms Bitcoin As Crypto Pullback Hits Zcash, NEAR – XMR Shorts Get Squeezed - Stocktwits",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeTBFNlVVSldOU1lCUjZBR2FWQWRfbXhod3B4R09TZ3pWa0xEUTItMVdER1pBTlh5X2Q2NGVxaVNQSHpULU0wUjBuUS1JamJYdjVFSW9sZV9LdkIzOWlQMmNpVTZ4akJCR3NIVTZJcEFub3ctMC1yMWtxSTdzNFRFZXBqNHZSMkVWR3NrUXNfdXI4OTBNY1JDSXE0WjB3SE1YMXVrRk1VQ1NWcnZPbG5mekxuUFpHZHAzeDF6NDhoYmxXOGVFeW9pM3NlUkxmUGFOb19jNi1IQVN6SEZGdThaekFxTVpWQQ?oc=5",
@@ -69,7 +82,7 @@
       "source": "Cryptonews.net",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-23T22:57:54+00:00",
+      "published_at": "2026-10-23T22:58:44+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-21T17:13:57+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "17fdb6f5e2c287d306e0",
-      "title": "Zcash Price Prediction: ZEC Just Jumped 12% in a Day. Can It Get Back to $1,500? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZVhvVXRyd3JiMHFfdHBnMmdSdGZZVktCQXlVNlFNOVN1TDBCNzdkQkx3c0phM0x0S2I0NFgzdF9NVFF2X2lka0ZUd3QwU3ZxdTdiZUJkWUYydklWZ1hJSnNjbnlDbEh5a19VbEozNjg3LWFvTkZGeGFSX2M2OFlrTnlDOHBEZVpWRTZEaFc5M2JYajZ3VGRqUm1UTTQ?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-21T16:06:34+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
