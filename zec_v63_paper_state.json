@@ -495,7 +495,7 @@
   "long_confirm": 0,
   "short_confirm": 4,
   "max_drawdown": 2.1972780000000003,
-  "updated_at": "2026-10-24T16:53:27.034321+00:00",
+  "updated_at": "2026-10-24T16:58:25.044566+00:00",
   "last_processed_close_ts": 1792860300000,
   "market_snapshot": {
     "source": "OKX public closed candles",
