@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-24T22:28:28.159956+00:00",
-  "last_success_at": "2026-10-24T22:28:28.159956+00:00",
+  "checked_at": "2026-10-24T23:26:33.802108+00:00",
+  "last_success_at": "2026-10-24T23:26:33.802108+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 23
+      "matched": 24
     }
   ],
   "items": [
@@ -440,6 +440,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "9ae6d10b3d89794b845d",
+      "title": "Zcash Falls 3.23% in One Hour to $1,237 on Binance Spot - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PQ2k0NTJfTzNiWW9YNEdFNXpSYUU1S1QydkJWejdjZzFkYkt3SGF6TWg5MzRDeUIxVEhkUHNuUVlYTm44WF9jRW1pNDRNc0dmY0x0TU8wVWg5QQ?oc=5",
+      "source": "TOKENPOST",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T19:07:13+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "221a8ef1cb47bc224b59",
       "title": "Zcash releases Zebra 7.0.0 as NU7 node upgrade deadline approaches - Crypto News",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Ba0htajNhcGoxV254ckw3eW80OTVscFkxWjc1RzlScElneV96R0t6ZEwwa0tQTS01SmNPTWxsU1JUcFBFTDBfSHpjeW9TTUhGdTY5WlZNWWVfWFdfeHJuV2RPQWV3Rl83cUVwOVNkaEs?oc=5",
@@ -661,26 +674,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "da1a8fb8397f6768a070",
-      "title": "Can Zcash rally to $1,700 as institutional investors return? - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnJhZWFYR25HNnZNTjBIS2x4TWEyZjZmZTdnYWx3T0Q3YXhEYktNQVc5VzFyZERxb0kzZjR6bVVnak9hWFdWXzN1dHpMS1FkZWpiSHRzY3Vmdlg4OG1jSUtPcmxiTGNrRXZaV0t2bEtic0RCMTZIZVI3bGFIc0xtdmNINTVlRXNGdG1hekI4TzZoX1h6SjN2LTNlTVItRjBMdUxjX1lQakFPcFN0RDlBdW41OEFFazJqSGctSW9hU3llcF85WW9tNVdn?oc=5",
-      "source": "FXStreet",
+      "id": "18f62f24f50d40d377af",
+      "title": "Zcash Price Forecast: ZEC reclaims $1,300 as ETF inflow hits 30-day high - Mitrade",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMmZjZU03LW9CMDBrdE9mNTl0bndhdXBhRFdsNEVGWmFCdjRxRl8xSnhVMFRwUXMxX3k1aS1zVjQwcXBVTlUxZ09qeW1SQ2xoMWV1OGZxM24xdWxXUnNGSkJ0YlFUdS12VFhVN3A5Nk1TZUd4cUNnTTltTzAybGs2aHR2Yw?oc=5",
+      "source": "Mitrade",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-22T03:07:59+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "174e8e2408c883ae4ef1",
-      "title": "Zcash Rises 3.95% in Four Hours as Price Reaches $1,309 - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QaExBNmVXVjRhQW1zWi1WX29NN1N0YTVsSE93NGNXY2Rjc3NfTjE5RmxtNTVoVzdFNW15YjVaRndzWDlnaTlNcjgtd29NT0djWUtwV2RhOUZpdw?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T01:58:00+00:00",
+      "published_at": "2026-10-22T03:28:28+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
