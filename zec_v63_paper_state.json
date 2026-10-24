@@ -1,18 +1,18 @@
 {
   "version": "V6.3",
-  "last_processed_15m_ts": 1792839600000,
+  "last_processed_15m_ts": 1792841400000,
   "pending_signal": null,
   "open_trade": {
     "side": "short",
-    "signal_ts": 1792833300000,
-    "entry_candle_ts": 1792834200000,
-    "entry": 1149.53,
-    "risk": 11.895286535156064,
-    "sl": 1161.4252865351561,
-    "tp1": 1135.2556561578126,
-    "tp2": 1125.7394269296879,
+    "signal_ts": 1792840500000,
+    "entry_candle_ts": 1792841400000,
+    "entry": 1154.32,
+    "risk": 11.63801172910835,
+    "sl": 1165.9580117291082,
+    "tp1": 1140.35438592507,
+    "tp2": 1131.0439765417832,
     "long_confirm": 0,
-    "short_confirm": 6
+    "short_confirm": 5
   },
   "closed_trades": [
     {
@@ -422,19 +422,36 @@
       "reason": "TP1",
       "gross_r": 1.2,
       "net_r": 1.055569
+    },
+    {
+      "side": "short",
+      "signal_ts": 1792833300000,
+      "entry_candle_ts": 1792834200000,
+      "entry": 1149.53,
+      "risk": 11.895286535156064,
+      "sl": 1161.4252865351561,
+      "tp1": 1135.2556561578126,
+      "tp2": 1125.7394269296879,
+      "long_confirm": 0,
+      "short_confirm": 6,
+      "exit_ts": 1792840500000,
+      "exit_price": 1161.4252865351561,
+      "reason": "SL",
+      "gross_r": -1.0,
+      "net_r": -1.135292
     }
   ],
   "long_confirm": 0,
   "short_confirm": 5,
   "max_drawdown": 2.1972780000000003,
-  "updated_at": "2026-10-24T11:18:46.488513+00:00",
-  "last_processed_close_ts": 1792840500000,
+  "updated_at": "2026-10-24T11:54:51.370188+00:00",
+  "last_processed_close_ts": 1792842300000,
   "market_snapshot": {
     "source": "OKX public closed candles",
-    "close_ts": 1792840500000,
-    "close": 1158.7,
-    "rsi_15m": 45.98952797574335,
-    "atr_15m": 7.78626483133762,
+    "close_ts": 1792842300000,
+    "close": 1152.73,
+    "rsi_15m": 40.41542270820227,
+    "atr_15m": 7.504483451352791,
     "score_1h": -3,
     "score_4h": -3,
     "close_1h_ts": 1792839600000,
@@ -449,6 +466,5 @@
     "long_confirm": 0,
     "short_confirm": 6,
     "count": 4
-  },
-  "csv_outbox": []
+  }
 }
