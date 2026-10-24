@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-24T19:28:49.690185+00:00",
-  "last_success_at": "2026-10-24T19:28:49.690185+00:00",
-  "status": "partial",
+  "checked_at": "2026-10-24T20:29:24.579358+00:00",
+  "last_success_at": "2026-10-24T20:29:24.579358+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 2
     },
     {
       "name": "Cointelegraph",
