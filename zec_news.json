@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-24T15:30:43.167067+00:00",
-  "last_success_at": "2026-10-24T15:30:43.167067+00:00",
+  "checked_at": "2026-10-24T16:31:32.473117+00:00",
+  "last_success_at": "2026-10-24T16:31:32.473117+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 24
+      "matched": 23
     }
   ],
   "items": [
+    {
+      "id": "c81daf305c01fe814e51",
+      "title": "Grayscale's New Zcash ETF Has Gathered $1 Billion in Assets in Just 30 Days. Here's Why Investors Are So Bullish on Zcash. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWm5ZYk5NUnlwNFJaVk9IV25GZUFsQ0dqOXpPSTdySTRwVzJGRmRMcUU3bjVCYjY1ZS1fMjB6eU5mLWJFRE83Y1dldG5pUklReFRMQVB4MGhYTFBHMlpSMmR1RFQtMDRrSjRsYW05MFd2eEhTX242N2pHNlpQc2ZKdnpRRGQ0V3M2UkVfb1lxSmwya0pWUHhlMw?oc=5",
+      "source": "The Motley Fool",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-24T16:16:22+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "fe259e616153e39d4cd4",
       "title": "Zcash NU7 on Nov. 5: 3x Faster Blocks, What Changes for You - Memeburn",
@@ -44,6 +57,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-24T13:05:34+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "21dd8e0f0b5b0435fc20",
+      "title": "Zcash Price Analysis: Can ZEC Recover After the $1,300 Rejection? - Coinpedia",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWV2QlRPRXFVdXp4X19LQjREby12bjlOYnVqNVJWWU5VMjRCeWhOeUJBa29ETTNGUThKWUJLMVlvN2dZNzBDc3Q0Q2NSQmFXaEdRYWs3OEplT3lKUnRUNmJzTERhS1EyZkRGZ3NtZjBLT0xYd2ZFR1hvdklDOGJucWo3eEROeXZDN0J0MC1Qb0IzTGp1NHpTa2tvcW85OTlI0gGmAUFVX3lxTE9QMFhmV2Y2MU05Z011VEtsNFVxREp6OXJDU1hfX3czSUVLVkkwNmFQNG9BX2dXMEk0REF2MXVPSlV1VE1IZzdIWXZiR3dXZlJWREs5U2FoSnhKYlZHSUR5S0ZCVU1fN3ZBMWYzcDlrb2Y5X2lyeEVfckNjVDNHdFF5aEkyTlhjVW1GOGtBMEN5WFl3bVBqUkw2TDJuSW41dy10Vl8tUWc?oc=5",
+      "source": "Coinpedia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-24T02:41:49+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -128,19 +154,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "118c0c05fdc8af63aa3c",
-      "title": "Bitcoin or Zcash: Which Is the Better Buy After Zcash’s 26% Monthly Drop? - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYaWdhQ2NPd1hBd3I1a0l3VEVfR244elRlLVRIbUJXbTNMU3FuV0k4YlpVWVYyQW5Yb1Z6elJYOUNYR1dFQkdMVEpjYTA0VkdHd1NXcEdvcE1zVFF6UXRvYW0zVGp1Y01Ob0NkMHRNanZTbkJPMG1qcDVVaDZVOEE?oc=5",
-      "source": "AOL.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-23T19:30:21+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "539e4724b749e305d3e6",
       "title": "Bitcoin or Zcash: Which Is the Better Buy After Zcash’s 26% Monthly Drop? - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPckVPSE80NGJlbXRXSER4U1RNVjZoSHhVN2UyWmo0aWpoOU8xNnF1MXd2SzIwd3dtR2hKZE9rdTRtV3JNaEpTcFBOR0lnSGpySzlpdU9aYkhPS3VlNlI2MjBCeDRiNTFjWURRZ2FnYWgwN3JyZk5icFdzYVBEWnJuYWFUMGVfXzNTY052UTlvTi1zbXFVQWF1dDdqX0hFcEVpNGVHMUVYbHhGYUI0TklOaWpmdUloVGZOd2N3YkRoMkZ0NGcycjI0?oc=5",
@@ -200,19 +213,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T15:56:31+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "e9ca9cadb3bf61218d33",
-      "title": "Zcash Price Analysis: Can ZEC Recover After the $1,300 Rejection? - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2xuTEhWMjAyVHlIRWphWDByNlhFUE5XWFl6WkxJa1hTbWRyc09lRDVWQ1pZRUw2M1ZRcjA2UHlGX2x1QnY1TFBmR2h4Y2M3Yk9qMWJCTHNrOXNsY1RjaTRkM2xpMW1xS1hwcFdhVnVSZGpDWVNIbkM1NWM3N0tWaEdkMV90enhSX3pKdzZIVW90Vm1FRzJfdnZqVGd4OXhVQkRvT05VOWs3WXpnS3p2dmE2MTdVb05oMFRfOUd3?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-23T14:52:04+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -648,13 +648,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "18f62f24f50d40d377af",
-      "title": "Zcash Price Forecast: ZEC reclaims $1,300 as ETF inflow hits 30-day high - Mitrade",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMmZjZU03LW9CMDBrdE9mNTl0bndhdXBhRFdsNEVGWmFCdjRxRl8xSnhVMFRwUXMxX3k1aS1zVjQwcXBVTlUxZ09qeW1SQ2xoMWV1OGZxM24xdWxXUnNGSkJ0YlFUdS12VFhVN3A5Nk1TZUd4cUNnTTltTzAybGs2aHR2Yw?oc=5",
-      "source": "Mitrade",
+      "id": "da1a8fb8397f6768a070",
+      "title": "Can Zcash rally to $1,700 as institutional investors return? - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnJhZWFYR25HNnZNTjBIS2x4TWEyZjZmZTdnYWx3T0Q3YXhEYktNQVc5VzFyZERxb0kzZjR6bVVnak9hWFdWXzN1dHpMS1FkZWpiSHRzY3Vmdlg4OG1jSUtPcmxiTGNrRXZaV0t2bEtic0RCMTZIZVI3bGFIc0xtdmNINTVlRXNGdG1hekI4TzZoX1h6SjN2LTNlTVItRjBMdUxjX1lQakFPcFN0RDlBdW41OEFFazJqSGctSW9hU3llcF85WW9tNVdn?oc=5",
+      "source": "FXStreet",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-22T03:28:28+00:00",
+      "published_at": "2026-10-22T03:07:59+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
