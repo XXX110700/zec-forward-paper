@@ -9,13 +9,5 @@
     "long": 0,
     "short": 5
   },
-  "pending": [
-    {
-      "id": "short:1792799100000",
-      "ts": 1792799100000,
-      "side": "short",
-      "score": 5,
-      "position": "有待入场模拟信号"
-    }
-  ]
+  "pending": []
 }
