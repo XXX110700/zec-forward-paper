@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-24T14:30:42.912709+00:00",
-  "last_success_at": "2026-10-24T14:30:42.912709+00:00",
+  "checked_at": "2026-10-24T15:30:43.167067+00:00",
+  "last_success_at": "2026-10-24T15:30:43.167067+00:00",
   "status": "ok",
   "sources": [
     {
@@ -44,19 +44,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-24T13:05:34+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "21dd8e0f0b5b0435fc20",
-      "title": "Zcash Price Analysis: Can ZEC Recover After the $1,300 Rejection? - Coinpedia",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWV2QlRPRXFVdXp4X19LQjREby12bjlOYnVqNVJWWU5VMjRCeWhOeUJBa29ETTNGUThKWUJLMVlvN2dZNzBDc3Q0Q2NSQmFXaEdRYWs3OEplT3lKUnRUNmJzTERhS1EyZkRGZ3NtZjBLT0xYd2ZFR1hvdklDOGJucWo3eEROeXZDN0J0MC1Qb0IzTGp1NHpTa2tvcW85OTlI0gGmAUFVX3lxTE9QMFhmV2Y2MU05Z011VEtsNFVxREp6OXJDU1hfX3czSUVLVkkwNmFQNG9BX2dXMEk0REF2MXVPSlV1VE1IZzdIWXZiR3dXZlJWREs5U2FoSnhKYlZHSUR5S0ZCVU1fN3ZBMWYzcDlrb2Y5X2lyeEVfckNjVDNHdFF5aEkyTlhjVW1GOGtBMEN5WFl3bVBqUkw2TDJuSW41dy10Vl8tUWc?oc=5",
-      "source": "Coinpedia",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-24T02:41:49+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -213,6 +200,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T15:56:31+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "e9ca9cadb3bf61218d33",
+      "title": "Zcash Price Analysis: Can ZEC Recover After the $1,300 Rejection? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2xuTEhWMjAyVHlIRWphWDByNlhFUE5XWFl6WkxJa1hTbWRyc09lRDVWQ1pZRUw2M1ZRcjA2UHlGX2x1QnY1TFBmR2h4Y2M3Yk9qMWJCTHNrOXNsY1RjaTRkM2xpMW1xS1hwcFdhVnVSZGpDWVNIbkM1NWM3N0tWaEdkMV90enhSX3pKdzZIVW90Vm1FRzJfdnZqVGd4OXhVQkRvT05VOWs3WXpnS3p2dmE2MTdVb05oMFRfOUd3?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-23T14:52:04+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
