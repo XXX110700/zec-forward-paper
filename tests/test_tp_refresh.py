@@ -1,4 +1,5 @@
 import copy
+import csv
 import json
 import unittest
 from unittest.mock import patch
@@ -20,10 +21,24 @@ class TPRefreshTests(unittest.TestCase):
         s.update(last_processed_15m_ts=z.BAR15, open_trade=self.trade(side))
         return s
 
+    def seed_entry_log(self, state):
+        # A pre-existing position must have its complete SIGNAL/ENTRY ledger.
+        t = state['open_trade']
+        confirms = [t['long_confirm'], t['short_confirm']]
+        with z.CSV_FILE.open('w', newline='') as f:
+            writer = csv.writer(f)
+            writer.writerow(z.CSV_HEADER)
+            writer.writerow(['SIGNAL', t['side'], z.fmt_ts(t['signal_ts'])] + ['']*9 + confirms)
+            writer.writerow(['ENTRY', t['side'], z.fmt_ts(t['signal_ts']),
+                             z.fmt_ts(t['entry_candle_ts']), t['entry'], t['sl'],
+                             t['tp1'], t['tp2']] + ['']*4 + confirms)
+        z.EVENTS.clear()
+
     def test_tp1_tp2_both_directions_persist_and_replay_once(self):
         for side in ('long','short'):
             for reason, high, low in (('TP1',113,99),('TP2',121,99)) if side=='long' else (('TP1',101,87),('TP2',101,79)):
                 s=self.state(side)
+                self.seed_entry_log(s)
                 t=z.maybe_exit(s,(2*z.BAR15,100,high,low,100))
                 self.assertEqual(t['reason'],reason)
                 z.record_tp_refresh(s,t,3*z.BAR15,2,5)
@@ -66,6 +81,8 @@ class TPRefreshTests(unittest.TestCase):
         ts=data['15m'][-1][0]
         data['15m'][-1]=(ts,100,113,99,100)
         s=self.state();s['last_processed_15m_ts']=ts-z.BAR15
+        s['open_trade'].update(signal_ts=ts-2*z.BAR15, entry_candle_ts=ts-z.BAR15)
+        self.seed_entry_log(s)
         z.save_state(s)
         with patch.object(z,'datetime', wraps=z.datetime) as clock, patch.object(z,'recent_closed',side_effect=lambda bar:data[bar]), patch.object(z,'confirmations',side_effect=lambda side,*args: 3 if side=='long' else 4) as scores:
             clock.now.return_value = fixed_now
