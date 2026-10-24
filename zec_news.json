@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-24T08:33:30.833163+00:00",
-  "last_success_at": "2026-10-24T08:33:30.833163+00:00",
-  "status": "partial",
+  "checked_at": "2026-10-24T09:32:21.959762+00:00",
+  "last_success_at": "2026-10-24T09:32:21.959762+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 2
     },
     {
       "name": "Cointelegraph",
@@ -164,19 +164,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "daf3cc61e73b5dfe04b6",
-      "title": "大零币(ZEC)股票股价, 市值, 实时行情, 走势图, 财报 - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkTTJ6QTdjZDZyT29yT0NmM2c3VG40YzRtOW4wWEprbjVPVTNOZWlJR2x4dDZSRUV0b3BPQTd5STJyaDhyWGo5ZWJDb3NNeTVzTm9R?oc=5",
-      "source": "Moomoo",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-23T16:35:21+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -681,6 +668,19 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-10-22T01:49:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "d11099ab344cd546bb31",
+      "title": "Google Gemini AI Predicts an Explosive Q4 for Zcash - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT0k4ZkdpYjZYSzRtWmswdjMwVm16WDFQVmdUbzNjTUM3T0pFUkRmVGZYTmdLZFpNcVA3SW9wbWFpcVZXTzd4MXVvLXhZeHZsTTBYdG1JZG50cmQtTjZYdFJTVnAwNm5fQkdSV2l0SlpVNGJzYXl3QmdEejk4RFRQQ3JWZw?oc=5",
+      "source": "Cryptonews",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T01:19:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
