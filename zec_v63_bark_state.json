@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "last_ts": 1792862100000,
+  "last_ts": 1792863000000,
   "above": {
     "long": false,
     "short": false
   },
   "scores": {
-    "long": 1,
+    "long": 0,
     "short": 4
   },
   "pending": []
