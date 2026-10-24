@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-24T21:30:10.032659+00:00",
-  "last_success_at": "2026-10-24T21:30:10.032659+00:00",
+  "checked_at": "2026-10-24T22:28:28.159956+00:00",
+  "last_success_at": "2026-10-24T22:28:28.159956+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 24
+      "matched": 23
     }
   ],
   "items": [
@@ -43,7 +43,7 @@
       "source": "The Motley Fool",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-24T16:16:22+00:00",
+      "published_at": "2026-10-24T17:07:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -661,13 +661,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "18f62f24f50d40d377af",
-      "title": "Zcash Price Forecast: ZEC reclaims $1,300 as ETF inflow hits 30-day high - Mitrade",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMmZjZU03LW9CMDBrdE9mNTl0bndhdXBhRFdsNEVGWmFCdjRxRl8xSnhVMFRwUXMxX3k1aS1zVjQwcXBVTlUxZ09qeW1SQ2xoMWV1OGZxM24xdWxXUnNGSkJ0YlFUdS12VFhVN3A5Nk1TZUd4cUNnTTltTzAybGs2aHR2Yw?oc=5",
-      "source": "Mitrade",
+      "id": "da1a8fb8397f6768a070",
+      "title": "Can Zcash rally to $1,700 as institutional investors return? - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnJhZWFYR25HNnZNTjBIS2x4TWEyZjZmZTdnYWx3T0Q3YXhEYktNQVc5VzFyZERxb0kzZjR6bVVnak9hWFdWXzN1dHpMS1FkZWpiSHRzY3Vmdlg4OG1jSUtPcmxiTGNrRXZaV0t2bEtic0RCMTZIZVI3bGFIc0xtdmNINTVlRXNGdG1hekI4TzZoX1h6SjN2LTNlTVItRjBMdUxjX1lQakFPcFN0RDlBdW41OEFFazJqSGctSW9hU3llcF85WW9tNVdn?oc=5",
+      "source": "FXStreet",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-22T03:28:28+00:00",
+      "published_at": "2026-10-22T03:07:59+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
