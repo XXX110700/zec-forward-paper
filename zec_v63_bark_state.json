@@ -1,13 +1,21 @@
 {
   "version": 1,
-  "last_ts": 1792797300000,
+  "last_ts": 1792799100000,
   "above": {
     "long": false,
-    "short": false
+    "short": true
   },
   "scores": {
-    "long": 1,
-    "short": 3
+    "long": 0,
+    "short": 5
   },
-  "pending": []
+  "pending": [
+    {
+      "id": "short:1792799100000",
+      "ts": 1792799100000,
+      "side": "short",
+      "score": 5,
+      "position": "有待入场模拟信号"
+    }
+  ]
 }
