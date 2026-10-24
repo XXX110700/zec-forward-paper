@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-24T07:36:51.709031+00:00",
-  "last_success_at": "2026-10-24T07:36:51.709031+00:00",
-  "status": "ok",
+  "checked_at": "2026-10-24T08:33:30.833163+00:00",
+  "last_success_at": "2026-10-24T08:33:30.833163+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 2
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -232,10 +232,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "eb268db492be97ea822e",
-      "title": "Bitcoin’s Early Winners Want a Repeat With Zcash: 'It's Deja Vu All Over Again' - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjBOMHJtM3FmekxuU1FNbzlBelJwUkxPY293Q1ItaXZGTHI2LUh6TU4xVzAtdGo0cWFoSGhHVlFYX05Ja0d6VE5sakZ3cVhhWVNhbG9hdHNqbnhFQzVwbWlvblVvdGhFU3NrbFBwOGdXUHEwM1pFOEtySG5pT1FtdFJvZXNUR01MTmphVzd6QlNyVG9HT2J1bktTdGcwQWtFUlM2dTVUV0tuVUh2a1h1OUZxS3RRZzlvUkkwWGFSSnlxU3NjcGt4SjROYUFEMy1KcUE?oc=5",
-      "source": "Benzinga",
+      "id": "61911905607cd543c4fd",
+      "title": "Bitcoin’s Early Winners Want a Repeat With Zcash: 'It's Deja Vu All Over Again' - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdWU0YmdLNGFoSTdMWk1zeUVVSGdJT3AtQXQ5ZVFHWXhWckRqRmtpNW0tb2NaLUlEZjU2Y2lPUjFkdW00R0t4dUZ2Vk01TEpQR2NPeVdkVHgyajF2cVhEdGhZQ09xQmNBOWoyazlTNWpfUFZlSnVCNzJmaVlQaHNEeEpFOEs0Zk9jbEVuTXBjV0djVTVJN2JpSUFxQXdqSDh0bm5LN0JrX3BkWENSdW1VVU5mbVlUV1pJeWdrdENnNXVmZ3hkZy14N2NoZi13N1R1?oc=5",
+      "source": "TradingView",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T14:17:25+00:00",
@@ -245,10 +245,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "61911905607cd543c4fd",
-      "title": "Bitcoin’s Early Winners Want a Repeat With Zcash: 'It's Deja Vu All Over Again' - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdWU0YmdLNGFoSTdMWk1zeUVVSGdJT3AtQXQ5ZVFHWXhWckRqRmtpNW0tb2NaLUlEZjU2Y2lPUjFkdW00R0t4dUZ2Vk01TEpQR2NPeVdkVHgyajF2cVhEdGhZQ09xQmNBOWoyazlTNWpfUFZlSnVCNzJmaVlQaHNEeEpFOEs0Zk9jbEVuTXBjV0djVTVJN2JpSUFxQXdqSDh0bm5LN0JrX3BkWENSdW1VVU5mbVlUV1pJeWdrdENnNXVmZ3hkZy14N2NoZi13N1R1?oc=5",
-      "source": "TradingView",
+      "id": "eb268db492be97ea822e",
+      "title": "Bitcoin’s Early Winners Want a Repeat With Zcash: 'It's Deja Vu All Over Again' - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjBOMHJtM3FmekxuU1FNbzlBelJwUkxPY293Q1ItaXZGTHI2LUh6TU4xVzAtdGo0cWFoSGhHVlFYX05Ja0d6VE5sakZ3cVhhWVNhbG9hdHNqbnhFQzVwbWlvblVvdGhFU3NrbFBwOGdXUHEwM1pFOEtySG5pT1FtdFJvZXNUR01MTmphVzd6QlNyVG9HT2J1bktTdGcwQWtFUlM2dTVUV0tuVUh2a1h1OUZxS3RRZzlvUkkwWGFSSnlxU3NjcGt4SjROYUFEMy1KcUE?oc=5",
+      "source": "Benzinga",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T14:17:25+00:00",
@@ -648,13 +648,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "da1a8fb8397f6768a070",
-      "title": "Can Zcash rally to $1,700 as institutional investors return? - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnJhZWFYR25HNnZNTjBIS2x4TWEyZjZmZTdnYWx3T0Q3YXhEYktNQVc5VzFyZERxb0kzZjR6bVVnak9hWFdWXzN1dHpMS1FkZWpiSHRzY3Vmdlg4OG1jSUtPcmxiTGNrRXZaV0t2bEtic0RCMTZIZVI3bGFIc0xtdmNINTVlRXNGdG1hekI4TzZoX1h6SjN2LTNlTVItRjBMdUxjX1lQakFPcFN0RDlBdW41OEFFazJqSGctSW9hU3llcF85WW9tNVdn?oc=5",
-      "source": "FXStreet",
+      "id": "18f62f24f50d40d377af",
+      "title": "Zcash Price Forecast: ZEC reclaims $1,300 as ETF inflow hits 30-day high - Mitrade",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMmZjZU03LW9CMDBrdE9mNTl0bndhdXBhRFdsNEVGWmFCdjRxRl8xSnhVMFRwUXMxX3k1aS1zVjQwcXBVTlUxZ09qeW1SQ2xoMWV1OGZxM24xdWxXUnNGSkJ0YlFUdS12VFhVN3A5Nk1TZUd4cUNnTTltTzAybGs2aHR2Yw?oc=5",
+      "source": "Mitrade",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-22T03:07:59+00:00",
+      "published_at": "2026-10-22T03:28:28+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
