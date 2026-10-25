@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-25T17:30:26.931484+00:00",
-  "last_success_at": "2026-10-25T17:30:26.931484+00:00",
-  "status": "partial",
+  "checked_at": "2026-10-25T18:32:52.212578+00:00",
+  "last_success_at": "2026-10-25T18:32:52.212578+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 2
     },
     {
       "name": "Cointelegraph",
@@ -37,6 +37,19 @@
   ],
   "items": [
     {
+      "id": "904359df350e3e15f57e",
+      "title": "Monero (XMR) and Zcash (ZEC) Beat Bitcoin This Week. Can the Privacy Coins Keep It Up? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOU5WZVNTZklwSHV4UTVCSXdHNmlZcDd4UXBYeHpac003QkNnbDBhRF9XRi13NDFMUTROU3VuNnc1TV9XY09BTXd0dF9Ea2NsdWJNUTZlVFVSRzJ1SWZqZHNDN1U3Z3pPV2tHWndnMm9UY0RYNWNhdjZJZGswazlaaGxVbW82UGhOOXpJZTVMMFlFZzllOXJDR0JUUW1adWIySmRsRExJNEdFaHBPR0p5MENlVU9NUWF0Z3d6V2RROHZ0UmN2Vi1YS09jUHNNeW90bURYZmRR?oc=5",
+      "source": "24/7 Wall St.",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-25T17:54:37+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "e796a552c2f446609b81",
       "title": "Next 100x Crypto? Remittix, Zcash and Hyperliquid in Focus as BNB Chain Expands Tokenized Stock Trading - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxON1ljNWZ0aHQxRV85dk9FTkVyZEdYa3RMWWpiYkZFdjlCZDgxQVdQY2d3OFVZcWtIOUNON2VOM0VFRl8wQll1cFo5UTZ3U0FuWkt5b1FtNHd1ekRmWUJvX1Q0ZFNFX3hhcjl2MjBzS1o0MXBvV3QxSy1JdWtVeUFqT2FWMlVJMkRBSFktXzlpZ0VmdndfZUZIYk1uMkdJT09HOUM5SHFhdmtlQjViLVVab2IxQW9nS045Zm9hRGVKZjN6UlhCbjgxTmVac1RfOFFrUVpvMnU5cWNTTDVLSkdjTV9jVXhIWlhtU3FSRnNBWnFpdkRZSUJN?oc=5",
@@ -44,19 +57,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-25T16:50:59+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "92f0ba0a1fda2dab4658",
-      "title": "Grayscale：金融隐私需求升温，Zcash 或迎来重新定价| 吴说区块链发布于币安广场 - Binance",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jX0E2T3RTaTl0MmQ5Y0NJMXZHXzNIYWZnN1ZsZ3dlRnR1RFl4WGxGaUx1Z2hpY04zeHhFZjBvald1RHF2OHJwQjdNTGxBalBvYXFWcWNFc2FsQ3BHOG1vdG80MTVXMUc2?oc=5",
-      "source": "Binance",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-25T12:11:54+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -115,6 +115,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "77f44b5d10e46d1fa8d2",
+      "title": "Grayscale：金融隐私需求升温，Zcash 或迎来重新定价 - 吴说",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYzZMMlFrNmxQd3pPckl3Z2Z3NzFWcjZlbThlYkd5YndRN3hodUZTX2pVaDk5eHVJd1llS3E4Vy1hOVBDSVg3VDdrN2VHZ2Vva2ZTYm1HTHFsbzdkZGZGekU3TjZQelVscEp4MmVRd0hlZWNkOWs4Y3A0X0tfYUV4UENrY19GaHRYTVIzZmZB?oc=5",
+      "source": "吴说",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-25T09:26:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "c81daf305c01fe814e51",
       "title": "Grayscale's New Zcash ETF Has Gathered $1 Billion in Assets in Just 30 Days. Here's Why Investors Are So Bullish on Zcash. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWm5ZYk5NUnlwNFJaVk9IV25GZUFsQ0dqOXpPSTdySTRwVzJGRmRMcUU3bjVCYjY1ZS1fMjB6eU5mLWJFRE83Y1dldG5pUklReFRMQVB4MGhYTFBHMlpSMmR1RFQtMDRrSjRsYW05MFd2eEhTX242N2pHNlpQc2ZKdnpRRGQ0V3M2UkVfb1lxSmwya0pWUHhlMw?oc=5",
@@ -122,19 +135,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-24T17:07:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1ed64a9f79ed1c5c543f",
-      "title": "Crypto Price Analysis, BTC, XRP, NEAR, SOL and ZEC, October 24: Bitcoin RSI Falls Below 46 as XRP Loses Daily Support - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQlVYUko5X3VYeTBhYzhjenptckhfMTV3X3hqb1pUZk9jZ3JjUWVBRWdWVXdYLTluTWVVc3k3bnR2N2s0aUluLXNuZkc2cWc0b2hpRTNGbWlrMGJrckgzMnNwTzJ0MThnWUo4cU5JdmZhV2Y2X2haVXFfTnA0dU9ncFNKY091Y1VuY1ZOV01hS3o4QWxoOXowUWFNbm9JRmx4a2hxQ1pWSVdjQXMyVkxqMzBRTlhUZWJoYWJhazFVU1ZzTHhGbmNSZkVaVDVmRTNCX1E4Y0pINXdiTk85bHptRDhzRQ?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-24T13:43:18+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
