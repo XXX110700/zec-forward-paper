@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-25T21:29:30.411998+00:00",
-  "last_success_at": "2026-10-25T21:29:30.411998+00:00",
+  "checked_at": "2026-10-25T22:27:08.683383+00:00",
+  "last_success_at": "2026-10-25T22:27:08.683383+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 24
+      "matched": 23
     }
   ],
   "items": [
+    {
+      "id": "0bbc5945c7bc047f1030",
+      "title": "ZEC Price Prediction: Co-Founder Floats $2,000 Target - Bitcoin Foundation",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOFFyWVZUYlUtSWYzSzdRejZHVE9uQ2NoNkx5akI0VmNFSG9NX1E1cUZ0b2dTRk5ZcXZUUG1hczVSenMyR1BvUE16S2p2bzBGZVR3WU5BdmJNTURrLTM4YTZQVmg2OHN6OHlkQnBaNGppRFpPVmxuWXlWX2FldDJRekN0bjRHT09kVkpaNldzSGozRVptT25NYlhoV0cyQ25KUW56alNxQ2o2RDZEUGEtZWtFUXIxaWZyM2VpMDRB?oc=5",
+      "source": "Bitcoin Foundation",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-25T21:35:37+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "091e6d1ff2a1b925cd96",
       "title": "‘Not good for Zcash’ – ZODL founder pushes back against Crosslink upgrade - AMBCrypto",
@@ -50,6 +63,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "904359df350e3e15f57e",
+      "title": "Monero (XMR) and Zcash (ZEC) Beat Bitcoin This Week. Can the Privacy Coins Keep It Up? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOU5WZVNTZklwSHV4UTVCSXdHNmlZcDd4UXBYeHpac003QkNnbDBhRF9XRi13NDFMUTROU3VuNnc1TV9XY09BTXd0dF9Ea2NsdWJNUTZlVFVSRzJ1SWZqZHNDN1U3Z3pPV2tHWndnMm9UY0RYNWNhdjZJZGswazlaaGxVbW82UGhOOXpJZTVMMFlFZzllOXJDR0JUUW1adWIySmRsRExJNEdFaHBPR0p5MENlVU9NUWF0Z3d6V2RROHZ0UmN2Vi1YS09jUHNNeW90bURYZmRR?oc=5",
+      "source": "24/7 Wall St.",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-25T18:38:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "c26c27ba3dacf4d01abe",
       "title": "Zcash-Linked Funds Post Biggest Inflow Since September as Bitcoin Sags - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wN05jVE9PZk1acjBid1gwUmNncHB5cmhuUTBfVFdXcWRlaEk4eXRQeGQwUHdTT0R6akVCLUYyUVNTYWNIbXhTOHVaV2N0UnJYUGZWYllFVWVYcGZORmVMeTlMYnJLT09TT09HaTRBTVlTTE4yOWc?oc=5",
@@ -57,19 +83,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-25T18:15:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "904359df350e3e15f57e",
-      "title": "Monero (XMR) and Zcash (ZEC) Beat Bitcoin This Week. Can the Privacy Coins Keep It Up? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOU5WZVNTZklwSHV4UTVCSXdHNmlZcDd4UXBYeHpac003QkNnbDBhRF9XRi13NDFMUTROU3VuNnc1TV9XY09BTXd0dF9Ea2NsdWJNUTZlVFVSRzJ1SWZqZHNDN1U3Z3pPV2tHWndnMm9UY0RYNWNhdjZJZGswazlaaGxVbW82UGhOOXpJZTVMMFlFZzllOXJDR0JUUW1adWIySmRsRExJNEdFaHBPR0p5MENlVU9NUWF0Z3d6V2RROHZ0UmN2Vi1YS09jUHNNeW90bURYZmRR?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-25T17:54:37+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -174,19 +187,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-24T17:07:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1ed64a9f79ed1c5c543f",
-      "title": "Crypto Price Analysis, BTC, XRP, NEAR, SOL and ZEC, October 24: Bitcoin RSI Falls Below 46 as XRP Loses Daily Support - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQlVYUko5X3VYeTBhYzhjenptckhfMTV3X3hqb1pUZk9jZ3JjUWVBRWdWVXdYLTluTWVVc3k3bnR2N2s0aUluLXNuZkc2cWc0b2hpRTNGbWlrMGJrckgzMnNwTzJ0MThnWUo4cU5JdmZhV2Y2X2haVXFfTnA0dU9ncFNKY091Y1VuY1ZOV01hS3o4QWxoOXowUWFNbm9JRmx4a2hxQ1pWSVdjQXMyVkxqMzBRTlhUZWJoYWJhazFVU1ZzTHhGbmNSZkVaVDVmRTNCX1E4Y0pINXdiTk85bHptRDhzRQ?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-24T13:43:18+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
