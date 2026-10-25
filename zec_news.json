@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-25T19:29:19.750451+00:00",
-  "last_success_at": "2026-10-25T19:29:19.750451+00:00",
-  "status": "partial",
+  "checked_at": "2026-10-25T20:28:41.160983+00:00",
+  "last_success_at": "2026-10-25T20:28:41.160983+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 2
     },
     {
       "name": "Cointelegraph",
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 23
+      "matched": 24
     }
   ],
   "items": [
+    {
+      "id": "c26c27ba3dacf4d01abe",
+      "title": "Zcash-Linked Funds Post Biggest Inflow Since September as Bitcoin Sags - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wN05jVE9PZk1acjBid1gwUmNncHB5cmhuUTBfVFdXcWRlaEk4eXRQeGQwUHdTT0R6akVCLUYyUVNTYWNIbXhTOHVaV2N0UnJYUGZWYllFVWVYcGZORmVMeTlMYnJLT09TT09HaTRBTVlTTE4yOWc?oc=5",
+      "source": "BigGo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-25T18:15:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "904359df350e3e15f57e",
       "title": "Monero (XMR) and Zcash (ZEC) Beat Bitcoin This Week. Can the Privacy Coins Keep It Up? - 24/7 Wall St.",
@@ -57,6 +70,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-25T16:50:59+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "b5a44c753412072dfdff",
+      "title": "Zcash Crypto Price Faces $1,050 Test as Traders Prepare to Buy the Dip - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOXhzOFRiTWI0dVFvd2ZiY3pHQ0Yzd3YwVGRRWWZ4X1FIb0VRN1dBMWhzWGgtTGhoRlZxTzJhWVEwNmlGMFNQN3NOSHJnUUFpTlFDY3FGSnJ5ektPRFE0eUJ4Ul9xZWtqVllhZXVyN3hmMWFKcG5DVmNLTzEtNGJRVWVVVVFYOTVVaDR2RlJUS3BScXFnRGtNZERGU0dpM19odlhPblhjZUpkZw?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-25T12:30:58+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -135,6 +161,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-24T17:07:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "1ed64a9f79ed1c5c543f",
+      "title": "Crypto Price Analysis, BTC, XRP, NEAR, SOL and ZEC, October 24: Bitcoin RSI Falls Below 46 as XRP Loses Daily Support - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQlVYUko5X3VYeTBhYzhjenptckhfMTV3X3hqb1pUZk9jZ3JjUWVBRWdWVXdYLTluTWVVc3k3bnR2N2s0aUluLXNuZkc2cWc0b2hpRTNGbWlrMGJrckgzMnNwTzJ0MThnWUo4cU5JdmZhV2Y2X2haVXFfTnA0dU9ncFNKY091Y1VuY1ZOV01hS3o4QWxoOXowUWFNbm9JRmx4a2hxQ1pWSVdjQXMyVkxqMzBRTlhUZWJoYWJhazFVU1ZzTHhGbmNSZkVaVDVmRTNCX1E4Y0pINXdiTk85bHptRDhzRQ?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-24T13:43:18+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -645,45 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "877a1107ebbbd6eed518",
-      "title": "Bitcoin, Hyperliquid (HYPE) and Zcash (ZEC) Price Ready to Bounce Back - Coinpedia",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbDUxQVVTbVZfeWY2RnQyOFhBRjhaS0RCMHVVOHBaZENvUTZHVTh3aElzMWJ1QmRrQlRkWE80OU5id3NseVpreFFISjZXX2JSU2FnUkk0V0ZQZlBtWWU2ajVadWwwOHV3dEdFTTUzUlZmVjU2TkwteFAyWU1IaUowTHl6R3FfTlRiakZ4ZUJoRzU2SzZBVzlCdtIBngFBVV95cUxOM1lSN3hGR21RRE9RYnN4WlAxdEJfZzBnU1dHS05nSkNRQTZUZGlPZzRad2FTaG9DVVZNSlg0T3dlOVV0VmdXX0hsR3BQNHpORWRVdlF2U2hzQ0NBYUlpQ2wwOGRBUEU0SjlaTFhzMkRiZlh4dG5tZWc4ejlNSExMMkx0RU9hRFZPMUp1WDk4VEg1XzVNWUM2U0VSUkctQQ?oc=5",
-      "source": "Coinpedia",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T09:39:05+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1bb0da496900523fe788",
-      "title": "温氏兄弟押注 Zcash：AI 时代隐私成稀缺资产，目标 1 万美元 - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdFVpbTIyOTctVTdiVWRaZkc2bTk1cjhMOHpYREhQN0NMbG0tUEsyUUtyb0l1dlBUOFV3bUhiWE5vOTVuX1B4Y3ViWXhRdmZ5ZHJQcTRWcjZhbm8wYUMwcEdHQnBUX2E1WVFoSlFGQ2NIWm4zUnlHc1R2OWRWSjUtcHo2VFdxMGxzRFpTRmpBblMxTU9PNkozTWpXdi15VnhhV3ZNa05R?oc=5",
-      "source": "富途牛牛",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T09:02:30+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "ff313b35d74d484d2e48",
-      "title": "Zcash NU7 升级：2.2 万枚 ZEC 面临软冻结 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjbThDa3BUbDdVRUtyTDdMbXN3Q1plNENnWnRmN2VyN3VsTWVEOXREZTNrVWw3NFNXSWJ4NzhqSzNKblVyOXEweUZHZEQ?oc=5",
-      "source": "凤凰网",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T07:51:01+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     }
   ]
