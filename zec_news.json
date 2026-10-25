@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-25T22:27:08.683383+00:00",
-  "last_success_at": "2026-10-25T22:27:08.683383+00:00",
-  "status": "ok",
+  "checked_at": "2026-10-25T23:27:05.227205+00:00",
+  "last_success_at": "2026-10-25T23:27:05.227205+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 2
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -44,6 +44,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-25T21:35:37+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "e796a552c2f446609b81",
+      "title": "Next 100x Crypto? Remittix, Zcash and Hyperliquid in Focus as BNB Chain Expands Tokenized Stock Trading - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxON1ljNWZ0aHQxRV85dk9FTkVyZEdYa3RMWWpiYkZFdjlCZDgxQVdQY2d3OFVZcWtIOUNON2VOM0VFRl8wQll1cFo5UTZ3U0FuWkt5b1FtNHd1ekRmWUJvX1Q0ZFNFX3hhcjl2MjBzS1o0MXBvV3QxSy1JdWtVeUFqT2FWMlVJMkRBSFktXzlpZ0VmdndfZUZIYk1uMkdJT09HOUM5SHFhdmtlQjViLVVab2IxQW9nS045Zm9hRGVKZjN6UlhCbjgxTmVac1RfOFFrUVpvMnU5cWNTTDVLSkdjTV9jVXhIWlhtU3FSRnNBWnFpdkRZSUJN?oc=5",
+      "source": "StreetInsider",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-25T20:38:35+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -83,19 +96,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-25T18:15:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "e796a552c2f446609b81",
-      "title": "Next 100x Crypto? Remittix, Zcash and Hyperliquid in Focus as BNB Chain Expands Tokenized Stock Trading - StreetInsider",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxON1ljNWZ0aHQxRV85dk9FTkVyZEdYa3RMWWpiYkZFdjlCZDgxQVdQY2d3OFVZcWtIOUNON2VOM0VFRl8wQll1cFo5UTZ3U0FuWkt5b1FtNHd1ekRmWUJvX1Q0ZFNFX3hhcjl2MjBzS1o0MXBvV3QxSy1JdWtVeUFqT2FWMlVJMkRBSFktXzlpZ0VmdndfZUZIYk1uMkdJT09HOUM5SHFhdmtlQjViLVVab2IxQW9nS045Zm9hRGVKZjN6UlhCbjgxTmVac1RfOFFrUVpvMnU5cWNTTDVLSkdjTV9jVXhIWlhtU3FSRnNBWnFpdkRZSUJN?oc=5",
-      "source": "StreetInsider",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-25T16:50:59+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -169,7 +169,7 @@
     {
       "id": "77f44b5d10e46d1fa8d2",
       "title": "Grayscale：金融隐私需求升温，Zcash 或迎来重新定价 - 吴说",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYzZMMlFrNmxQd3pPckl3Z2Z3NzFWcjZlbThlYkd5YndRN3hodUZTX2pVaDk5eHVJd1llS3E4Vy1hOVBDSVg3VDdrN2VHZ2Vva2ZTYm1HTHFsbzdkZGZGekU3TjZQelVscEp4MmVRd0hlZWNkOWs4Y3A0X0tfYUV4UENrY19GaHRYTVIzZmZB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOanN1SW85NGMyQll1bW52WENkbmE4LVNyc3c1Wi1paUk3b1RLMURSby1ReHJCMU1TU0lhZGlXVUJOVWR1YmxrLVRHUzJtQ0dXd0pCdWVBV2VETFlzUTdIS2pTLWlpcFJNSFp2ZGhHWTRVd29RejdhcXBZd2tyalZ0MC1kUGxEQkpsQWNacTJSbFZZejA?oc=5",
       "source": "吴说",
       "feed": "Google News 中文",
       "kind": "aggregation",
@@ -187,6 +187,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-24T17:07:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "1ed64a9f79ed1c5c543f",
+      "title": "Crypto Price Analysis, BTC, XRP, NEAR, SOL and ZEC, October 24: Bitcoin RSI Falls Below 46 as XRP Loses Daily Support - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQlVYUko5X3VYeTBhYzhjenptckhfMTV3X3hqb1pUZk9jZ3JjUWVBRWdWVXdYLTluTWVVc3k3bnR2N2s0aUluLXNuZkc2cWc0b2hpRTNGbWlrMGJrckgzMnNwTzJ0MThnWUo4cU5JdmZhV2Y2X2haVXFfTnA0dU9ncFNKY091Y1VuY1ZOV01hS3o4QWxoOXowUWFNbm9JRmx4a2hxQ1pWSVdjQXMyVkxqMzBRTlhUZWJoYWJhazFVU1ZzTHhGbmNSZkVaVDVmRTNCX1E4Y0pINXdiTk85bHptRDhzRQ?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-24T13:43:18+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-22T12:37:30+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "4b40a7d54d81ebae769a",
-      "title": "BTC, HYPE, and ZEC Ready for a Rebound? Analyst Explains Why - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDBjVzNWbk81R2V6Y1NnOVhScHB5ZE0wTlFwcmRpLXhxb25XVWtQeXZ4OXRDMEFTNFJrQVRhWTAwX1pfaWVvdGpYTmpUWmJNU2MwQmR4QlJsZGI0V2JEVGhOMi1acFQxMnpiWEo4a0VkWloybTFFTXVZQjNxeEp0SnphcERPa1JmeW1ucENpNWo0eFo2bWFHQnFtWQ?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T11:55:33+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
