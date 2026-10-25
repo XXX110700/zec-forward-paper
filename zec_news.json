@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-25T16:32:13.074057+00:00",
-  "last_success_at": "2026-10-25T16:32:13.074057+00:00",
-  "status": "ok",
+  "checked_at": "2026-10-25T17:30:26.931484+00:00",
+  "last_success_at": "2026-10-25T17:30:26.931484+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 2
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "e796a552c2f446609b81",
+      "title": "Next 100x Crypto? Remittix, Zcash and Hyperliquid in Focus as BNB Chain Expands Tokenized Stock Trading - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxON1ljNWZ0aHQxRV85dk9FTkVyZEdYa3RMWWpiYkZFdjlCZDgxQVdQY2d3OFVZcWtIOUNON2VOM0VFRl8wQll1cFo5UTZ3U0FuWkt5b1FtNHd1ekRmWUJvX1Q0ZFNFX3hhcjl2MjBzS1o0MXBvV3QxSy1JdWtVeUFqT2FWMlVJMkRBSFktXzlpZ0VmdndfZUZIYk1uMkdJT09HOUM5SHFhdmtlQjViLVVab2IxQW9nS045Zm9hRGVKZjN6UlhCbjgxTmVac1RfOFFrUVpvMnU5cWNTTDVLSkdjTV9jVXhIWlhtU3FSRnNBWnFpdkRZSUJN?oc=5",
+      "source": "StreetInsider",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-25T16:50:59+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "92f0ba0a1fda2dab4658",
       "title": "Grayscale：金融隐私需求升温，Zcash 或迎来重新定价| 吴说区块链发布于币安广场 - Binance",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f8b0a539993bf11bdecc",
-      "title": "Why Zcash price is suddenly nearing $1,300 after weeks of investors pulling out - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNWV6ZS1ETFZUVE0tT1V5MVVEdHlMV1hPS0FoZzZJdmVub1ZXczd2bGRlLWhBaW9PN1FZWGxnUHFOalNEOXZsa3F2WTNCVm1aRmZpRl9QdzMtSmt6aExNYmpGcW1xdGd6NUcwNDBRQXphMkdXYjQ2TG1IQUNzaF9lZWsxRE5QOTF0ZVd1OTlPNW9OcllhbldJcWdfdTZnUXQzYzFfUllDMWc2TlVrU2d4RXpXYUFtcUY0YUFabU9qWUNvd2YxXzh0R2lfcTZsbFU?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T05:28:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
