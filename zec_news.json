@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-24T23:26:33.802108+00:00",
-  "last_success_at": "2026-10-24T23:26:33.802108+00:00",
+  "checked_at": "2026-10-25T00:39:57.767887+00:00",
+  "last_success_at": "2026-10-25T00:39:57.767887+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 24
+      "matched": 21
     }
   ],
   "items": [
@@ -44,19 +44,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-24T17:07:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1ed64a9f79ed1c5c543f",
-      "title": "Crypto Price Analysis, BTC, XRP, NEAR, SOL and ZEC, October 24: Bitcoin RSI Falls Below 46 as XRP Loses Daily Support - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQlVYUko5X3VYeTBhYzhjenptckhfMTV3X3hqb1pUZk9jZ3JjUWVBRWdWVXdYLTluTWVVc3k3bnR2N2s0aUluLXNuZkc2cWc0b2hpRTNGbWlrMGJrckgzMnNwTzJ0MThnWUo4cU5JdmZhV2Y2X2haVXFfTnA0dU9ncFNKY091Y1VuY1ZOV01hS3o4QWxoOXowUWFNbm9JRmx4a2hxQ1pWSVdjQXMyVkxqMzBRTlhUZWJoYWJhazFVU1ZzTHhGbmNSZkVaVDVmRTNCX1E4Y0pINXdiTk85bHptRDhzRQ?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-24T13:43:18+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -440,19 +427,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "9ae6d10b3d89794b845d",
-      "title": "Zcash Falls 3.23% in One Hour to $1,237 on Binance Spot - TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PQ2k0NTJfTzNiWW9YNEdFNXpSYUU1S1QydkJWejdjZzFkYkt3SGF6TWg5MzRDeUIxVEhkUHNuUVlYTm44WF9jRW1pNDRNc0dmY0x0TU8wVWg5QQ?oc=5",
-      "source": "TOKENPOST",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T19:07:13+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "221a8ef1cb47bc224b59",
       "title": "Zcash releases Zebra 7.0.0 as NU7 node upgrade deadline approaches - Crypto News",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Ba0htajNhcGoxV254ckw3eW80OTVscFkxWjc1RzlScElneV96R0t6ZEwwa0tQTS01SmNPTWxsU1JUcFBFTDBfSHpjeW9TTUhGdTY5WlZNWWVfWFdfeHJuV2RPQWV3Rl83cUVwOVNkaEs?oc=5",
@@ -596,19 +570,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "e12d601768c75e8ce863",
-      "title": "对话 Winklevoss 兄弟： AI 狂飙时代， Zcash 为何是终极的「加密版比特币」？ - Odaily星球日报",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94SXNJd25TODYyQUxCX0ZpeEVhWE16UWJuM3NlbDFZeGNITEEwMXQ2bEV4TVlLY0ljZmVsUGxTbHQwOVpFbVdFbDhDOWI0TE83ZnJPQQ?oc=5",
-      "source": "Odaily星球日报",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T08:00:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "ff313b35d74d484d2e48",
       "title": "Zcash NU7 升级：2.2 万枚 ZEC 面临软冻结 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjbThDa3BUbDdVRUtyTDdMbXN3Q1plNENnWnRmN2VyN3VsTWVEOXREZTNrVWw3NFNXSWJ4NzhqSzNKblVyOXEweUZHZEQ?oc=5",
@@ -681,6 +642,45 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-22T03:28:28+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "174e8e2408c883ae4ef1",
+      "title": "Zcash Rises 3.95% in Four Hours as Price Reaches $1,309 - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QaExBNmVXVjRhQW1zWi1WX29NN1N0YTVsSE93NGNXY2Rjc3NfTjE5RmxtNTVoVzdFNW15YjVaRndzWDlnaTlNcjgtd29NT0djWUtwV2RhOUZpdw?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T01:58:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "082bd1c30fa131d9daab",
+      "title": "美国 ZEC、NEAR 现货 ETF 单日合计净流入 1600.73 万美元 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2S1lFd3QxWXRGVlp5NklrYk5yUk9Rc0JFbHhMWGpBYm9jYmExSzJNMHBBOVpISV9BTGYxMEFhR3FDNUZUWUx3dDE2V1BNTHJ5bHVCMGVIdXFMbll6MTVySU1uQ0hEUQ?oc=5",
+      "source": "TradingView",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T01:49:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "d11099ab344cd546bb31",
+      "title": "Google Gemini AI Predicts an Explosive Q4 for Zcash - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT0k4ZkdpYjZYSzRtWmswdjMwVm16WDFQVmdUbzNjTUM3T0pFUkRmVGZYTmdLZFpNcVA3SW9wbWFpcVZXTzd4MXVvLXhZeHZsTTBYdG1JZG50cmQtTjZYdFJTVnAwNm5fQkdSV2l0SlpVNGJzYXl3QmdEejk4RFRQQ3JWZw?oc=5",
+      "source": "Cryptonews",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T01:19:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
