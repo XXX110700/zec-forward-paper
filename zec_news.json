@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-25T07:38:47.452258+00:00",
-  "last_success_at": "2026-10-25T07:38:47.452258+00:00",
+  "checked_at": "2026-10-25T08:32:49.413228+00:00",
+  "last_success_at": "2026-10-25T08:32:49.413228+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 21
     }
   ],
   "items": [
@@ -44,6 +44,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-24T17:07:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "1ed64a9f79ed1c5c543f",
+      "title": "Crypto Price Analysis, BTC, XRP, NEAR, SOL and ZEC, October 24: Bitcoin RSI Falls Below 46 as XRP Loses Daily Support - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQlVYUko5X3VYeTBhYzhjenptckhfMTV3X3hqb1pUZk9jZ3JjUWVBRWdWVXdYLTluTWVVc3k3bnR2N2s0aUluLXNuZkc2cWc0b2hpRTNGbWlrMGJrckgzMnNwTzJ0MThnWUo4cU5JdmZhV2Y2X2haVXFfTnA0dU9ncFNKY091Y1VuY1ZOV01hS3o4QWxoOXowUWFNbm9JRmx4a2hxQ1pWSVdjQXMyVkxqMzBRTlhUZWJoYWJhazFVU1ZzTHhGbmNSZkVaVDVmRTNCX1E4Y0pINXdiTk85bHptRDhzRQ?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-24T13:43:18+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-10-22T01:49:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "d11099ab344cd546bb31",
-      "title": "Google Gemini AI Predicts an Explosive Q4 for Zcash - Cryptonews",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT0k4ZkdpYjZYSzRtWmswdjMwVm16WDFQVmdUbzNjTUM3T0pFUkRmVGZYTmdLZFpNcVA3SW9wbWFpcVZXTzd4MXVvLXhZeHZsTTBYdG1JZG50cmQtTjZYdFJTVnAwNm5fQkdSV2l0SlpVNGJzYXl3QmdEejk4RFRQQ3JWZw?oc=5",
-      "source": "Cryptonews",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T01:19:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
