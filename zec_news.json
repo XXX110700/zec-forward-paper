@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-25T08:32:49.413228+00:00",
-  "last_success_at": "2026-10-25T08:32:49.413228+00:00",
+  "checked_at": "2026-10-25T09:32:50.886906+00:00",
+  "last_success_at": "2026-10-25T09:32:50.886906+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 21
+      "matched": 22
     }
   ],
   "items": [
@@ -44,19 +44,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-24T17:07:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1ed64a9f79ed1c5c543f",
-      "title": "Crypto Price Analysis, BTC, XRP, NEAR, SOL and ZEC, October 24: Bitcoin RSI Falls Below 46 as XRP Loses Daily Support - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQlVYUko5X3VYeTBhYzhjenptckhfMTV3X3hqb1pUZk9jZ3JjUWVBRWdWVXdYLTluTWVVc3k3bnR2N2s0aUluLXNuZkc2cWc0b2hpRTNGbWlrMGJrckgzMnNwTzJ0MThnWUo4cU5JdmZhV2Y2X2haVXFfTnA0dU9ncFNKY091Y1VuY1ZOV01hS3o4QWxoOXowUWFNbm9JRmx4a2hxQ1pWSVdjQXMyVkxqMzBRTlhUZWJoYWJhazFVU1ZzTHhGbmNSZkVaVDVmRTNCX1E4Y0pINXdiTk85bHptRDhzRQ?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-24T13:43:18+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -362,6 +349,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "281b28ef38eeaa3b1931",
+      "title": "Why is ZEC price back in focus as ETF inflows and NU7 support demand? - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT3BWS3otTnFYS2hXWlJ5UXhHTDZxMG1HRjh3ZldxclNLRTZHdzZJVjhRZV95cllhR3NzUGZLNkptbXh1Unpka0l3RXZ2OUUxaEFqdGhvMV9tV21JclI3OHdJZ21kR0dmZHIyZF9NV1VZb2NRVDhaMWFOa1BZcmlnZzB5ejQ4alVKN055MDJiT19TQ09tYU9fM280dWJFanJLRkNSenZFV3gwT2p3SWRPTDczSVg4OFNkVzZ4WWRadmdYaUJwNUww?oc=5",
+      "source": "FXStreet",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-23T06:26:03+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "50e166f3917a847d9c87",
       "title": "Why is Zcash price down today? ZEC open interest falls 12% - Crypto News",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14N2gyQ0k4dC1uZGZReks5OWhnbzA1dThYUWRkQV8zRENTN0ZvczhCd1RuLUFHVl9BNkV4UDhEdVRtX0tMYzlfNkFxcWNFZWpja0E4cWFmZkw1RHVGUkFTckx3SzRZMlNOV0xtaFJkbzdRM0E?oc=5",
@@ -434,6 +434,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-22T20:30:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "9ae6d10b3d89794b845d",
+      "title": "Zcash Falls 3.23% in One Hour to $1,237 on Binance Spot - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PQ2k0NTJfTzNiWW9YNEdFNXpSYUU1S1QydkJWejdjZzFkYkt3SGF6TWg5MzRDeUIxVEhkUHNuUVlYTm44WF9jRW1pNDRNc0dmY0x0TU8wVWg5QQ?oc=5",
+      "source": "TOKENPOST",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T19:07:13+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-22T01:58:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "082bd1c30fa131d9daab",
-      "title": "美国 ZEC、NEAR 现货 ETF 单日合计净流入 1600.73 万美元 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2S1lFd3QxWXRGVlp5NklrYk5yUk9Rc0JFbHhMWGpBYm9jYmExSzJNMHBBOVpISV9BTGYxMEFhR3FDNUZUWUx3dDE2V1BNTHJ5bHVCMGVIdXFMbll6MTVySU1uQ0hEUQ?oc=5",
-      "source": "TradingView",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T01:49:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
