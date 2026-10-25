@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-25T03:33:45.022564+00:00",
-  "last_success_at": "2026-10-25T03:33:45.022564+00:00",
+  "checked_at": "2026-10-25T05:32:32.934304+00:00",
+  "last_success_at": "2026-10-25T05:32:32.934304+00:00",
   "status": "partial",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 20
+      "matched": 21
     }
   ],
   "items": [
@@ -132,6 +132,19 @@
       "title": "Bitcoin or Zcash: Which Is the Better Buy After Zcash’s 26% Monthly Drop? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUnluV3VoNy04blIzZGZFWi12Mk5JejFDSHd6VXhJZWRRUWp2Wll6VXhHdVRHcjFiSG5BNk1nLTNJMFFhT1FuQVpDcllDajJVT1JvaGxqaGotQ3lDbVBoSmllZnp2eW9qQXFXd1R2ZHhEcDZSV09TOVJiaEI2RTVMdmRJZFpmc1ZmYWRicWZXN2RxcUl6dmZaTFNiVQ?oc=5",
       "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-23T19:30:21+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "118c0c05fdc8af63aa3c",
+      "title": "Bitcoin or Zcash: Which Is the Better Buy After Zcash’s 26% Monthly Drop? - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYaWdhQ2NPd1hBd3I1a0l3VEVfR244elRlLVRIbUJXbTNMU3FuV0k4YlpVWVYyQW5Yb1Z6elJYOUNYR1dFQkdMVEpjYTA0VkdHd1NXcEdvcE1zVFF6UXRvYW0zVGp1Y01Ob0NkMHRNanZTbkJPMG1qcDVVaDZVOEE?oc=5",
+      "source": "AOL.com",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T19:30:21+00:00",
@@ -330,19 +343,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T09:45:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "281b28ef38eeaa3b1931",
-      "title": "Why is ZEC price back in focus as ETF inflows and NU7 support demand? - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT3BWS3otTnFYS2hXWlJ5UXhHTDZxMG1HRjh3ZldxclNLRTZHdzZJVjhRZV95cllhR3NzUGZLNkptbXh1Unpka0l3RXZ2OUUxaEFqdGhvMV9tV21JclI3OHdJZ21kR0dmZHIyZF9NV1VZb2NRVDhaMWFOa1BZcmlnZzB5ejQ4alVKN055MDJiT19TQ09tYU9fM280dWJFanJLRkNSenZFV3gwT2p3SWRPTDczSVg4OFNkVzZ4WWRadmdYaUJwNUww?oc=5",
-      "source": "FXStreet",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-23T06:26:03+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
