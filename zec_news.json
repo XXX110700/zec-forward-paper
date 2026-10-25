@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-25T12:36:51.514713+00:00",
-  "last_success_at": "2026-10-25T12:36:51.514713+00:00",
-  "status": "ok",
+  "checked_at": "2026-10-25T13:33:40.678673+00:00",
+  "last_success_at": "2026-10-25T13:33:40.678673+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 2
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "92f0ba0a1fda2dab4658",
+      "title": "Grayscale：金融隐私需求升温，Zcash 或迎来重新定价| 吴说区块链发布于币安广场 - Binance",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jX0E2T3RTaTl0MmQ5Y0NJMXZHXzNIYWZnN1ZsZ3dlRnR1RFl4WGxGaUx1Z2hpY04zeHhFZjBvald1RHF2OHJwQjdNTGxBalBvYXFWcWNFc2FsQ3BHOG1vdG80MTVXMUc2?oc=5",
+      "source": "Binance",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-25T12:11:54+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "e55b4fdf875ab1d32795",
       "title": "Zcash price falls 25% this month ahead of major network upgrade - Crypto News",
@@ -83,19 +96,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-25T10:05:37+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "77f44b5d10e46d1fa8d2",
-      "title": "Grayscale：金融隐私需求升温，Zcash 或迎来重新定价 - 吴说",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYzZMMlFrNmxQd3pPckl3Z2Z3NzFWcjZlbThlYkd5YndRN3hodUZTX2pVaDk5eHVJd1llS3E4Vy1hOVBDSVg3VDdrN2VHZ2Vva2ZTYm1HTHFsbzdkZGZGekU3TjZQelVscEp4MmVRd0hlZWNkOWs4Y3A0X0tfYUV4UENrY19GaHRYTVIzZmZB?oc=5",
-      "source": "吴说",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-25T09:26:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -427,19 +427,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "281b28ef38eeaa3b1931",
-      "title": "Why is ZEC price back in focus as ETF inflows and NU7 support demand? - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT3BWS3otTnFYS2hXWlJ5UXhHTDZxMG1HRjh3ZldxclNLRTZHdzZJVjhRZV95cllhR3NzUGZLNkptbXh1Unpka0l3RXZ2OUUxaEFqdGhvMV9tV21JclI3OHdJZ21kR0dmZHIyZF9NV1VZb2NRVDhaMWFOa1BZcmlnZzB5ejQ4alVKN055MDJiT19TQ09tYU9fM280dWJFanJLRkNSenZFV3gwT2p3SWRPTDczSVg4OFNkVzZ4WWRadmdYaUJwNUww?oc=5",
-      "source": "FXStreet",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-23T06:26:03+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "50e166f3917a847d9c87",
       "title": "Why is Zcash price down today? ZEC open interest falls 12% - Crypto News",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14N2gyQ0k4dC1uZGZReks5OWhnbzA1dThYUWRkQV8zRENTN0ZvczhCd1RuLUFHVl9BNkV4UDhEdVRtX0tMYzlfNkFxcWNFZWpja0E4cWFmZkw1RHVGUkFTckx3SzRZMlNOV0xtaFJkbzdRM0E?oc=5",
@@ -681,6 +668,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-22T05:28:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "1c20a444d4974d5302d9",
+      "title": "Cryptocurrencies Price Prediction: Cardano, Ripple & Zcash – European Wrap 22 October - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOEVCSW4wdGJUcnZBQ3RPWFBkSzZQYnlnaEcyUHJzNm55bkhnQWdhaDZmS2ViTlJWWl9NbzctT0NaSTFhM3F0RnphZTJvZ3pPb0NsWnY1SlpwRGZ2aS1IRzd0REVvMXZONFd3YndMdHhJd2c3ME81Y3VPa24teHF5Si1TeEFBODVwUTdCSk5CMXoyaWZuTWlncjNtZFRjT3c2dWRvWGpWNXFMY1VMc1ZsaExua0dzdFI0dGJ0c3phSVpTb2ZoanMxR2J0U3ZzSzlGUVVSYU1B?oc=5",
+      "source": "FXStreet",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T04:22:27+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
