@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-25T20:28:41.160983+00:00",
-  "last_success_at": "2026-10-25T20:28:41.160983+00:00",
+  "checked_at": "2026-10-25T21:29:30.411998+00:00",
+  "last_success_at": "2026-10-25T21:29:30.411998+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "091e6d1ff2a1b925cd96",
+      "title": "‘Not good for Zcash’ – ZODL founder pushes back against Crosslink upgrade - AMBCrypto",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdzUzSGdKamYzcVNkVVJQc2ZGMTVZRGVreU4tcTJPOWFUY2Qyb3p0U2RhZVItREp2UEt6allrQjZBeUJwWlJRclhTVE9Qd2lDOFdtTW43eExlWGkyU0dTOVk3c25jVk1XWEtqWktpcmJMY1VtdFBLZmtWamotX3gxbnktanlVT1pvZFZVZ3RKN0NCUEZjSzNz?oc=5",
+      "source": "AMBCrypto",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-25T20:00:19+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
     {
       "id": "c26c27ba3dacf4d01abe",
       "title": "Zcash-Linked Funds Post Biggest Inflow Since September as Bitcoin Sags - BigGo Finance",
@@ -320,19 +333,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1bb6a432d490ec89c84e",
-      "title": "Zcash Price Analysis: ZEC Fails to Break Above $1,400 Amid Bearish Pressure - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHFwMG5pakxBMDVXak1EWnJPVFh5eUotSVBLQkZXR2F4NDVRTlpuLVJ0RGp1dVNtdTNqY1RCZnNfZ3dkNl9Lc2h2b0U1M1Yxd2xMemFid3A1NU5wYy12Mk5kYnEydlhXTlQtNzhmbnViVXNkTXhhelBQQzVuM0gtaWFCaUY1SkhsQWNOcmhfNUpoM25QdGUwRDZ6WDl4NnF5YjFOTUd5NTlPazQ?oc=5",
-      "source": "KuCoin",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-23T16:14:49+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
