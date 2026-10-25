@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-25T13:33:40.678673+00:00",
-  "last_success_at": "2026-10-25T13:33:40.678673+00:00",
-  "status": "partial",
+  "checked_at": "2026-10-25T14:30:45.235653+00:00",
+  "last_success_at": "2026-10-25T14:30:45.235653+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 2
     },
     {
       "name": "Cointelegraph",
@@ -362,10 +362,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "842e3031bac70e744a0d",
-      "title": "Zcash Price Prediction: ZEC Poised to Recover as $1,000 Support Holds Ahead of NU7 Launch - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcEhFdXdhY211VHlTWWlZNFlKb1VMLUVkWjJrVUxMNVBlOW1kV0owWXhzNnJvaFZLdGF2bTBObFdLRWZXc1NJRTl5QWc0Qk8xSjlFd3VuQzhsNUZ0UmFtazJ0cWxMSGlTRFJmX0NFVDV0WTlmNnk3TEMzanRxLUN5OFZ6UnVCQnlQV3c?oc=5",
-      "source": "Yahoo Finance UK",
+      "id": "5505042ed5f6f4006112",
+      "title": "Zcash Price Prediction: ZEC Poised to Recover as $1,000 Support Holds Ahead of NU7 Launch - Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWV9CeEJfX3U3RGZNS3hlay1reUhCUlFrbFdoVkhzdUJFQ2pWREpuTy1qNWVIVjNLa3RxREozMEpDaVdDWW1PZGpYbF9BZzhveVRDUDNINl9RMnp6ejZLUUFGUHVlZ1ZDRWZ2UDVDS3RhbjgzcGUyY2J0RTgzUWQ4MjBWdmUxM3JVRlE?oc=5",
+      "source": "Yahoo Finance Australia",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T13:34:44+00:00",
