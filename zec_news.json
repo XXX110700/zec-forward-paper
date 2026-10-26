@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-26T14:46:56.493897+00:00",
-  "last_success_at": "2026-10-26T14:46:56.493897+00:00",
-  "status": "partial",
+  "checked_at": "2026-10-26T16:04:55.735212+00:00",
+  "last_success_at": "2026-10-26T16:04:55.735212+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 2
     },
     {
       "name": "Cointelegraph",
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 21
     }
   ],
   "items": [
+    {
+      "id": "70fc03a2b38a7a3f5b42",
+      "title": "Former ECC Head Criticizes Staking Proposal for Zcash - ForkLog",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdE5CdVFtLTRybGFQT2I4QzJoU2xPbk5PRFdBVWxMc3Q5MXhlWkpYRUwzYkR3bVk5SXl0UWtTbVBKVzdmS0ZxTjRoMmYzb3k1SnRlTU9acjA3cWJKQlNRRU53eXNnQWlpcklJSkFZaU1SLTQ4X3FVMXVTUEVxWjFHeFpJVQ?oc=5",
+      "source": "ForkLog",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T12:41:12+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
     {
       "id": "49bf9c047438107cabb4",
       "title": "Zcash price rebounds as ETF inflows hit $41M, but $1,000 risk remains - TradingView",
@@ -629,19 +642,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T06:21:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "ea2907f3f9dc222b601a",
-      "title": "Zcash sets NU7 activation for block 3,543,405 as ZEC rallies 12% - Techi",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaaDB5X3luMDFQR3VOS0dxajlvWWF3ZlUtRGQ1NkJPNENZd2E5UVJnNXBPZ3FxeU9FSXNrYkd3ZDFoRkxicWpETjhucjBtOTcwNWdiVXZKNHh2ZDE5ZEtyaEJHemM5Wk1RTlRCcEhrbW0wOU05TnZ5Ng?oc=5",
-      "source": "Techi",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-23T02:29:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
