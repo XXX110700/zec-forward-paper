@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-26T00:54:44.318476+00:00",
-  "last_success_at": "2026-10-26T00:54:44.318476+00:00",
+  "checked_at": "2026-10-26T01:47:19.669834+00:00",
+  "last_success_at": "2026-10-26T01:47:19.669834+00:00",
   "status": "ok",
   "sources": [
     {
@@ -349,6 +349,32 @@
       "verification": "未独立核实"
     },
     {
+      "id": "dfe41d9b0b815826afa7",
+      "title": "Crypto Market Today: Bitcoin Holds Near $83,000 as Zcash Leads the Gains- What’s Next? - Coinpedia",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTy15SlpDU0x2SW9oa1FOYUZQdXh2ZjhnZlNWbmVZc3A0TTRhTUJCa1JwTkxZbkRTdVhjdVBzakdZXzVmaWhmQ2s0N2ZpcHRBRHNsVVYzNXF1NUgyTFM5bXk1di1jQlVHajg1MEVoVXE3amZ2aGZEUU13WWdDem5PMGhmTlpOYnFxS0lSLW9ITkdhUEw4b01uektZOG9IeXlDTXNtbGpEZDRwQ0FjZkptMVFUMWszY0tSbkHSAb8BQVVfeXFMT1RBUWpRTzJHbFpscEh4aFF2ek1PVUNTaWlMU25TS180YndubkplRkJud2hRZ1QzYmVlRXZfNXVfUUMxTW1oUmQyaW1yTWstUUMwdU04UEZPd3gwSm13RmU2b0Z4ME1zMGpVejJSem1rZlI2eDJXRVEwSGNYZTNxTC1Oa2lKekt0SmVaWUc3OTJvZi1QcC1vdjVuaGIwajZkRTkxSmxOd0xjYmdmWmI4STFweHlLRkFFUlBySDRKUDg?oc=5",
+      "source": "Coinpedia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-23T17:19:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "1bb6a432d490ec89c84e",
+      "title": "Zcash Price Analysis: ZEC Fails to Break Above $1,400 Amid Bearish Pressure - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHFwMG5pakxBMDVXak1EWnJPVFh5eUotSVBLQkZXR2F4NDVRTlpuLVJ0RGp1dVNtdTNqY1RCZnNfZ3dkNl9Lc2h2b0U1M1Yxd2xMemFid3A1NU5wYy12Mk5kYnEydlhXTlQtNzhmbnViVXNkTXhhelBQQzVuM0gtaWFCaUY1SkhsQWNOcmhfNUpoM25QdGUwRDZ6WDl4NnF5YjFOTUd5NTlPazQ?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-23T16:14:49+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "857b524d23cb14db49a1",
       "title": "Zcash Price Holds Neutral Below $1,240 Resistance - The Cryptonomist",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0g2aU1Vc2RudVduRUF4Q3lvOUo5aVphSnk1NUk4UGZSYkRsMHpMQVN2T2tlRjBlVE1GYXh3OUN6RzhSZHZ4Yk5QYVpfYWtwUUZDY1pJT3RXLTRfNFpnWXFVY05mcXVlVk4tOW5qQ2VZN3oxS2g3NGp6TllfcVNPMG5oMDdURUx5ZlgzV2g2OGQ0ZWgxVjRYMXp2REo?oc=5",
@@ -658,32 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "41e2ae83b3cfe8275f45",
-      "title": "灰度指数：Zcash ETF日 $14.2M 流入 - blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUF9rcU55M3JmcjVVb2RfLXgxV2FXZlVmOTJjOGN3R252ajZ2RERHWW1UcFFuckF4OTNBbW1qWW9mTzlwcWphVlBuM3hxMGlXX2hkZ3pYS1dpbUVyUG9VaEZ4YnBOZzlZOXFFbjNscnZIT01Da1JWNjRQZUpzNzZqcXItV3ZsdXdvRFhJ?oc=5",
-      "source": "blockchain.news",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T14:21:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b193ec544d4c52363e57",
-      "title": "Zcash Price Forecast: ETF inflow reaches 30-day high as ZEC regains $1,300 - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN0JNYmszVEhoeGJucFM3SFhlMVRLWFMxd19nM2RDOHFSQkRrQ0hXaTRRX3p5Y1EybkU3V2p2MGhoZ0pnaF90amlfRmNNZnhRbUIyZkYtVzVrak05YS1TcTZ6MzBoN3FWUHNJZUtjOXE5eS0xN3cxV2hNSXFsUGY0QXRhXzluODBrQXdydUJKV0NfYWlKTGltbGlMM1R4SFE5MmpsTGQyQkxLWTJtMkdGdHFTcFVxajgxYS1ibHJ6Z1dlekw5UEtUdUhDcjliTXdseWxXTnNn?oc=5",
-      "source": "www.tmgm.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T12:37:30+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
