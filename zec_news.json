@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-26T04:37:08.213603+00:00",
-  "last_success_at": "2026-10-26T04:37:08.213603+00:00",
+  "checked_at": "2026-10-26T05:37:26.087590+00:00",
+  "last_success_at": "2026-10-26T05:37:26.087590+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 25
+      "matched": 26
     }
   ],
   "items": [
+    {
+      "id": "45f141206758d504384a",
+      "title": "Cryptocurrencies Price Prediction: Cardano, Bitcoin & Zcash – Asian Wrap 26 October - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNktxRVRSdWhoa3ZDTHNHWFBKNkVHWmZBRy02eHcyQTdNMWpTbnR0RUIwdXBpWnpuSHVxLTlJNkx3dmdkTElocl9FRExBbDRVd2dTY3JickdLRWloanp3anZLTm1WUWZERmVvSVBqaUU1cnBXZUdPSTIzRm4tRGR5N3VRYmpwLV9QMjJtRUp6VnNnRW94bHdLeFBNOGpUeERUdjhvV0c2ZDRSaVFKWThzMzFMeS10eDdmaU1JdFRPSFlmSF9OWkd1Q3lJMkRpaGlQSU13?oc=5",
+      "source": "FXStreet",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T04:53:18+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "8af6d55fcb1dfa4dcb62",
       "title": "Zcash will triple transaction speed days after turning ten years old - Startup Fortune",
@@ -125,6 +138,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "4e429d108aae9344b2f9",
+      "title": "'Not Good for Zcash': Key Developer Josh Swihart Halts ZEC Staking Upgrade - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkV5SlFXcUdyZkh5MkVqejIxNlJnb2VWZndiakdwcEFQX3VqUGxreTliUF9aa2RWOWtMc0tLbnpWR2h2TElaeldyRW80dDJkelZWVHEyVjU3ZGlNR3Z2VGMtZkpyUVFzTE9KVEhCbHhHTVk0X19DS3JVYWh1aHZwUU82SGRRbTI4cnQ2X3JsSFZFYmFKbDJkRVp4dmJJQV9QbjhLSDB4bU1PelBfYVlGN0c3bGE0N1pqVEZvNUhBYmFBZFg2cHR3?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-25T12:54:30+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     },
     {
@@ -265,6 +291,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T21:07:31+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "a655913fe9cf270dee89",
+      "title": "Zcash Price Analysis: Can ZEC Recover After the $1,300 Rejection? - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBham1MMWd1UlNoOVEwcVNobERnZ2k0dWZWX1dvV3FXWGh1QXpNZ1N6eFJZQXdqYjBkdm1ycDZGcHZVQld1elhTRGp4blJSVmhWVFVwNm1yN182SkE?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-23T20:32:54+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -646,45 +685,6 @@
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
       "verification": "官方发布"
-    },
-    {
-      "id": "c1aae54b55b5f6eea288",
-      "title": "Zcash Crypto Jumps 12% as NU7 Upgrade Nears: Can ZEC Hit $1,300? - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTGFLREx2RndMNGZuNGlfMHNMMWpzTy1QOUdwNDJ0VWFWVFV2aGpSelFnbnRReVJUSGhoeVR5SEdTM09fNm8zSG9IUjNRMGdkWXVWdjdRaEh5ZWJOaVJISmpScVFualNMLVhjT3g3YjNMQVZHTGFTOFhJOURvZjBQeUJMbDVDNGd3RThxeHVEYnAyQlhrM1VwSGRYOFlSQQ?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T15:24:21+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "41e2ae83b3cfe8275f45",
-      "title": "灰度指数：Zcash ETF日 $14.2M 流入 - blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUF9rcU55M3JmcjVVb2RfLXgxV2FXZlVmOTJjOGN3R252ajZ2RERHWW1UcFFuckF4OTNBbW1qWW9mTzlwcWphVlBuM3hxMGlXX2hkZ3pYS1dpbUVyUG9VaEZ4YnBOZzlZOXFFbjNscnZIT01Da1JWNjRQZUpzNzZqcXItV3ZsdXdvRFhJ?oc=5",
-      "source": "blockchain.news",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T14:21:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b193ec544d4c52363e57",
-      "title": "Zcash Price Forecast: ETF inflow reaches 30-day high as ZEC regains $1,300 - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN0JNYmszVEhoeGJucFM3SFhlMVRLWFMxd19nM2RDOHFSQkRrQ0hXaTRRX3p5Y1EybkU3V2p2MGhoZ0pnaF90amlfRmNNZnhRbUIyZkYtVzVrak05YS1TcTZ6MzBoN3FWUHNJZUtjOXE5eS0xN3cxV2hNSXFsUGY0QXRhXzluODBrQXdydUJKV0NfYWlKTGltbGlMM1R4SFE5MmpsTGQyQkxLWTJtMkdGdHFTcFVxajgxYS1ibHJ6Z1dlekw5UEtUdUhDcjliTXdseWxXTnNn?oc=5",
-      "source": "www.tmgm.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T12:37:30+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
     }
   ]
 }
