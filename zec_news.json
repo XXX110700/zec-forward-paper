@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-26T10:41:43.891794+00:00",
-  "last_success_at": "2026-10-26T10:41:43.891794+00:00",
+  "checked_at": "2026-10-26T11:44:32.603681+00:00",
+  "last_success_at": "2026-10-26T11:44:32.603681+00:00",
   "status": "ok",
   "sources": [
     {
@@ -57,6 +57,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-26T04:31:20+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "b30fbd2252dd7b1e2332",
+      "title": "Zcash Price Forecast: Why are renewed ETF inflows struggling to offset broader market headwinds? - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYUtDalNFT1NualgtanhVT2M4eWZOZkhiOUpDV2dNTEFGbkwtS3lJal8zdTU4Z3l2Nk42aTJNVS1CTUFCRTZvSS1WZlRvcUdPeUFGalZLQWJsdXFrS1k1WTRDZEk4RG40cElmeS1rOEFJUFNRVFY5TVJoT1pPR3o3LWp0Z3NQM0JHbng3Z29WTmM3QUlFVWcwSjYzdml3Zms3aTB1R0ZSbk9SazRGcUdla1RyaUhzM0V2LWxvMEtfS0JscGxWeDY4OU42M1lmLXVHZTAzUVBySU1KNVpPSzlpVWJCMUx2YzI4a2c?oc=5",
+      "source": "www.tmgm.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T03:45:40+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -258,6 +271,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "1ed64a9f79ed1c5c543f",
+      "title": "Crypto Price Analysis, BTC, XRP, NEAR, SOL and ZEC, October 24: Bitcoin RSI Falls Below 46 as XRP Loses Daily Support - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQlVYUko5X3VYeTBhYzhjenptckhfMTV3X3hqb1pUZk9jZ3JjUWVBRWdWVXdYLTluTWVVc3k3bnR2N2s0aUluLXNuZkc2cWc0b2hpRTNGbWlrMGJrckgzMnNwTzJ0MThnWUo4cU5JdmZhV2Y2X2haVXFfTnA0dU9ncFNKY091Y1VuY1ZOV01hS3o4QWxoOXowUWFNbm9JRmx4a2hxQ1pWSVdjQXMyVkxqMzBRTlhUZWJoYWJhazFVU1ZzTHhGbmNSZkVaVDVmRTNCX1E4Y0pINXdiTk85bHptRDhzRQ?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-24T13:43:18+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "0dc1d3be9381f0761623",
       "title": "Zcash Payments Get 3x Faster on Nov. 5. Here's What Changes When You Send, Hold or Mine ZEC - Memeburn",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZNVNOQWhreGR1dXhGMUtlSkpuNEhiaWRESHdPZ3FiaEkwbkZ4YnBKN2hqajd5WFlod01KVU03d1IxV1R4Q0E5SGV2aDllWjlMNlViZG1PcUhibC1iQ0l4ZUJrX2U?oc=5",
@@ -395,6 +421,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T17:19:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "1bb6a432d490ec89c84e",
+      "title": "Zcash Price Analysis: ZEC Fails to Break Above $1,400 Amid Bearish Pressure - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHFwMG5pakxBMDVXak1EWnJPVFh5eUotSVBLQkZXR2F4NDVRTlpuLVJ0RGp1dVNtdTNqY1RCZnNfZ3dkNl9Lc2h2b0U1M1Yxd2xMemFid3A1NU5wYy12Mk5kYnEydlhXTlQtNzhmbnViVXNkTXhhelBQQzVuM0gtaWFCaUY1SkhsQWNOcmhfNUpoM25QdGUwRDZ6WDl4NnF5YjFOTUd5NTlPazQ?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-23T16:14:49+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -645,45 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "0a6aaa880f755e4e1ffb",
-      "title": "Zcash Nears $1,300 as Grayscale ETF Pulls in $15.18 Million and Futures Open Interest Hits $2.89 Billion - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfRm1mc2E4bnZ3R2hsUll5blVnMVpZNS1oSVhYWVdyNXo0dkpodDlONzVIam5LLW5rS3U3NVhSNnVSdU5GelBodXFNQlV0bFdjOG5naGtIYjA5NERUZTFaRTN2dlRrYkV1dk9WYV84XzMxZFpwVGc?oc=5",
-      "source": "BigGo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T18:26:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b736b0a5d78a855770ae",
-      "title": "NEAR and Zcash Outrun Bitcoin as Altseason Chatter Builds; NEAR Fees Jump to $14.4 Million - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42Y2V6TVZwX2VGMFFmUU1VZzVabVBJUm9PWDg1NFlmYURfRXZORXhnZVhOUkY1eEEwN2pjWHRsRmUyWGZ3V0lHRVBOR3pKWmlCMlVnOUtvNFRTMmdld3Q1N29aXzY3YWd6M28tajdFQ282Z0RPN3c?oc=5",
-      "source": "finance.biggo.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T18:20:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "96e038c8f164bb671a5d",
-      "title": "Zcash (ZEC) Retraces ETF-Driven Spike Amid Crypto Sell-Off - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIdWhjMHhUak01VUhiSm5FRDFKN2FfYTNFeXlTSzdDMEhYMWVKOHpzNVN1eS11cTJRUndtRzlCXzRJYUFNYkl3VXk3VVYtc3J6WHk2a0JLMVE5eHMtWDZvMW9zMzZNVlNtZ08xRFN0d3g?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T17:51:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
