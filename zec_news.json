@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-26T17:39:28.614168+00:00",
-  "last_success_at": "2026-10-26T17:39:28.614168+00:00",
-  "status": "partial",
+  "checked_at": "2026-10-26T19:43:16.178929+00:00",
+  "last_success_at": "2026-10-26T19:43:16.178929+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 2
     },
     {
       "name": "Cointelegraph",
@@ -43,23 +43,10 @@
       "source": "24/7 Wall St.",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-26T17:36:10+00:00",
+      "published_at": "2026-10-26T17:32:47+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "3853a9b0902af8e9d03c",
-      "title": "ZEC Outperforms BTC After Developers Launch New Toolkit To Make Building Zcash Apps Easier - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMVBUc0w1SkRaeENPOUpvSlh3ajZwM1A1aUZCUTJQaktPcXNZcWhvem94cHlfenVETEEzSnQ1ZVV6UU9JNUhUNWIzRVNlQnBMam9CMW1YZmFCc3N6VnM4SWdhX2N2VmtYVVJmd0NkemVCbmdYaHlUczg2cGcyMDJYTUR2dmpKUGVrUHdwZy1DdWd2ak1weUlpcFpVRTJFempWVHVYaEx0ZGxDOGhhTHFmaUlQZGNKT0NtckExcUN5MngxT1JCOGVvd1ByNmttaU16SDNkaEpXNlVvZjJiN3NqWjJWSklLQQ?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-26T16:42:30+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：launch",
       "verification": "未独立核实"
     },
     {
@@ -91,7 +78,7 @@
     {
       "id": "8c3195a5c247eecf498d",
       "title": "Zcash Labs推出JavaScript开发工具包Zcash JS - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03cnhWWjYwLVZsREVHX0g5ajRWM2NyZWtRZ0QyczFieDFWOWtlSldCQk5MdmdoM3VwYWFmc0NJZWg1MDNOTkR4cElWNmxfbFJyYktqUHZfVnFYeFh1eDFNd0tYR3lhdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tUXc5WlJnWDkzdzFIeHJLWGVFeWNSb05wd0wzNXVyaldFY2ptWlZhQXVOVjFVY1hjb2hlcW1GYVBmdzltR3pEUXlTTkp5TmZtNXhwWmV6VUhva1hJc1FYcXNDT3BUUQ?oc=5",
       "source": "TradingView",
       "feed": "Google News 中文",
       "kind": "aggregation",
@@ -154,6 +141,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "b30fbd2252dd7b1e2332",
+      "title": "Zcash Price Forecast: Why are renewed ETF inflows struggling to offset broader market headwinds? - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYUtDalNFT1NualgtanhVT2M4eWZOZkhiOUpDV2dNTEFGbkwtS3lJal8zdTU4Z3l2Nk42aTJNVS1CTUFCRTZvSS1WZlRvcUdPeUFGalZLQWJsdXFrS1k1WTRDZEk4RG40cElmeS1rOEFJUFNRVFY5TVJoT1pPR3o3LWp0Z3NQM0JHbng3Z29WTmM3QUlFVWcwSjYzdml3Zms3aTB1R0ZSbk9SazRGcUdla1RyaUhzM0V2LWxvMEtfS0JscGxWeDY4OU42M1lmLXVHZTAzUVBySU1KNVpPSzlpVWJCMUx2YzI4a2c?oc=5",
+      "source": "www.tmgm.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T03:45:40+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "8af6d55fcb1dfa4dcb62",
       "title": "Zcash will triple transaction speed days after turning ten years old - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0RibXlUVXhUc3ViZ3BBUlBseF96amFpWllOQXNmTTJPOFNLMHJmV2U3aEFPYXFFZVQ2ckIzV1FsRmE5UGtMS1dweGNxZUt0UmwzVzZiZnZWaDNvZEpzbV9CZnAtbVdpaGk5ajRiUV9aOFU3NGFtbjJzVUQzRHhZLWV6NFNBSUlxMUx3Rkg0dVk3ZVpyMmQ1X2w3Nm0?oc=5",
@@ -206,6 +206,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "b65679c0ee983870f8fc",
+      "title": "Best Crypto Presale to Buy in 2026? Can Remittix’s 300M RTX Burn Plan Outshine Solana and Zcash? - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSjI0NzEyWGlYQlNlT1EyMVlOeUZ0RzRuWWg3REk2NFU3ZjRfVzc5UF9FbnJVOGdNb1RiT2p0ajVrMm9aV0MtWVd1d3lFWWVYZGhhQ3ZOSEdVVzVaWXRLQnhGR2VISlUyR05UaTlfN2Q2eE1wQXhoNWpJLXZSenoxOW9UbnVKaG5yVGk5a0ZKT1MxVjREdEhONnA5WEgxeTlkNmZPV05hRjYyMy1OWUFWSVFHUFdjSURUMWNrRkZDMVRacUFmbldrWkxZV2ktUzBidHEzbkhvX1hxdDVucks1Tlg3Q0M3RjZBckhpRVdOVndPWW5F?oc=5",
+      "source": "StreetInsider",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-25T20:38:35+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "091e6d1ff2a1b925cd96",
       "title": "‘Not good for Zcash’ – ZODL founder pushes back against Crosslink upgrade - AMBCrypto",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdzUzSGdKamYzcVNkVVJQc2ZGMTVZRGVreU4tcTJPOWFUY2Qyb3p0U2RhZVItREp2UEt6allrQjZBeUJwWlJRclhTVE9Qd2lDOFdtTW43eExlWGkyU0dTOVk3c25jVk1XWEtqWktpcmJMY1VtdFBLZmtWamotX3gxbnktanlVT1pvZFZVZ3RKN0NCUEZjSzNz?oc=5",
@@ -242,6 +255,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "4e429d108aae9344b2f9",
+      "title": "'Not Good for Zcash': Key Developer Josh Swihart Halts ZEC Staking Upgrade - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkV5SlFXcUdyZkh5MkVqejIxNlJnb2VWZndiakdwcEFQX3VqUGxreTliUF9aa2RWOWtMc0tLbnpWR2h2TElaeldyRW80dDJkelZWVHEyVjU3ZGlNR3Z2VGMtZkpyUVFzTE9KVEhCbHhHTVk0X19DS3JVYWh1aHZwUU82SGRRbTI4cnQ2X3JsSFZFYmFKbDJkRVp4dmJJQV9QbjhLSDB4bU1PelBfYVlGN0c3bGE0N1pqVEZvNUhBYmFBZFg2cHR3?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-25T12:54:30+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     },
     {
@@ -427,10 +453,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "08e1fc391c6d211f94be",
-      "title": "Bitcoin or Zcash: Which Is the Better Buy After Zcash’s 26% Monthly Drop? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUnluV3VoNy04blIzZGZFWi12Mk5JejFDSHd6VXhJZWRRUWp2Wll6VXhHdVRHcjFiSG5BNk1nLTNJMFFhT1FuQVpDcllDajJVT1JvaGxqaGotQ3lDbVBoSmllZnp2eW9qQXFXd1R2ZHhEcDZSV09TOVJiaEI2RTVMdmRJZFpmc1ZmYWRicWZXN2RxcUl6dmZaTFNiVQ?oc=5",
-      "source": "Yahoo Finance",
+      "id": "118c0c05fdc8af63aa3c",
+      "title": "Bitcoin or Zcash: Which Is the Better Buy After Zcash’s 26% Monthly Drop? - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYaWdhQ2NPd1hBd3I1a0l3VEVfR244elRlLVRIbUJXbTNMU3FuV0k4YlpVWVYyQW5Yb1Z6elJYOUNYR1dFQkdMVEpjYTA0VkdHd1NXcEdvcE1zVFF6UXRvYW0zVGp1Y01Ob0NkMHRNanZTbkJPMG1qcDVVaDZVOEE?oc=5",
+      "source": "AOL.com",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T19:30:21+00:00",
@@ -440,13 +466,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "118c0c05fdc8af63aa3c",
-      "title": "Bitcoin or Zcash: Which Is the Better Buy After Zcash’s 26% Monthly Drop? - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYaWdhQ2NPd1hBd3I1a0l3VEVfR244elRlLVRIbUJXbTNMU3FuV0k4YlpVWVYyQW5Yb1Z6elJYOUNYR1dFQkdMVEpjYTA0VkdHd1NXcEdvcE1zVFF6UXRvYW0zVGp1Y01Ob0NkMHRNanZTbkJPMG1qcDVVaDZVOEE?oc=5",
-      "source": "AOL.com",
+      "id": "539e4724b749e305d3e6",
+      "title": "Bitcoin or Zcash: Which Is the Better Buy After Zcash’s 26% Monthly Drop? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPckVPSE80NGJlbXRXSER4U1RNVjZoSHhVN2UyWmo0aWpoOU8xNnF1MXd2SzIwd3dtR2hKZE9rdTRtV3JNaEpTcFBOR0lnSGpySzlpdU9aYkhPS3VlNlI2MjBCeDRiNTFjWURRZ2FnYWgwN3JyZk5icFdzYVBEWnJuYWFUMGVfXzNTY052UTlvTi1zbXFVQWF1dDdqX0hFcEVpNGVHMUVYbHhGYUI0TklOaWpmdUloVGZOd2N3YkRoMkZ0NGcycjI0?oc=5",
+      "source": "24/7 Wall St.",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-23T19:30:21+00:00",
+      "published_at": "2026-10-23T19:30:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -655,32 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T06:26:03+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "50e166f3917a847d9c87",
-      "title": "Why is Zcash price down today? ZEC open interest falls 12% - Crypto News",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14N2gyQ0k4dC1uZGZReks5OWhnbzA1dThYUWRkQV8zRENTN0ZvczhCd1RuLUFHVl9BNkV4UDhEdVRtX0tMYzlfNkFxcWNFZWpja0E4cWFmZkw1RHVGUkFTckx3SzRZMlNOV0xtaFJkbzdRM0E?oc=5",
-      "source": "Crypto News",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-23T06:21:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f915dbbbfb23c26af577",
-      "title": "$1,300 reclaimed: Zcash (ZEC) price forecast as ETF inflow reaches 30-day high - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSjI4MW9sdjZwd3ZOWFQwWXNHX2FXUVJhZVZaUUJkLVQ1bEJ5eVVSbFpRWXE3RHRVQ25JOUh3X2MwTk5sXzkyVk15TlpRMzRhNXFsM3NXT0FNTFpnNFRsTFRDa0ZidXVxZVRNRWMxaEktQ2stV1h3cjRPVFV2RTJKRFdXRWdIZk4waEFWMVNua2R6bzJEWDVzUnVmSm9EWkpzTDRPUFIzRkRvOTVfN0NtUVM3VW4wQWM0TS1yTEZOcHBKMVNQM2ZUMHJrUmRwc2JMS0RR?oc=5",
-      "source": "www.tmgm.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-23T01:25:17+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
