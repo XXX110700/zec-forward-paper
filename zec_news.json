@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-26T11:44:32.603681+00:00",
-  "last_success_at": "2026-10-26T11:44:32.603681+00:00",
-  "status": "ok",
+  "checked_at": "2026-10-26T14:46:56.493897+00:00",
+  "last_success_at": "2026-10-26T14:46:56.493897+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 2
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -27,15 +27,28 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 96
+      "matched": 94
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 23
+      "matched": 22
     }
   ],
   "items": [
+    {
+      "id": "49bf9c047438107cabb4",
+      "title": "Zcash price rebounds as ETF inflows hit $41M, but $1,000 risk remains - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGpMNjFDREFLNXlQOWxubHNMdHh6Z0lOalp5b21tWmRTeGwtaXNPalJlYWF3aDN3ZnBYRXhsZ2JUM04xMUo4ZjJsS21OcF83WksyTzhod2VMY3dMakNJMFUxLVN3VFg2UDhoSmg4dmxyRjNBWlVXWWZuTjdUdjFlc1VhWm10OTNqTUpiOWZKZGFva1NGWXViSFFRdk9zUTVHTDRrWV8yTTZoRk9mV29IdWxrNVRuY1FYWk5EazdDbXo?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T08:21:34+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "45f141206758d504384a",
       "title": "Cryptocurrencies Price Prediction: Cardano, Bitcoin & Zcash – Asian Wrap 26 October - FXStreet",
@@ -118,6 +131,19 @@
       "id": "e796a552c2f446609b81",
       "title": "Next 100x Crypto? Remittix, Zcash and Hyperliquid in Focus as BNB Chain Expands Tokenized Stock Trading - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxON1ljNWZ0aHQxRV85dk9FTkVyZEdYa3RMWWpiYkZFdjlCZDgxQVdQY2d3OFVZcWtIOUNON2VOM0VFRl8wQll1cFo5UTZ3U0FuWkt5b1FtNHd1ekRmWUJvX1Q0ZFNFX3hhcjl2MjBzS1o0MXBvV3QxSy1JdWtVeUFqT2FWMlVJMkRBSFktXzlpZ0VmdndfZUZIYk1uMkdJT09HOUM5SHFhdmtlQjViLVVab2IxQW9nS045Zm9hRGVKZjN6UlhCbjgxTmVac1RfOFFrUVpvMnU5cWNTTDVLSkdjTV9jVXhIWlhtU3FSRnNBWnFpdkRZSUJN?oc=5",
+      "source": "StreetInsider",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-25T20:38:35+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "b65679c0ee983870f8fc",
+      "title": "Best Crypto Presale to Buy in 2026? Can Remittix’s 300M RTX Burn Plan Outshine Solana and Zcash? - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSjI0NzEyWGlYQlNlT1EyMVlOeUZ0RzRuWWg3REk2NFU3ZjRfVzc5UF9FbnJVOGdNb1RiT2p0ajVrMm9aV0MtWVd1d3lFWWVYZGhhQ3ZOSEdVVzVaWXRLQnhGR2VISlUyR05UaTlfN2Q2eE1wQXhoNWpJLXZSenoxOW9UbnVKaG5yVGk5a0ZKT1MxVjREdEhONnA5WEgxeTlkNmZPV05hRjYyMy1OWUFWSVFHUFdjSURUMWNrRkZDMVRacUFmbldrWkxZV2ktUzBidHEzbkhvX1hxdDVucks1Tlg3Q0M3RjZBckhpRVdOVndPWW5F?oc=5",
       "source": "StreetInsider",
       "feed": "Google News EN",
       "kind": "aggregation",
@@ -658,32 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "5320be312100b6efce5f",
-      "title": "Zcash Foundation Details Zebra Sync Fixes Ahead Of NU7 Release - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUnpNcUJRUVliYUNHeDY3RmpTZk5MU3hrcF9ZUHZKb1ZEdFllVkFhaTZjVWd0Qk1HQUdBM1BxZ1I5d3Fja2NDMjRTM1VCZU5KY3RKQVcwMGhzQ0J5bThvd3piV0Z4V3BDTS1uOUZOdDg2eWpZTlpWclRJRlY1cHlGemE3TWVXR2IyZFJ6NlZDWnZ1WHRZbTlqXzlRVXU0M0pCNDRUY3RtWTl1ZGdYRUN1ZndVaExNQWNidnk1ag?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T20:30:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "221a8ef1cb47bc224b59",
-      "title": "Zcash releases Zebra 7.0.0 as NU7 node upgrade deadline approaches - Crypto News",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Ba0htajNhcGoxV254ckw3eW80OTVscFkxWjc1RzlScElneV96R0t6ZEwwa0tQTS01SmNPTWxsU1JUcFBFTDBfSHpjeW9TTUhGdTY5WlZNWWVfWFdfeHJuV2RPQWV3Rl83cUVwOVNkaEs?oc=5",
-      "source": "Crypto News",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-22T19:00:01+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
