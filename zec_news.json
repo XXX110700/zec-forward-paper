@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-26T19:43:16.178929+00:00",
-  "last_success_at": "2026-10-26T19:43:16.178929+00:00",
+  "checked_at": "2026-10-26T20:36:15.317633+00:00",
+  "last_success_at": "2026-10-26T20:36:15.317633+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 23
     }
   ],
   "items": [
@@ -73,6 +73,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "5879b32f64694737b8ff",
+      "title": "Zcash Rises 2.33% in One Hour to $1,250 on Binance Spot Market - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hSzZPbkZsbVB1Z1dtSEplQWk3TFBaYlhwT0RvNWpwS0xMTzV6ZUR0ZWh3WUNKTGlxbkw0c3BBVnJsUzMyT3JPWnIxaU83U2ZickRqczdCNXRuUQ?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T15:06:12+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -187,6 +200,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-26T02:04:45+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "28ef5722494b0d1bb993",
+      "title": "NEAR、LINK、ZEC 和 ETH 10月26日价格分析：反弹推动市场逼近关键位置 - 币界网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UYUNTSmt5X01KRlFGRF84bUo2ODJfVkVLQkJvSndLV3VoQVRpU2c5ZURHZkVNeXRWaHFJNGlTaDVXTkhKZWUwTmh2d0ZELTI0TWc?oc=5",
+      "source": "币界网",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T00:29:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -655,32 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T10:43:21+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "e474fb3205cddb127042",
-      "title": "Zcash Fund Draws $15.2 Million As October Flows Stay Negative - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV3FCWmtDSjYzcW1zeXJSXzB5ekNTSWJfT01lYmRHdjY4MTcyV3J6Sm83cU81TWIwbzgxbkF3aUx4WHdrdERRZ1JmN0tLblJ5bS1kTk5WRWxpNmZlYlExM0IzR0JiOEtNUlBqUnE5RW44TXFMR2RIVnNqbGlHMnJ0ZlAtbThNNzBMcE4tN29SQ1d6aXByZzlmV0NPNG1pR091bDBqT1FKUXFsODc3QkpZWHozNDhveWJpUEE?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-23T09:45:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "281b28ef38eeaa3b1931",
-      "title": "Why is ZEC price back in focus as ETF inflows and NU7 support demand? - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT3BWS3otTnFYS2hXWlJ5UXhHTDZxMG1HRjh3ZldxclNLRTZHdzZJVjhRZV95cllhR3NzUGZLNkptbXh1Unpka0l3RXZ2OUUxaEFqdGhvMV9tV21JclI3OHdJZ21kR0dmZHIyZF9NV1VZb2NRVDhaMWFOa1BZcmlnZzB5ejQ4alVKN055MDJiT19TQ09tYU9fM280dWJFanJLRkNSenZFV3gwT2p3SWRPTDczSVg4OFNkVzZ4WWRadmdYaUJwNUww?oc=5",
-      "source": "FXStreet",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-23T06:26:03+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
