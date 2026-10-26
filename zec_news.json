@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-26T16:04:55.735212+00:00",
-  "last_success_at": "2026-10-26T16:04:55.735212+00:00",
+  "checked_at": "2026-10-26T16:47:13.907556+00:00",
+  "last_success_at": "2026-10-26T16:47:13.907556+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 21
+      "matched": 22
     }
   ],
   "items": [
+    {
+      "id": "8c3195a5c247eecf498d",
+      "title": "Zcash Labs推出JavaScript开发工具包Zcash JS - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03cnhWWjYwLVZsREVHX0g5ajRWM2NyZWtRZ0QyczFieDFWOWtlSldCQk5MdmdoM3VwYWFmc0NJZWg1MDNOTkR4cElWNmxfbFJyYktqUHZfVnFYeFh1eDFNd0tYR3lhdw?oc=5",
+      "source": "TradingView",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T14:56:03+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "70fc03a2b38a7a3f5b42",
       "title": "Former ECC Head Criticizes Staking Proposal for Zcash - ForkLog",
@@ -83,19 +96,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-26T04:31:20+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b30fbd2252dd7b1e2332",
-      "title": "Zcash Price Forecast: Why are renewed ETF inflows struggling to offset broader market headwinds? - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYUtDalNFT1NualgtanhVT2M4eWZOZkhiOUpDV2dNTEFGbkwtS3lJal8zdTU4Z3l2Nk42aTJNVS1CTUFCRTZvSS1WZlRvcUdPeUFGalZLQWJsdXFrS1k1WTRDZEk4RG40cElmeS1rOEFJUFNRVFY5TVJoT1pPR3o3LWp0Z3NQM0JHbng3Z29WTmM3QUlFVWcwSjYzdml3Zms3aTB1R0ZSbk9SazRGcUdla1RyaUhzM0V2LWxvMEtfS0JscGxWeDY4OU42M1lmLXVHZTAzUVBySU1KNVpPSzlpVWJCMUx2YzI4a2c?oc=5",
-      "source": "www.tmgm.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-26T03:45:40+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -206,19 +206,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "4e429d108aae9344b2f9",
-      "title": "'Not Good for Zcash': Key Developer Josh Swihart Halts ZEC Staking Upgrade - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkV5SlFXcUdyZkh5MkVqejIxNlJnb2VWZndiakdwcEFQX3VqUGxreTliUF9aa2RWOWtMc0tLbnpWR2h2TElaeldyRW80dDJkelZWVHEyVjU3ZGlNR3Z2VGMtZkpyUVFzTE9KVEhCbHhHTVk0X19DS3JVYWh1aHZwUU82SGRRbTI4cnQ2X3JsSFZFYmFKbDJkRVp4dmJJQV9QbjhLSDB4bU1PelBfYVlGN0c3bGE0N1pqVEZvNUhBYmFBZFg2cHR3?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-25T12:54:30+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
       "id": "b5a44c753412072dfdff",
       "title": "Zcash Crypto Price Faces $1,050 Test as Traders Prepare to Buy the Dip - CryptoRank",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOXhzOFRiTWI0dVFvd2ZiY3pHQ0Yzd3YwVGRRWWZ4X1FIb0VRN1dBMWhzWGgtTGhoRlZxTzJhWVEwNmlGMFNQN3NOSHJnUUFpTlFDY3FGSnJ5ektPRFE0eUJ4Ul9xZWtqVllhZXVyN3hmMWFKcG5DVmNLTzEtNGJRVWVVVVFYOTVVaDR2RlJUS3BScXFnRGtNZERGU0dpM19odlhPblhjZUpkZw?oc=5",
@@ -291,6 +278,19 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-10-25T09:26:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "e7a59f0aadcca8f9e15f",
+      "title": "Zcash Rises 3.93% in Four Hours to $1,197 on Binance Spot - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9keUd4WWNtMTNwV0h2dUxMbldBb1gtVHRhcGNKZ21ydzFhUE0yd0xvdGkxQ25XR2Rqd3JiLURUNG50S05UV3RCUzdGcDNiQW96UW1HeV80eEZpZw?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-24T21:38:12+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -557,10 +557,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "5505042ed5f6f4006112",
-      "title": "Zcash Price Prediction: ZEC Poised to Recover as $1,000 Support Holds Ahead of NU7 Launch - Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWV9CeEJfX3U3RGZNS3hlay1reUhCUlFrbFdoVkhzdUJFQ2pWREpuTy1qNWVIVjNLa3RxREozMEpDaVdDWW1PZGpYbF9BZzhveVRDUDNINl9RMnp6ejZLUUFGUHVlZ1ZDRWZ2UDVDS3RhbjgzcGUyY2J0RTgzUWQ4MjBWdmUxM3JVRlE?oc=5",
-      "source": "Yahoo Finance Australia",
+      "id": "842e3031bac70e744a0d",
+      "title": "Zcash Price Prediction: ZEC Poised to Recover as $1,000 Support Holds Ahead of NU7 Launch - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcEhFdXdhY211VHlTWWlZNFlKb1VMLUVkWjJrVUxMNVBlOW1kV0owWXhzNnJvaFZLdGF2bTBObFdLRWZXc1NJRTl5QWc0Qk8xSjlFd3VuQzhsNUZ0UmFtazJ0cWxMSGlTRFJmX0NFVDV0WTlmNnk3TEMzanRxLUN5OFZ6UnVCQnlQV3c?oc=5",
+      "source": "Yahoo Finance UK",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T13:34:44+00:00",
