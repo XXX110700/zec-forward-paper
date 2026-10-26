@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-26T03:36:53.885941+00:00",
-  "last_success_at": "2026-10-26T03:36:53.885941+00:00",
-  "status": "partial",
+  "checked_at": "2026-10-26T04:37:08.213603+00:00",
+  "last_success_at": "2026-10-26T04:37:08.213603+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 2
     },
     {
       "name": "Cointelegraph",
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 26
+      "matched": 25
     }
   ],
   "items": [
+    {
+      "id": "8af6d55fcb1dfa4dcb62",
+      "title": "Zcash will triple transaction speed days after turning ten years old - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0RibXlUVXhUc3ViZ3BBUlBseF96amFpWllOQXNmTTJPOFNLMHJmV2U3aEFPYXFFZVQ2ckIzV1FsRmE5UGtMS1dweGNxZUt0UmwzVzZiZnZWaDNvZEpzbV9CZnAtbVdpaGk5ajRiUV9aOFU3NGFtbjJzVUQzRHhZLWV6NFNBSUlxMUx3Rkg0dVk3ZVpyMmQ1X2w3Nm0?oc=5",
+      "source": "Startup Fortune",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T03:22:33+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "411908b7ba94bd503054",
       "title": "Could Zcash rally on renewed ETF inflows? - FXStreet",
@@ -112,19 +125,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "4e429d108aae9344b2f9",
-      "title": "'Not Good for Zcash': Key Developer Josh Swihart Halts ZEC Staking Upgrade - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkV5SlFXcUdyZkh5MkVqejIxNlJnb2VWZndiakdwcEFQX3VqUGxreTliUF9aa2RWOWtMc0tLbnpWR2h2TElaeldyRW80dDJkelZWVHEyVjU3ZGlNR3Z2VGMtZkpyUVFzTE9KVEhCbHhHTVk0X19DS3JVYWh1aHZwUU82SGRRbTI4cnQ2X3JsSFZFYmFKbDJkRVp4dmJJQV9QbjhLSDB4bU1PelBfYVlGN0c3bGE0N1pqVEZvNUhBYmFBZFg2cHR3?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-25T12:54:30+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     },
     {
@@ -213,19 +213,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-24T17:07:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1ed64a9f79ed1c5c543f",
-      "title": "Crypto Price Analysis, BTC, XRP, NEAR, SOL and ZEC, October 24: Bitcoin RSI Falls Below 46 as XRP Loses Daily Support - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQlVYUko5X3VYeTBhYzhjenptckhfMTV3X3hqb1pUZk9jZ3JjUWVBRWdWVXdYLTluTWVVc3k3bnR2N2s0aUluLXNuZkc2cWc0b2hpRTNGbWlrMGJrckgzMnNwTzJ0MThnWUo4cU5JdmZhV2Y2X2haVXFfTnA0dU9ncFNKY091Y1VuY1ZOV01hS3o4QWxoOXowUWFNbm9JRmx4a2hxQ1pWSVdjQXMyVkxqMzBRTlhUZWJoYWJhazFVU1ZzTHhGbmNSZkVaVDVmRTNCX1E4Y0pINXdiTk85bHptRDhzRQ?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-24T13:43:18+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -681,6 +668,19 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-10-22T14:21:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "b193ec544d4c52363e57",
+      "title": "Zcash Price Forecast: ETF inflow reaches 30-day high as ZEC regains $1,300 - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN0JNYmszVEhoeGJucFM3SFhlMVRLWFMxd19nM2RDOHFSQkRrQ0hXaTRRX3p5Y1EybkU3V2p2MGhoZ0pnaF90amlfRmNNZnhRbUIyZkYtVzVrak05YS1TcTZ6MzBoN3FWUHNJZUtjOXE5eS0xN3cxV2hNSXFsUGY0QXRhXzluODBrQXdydUJKV0NfYWlKTGltbGlMM1R4SFE5MmpsTGQyQkxLWTJtMkdGdHFTcFVxajgxYS1ibHJ6Z1dlekw5UEtUdUhDcjliTXdseWxXTnNn?oc=5",
+      "source": "www.tmgm.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T12:37:30+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
