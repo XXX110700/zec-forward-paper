@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-26T02:36:38.549537+00:00",
-  "last_success_at": "2026-10-26T02:36:38.549537+00:00",
-  "status": "ok",
+  "checked_at": "2026-10-26T03:36:53.885941+00:00",
+  "last_success_at": "2026-10-26T03:36:53.885941+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 2
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 25
+      "matched": 26
     }
   ],
   "items": [
+    {
+      "id": "411908b7ba94bd503054",
+      "title": "Could Zcash rally on renewed ETF inflows? - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ3hBRkFDZGVJellhOGNCdUVEVThvajVIV3pPQ1lDNU1scmhPYzJZak9qMGw4MHAwSGFsNlF3QnpxSzVRVWwtNV9wWGxSVU5BWG85bFMzdGFyWldnWWtEdFQwZTRhNE9ERVRiZXZab21DTkhzR2J5Qks5ajQweThlTmpMSUVaRWpoNlBQQnBpdnR1eGpHSzBKS3hRVUVZbFhzU2xLMnd1YThzUnpRclg5cW9NWEZwZ2g2bnVfWW00UFFSUElrWFBHSUtmdTVaT2VldTRrVXVTeGdlc2JIcGc?oc=5",
+      "source": "FXStreet",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T02:57:21+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
     {
       "id": "0bbc5945c7bc047f1030",
       "title": "ZEC Price Prediction: Co-Founder Floats $2,000 Target - Bitcoin Foundation",
@@ -43,7 +56,7 @@
       "source": "Bitcoin Foundation",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-25T21:35:37+00:00",
+      "published_at": "2026-10-26T02:04:45+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -232,19 +245,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "ebc39739d03af44d182b",
-      "title": "Monero Outperforms Bitcoin As Crypto Pullback Hits Zcash, NEAR – XMR Shorts Get Squeezed - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeTBFNlVVSldOU1lCUjZBR2FWQWRfbXhod3B4R09TZ3pWa0xEUTItMVdER1pBTlh5X2Q2NGVxaVNQSHpULU0wUjBuUS1JamJYdjVFSW9sZV9LdkIzOWlQMmNpVTZ4akJCR3NIVTZJcEFub3ctMC1yMWtxSTdzNFRFZXBqNHZSMkVWR3NrUXNfdXI4OTBNY1JDSXE0WjB3SE1YMXVrRk1VQ1NWcnZPbG5mekxuUFpHZHAzeDF6NDhoYmxXOGVFeW9pM3NlUkxmUGFOb19jNi1IQVN6SEZGdThaekFxTVpWQQ?oc=5",
-      "source": "Stocktwits",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-24T01:02:59+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "1ba088433f02ce2f9443",
       "title": "美国 ZEC、NEAR 现货 ETF 单日合计净流入 2151.23 万美元 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uTU1vYnRxdkJJTF9MWEVKcXBtVjFIZjJlcGNDb3Uxbnhob1RYb1pHZm8zdGNqZGozUFFTckx3RndqbjdTbGRiVVg0QlZLTzhqalpZRVJMNUMzNlFpODU3OVZPMDN6Zw?oc=5",
@@ -356,19 +356,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T17:19:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1bb6a432d490ec89c84e",
-      "title": "Zcash Price Analysis: ZEC Fails to Break Above $1,400 Amid Bearish Pressure - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHFwMG5pakxBMDVXak1EWnJPVFh5eUotSVBLQkZXR2F4NDVRTlpuLVJ0RGp1dVNtdTNqY1RCZnNfZ3dkNl9Lc2h2b0U1M1Yxd2xMemFid3A1NU5wYy12Mk5kYnEydlhXTlQtNzhmbnViVXNkTXhhelBQQzVuM0gtaWFCaUY1SkhsQWNOcmhfNUpoM25QdGUwRDZ6WDl4NnF5YjFOTUd5NTlPazQ?oc=5",
-      "source": "KuCoin",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-23T16:14:49+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -684,6 +671,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "41e2ae83b3cfe8275f45",
+      "title": "灰度指数：Zcash ETF日 $14.2M 流入 - blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUF9rcU55M3JmcjVVb2RfLXgxV2FXZlVmOTJjOGN3R252ajZ2RERHWW1UcFFuckF4OTNBbW1qWW9mTzlwcWphVlBuM3hxMGlXX2hkZ3pYS1dpbUVyUG9VaEZ4YnBOZzlZOXFFbjNscnZIT01Da1JWNjRQZUpzNzZqcXItV3ZsdXdvRFhJ?oc=5",
+      "source": "blockchain.news",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T14:21:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
