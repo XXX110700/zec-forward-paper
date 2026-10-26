@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-26T05:37:26.087590+00:00",
-  "last_success_at": "2026-10-26T05:37:26.087590+00:00",
+  "checked_at": "2026-10-26T06:46:35.326050+00:00",
+  "last_success_at": "2026-10-26T06:46:35.326050+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,12 +27,12 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 97
+      "matched": 96
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 26
+      "matched": 22
     }
   ],
   "items": [
@@ -138,19 +138,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "4e429d108aae9344b2f9",
-      "title": "'Not Good for Zcash': Key Developer Josh Swihart Halts ZEC Staking Upgrade - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkV5SlFXcUdyZkh5MkVqejIxNlJnb2VWZndiakdwcEFQX3VqUGxreTliUF9aa2RWOWtMc0tLbnpWR2h2TElaeldyRW80dDJkelZWVHEyVjU3ZGlNR3Z2VGMtZkpyUVFzTE9KVEhCbHhHTVk0X19DS3JVYWh1aHZwUU82SGRRbTI4cnQ2X3JsSFZFYmFKbDJkRVp4dmJJQV9QbjhLSDB4bU1PelBfYVlGN0c3bGE0N1pqVEZvNUhBYmFBZFg2cHR3?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-25T12:54:30+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     },
     {
@@ -685,6 +672,19 @@
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
       "verification": "官方发布"
+    },
+    {
+      "id": "c1aae54b55b5f6eea288",
+      "title": "Zcash Crypto Jumps 12% as NU7 Upgrade Nears: Can ZEC Hit $1,300? - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTGFLREx2RndMNGZuNGlfMHNMMWpzTy1QOUdwNDJ0VWFWVFV2aGpSelFnbnRReVJUSGhoeVR5SEdTM09fNm8zSG9IUjNRMGdkWXVWdjdRaEh5ZWJOaVJISmpScVFualNMLVhjT3g3YjNMQVZHTGFTOFhJOURvZjBQeUJMbDVDNGd3RThxeHVEYnAyQlhrM1VwSGRYOFlSQQ?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-22T15:24:21+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
     }
   ]
 }
