@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-25T23:27:05.227205+00:00",
-  "last_success_at": "2026-10-25T23:27:05.227205+00:00",
-  "status": "partial",
+  "checked_at": "2026-10-26T00:54:44.318476+00:00",
+  "last_success_at": "2026-10-26T00:54:44.318476+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 2
     },
     {
       "name": "Cointelegraph",
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 23
+      "matched": 25
     }
   ],
   "items": [
