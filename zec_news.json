@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-27T16:49:02.916760+00:00",
-  "last_success_at": "2026-10-27T16:49:02.916760+00:00",
+  "checked_at": "2026-10-27T17:47:01.760911+00:00",
+  "last_success_at": "2026-10-27T17:47:01.760911+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 15
+      "matched": 16
     }
   ],
   "items": [
@@ -310,6 +310,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "5cfc1a3047f1797ef6e8",
+      "title": "Bitcoin ETFs shed $500 million over two days, while Zcash ETFs attracted $41.1 million in inflows against the trend. - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb1ZnTkRhbVJ3UDVDTVRZVnV2YURMT2tFNUxRMGdvamNKQ0hoWDdkZnJjV0pEYm1kdXhNdnUzbHg1bTRfLXFZZGFwdXBXYzNFaG8zSFVQYmpfUUVaWnQwdmxFSFVrdHRhS1BrS0FuTDQ1MktkcXJqckVhZ2lWMXR1LVJONk1hQ09fMkQ4OXdONE1YdnhUUlRBcjk3ODE1dHM?oc=5",
+      "source": "富途牛牛",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T23:25:27+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "2b7dd4ca50fd313b1362",
       "title": "Can Zcash price clear $1,265.53 to confirm its recovery? - Cryptonews.net",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50OEFLQjEydGIzcC1hTDRYLVVPNGhGaDNEbWhMSldhdXh3WUZlMkpyX0pZVFZQbkNlY0NSZTVBd2lQTklYbXNmR3MyZG9yMGFGbldJX3liZ3pKWm8?oc=5",
@@ -317,6 +330,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-26T21:19:25+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "365e9bad08c7295d3af0",
+      "title": "Zcash Price Forecast: Recovering ETF inflows struggle to offset wider market pressures - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU1lIOG9KeXlIc0JMdHZobC1mSUg0NUJvS2VyVjhseUdXTUh2d2psZm1TUUFiS2J1d2F5MExKODJHRzExVnhuVU1iQTYtT1VXbFpaeHkxZTFDQW9tQk80TldCM1VBclpNcEFaQkVEVG01VENnQkxwRkdRYzZTMmxzNVlyb3V2VTJucmRLemxsaVl0V1hiTmRfUUl2SUhfUGlxekxJYWV2azVMYS1VUi1HN0FXR1YwUzExN1E2d05hQnlGa0VvOGoycjdVanNvcG1aRHU5aF9oQnNyRTZ2SHdWLWZOcEhLYlU?oc=5",
+      "source": "www.tmgm.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T18:57:51+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -382,6 +408,19 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-10-26T14:56:03+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "2a4e3b40c707137d7fc0",
+      "title": "Zcash's $550K Adult-Industry Outreach Sparks Community Backlash Over Privacy - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMGtBc3JHLXI3d0gwMGIybm9pZnNBY2VMX2xRNFNoZURQQWpJM0dldkNYeVJwT3FpcWpsdXg1cC1qMmdOZERENktDOVB4Z2ltRFVOS2pmdDBoU0RFbElqMEZjUjAtN2NzRDJNTDMwMU5oUDUxc05NclIzTWd1TnVyc2RxaFhkT1hqUTVLWDB5X0h6WXBON2lhMVRBWkdJNjRuU0VjUnZLbC16a29hWEE?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T12:58:07+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -622,19 +661,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "eea06130859ada4ee381",
-      "title": "A Zcash Scenario Puts 5% Sector Share at Nine Times July Value - TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yTGFxTGNYa2tNb2dhc01lVVRldndXbmRkMjM1QkhCdVJfUVIwRzNtazA4d0RVQzNhanhObC0zcDdOcWpFQXdkRHJ6d2RrNG5DTHZMRjZzWWM?oc=5",
-      "source": "TOKENPOST",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-25T12:22:59+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "e55b4fdf875ab1d32795",
       "title": "Zcash price falls 25% this month ahead of major network upgrade - Crypto News",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxWW1NNllHZnEzWm4zc1lkV3kyLVEyQnlXQlVZNmkxN0xPY1FDWXZnLVJua3dfcGJYU1ZTQnRMczB3UWpYY0Q4VnFwbEdzWFFiaWtmbXlkbkY5clFITlMwYk5WY01xWnljaEFXZnk3WEJnZw?oc=5",
@@ -655,32 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-25T11:08:42+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "e148ba5a719fda4ae945",
-      "title": "ETF Investors Pouring Millions Back Into Zcash as Bitcoin Falls - BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwM05HUmtob29XMEQ1N2VfVkhuV01COVJRUndnRWVHZmxfT2Fjd1V0cEluVno5bnRmMURzaUFjakhlUWRDTU55S0FEZ1VWZHlzSmtQTmZZSS1sRnFabzNHWDNGUTROWGxoQVhSMGN3LVdSUQ?oc=5",
-      "source": "BeInCrypto",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-25T11:08:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "eba963b9fefc6e2e1f02",
-      "title": "Bitcoin ETFs Attracted $304.7 Million over the Week, while ZEC Funds Took in $41 Million - Incrypted",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVnRXcWFHSEtNeUx6UWpNZl9GWklLZ3FpUloyMV9NanBvcGI5aFQxa2NMMUhGblFYUUJLb3k1cmxDWjZuckV2X09EY2psWUR6Sm9sekp4WlJrX1ZsWGtXdE1XUkU4aUowYVUzWUlaWElVUXZTYW0zOTJ3dmRzNVY1TXBZcWRrUjFMUVRVYmdUbzlmSjdXb1RJUEVvNXg1aWNaaGdialdWNnF5aGdqWmJ5Mg?oc=5",
-      "source": "Incrypted",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-25T10:12:42+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
