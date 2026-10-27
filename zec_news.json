@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-27T22:38:14.455168+00:00",
-  "last_success_at": "2026-10-27T22:38:14.455168+00:00",
+  "checked_at": "2026-10-27T23:34:27.665303+00:00",
+  "last_success_at": "2026-10-27T23:34:27.665303+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 29
+      "matched": 15
     }
   ],
   "items": [
@@ -57,19 +57,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-27T21:24:13+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "18aff6a2bdca395bcc0c",
-      "title": "Zcash 内讧！联合创始人提议砍掉社区拨款 8% 区块奖励，ZODL 创始人怒斥“半吊子改革” - 区块周刊BlockWeeks",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9mZVFOQXV3M21XZVF3ZXFfdXA1TnNJOEQ2WGJXNG9hZHdXS1ZoV2lYRk41QmJYMVZaN2VhU3ZEVGs5UjZyVWp2Uk9R?oc=5",
-      "source": "区块周刊BlockWeeks",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T19:33:50+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -375,6 +362,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "9a0aeb0dab2b0b2146b5",
+      "title": "Zcash Co-Founders Propose Halting Funding to Community Fund: Holding 91,000 ZEC, 8% of Block Rewards Proposed for Netwo… - 深潮TechFlow",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rQ1hua2wxNUd3dGVaNkwyRV82MjNmeElrb0FnclZWS3VBZnYwYUMtbmRkME54dFl1WDViNUxlaXRic0dFRThUQTQxbTJDZ1p3V2E0QV9KME5JbHhf?oc=5",
+      "source": "深潮TechFlow",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T05:24:54+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
       "id": "425695a8ab25141083fb",
       "title": "Zcash 联创提议停止向社区基金「输血」：坐拥 9.1 万枚 ZEC，8% 区块奖励拟转入网络储备 - 深潮TechFlow",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vT245WGhPWUs2eDBVVVNHOGt3U0k3QzluZmdQWnpXcEIzak9WenMwOFE2ME9xb2xUcW9KeFhqREFLbVdtWUREa0NHRWpZSGJ0b1lVdw?oc=5",
@@ -460,19 +460,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-27T02:54:18+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "5e912a810ade808cd916",
-      "title": "四大幣種盤面速覽｜BNB 蓄勢、ZEC 超跌反彈，TRX、SHIB 低位磨盤| 幣安廣場上的饭饭又困了 - Binance",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aOGVyVlZtZ0Q5dm1YeURka0JBUEZCaFg5WjJFaDJoNG5ZRmFWbTN1VGs5cG1rZmxUUi1TdFFRQ2Zod0xjdGFydHdOalR1LTFBMGVqa0RheVVkMDducGpNMV9iQVZFUkpt?oc=5",
-      "source": "Binance",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T02:36:20+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -684,6 +671,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "411908b7ba94bd503054",
+      "title": "Could Zcash rally on renewed ETF inflows? - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ3hBRkFDZGVJellhOGNCdUVEVThvajVIV3pPQ1lDNU1scmhPYzJZak9qMGw4MHAwSGFsNlF3QnpxSzVRVWwtNV9wWGxSVU5BWG85bFMzdGFyWldnWWtEdFQwZTRhNE9ERVRiZXZab21DTkhzR2J5Qks5ajQweThlTmpMSUVaRWpoNlBQQnBpdnR1eGpHSzBKS3hRVUVZbFhzU2xLMnd1YThzUnpRclg5cW9NWEZwZ2g2bnVfWW00UFFSUElrWFBHSUtmdTVaT2VldTRrVXVTeGdlc2JIcGc?oc=5",
+      "source": "FXStreet",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T02:57:21+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     }
   ]
