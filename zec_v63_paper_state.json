@@ -1,19 +1,15 @@
 {
   "version": "V6.3",
-  "last_processed_15m_ts": 1793123100000,
-  "pending_signal": null,
-  "open_trade": {
+  "last_processed_15m_ts": 1793124000000,
+  "pending_signal": {
     "side": "long",
-    "signal_ts": 1793117700000,
-    "entry_candle_ts": 1793118600000,
-    "entry": 1302.48,
-    "risk": 16.234888761724434,
-    "sl": 1286.2451112382755,
-    "tp1": 1321.9618665140692,
-    "tp2": 1334.9497775234488,
-    "long_confirm": 6,
+    "signal_ts": 1793124000000,
+    "signal_close": 1295.45,
+    "atr": 11.091197989004089,
+    "long_confirm": 5,
     "short_confirm": 0
   },
+  "open_trade": null,
   "closed_trades": [
     {
       "side": "short",
@@ -558,19 +554,36 @@
       "reason": "TP1",
       "gross_r": 1.2,
       "net_r": 1.080948
+    },
+    {
+      "side": "long",
+      "signal_ts": 1793117700000,
+      "entry_candle_ts": 1793118600000,
+      "entry": 1302.48,
+      "risk": 16.234888761724434,
+      "sl": 1286.2451112382755,
+      "tp1": 1321.9618665140692,
+      "tp2": 1334.9497775234488,
+      "long_confirm": 6,
+      "short_confirm": 0,
+      "exit_ts": 1793124000000,
+      "exit_price": 1286.2451112382755,
+      "reason": "SL",
+      "gross_r": -1.0,
+      "net_r": -1.112318
     }
   ],
   "long_confirm": 5,
   "short_confirm": 0,
-  "max_drawdown": 2.3046239999999987,
-  "updated_at": "2026-10-27T18:03:03.068616+00:00",
-  "last_processed_close_ts": 1793124000000,
+  "max_drawdown": 2.3359939999999995,
+  "updated_at": "2026-10-27T18:18:03.378474+00:00",
+  "last_processed_close_ts": 1793124900000,
   "market_snapshot": {
     "source": "OKX public closed candles",
-    "close_ts": 1793124000000,
-    "close": 1291.29,
-    "rsi_15m": 56.549988133238564,
-    "atr_15m": 11.13129014194468,
+    "close_ts": 1793124900000,
+    "close": 1295.45,
+    "rsi_15m": 59.061832636194346,
+    "atr_15m": 11.091197989004089,
     "score_1h": 3,
     "score_4h": 3,
     "close_1h_ts": 1793124000000,
@@ -585,6 +598,5 @@
     "long_confirm": 6,
     "short_confirm": 0,
     "count": 8
-  },
-  "csv_outbox": []
+  }
 }
