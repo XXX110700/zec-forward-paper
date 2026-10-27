@@ -1,0 +1,43 @@
+name: ZEC platform freshness alert
+on:
+  schedule:
+    - cron: '8,23,38,53 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: zec-platform-health-alert
+  cancel-in-progress: false
+jobs:
+  check:
+    if: vars.ZEC_EXECUTOR == 'aws'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Restore accepted incident marker
+        id: incident
+        uses: actions/cache/restore@v4
+        with:
+          path: ops-alert-accepted
+          key: zec-health-v1-${{ hashFiles('zec_v63_paper_state.json') }}
+      - run: pip install requests
+        if: steps.incident.outputs.cache-hit != 'true'
+      - name: Check freshness and send fixed alert
+        id: check
+        if: steps.incident.outputs.cache-hit != 'true'
+        env:
+          BARK_PUSH_URL: ${{ secrets.BARK_PUSH_URL }}
+        run: python ops/health_alert.py
+      - name: Remember accepted incident
+        if: steps.check.outputs.alert_sent == 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: ops-alert-accepted
+          key: zec-health-v1-${{ hashFiles('zec_v63_paper_state.json') }}
