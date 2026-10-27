@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-27T00:44:42.823255+00:00",
-  "last_success_at": "2026-10-27T00:44:42.823255+00:00",
+  "checked_at": "2026-10-27T01:44:43.449229+00:00",
+  "last_success_at": "2026-10-27T01:44:43.449229+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,18 +32,18 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 12
+      "matched": 11
     }
   ],
   "items": [
     {
-      "id": "365e9bad08c7295d3af0",
-      "title": "Zcash Price Forecast: Recovering ETF inflows struggle to offset wider market pressures - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU1lIOG9KeXlIc0JMdHZobC1mSUg0NUJvS2VyVjhseUdXTUh2d2psZm1TUUFiS2J1d2F5MExKODJHRzExVnhuVU1iQTYtT1VXbFpaeHkxZTFDQW9tQk80TldCM1VBclpNcEFaQkVEVG01VENnQkxwRkdRYzZTMmxzNVlyb3V2VTJucmRLemxsaVl0V1hiTmRfUUl2SUhfUGlxekxJYWV2azVMYS1VUi1HN0FXR1YwUzExN1E2d05hQnlGa0VvOGoycjdVanNvcG1aRHU5aF9oQnNyRTZ2SHdWLWZOcEhLYlU?oc=5",
-      "source": "www.tmgm.com",
+      "id": "799fcbf9d9eaaf05e07b",
+      "title": "Zcash (ZEC) Rallied Hard This Year, But Is the Party Finally Over? - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUlNtOWFmclNzczREci14VERRRjFnTkNkRFlvR28zbldoSFVVQ0E5a3JSNUlmVU9PLU1HRFIyTkxmTjJwVGNiODlSOFlIRXpSUkg1cXlrVHppSTlhUWwwd1NWeEVpVmlpeEVhemNBY2wzQmdOSmptZnRwTVYzT1FLMHh1OVdQNHNFLTdRZkNSMGF5WVhyWUhVLUpwX3ppZDRibmc?oc=5",
+      "source": "CryptoRank",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-26T18:57:51+00:00",
+      "published_at": "2026-10-27T01:09:24+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -102,6 +102,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "5879b32f64694737b8ff",
+      "title": "Zcash Rises 2.33% in One Hour to $1,250 on Binance Spot Market - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hSzZPbkZsbVB1Z1dtSEplQWk3TFBaYlhwT0RvNWpwS0xMTzV6ZUR0ZWh3WUNKTGlxbkw0c3BBVnJsUzMyT3JPWnIxaU83U2ZickRqczdCNXRuUQ?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T15:06:12+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "8c3195a5c247eecf498d",
       "title": "Zcash Labs推出JavaScript开发工具包Zcash JS - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tUXc5WlJnWDkzdzFIeHJLWGVFeWNSb05wd0wzNXVyaldFY2ptWlZhQXVOVjFVY1hjb2hlcW1GYVBmdzltR3pEUXlTTkp5TmZtNXhwWmV6VUhva1hJc1FYcXNDT3BUUQ?oc=5",
@@ -141,6 +154,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "b0be7cac6b09fffdad93",
+      "title": "Zcash Price Forecast: Renewed ETF inflows offer limited relief from wider market headwinds - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMGhGWUNTU0xvUlBtSXB3ZHBJT2JhVVd0YkRnODB4OVdRNTZheFAwRUJnczN2T2QybzV3bEdSMEd4aTVvTl9PeDR4OGRDOVZnTFk4Qk43eW1hTFhyRl8tQU5tU1BVaDlvRXBHS3pZY1NtVlpnSmZaNHRPUTVRMmR4U3h4WGdwcENHaE45eFVIekVEdVdQcFBrN2Z2MEM5V3VXQ2lqR0R0OVpwT25LRFdhOVVCSnhrQVZyQmhVa0NSS2hmVTdON29YMXdrR0pjWDBjaERqNWtMbC1VSHRfSjlzbDBZX3N2MHVhU3c?oc=5",
+      "source": "www.tmgm.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T05:21:29+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "45f141206758d504384a",
       "title": "Cryptocurrencies Price Prediction: Cardano, Bitcoin & Zcash – Asian Wrap 26 October - FXStreet",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNktxRVRSdWhoa3ZDTHNHWFBKNkVHWmZBRy02eHcyQTdNMWpTbnR0RUIwdXBpWnpuSHVxLTlJNkx3dmdkTElocl9FRExBbDRVd2dTY3JickdLRWloanp3anZLTm1WUWZERmVvSVBqaUU1cnBXZUdPSTIzRm4tRGR5N3VRYmpwLV9QMjJtRUp6VnNnRW94bHdLeFBNOGpUeERUdjhvV0c2ZDRSaVFKWThzMzFMeS10eDdmaU1JdFRPSFlmSF9OWkd1Q3lJMkRpaGlQSU13?oc=5",
@@ -161,6 +187,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-26T04:31:20+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "b30fbd2252dd7b1e2332",
+      "title": "Zcash Price Forecast: Why are renewed ETF inflows struggling to offset broader market headwinds? - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYUtDalNFT1NualgtanhVT2M4eWZOZkhiOUpDV2dNTEFGbkwtS3lJal8zdTU4Z3l2Nk42aTJNVS1CTUFCRTZvSS1WZlRvcUdPeUFGalZLQWJsdXFrS1k1WTRDZEk4RG40cElmeS1rOEFJUFNRVFY5TVJoT1pPR3o3LWp0Z3NQM0JHbng3Z29WTmM3QUlFVWcwSjYzdml3Zms3aTB1R0ZSbk9SazRGcUdla1RyaUhzM0V2LWxvMEtfS0JscGxWeDY4OU42M1lmLXVHZTAzUVBySU1KNVpPSzlpVWJCMUx2YzI4a2c?oc=5",
+      "source": "www.tmgm.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T03:45:40+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -362,19 +401,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "e7a59f0aadcca8f9e15f",
-      "title": "Zcash Rises 3.93% in Four Hours to $1,197 on Binance Spot - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9keUd4WWNtMTNwV0h2dUxMbldBb1gtVHRhcGNKZ21ydzFhUE0yd0xvdGkxQ25XR2Rqd3JiLURUNG50S05UV3RCUzdGcDNiQW96UW1HeV80eEZpZw?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-24T21:38:12+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "c81daf305c01fe814e51",
       "title": "Grayscale's New Zcash ETF Has Gathered $1 Billion in Assets in Just 30 Days. Here's Why Investors Are So Bullish on Zcash. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWm5ZYk5NUnlwNFJaVk9IV25GZUFsQ0dqOXpPSTdySTRwVzJGRmRMcUU3bjVCYjY1ZS1fMjB6eU5mLWJFRE83Y1dldG5pUklReFRMQVB4MGhYTFBHMlpSMmR1RFQtMDRrSjRsYW05MFd2eEhTX242N2pHNlpQc2ZKdnpRRGQ0V3M2UkVfb1lxSmwya0pWUHhlMw?oc=5",
@@ -499,19 +525,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T19:30:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "d3388716a9c3f39f66c0",
-      "title": "Zcash Falls 7.34% as Rebound Stalls, Eyes $1,200 Support - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUnNzMkprTzJVUHJEZ0RhWmx6VVNXZXU5TGRlaE5uOWwtRUZZQTZEOHRZMmo3cjA2UDNvVUJDMXJadi1SWmFiY2ROMDVjeG9tSkVQZGhEZEFRQl9jc3lGTVpkSzR5RnpTVFdpWUFLbk0xcGdIUmVoOE5ENkxEcE1sTkdJMGVac2RDYVNCOFZCLUo?oc=5",
-      "source": "KuCoin",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-23T18:43:52+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-23T11:45:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "95bc5aceaf6e5c0f5df7",
-      "title": "Zcash falls sharply as intensifying growth concerns weigh on the crypto market - investingLive",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUFY3MC1YeFRBNm01d29YMGNHNmVrbmk4WnM0MjMtOGQzZkZ4WWtHdHZxLTZ3UFNNODBvZnpIVV9MZC11YTdZVHMwQ3FiMVFxU0h3MFBza2pUT3hsMjJlbEtiWDhTWHVqMm13b0duaG1DS0UyNFhkUXcyc3lOdC1jcEtNajBVOFJHS2t4QkRDVHRsbVVJbnVXUkJiM1VZQlUzUEpHc0ZPNVJJbm1wSWg5TVphTnJFYjBudlJwVg?oc=5",
-      "source": "investingLive",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-23T10:43:21+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
