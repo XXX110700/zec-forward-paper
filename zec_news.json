@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-27T09:41:20.465629+00:00",
-  "last_success_at": "2026-10-27T09:41:20.465629+00:00",
-  "status": "ok",
+  "checked_at": "2026-10-27T10:40:01.883629+00:00",
+  "last_success_at": "2026-10-27T10:40:01.883629+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,13 +11,13 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 2
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
       "status": "ok",
-      "matched": 0
+      "matched": 1
     },
     {
       "name": "CoinDesk",
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 94
+      "matched": 93
     },
     {
       "name": "Google News 中文",
@@ -36,6 +36,32 @@
     }
   ],
   "items": [
+    {
+      "id": "d3dedfe8cee1c5c8d087",
+      "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
+      "url": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "feed": "Cointelegraph",
+      "kind": "media",
+      "published_at": "2026-10-27T10:00:31+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "bdc36675afdc61eaf01e",
+      "title": "Public wallet logs expose founder histories, and Zcash group demands fix - CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS0hwaTlLeUxIN3ZtNlI1X0dseXpOMEh3T1BoV0V5TGpvSHQxd1VUMkptaVJTOU1fUHVxWmdiLXZfaG5KcVB1eDdVVFNqeXc3OExMLUZnRktGQ01qUFI5dnNiRTctRURQUFgtenZDYlVYNllUSGFpLXF6VjFRQXBReUlFRFlqQ2FnTzk3SlFHTURwMDdmZnBZSkhSdm9Ec21r?oc=5",
+      "source": "CryptoSlate",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T08:50:22+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "28d74a790a7b100d04c3",
       "title": "Zcash co-founder proposes redirecting 8% of block rewards to network reserve - Crypto News",
@@ -95,7 +121,7 @@
       "source": "深潮TechFlow",
       "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-10-27T05:10:43+00:00",
+      "published_at": "2026-10-27T05:07:47+00:00",
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
@@ -206,6 +232,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "5d5d97275623df6792b8",
+      "title": "BNB, ZEC, and TRX rise slightly while SHIB dips in OKX trading session on Oct 26 - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOczlLemxQTzRxNDlvTFVabnBibWRRS2FYNzc4LUdvNFdDMllsYmxRTWxSRkdmZmUxcjlkYmgwYWo4X1N1MnczcHJLdWU1RFJjR2FhMjNxZ3N4S3VLRlNVd1ZDazV4dGJWbXJJY042VW1DOEVHcUJqcloyLTBQZEdCYnVZTVR6NlRvX0VsNDlJMDN6cGF2blU2VUVKRUk?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T00:55:16+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "2b7dd4ca50fd313b1362",
       "title": "Can Zcash price clear $1,265.53 to confirm its recovery? - Cryptonews.net",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50OEFLQjEydGIzcC1hTDRYLVVPNGhGaDNEbWhMSldhdXh3WUZlMkpyX0pZVFZQbkNlY0NSZTVBd2lQTklYbXNmR3MyZG9yMGFGbldJX3liZ3pKWm8?oc=5",
@@ -310,19 +349,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "9fb8617aa4aa0e3230ac",
-      "title": "ZEC is definitely a coin that requires careful consideration - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DOTk1WjV6VmNWRlJvSU9BeGlpalNQVkxnbHVDOXNHVF9DOFV1Q21oT3pYbHlGNjRkanhGZWs0NlNLdzlWSU11Ui1RWFFfd3ZZYTlPUUlDT1BFbGNlbTA1R0Z1ODBrWk9neGxTR3M0dHZvUQ?oc=5",
-      "source": "KuCoin",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-26T10:05:30+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "554553eb5377a02cac3d",
       "title": "Cryptex Files S-1 for Multi-Crypto ETF With XRP, SHIB, Zcash - CoinGape",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbnQ4Mi15aWxNbHhQdVBUWDVwTzVGWmhaekFXUlVjQnh3S1FfNFAzNi1nbml4MW9YUDh0a01xdE5oQ1EwSnFWNlRhWHcxazRBbWpra2toRUpEVWJEUE15U094NXVNTjVCNGVFTlNScmxWNWM3azRKcFdSSnR0NUVnUFA2V2x6U3M?oc=5",
@@ -330,6 +356,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-26T09:59:54+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "4b7c5fc5fa216fa814e0",
+      "title": "Zcash price jumps 2.3% in an hour with $770K in short liquidations across exchanges - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa2NILWs0ZERlbVZnREdBZm9yV3oyZFNIUVdRQ3NjU1pxUjJvUHByNE9JRm9QNkNLcjZzUHo4by1hMUcxLThidXViOU1lN0R5Mld3YnJVTC1mVFNsd1Y5R1Z0OVVFNDJEcUlnNUdhYUdFbkhRZkhBbkc2anZwNlYzaVZvSWl4NncwYVVN?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T09:34:06+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -645,45 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "22005f58ba895dbceb16",
-      "title": "ETF Investors Pouring Millions Back Into Zcash as Bitcoin Falls - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM2JSb3BwOHUyaWhaRHY1RjJaLTVLWk1ZdEswUzhra0NkSXNzTnNkVU45VDFMM2VSdUtYNlJReVVDTldkczVscXdQd2RuVWs2SzdScG9heDZHbGVFZzBZYUZ1Tjlla2VBQjJTNS0xQlNyV3VXZnp6TlZvU1NSRm0xOGRjcGJBaFkxbk1xNFB0M3lnY2VKUy0wTGxLb0lEcUZmWEE?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-25T11:08:42+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "e148ba5a719fda4ae945",
-      "title": "ETF Investors Pouring Millions Back Into Zcash as Bitcoin Falls - BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwM05HUmtob29XMEQ1N2VfVkhuV01COVJRUndnRWVHZmxfT2Fjd1V0cEluVno5bnRmMURzaUFjakhlUWRDTU55S0FEZ1VWZHlzSmtQTmZZSS1sRnFabzNHWDNGUTROWGxoQVhSMGN3LVdSUQ?oc=5",
-      "source": "BeInCrypto",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-25T11:08:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "77f44b5d10e46d1fa8d2",
-      "title": "Grayscale：金融隐私需求升温，Zcash 或迎来重新定价 - 吴说",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOanN1SW85NGMyQll1bW52WENkbmE4LVNyc3c1Wi1paUk3b1RLMURSby1ReHJCMU1TU0lhZGlXVUJOVWR1YmxrLVRHUzJtQ0dXd0pCdWVBV2VETFlzUTdIS2pTLWlpcFJNSFp2ZGhHWTRVd29RejdhcXBZd2tyalZ0MC1kUGxEQkpsQWNacTJSbFZZejA?oc=5",
-      "source": "吴说",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-25T09:26:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
