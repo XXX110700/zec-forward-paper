@@ -221,6 +221,7 @@ def validate_state(s):
             if not 0 <= s[key] <= 6:
                 raise ValueError("Invalid confirmation score")
     validate_refresh(s)
+    validate_sl_refresh(s)
     return s
 
 
@@ -263,6 +264,43 @@ def record_tp_refresh(state, closed, decision_ts, long_score, short_score):
     candidate = dict(state, tp_confirmation_refresh=marker)
     validate_refresh(candidate)
     state["tp_confirmation_refresh"] = marker
+
+
+def validate_sl_refresh(state):
+    marker = state.get("sl_confirmation_refresh")
+    if marker is None:
+        return
+    if not isinstance(marker, dict):
+        raise ValueError("Invalid SL refresh marker")
+    count = marker.get("count")
+    if type(count) is not int or count < 1:
+        raise ValueError("Invalid SL refresh count")
+    matches = [t for t in state["closed_trades"] if t.get("reason") in ("SL",) and refresh_id(t) == marker.get("event_id")]
+    if len(matches) != 1 or marker.get("reason") != matches[0]["reason"]:
+        raise ValueError("SL refresh does not match a closed stop-loss trade")
+    ts = marker.get("decision_ts")
+    if type(ts) is not int or ts != matches[0]["exit_ts"] + BAR15:
+        raise ValueError("Invalid SL refresh timestamp")
+    for key in ("long_confirm", "short_confirm"):
+        if type(marker.get(key)) is not int or not 0 <= marker[key] <= 6:
+            raise ValueError("Invalid SL refresh score")
+
+
+def record_sl_refresh(state, closed, decision_ts, long_score, short_score):
+    # Only a newly closed SL event supplied by maybe_exit may refresh. Never scan
+    # historical trades to generate events when upgrading an existing deployment.
+    if closed is None or closed.get("reason") not in ("SL",):
+        return
+    event_id = refresh_id(closed)
+    previous = state.get("sl_confirmation_refresh") or {}
+    if previous.get("event_id") == event_id:
+        return
+    marker = dict(event_id=event_id, reason=closed["reason"],
+                  decision_ts=decision_ts, long_confirm=long_score,
+                  short_confirm=short_score, count=previous.get("count", 0) + 1)
+    candidate = dict(state, sl_confirmation_refresh=marker)
+    validate_sl_refresh(candidate)
+    state["sl_confirmation_refresh"] = marker
 
 
 def load_state():
@@ -509,10 +547,11 @@ def main(candle_source=None):
             cl = confirmations("long", i, i1, i4, c15, c1h, c4h, r15, d1, d4)
             cs = confirmations("short", i, i1, i4, c15, c1h, c4h, r15, d1, d4)
 
-        if closed is not None and closed["reason"] in ("TP1", "TP2") and (
+        if closed is not None and closed["reason"] in ("SL", "TP1", "TP2") and (
                 min(i, i1, i4) < 25 or a15[i] is None or r15[i] is None):
-            raise RuntimeError("Insufficient indicators for TP refresh; state not committed")
+            raise RuntimeError("Insufficient indicators for exit refresh; state not committed")
         record_tp_refresh(state, closed, decision_ts, cl, cs)
+        record_sl_refresh(state, closed, decision_ts, cl, cs)
 
         print(f"{fmt_ts(ts)} | 多 {cl}/6 | 空 {cs}/6")
 
