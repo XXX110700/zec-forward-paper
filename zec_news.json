@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-27T20:38:54.778600+00:00",
-  "last_success_at": "2026-10-27T20:38:54.778600+00:00",
+  "checked_at": "2026-10-27T21:37:34.246998+00:00",
+  "last_success_at": "2026-10-27T21:37:34.246998+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,36 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 27
+      "matched": 16
     }
   ],
   "items": [
+    {
+      "id": "45d65153f3c692f272c3",
+      "title": "Tuttle Files for Leveraged ETFs Including 2x Zcash - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rQnVxNlN3azhBU29GSVdPSVY3QUFSSTJFME5qMGJabDFBeTBMZXFzUVJ0Q3Nlei1KaE92WGZxcDFUSzlwOUo5RkNYSldDcThFQzh0OW1JelRhUQ?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T21:24:13+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "cc340afc70f3965c7093",
+      "title": "Zcash Jumps 5%, Outpaces Bitcoin, ETH as 10-Year Anniversary Draws Close - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSTd0a1c5WlJzajQteXpXTF93Y3lZQ0J1OHVuU1lvQUlrajNXcWY3Z3dLOF9RMm5JMW5WUEN4Y0FhSkxhb0dMbTNEZGItbFo0a1VKRkF0QmlMem1Ec3ZQZVVxNzRTM3QxdmdKR05QNm9SUWNXeVRGTjNmM1c4QVEtRlFVa1dXVFBDWlNiQUJtMG1KZGR5TnJ5OGVHMW9IY2dxYlpjNjlmOHJVUEQtYXk0MmNoRDM0WmI0WGQ4b2pzYmE0TlhTMFg0?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T19:33:20+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "b695e71abd791ace24f5",
       "title": "Zcash Jumps 5%, Outpaces Bitcoin, ETH as 10-Year Anniversary Draws Close - Benzinga",
@@ -135,19 +161,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-27T13:27:57+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1a66dfff9ba82aa830ab",
-      "title": "Zcash Turns 10 Tomorrow, and Its Co-Founder Is Fighting to Rewrite Who Gets Paid - CCN.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckRFX0g2SF9LQzMyakMwNDRLYlcwcWQ4ZHNjaG5yMkgwRWdJSjl5cTRXTkpzMFMxYzJMN2pQZ1hHcXMzcDdsQVNhUS1nWFNLNm9HMjJoNDhsSlh3WXI3bXhDd2RvYk5aaUthelVuMndqR3psUXlIaXhpZldzMDdvVXFoRk0zZDQ?oc=5",
-      "source": "CCN.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T12:08:46+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -349,32 +362,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "5da53f570dd6cbcdc821",
-      "title": "Grayscale Says Zcash’s 20% Block-Reward Allocation for Developers Drove 10 Years of Innovation - bloomingbit",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWOUJ1d2hnX0tuREZSd19la3FpUTFiZHNrQklHWHhNU1VQLURKRGxlemY0SVdFUFBvUHdkeTQwZ24wVklLbEtjalYyTE13MUNRZlBGdw?oc=5",
-      "source": "bloomingbit",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T02:54:18+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "5e912a810ade808cd916",
-      "title": "四大幣種盤面速覽｜BNB 蓄勢、ZEC 超跌反彈，TRX、SHIB 低位磨盤| 幣安廣場上的饭饭又困了 - Binance",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aOGVyVlZtZ0Q5dm1YeURka0JBUEZCaFg5WjJFaDJoNG5ZRmFWbTN1VGs5cG1rZmxUUi1TdFFRQ2Zod0xjdGFydHdOalR1LTFBMGVqa0RheVVkMDducGpNMV9iQVZFUkpt?oc=5",
-      "source": "Binance",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T02:36:20+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "9d408bf4e0d964cb6cf8",
       "title": "美国 NEAR、ZEC 现货 ETF 单日合计净流入 336.26 万美元 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5b3VLTWIzVm5wSFNZbTBfT2tQWVRlLVYxLXhIUXdUVDJLSktteHUwZ2Y0OWZHNWhKOWFPcnRzQ2FfV3ZWeHBuQzUzRnJyWlRaZ1ZqZjF6YWRSZkRQRkVYSzl2MmthcGs?oc=5",
@@ -492,6 +479,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "2a4e3b40c707137d7fc0",
+      "title": "Zcash's $550K Adult-Industry Outreach Sparks Community Backlash Over Privacy - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMGtBc3JHLXI3d0gwMGIybm9pZnNBY2VMX2xRNFNoZURQQWpJM0dldkNYeVJwT3FpcWpsdXg1cC1qMmdOZERENktDOVB4Z2ltRFVOS2pmdDBoU0RFbElqMEZjUjAtN2NzRDJNTDMwMU5oUDUxc05NclIzTWd1TnVyc2RxaFhkT1hqUTVLWDB5X0h6WXBON2lhMVRBWkdJNjRuU0VjUnZLbC16a29hWEE?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T12:58:07+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "70fc03a2b38a7a3f5b42",
       "title": "Former ECC Head Criticizes Staking Proposal for Zcash - ForkLog",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdE5CdVFtLTRybGFQT2I4QzJoU2xPbk5PRFdBVWxMc3Q5MXhlWkpYRUwzYkR3bVk5SXl0UWtTbVBKVzdmS0ZxTjRoMmYzb3k1SnRlTU9acjA3cWJKQlNRRU53eXNnQWlpcklJSkFZaU1SLTQ4X3FVMXVTUEVxWjFHeFpJVQ?oc=5",
@@ -502,6 +502,19 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "05743687d7dc379269c6",
+      "title": "ZEC.... $ - Binance",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UYW53QXBYdENlSnJJUVJGSnRqbFJGRDRFNnhLRlF1VHViU0Z0NTNyZnpQcUphVDBTT0RldGkwOFBrclZTV0dhTGpFakEtRlcxTGRsLVZoSWFsZ3pqVFV2VmZ2NFg?oc=5",
+      "source": "Binance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T07:16:31+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-25T18:38:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "c26c27ba3dacf4d01abe",
-      "title": "Zcash-Linked Funds Post Biggest Inflow Since September as Bitcoin Sags - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wN05jVE9PZk1acjBid1gwUmNncHB5cmhuUTBfVFdXcWRlaEk4eXRQeGQwUHdTT0R6akVCLUYyUVNTYWNIbXhTOHVaV2N0UnJYUGZWYllFVWVYcGZORmVMeTlMYnJLT09TT09HaTRBTVlTTE4yOWc?oc=5",
-      "source": "BigGo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-25T18:15:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
