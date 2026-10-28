@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-28T10:46:50.034245+00:00",
-  "last_success_at": "2026-10-28T10:46:50.034245+00:00",
+  "checked_at": "2026-10-28T11:43:57.680556+00:00",
+  "last_success_at": "2026-10-28T11:43:57.680556+00:00",
   "status": "ok",
   "sources": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Cointelegraph",
       "status": "ok",
-      "matched": 1
+      "matched": 2
     },
     {
       "name": "CoinDesk",
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 25
+      "matched": 15
     }
   ],
   "items": [
+    {
+      "id": "37d8fa12e45cdf05a77a",
+      "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut",
+      "url": "https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "feed": "Cointelegraph",
+      "kind": "media",
+      "published_at": "2026-10-28T11:24:07+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "0ea91d88e5be6c8be143",
       "title": "Zcash (ZEC) Celebrates 10 Years, Key Upgrades and Price Surge Define 2026 - KuCoin",
@@ -50,13 +63,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "673a0a8ca2d63bc049df",
-      "title": "$125 Million Treasury Sparks Debate: Should Zcash Continue Subsidizing Developers? - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMHhrLVRELWFEaHRad0VnYXY5Mkd5bkpCOHZyODh4RXZBVVFNYThoeDNoV2lGOVdoNXVPUnZjZDBPX1JGTHlueTRxOWpNQy1zN2tNb2xuZUJ2ZVltTnpzZURhenU0OFFOZWNxX2hQNVZWMWg3cjVLemcxbjNUQUt3U0RFdWkyQV96RmxFRkRpRGhrR3dRRHVlaU8zSllZYVIyZ2xMRUs5NDRGck5PeXcyQmlFSFVNV3VwT0pNVkhGSQ?oc=5",
-      "source": "富途牛牛",
-      "feed": "Google News 中文",
+      "id": "3e9153fad29b730e3637",
+      "title": "Zcash Price Forecast: Steady ETF inflows and retail confidence strengthen bullish momentum - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM2lrMXBodGNzNkM1TkdLTzJma2dZd0RrUHljZGJ2RWZLSWU5Wmo3X3ZhbmMwcXpKTTJXVGtWbk8xMHN1ZnFuYnFrSU5FQURzQzJUV0cxMEtKekZxc05ldVlGRkVfeTg4UEIwZVQ3WmluQmdDMzlzUzVVNWtSOFZ5ZXZKTU5TT0w0V003TGNzSjJiVUJuV0NOVFpzLUk4a0xsamt3RGRqV2JYOXhpbU5ZTFdmakhQMDBwUXRDLXFiWUFqc1BMYjN6MW4wWWZ4NnBwa1hqazFiZWNZYWVza0g3UUQ1VDZfRlJU?oc=5",
+      "source": "www.tmgm.com",
+      "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-28T06:52:13+00:00",
+      "published_at": "2026-10-28T06:49:51+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -603,19 +616,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-27T02:54:18+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "5e912a810ade808cd916",
-      "title": "四大幣種盤面速覽｜BNB 蓄勢、ZEC 超跌反彈，TRX、SHIB 低位磨盤| 幣安廣場上的饭饭又困了 - Binance",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aOGVyVlZtZ0Q5dm1YeURka0JBUEZCaFg5WjJFaDJoNG5ZRmFWbTN1VGs5cG1rZmxUUi1TdFFRQ2Zod0xjdGFydHdOalR1LTFBMGVqa0RheVVkMDducGpNMV9iQVZFUkpt?oc=5",
-      "source": "Binance",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T02:36:20+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
