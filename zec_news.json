@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-28T05:44:01.851021+00:00",
-  "last_success_at": "2026-10-28T05:44:01.851021+00:00",
-  "status": "ok",
+  "checked_at": "2026-10-28T06:52:50.885125+00:00",
+  "last_success_at": "2026-10-28T06:52:50.885125+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 1
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -36,6 +36,32 @@
     }
   ],
   "items": [
+    {
+      "id": "9a778901916506bfb5b6",
+      "title": "Zcash co-founder proposes redirecting grants funding stream - grafa.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQczNYdE5qdzkyQ19NQ3lxSTl5QWhEUmZmcS1MNzMwVnRKXzhsam1ibzd3LUVYcUJKMllwcnM5bEtJdW9xQ3gwZ1VQNzNtbDdMWC0zT3FzSlpEMll4ZUtFczZfdkFMckt0TUl1T2M5MFUzbGlCM1hwaVQzaVp4VkYwQnNXV0Z6c3JBNm40a3UzeXJHTHZyTzBZ?oc=5",
+      "source": "grafa.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T06:42:25+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "1ad3d915d6d1e2d7f5f3",
+      "title": "Where is Zcash price heading now? - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTHRFYV9VMzFoSXdiRXhZYzRXMjN6UzBIU01kWl9qQV9Rbl82ZXJpbzViWHI0d0xTd2JiSUxIZzlUSGo4RzkwMHcwREVZcVZiV2h1alYxTUxHc1lvZGlDOG5QS29OVmVQVXNwa2VXcFBDVVdyWTQ0WVBiNzZtcFlXcEs5OWlvUXZnN2gxQTZKNGhUY25BOWs4dDlKYmR3WU1JbTVwYTczYkV5NXA1SXJKXzNxTlhWb3ZaN0MwN2ZNUUU3N004WVJXai1jdFF6bmVnelZHUlk2SU5NUU5I?oc=5",
+      "source": "FXStreet",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T06:00:50+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "0a630d403d104421ca20",
       "title": "Zcash Turns 10 as Grayscale Highlights Its 20% Developer Fund - Cryptonews.net",
@@ -109,6 +135,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T01:33:00+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "3a90311046795e995046",
+      "title": "Zcash and Bitcoin Cash Are Up This Week While Solana Fell 5%. Which Could Gain 20% First? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWZ0OWNYVjBQbjE5eVBfWlQ4ejgtTlpnVEZpb2stbEFYSzM2U29iNXRkaFFFcWRVUHFBWGlxX19MOUZ6Y1RpbTdXdGQ1WDZyZkl5N21JaXpXNlhFNTB3VnFBZVFwNnZRWHVUcC1IaUVELU9hdDF2aEJwUnZxcmNlSDQ3a0EtZUFFamZPb1JuWU5nMG82RlFzcjFR?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T00:33:00+00:00",
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
@@ -622,6 +661,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "2b455d7ddf8f7923b7d1",
+      "title": "ZEC Outperforms BTC After Developers Launch New Toolkit To Make Building Zcash Apps Easier - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQczMtUWNUUTFlWXVXSHd1NXUtdlV3YlV6cndKT1BmSm4zZC1vcmVMZGpNSHpoUnlLQ3NicGdZVDhJWDd1aVpDYTZVZl84ajA4cGZPR0Z5UElRZjNQNXVnVF9xQnMxZlB3ZWRXdXJ0a2pFd1ZiQjBLQU11WDk2VmJ6UXJoWkpfWVhzNXk5VHpnaXhjazdwZGFVN21TZ0lwUkJuWmMzWA?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T16:42:30+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：launch",
+      "verification": "未独立核实"
+    },
+    {
       "id": "1d924f58934f8aeaf430",
       "title": "Zcash to Undergo Hard Fork on November 5th - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3JUUU9zRVVnRktFVThGaVVhaUhKSEhYYUZ2VHNSOS11LTcwSmdCS3JTaHNyc3o0ZE1SRW1IOGlxekhrdVItSWJJd0FiTC1HT1hxejg0dWxYSlNtQXdxd1p0cGFLZTZ0SWhkQUt4MzFFZVVRdEpicFpQS1dWSk15bUxfUEJSbUdvRjU0a2l0cHpMRU50SGY4dDduZFZseGxmdXc?oc=5",
@@ -629,58 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-26T16:22:24+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "47c41a0099e3b256ff85",
-      "title": "Zcash (ZEC) price jumps 2.33% amid heavy short liquidations on Binance and other exchanges - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN1lUbDhJSW9DbENXLUV4YTNLaFN5SjJxYW1nSWpkY3hoYzYzd1dXclpsTGxSLTFaTVhXRW1Wa3hwMHk2S3h6Z0lGU2ZLeUtDc3FZY0IzMlE4ZmJwbThSQlNraHFqMzFLNUJRSS1UYXFvTFJrX25YMEZNN1N2Q1RER3ZiVHVIR19IdTkw?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-26T15:24:18+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "8c3195a5c247eecf498d",
-      "title": "Zcash Labs推出JavaScript开发工具包Zcash JS - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tUXc5WlJnWDkzdzFIeHJLWGVFeWNSb05wd0wzNXVyaldFY2ptWlZhQXVOVjFVY1hjb2hlcW1GYVBmdzltR3pEUXlTTkp5TmZtNXhwWmV6VUhva1hJc1FYcXNDT3BUUQ?oc=5",
-      "source": "TradingView",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-26T14:56:03+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "70fc03a2b38a7a3f5b42",
-      "title": "Former ECC Head Criticizes Staking Proposal for Zcash - ForkLog",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdE5CdVFtLTRybGFQT2I4QzJoU2xPbk5PRFdBVWxMc3Q5MXhlWkpYRUwzYkR3bVk5SXl0UWtTbVBKVzdmS0ZxTjRoMmYzb3k1SnRlTU9acjA3cWJKQlNRRU53eXNnQWlpcklJSkFZaU1SLTQ4X3FVMXVTUEVxWjFHeFpJVQ?oc=5",
-      "source": "ForkLog",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-26T12:41:12+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "ed8c014c034d99a00dc9",
-      "title": "Zcash’s $550,000 adult industry grant divides its community over privacy outreach - The Cryptonomist",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90bDd4QkdWVTJJcFZGbnJQVVNsRkRZX0t2LXBhckJXbEtvU1B5cGItMnJwelJILXFSNGFsV0dxRGdSdXB6MHJGTFBEbE9Zb1VhZ3piWTNkUVNCQWJ6WExGV0xXTDlhU1NBVlhzaXdNcVN3Yk0?oc=5",
-      "source": "The Cryptonomist",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-26T08:33:13+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
