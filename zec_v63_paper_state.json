@@ -1,19 +1,8 @@
 {
   "version": "V6.3",
-  "last_processed_15m_ts": 1793144700000,
+  "last_processed_15m_ts": 1793145600000,
   "pending_signal": null,
-  "open_trade": {
-    "side": "long",
-    "signal_ts": 1793142000000,
-    "entry_candle_ts": 1793142900000,
-    "entry": 1319.71,
-    "risk": 14.862080175623703,
-    "sl": 1304.8479198243763,
-    "tp1": 1337.5444962107485,
-    "tp2": 1349.4341603512476,
-    "long_confirm": 6,
-    "short_confirm": 0
-  },
+  "open_trade": null,
   "closed_trades": [
     {
       "side": "short",
@@ -609,19 +598,36 @@
       "reason": "TP1",
       "gross_r": 1.2,
       "net_r": 1.070078
+    },
+    {
+      "side": "long",
+      "signal_ts": 1793142000000,
+      "entry_candle_ts": 1793142900000,
+      "entry": 1319.71,
+      "risk": 14.862080175623703,
+      "sl": 1304.8479198243763,
+      "tp1": 1337.5444962107485,
+      "tp2": 1349.4341603512476,
+      "long_confirm": 6,
+      "short_confirm": 0,
+      "exit_ts": 1793145600000,
+      "exit_price": 1304.8479198243763,
+      "reason": "SL",
+      "gross_r": -1.0,
+      "net_r": -1.124316
     }
   ],
-  "long_confirm": 5,
+  "long_confirm": 4,
   "short_confirm": 0,
   "max_drawdown": 2.3359939999999995,
-  "updated_at": "2026-10-28T00:03:03.021983+00:00",
-  "last_processed_close_ts": 1793145600000,
+  "updated_at": "2026-10-28T00:18:03.085236+00:00",
+  "last_processed_close_ts": 1793146500000,
   "market_snapshot": {
     "source": "OKX public closed candles",
-    "close_ts": 1793145600000,
-    "close": 1308.88,
-    "rsi_15m": 58.03859716256883,
-    "atr_15m": 9.473561745440602,
+    "close_ts": 1793146500000,
+    "close": 1302.48,
+    "rsi_15m": 51.41527248240348,
+    "atr_15m": 9.4368787635358,
     "score_1h": 3,
     "score_4h": 3,
     "close_1h_ts": 1793145600000,
@@ -637,5 +643,12 @@
     "short_confirm": 0,
     "count": 10
   },
-  "csv_outbox": []
+  "sl_confirmation_refresh": {
+    "event_id": "long:1793142000000:1793142900000:1793145600000:SL",
+    "reason": "SL",
+    "decision_ts": 1793146500000,
+    "long_confirm": 4,
+    "short_confirm": 0,
+    "count": 1
+  }
 }
