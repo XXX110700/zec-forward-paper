@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-28T02:47:21.821143+00:00",
-  "last_success_at": "2026-10-28T02:47:21.821143+00:00",
+  "checked_at": "2026-10-28T03:44:47.371364+00:00",
+  "last_success_at": "2026-10-28T03:44:47.371364+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 17
+      "matched": 19
     }
   ],
   "items": [
@@ -52,11 +52,11 @@
     {
       "id": "0952ad02dee1702cae43",
       "title": "美国 NEAR 现货 ETF 单日净流出 483.91 万美元，ZEC 现货 ETF 净流入 345.35 万美元 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RWDNpdXl2OGZoR2JwYmI4eDBaM1p6SVJaUGZyU3Fodk9BOTE4dElydVFPdUttVy1hamlZcDZabVpFQkltTUpRamk5Snl2d2pKQkNsRk50cHZRalJReGxicXBrSVY2UQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rbU50OVJIa3phN042OHRPVDNVUDZCZzVMMTV6Vk51dS0yNk1ubkJ4YW9nREN0Z2NULThyR3FQY082YmJyWXR1MlZSODdSbnpLekpDWDRpUjNyOU1rYnNfLVNvOE03dw?oc=5",
       "source": "TradingView",
       "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-10-28T00:27:00+00:00",
+      "published_at": "2026-10-28T00:27:37+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -232,6 +232,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "1a66dfff9ba82aa830ab",
+      "title": "Zcash Turns 10 Tomorrow, and Its Co-Founder Is Fighting to Rewrite Who Gets Paid - CCN.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckRFX0g2SF9LQzMyakMwNDRLYlcwcWQ4ZHNjaG5yMkgwRWdJSjl5cTRXTkpzMFMxYzJMN2pQZ1hHcXMzcDdsQVNhUS1nWFNLNm9HMjJoNDhsSlh3WXI3bXhDd2RvYk5aaUthelVuMndqR3psUXlIaXhpZldzMDdvVXFoRk0zZDQ?oc=5",
+      "source": "CCN.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T12:08:46+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "f97ad3e66d63d9fff97c",
       "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury - The Block",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc3gxdl8yVnBNcUhxMXd3NDAxdUJ3cTFjQ3RyZjVrcDFXdVk5YW1SeHZUMHdTcS1qVVNnamdnaWdXVXotOHFNdEowSUo5OG5DOU1ILURlNHJRaXltWlNCLW9hVGVaV01uM1JuRV81S2VhMDN4SEh4MVJYU0hwd2E0OFpFOUxwNkFkYkxaVnNuc0c3NC0tV1M4dUozQ3UwY1o0WXpzZUVJRDEwMmpaZktVNTRPNjEzazJodVAzaEFGNVNQbDlrX3J2WnhoTFNEdw?oc=5",
@@ -323,6 +336,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "0e8f3836d63ab04087d4",
+      "title": "你得发挥点想象力 $大零币 (ZEC.CC)$ - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQaTNUa0F5MmJTNkxNMlVNMWVfejIwLXQ0NkhzN3FuNXJDRnZKZm9kOEd0eUdWdS1FT3U3MHI4Yld6S3E1YkFhMG10eDY5RkJwMHhPOEtMNm9ham1hcTduSUpIdVdzaXQxV0FRTE1JVEpVVVhLODlJVmI3NnJwTE5mQlUyUWh0Y0VjSXNNZjExclkzR3dScUJVb2YyNnd6bTYwc01MOWN3NXFIcFZQeko2Z0xPalIzNWpqcGJudVBHbTdtbXBuelJvTEVKbkh3Tlk3cERZRXR3YndRekstcl9zdGhzdnlobTBTS1RhbkdjRDh1elZ0WEV1bVlSWXVUa0hfWDJMRWtlNDRxcFE0MU44d2lIcC10STI3NTliWVUzbExFQ0pvMUVBTGQ0Q1NrT2lyVFhnRlI0LTFtWEYybC1LMDBZcXN1NWQ0WmRGdjVHSnJOaDFGOEZZemlaeTQ1ZGxZeUt6ck9Sa1lfMnlpdlVQQXVBemhvdEdiemgxX3FwV0Z0VGVGV1E?oc=5",
+      "source": "Moomoo",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T07:56:15+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "1db79554131b28b85495",
       "title": "Zcash Co-founder Proposes Ending Grants Funding, Citing $125 Million Treasury - Moomoo",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObi1sd3VYU1RCSnA2dEx1Y0s5bjZTR3IzV1FJOU5yd051NWNYMGliZFhNbWF5SDB0Y3FORjYxQ1czWHVEQVczSXA4engyaHg0bEV1MVZmRklSV25raXpERzBpMHlUWXpKVTlPeVM0dURmVjNGWWdfRmt1d3E0cGRWTEZqMVpSSTNNZTRBMDNERk1yNGlPSzBrR0FPbFcwZDMxRnp4bzJsdVVHRnRpU0tN?oc=5",
@@ -401,19 +427,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "9a0aeb0dab2b0b2146b5",
-      "title": "Zcash Co-Founders Propose Halting Funding to Community Fund: Holding 91,000 ZEC, 8% of Block Rewards Proposed for Netwo… - 深潮TechFlow",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rQ1hua2wxNUd3dGVaNkwyRV82MjNmeElrb0FnclZWS3VBZnYwYUMtbmRkME54dFl1WDViNUxlaXRic0dFRThUQTQxbTJDZ1p3V2E0QV9KME5JbHhf?oc=5",
-      "source": "深潮TechFlow",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T05:24:54+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
       "id": "a5d51a4d6a226de9a8c7",
       "title": "Best Crypto Presale: AlphaPepe Passes $3,2M as Zcash Targets November 5 Upgrade and Ethereum Struggles - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaE5FYjdwdlc0VlZJM2tidWd0RW9Jam9BS0dKZEtsbm5ScGxSVGVzQzRRMWJyRXVsbjdiYUV3UzBPNnJJeTJwOGJ3SnJsQjNOZGR4LW9wRWstZk1RekxZZElpNWhycXVsQzRUWDFLNXF0cFdaMGUyNTdNRTFacmFxc2RyTC12eUc1ejdIZ0NwUWk2dEtaeUc0bk9iV2pxN0NNTFlLZG9DYVVuUkVVWW1GS19xdXQwQ3FKY0d1UFllMHVTZzl2VThvdHFWY1YtcERqcnRSSC1CWGxZSDJIdmF2MUV0WXk0aGlHTHVZcGV6UG5JUHR5RENKcEFYVmQ?oc=5",
@@ -460,6 +473,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-27T04:34:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "5da53f570dd6cbcdc821",
+      "title": "Grayscale Says Zcash’s 20% Block-Reward Allocation for Developers Drove 10 Years of Innovation - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWOUJ1d2hnX0tuREZSd19la3FpUTFiZHNrQklHWHhNU1VQLURKRGxlemY0SVdFUFBvUHdkeTQwZ24wVklLbEtjalYyTE13MUNRZlBGdw?oc=5",
+      "source": "bloomingbit",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T02:54:18+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -583,19 +609,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "2a4e3b40c707137d7fc0",
-      "title": "Zcash's $550K Adult-Industry Outreach Sparks Community Backlash Over Privacy - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMGtBc3JHLXI3d0gwMGIybm9pZnNBY2VMX2xRNFNoZURQQWpJM0dldkNYeVJwT3FpcWpsdXg1cC1qMmdOZERENktDOVB4Z2ltRFVOS2pmdDBoU0RFbElqMEZjUjAtN2NzRDJNTDMwMU5oUDUxc05NclIzTWd1TnVyc2RxaFhkT1hqUTVLWDB5X0h6WXBON2lhMVRBWkdJNjRuU0VjUnZLbC16a29hWEE?oc=5",
-      "source": "KuCoin",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-26T12:58:07+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "70fc03a2b38a7a3f5b42",
       "title": "Former ECC Head Criticizes Staking Proposal for Zcash - ForkLog",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdE5CdVFtLTRybGFQT2I4QzJoU2xPbk5PRFdBVWxMc3Q5MXhlWkpYRUwzYkR3bVk5SXl0UWtTbVBKVzdmS0ZxTjRoMmYzb3k1SnRlTU9acjA3cWJKQlNRRU53eXNnQWlpcklJSkFZaU1SLTQ4X3FVMXVTUEVxWjFHeFpJVQ?oc=5",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-26T03:45:40+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "8af6d55fcb1dfa4dcb62",
-      "title": "Zcash will triple transaction speed days after turning ten years old - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0RibXlUVXhUc3ViZ3BBUlBseF96amFpWllOQXNmTTJPOFNLMHJmV2U3aEFPYXFFZVQ2ckIzV1FsRmE5UGtMS1dweGNxZUt0UmwzVzZiZnZWaDNvZEpzbV9CZnAtbVdpaGk5ajRiUV9aOFU3NGFtbjJzVUQzRHhZLWV6NFNBSUlxMUx3Rkg0dVk3ZVpyMmQ1X2w3Nm0?oc=5",
-      "source": "Startup Fortune",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-26T03:22:33+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
