@@ -9,15 +9,7 @@
     "long": 5,
     "short": 0
   },
-  "pending": [
-    {
-      "id": "long:1793167200000",
-      "ts": 1793167200000,
-      "side": "long",
-      "score": 5,
-      "position": "模拟多单持仓"
-    }
-  ],
+  "pending": [],
   "lifecycle_after": 1793113200000,
   "lifecycle_seen": [
     "signal:long:1793117700000",
