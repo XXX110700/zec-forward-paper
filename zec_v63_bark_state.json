@@ -1,15 +1,25 @@
 {
   "version": 1,
-  "last_ts": 1793228400000,
+  "last_ts": 1793229300000,
   "above": {
-    "long": false,
+    "long": true,
     "short": false
   },
   "scores": {
-    "long": 4,
+    "long": 5,
     "short": 0
   },
-  "pending": [],
+  "pending": [
+    {
+      "kind": "signal",
+      "id": "signal:long:1793229300000",
+      "side": "long",
+      "ts": 1793229300000,
+      "signal_ts": 1793229300000,
+      "score": 5,
+      "position": "新待入场模拟信号"
+    }
+  ],
   "lifecycle_after": 1793113200000,
   "lifecycle_seen": [
     "signal:long:1793117700000",
@@ -29,6 +39,7 @@
     "signal:long:1793174400000",
     "entry:long:1793174400000:1793175300000",
     "signal:long:1793176200000",
-    "entry:long:1793176200000:1793177100000"
+    "entry:long:1793176200000:1793177100000",
+    "signal:long:1793229300000"
   ]
 }
