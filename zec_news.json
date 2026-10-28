@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-28T14:55:02.807951+00:00",
-  "last_success_at": "2026-10-28T14:55:02.807951+00:00",
+  "checked_at": "2026-10-28T15:53:14.476927+00:00",
+  "last_success_at": "2026-10-28T15:53:14.476927+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 26
+      "matched": 14
     }
   ],
   "items": [
+    {
+      "id": "a2575861417ff1c175bb",
+      "title": "Euronext Restarts CoinShares’ Zcash ETP After Debut-Day Halt - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXNiM3g1N3pWS0J1V3hkZGtGR3h1cnAxY3E2UnRwY2U5eU1QZWh2ajNXTmk4aHgydk12VjVTM0JqSEQwOWJZVHBrTElqMEI1ZDdNd1VFOFhGengta3lLcThIMmJNOUxlanc4Z1h2OE43ZjA1Y19sWERma0pieHBNdnhnVld1UExoUE9RZ3FuaTVXeTJoVGpoVHFMMXlmY3RkWTBXeFRvUnc2LXNXdmc?oc=5",
+      "source": "The Defiant",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T15:20:28+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "152357967a7c190c8b09",
       "title": "Key facts: ZECUSD OI $1.5B; Redirect 91,453 ZEC Plan; +6.3% to $1,304 - TradingView",
@@ -115,13 +128,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "eca894f5c9ddb373595d",
-      "title": "Zcash（ZEC）推出10年后，2026年脱颖而出的两件事 - 币界网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1X3ZoQ2FXNnA4Wm12T2xobXlVZDZyRmtyVzIwVS14QWhlT1diZkMyQmQ4a0g5UWIzRzRGR2oydnI1MnUzYmJuYXpOeW9NQnFxX19XcQ?oc=5",
-      "source": "币界网",
+      "id": "673a0a8ca2d63bc049df",
+      "title": "$125 Million Treasury Sparks Debate: Should Zcash Continue Subsidizing Developers? - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMHhrLVRELWFEaHRad0VnYXY5Mkd5bkpCOHZyODh4RXZBVVFNYThoeDNoV2lGOVdoNXVPUnZjZDBPX1JGTHlueTRxOWpNQy1zN2tNb2xuZUJ2ZVltTnpzZURhenU0OFFOZWNxX2hQNVZWMWg3cjVLemcxbjNUQUt3U0RFdWkyQV96RmxFRkRpRGhrR3dRRHVlaU8zSllZYVIyZ2xMRUs5NDRGck5PeXcyQmlFSFVNV3VwT0pNVkhGSQ?oc=5",
+      "source": "富途牛牛",
       "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-10-28T08:51:00+00:00",
+      "published_at": "2026-10-28T06:52:13+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-10-27T04:51:03+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "cb4455779ae332d6a48e",
-      "title": "Zcash turns 10 as Grayscale credits developer funding for innovation - Crypto News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TWk5QNjVXdjBnak1NSlI2Uk81cFUzbnkzR08xYnBlRGZYLW1jNG5VMUN6VWp2LXUyYWVhTVRHNkpRODJSd2lQTmVNT2xQZFpxUmFuZWwtQ3NWaWRQMzBzTk5ObmFaZUFRbTRweExfdDdMMklDRHFrT0tjanR1Zw?oc=5",
-      "source": "Crypto News",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T04:34:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
