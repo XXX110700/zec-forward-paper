@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-28T06:52:50.885125+00:00",
-  "last_success_at": "2026-10-28T06:52:50.885125+00:00",
+  "checked_at": "2026-10-28T07:59:15.831645+00:00",
+  "last_success_at": "2026-10-28T07:59:15.831645+00:00",
   "status": "partial",
   "sources": [
     {
@@ -32,10 +32,36 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 16
+      "matched": 17
     }
   ],
   "items": [
+    {
+      "id": "22034aaa9ecbe5d637b9",
+      "title": "️ In 8 days, $ZEC will confirm transactions three times fas - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xMzdlaVdwMk9CR1RqOThycS1JMXpYa1o0YTJBcFNnZ25rUThxTFNyNXFMVVRzU2hIWUV0RkdUME5mTFJyb0ZjVF8xYnVDSVFYOGdnbklDdll4ci1kVzd4RldOU1lGdHBlUjVGMVNZVC1QUQ?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T07:47:39+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "f9a77a7ec4c8e9ebc740",
+      "title": "Zcash 十周年变局：1.25 亿财库引发开发者补贴存废激辩_滚动新闻_财经 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3Zy1oT0FYekg4MkJLRkZISlpfcDJLUEJ5Rm9QRjFBV2NKemFzX3R6a293UjNTRmUwS0xVSXdvQzdYZWw2aFpDbkZFY09rTGo1d29EanRXYUlqN2hlOHA3QQ?oc=5",
+      "source": "证券之星",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T06:47:10+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "9a778901916506bfb5b6",
       "title": "Zcash co-founder proposes redirecting grants funding stream - grafa.com",
@@ -655,32 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-26T21:19:25+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "2b455d7ddf8f7923b7d1",
-      "title": "ZEC Outperforms BTC After Developers Launch New Toolkit To Make Building Zcash Apps Easier - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQczMtUWNUUTFlWXVXSHd1NXUtdlV3YlV6cndKT1BmSm4zZC1vcmVMZGpNSHpoUnlLQ3NicGdZVDhJWDd1aVpDYTZVZl84ajA4cGZPR0Z5UElRZjNQNXVnVF9xQnMxZlB3ZWRXdXJ0a2pFd1ZiQjBLQU11WDk2VmJ6UXJoWkpfWVhzNXk5VHpnaXhjazdwZGFVN21TZ0lwUkJuWmMzWA?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-26T16:42:30+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：launch",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1d924f58934f8aeaf430",
-      "title": "Zcash to Undergo Hard Fork on November 5th - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3JUUU9zRVVnRktFVThGaVVhaUhKSEhYYUZ2VHNSOS11LTcwSmdCS3JTaHNyc3o0ZE1SRW1IOGlxekhrdVItSWJJd0FiTC1HT1hxejg0dWxYSlNtQXdxd1p0cGFLZTZ0SWhkQUt4MzFFZVVRdEpicFpQS1dWSk15bUxfUEJSbUdvRjU0a2l0cHpMRU50SGY4dDduZFZseGxmdXc?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-26T16:22:24+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
