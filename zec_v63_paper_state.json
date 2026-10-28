@@ -1,19 +1,8 @@
 {
   "version": "V6.3",
-  "last_processed_15m_ts": 1793168100000,
+  "last_processed_15m_ts": 1793169000000,
   "pending_signal": null,
-  "open_trade": {
-    "side": "long",
-    "signal_ts": 1793161800000,
-    "entry_candle_ts": 1793162700000,
-    "entry": 1318.6,
-    "risk": 13.053523052678091,
-    "sl": 1305.5464769473217,
-    "tp1": 1334.2642276632137,
-    "tp2": 1344.707046105356,
-    "long_confirm": 5,
-    "short_confirm": 0
-  },
+  "open_trade": null,
   "closed_trades": [
     {
       "side": "short",
@@ -660,19 +649,36 @@
       "reason": "TP1",
       "gross_r": 1.2,
       "net_r": 1.058851
+    },
+    {
+      "side": "long",
+      "signal_ts": 1793161800000,
+      "entry_candle_ts": 1793162700000,
+      "entry": 1318.6,
+      "risk": 13.053523052678091,
+      "sl": 1305.5464769473217,
+      "tp1": 1334.2642276632137,
+      "tp2": 1344.707046105356,
+      "long_confirm": 5,
+      "short_confirm": 0,
+      "exit_ts": 1793169000000,
+      "exit_price": 1305.5464769473217,
+      "reason": "SL",
+      "gross_r": -1.0,
+      "net_r": -1.141421
     }
   ],
   "long_confirm": 4,
   "short_confirm": 1,
   "max_drawdown": 2.3359939999999995,
-  "updated_at": "2026-10-28T06:33:02.694197+00:00",
-  "last_processed_close_ts": 1793169000000,
+  "updated_at": "2026-10-28T06:48:03.268647+00:00",
+  "last_processed_close_ts": 1793169900000,
   "market_snapshot": {
     "source": "OKX public closed candles",
-    "close_ts": 1793169000000,
-    "close": 1307.34,
-    "rsi_15m": 45.40457933153425,
-    "atr_15m": 7.883198449936519,
+    "close_ts": 1793169900000,
+    "close": 1308.71,
+    "rsi_15m": 46.9907191064391,
+    "atr_15m": 7.660827132154062,
     "score_1h": 3,
     "score_4h": 3,
     "close_1h_ts": 1793167200000,
@@ -689,12 +695,11 @@
     "count": 12
   },
   "sl_confirmation_refresh": {
-    "event_id": "long:1793142000000:1793142900000:1793145600000:SL",
+    "event_id": "long:1793161800000:1793162700000:1793169000000:SL",
     "reason": "SL",
-    "decision_ts": 1793146500000,
+    "decision_ts": 1793169900000,
     "long_confirm": 4,
-    "short_confirm": 0,
-    "count": 1
-  },
-  "csv_outbox": []
+    "short_confirm": 1,
+    "count": 2
+  }
 }
