@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-27T23:34:27.665303+00:00",
-  "last_success_at": "2026-10-27T23:34:27.665303+00:00",
+  "checked_at": "2026-10-28T00:54:53.303929+00:00",
+  "last_success_at": "2026-10-28T00:54:53.303929+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,15 +27,54 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 95
+      "matched": 93
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 15
+      "matched": 27
     }
   ],
   "items": [
+    {
+      "id": "f700abae14e7a39e66d0",
+      "title": "Zcash and Bitcoin Cash Are Up This Week While Solana Fell 5%. Which Could Gain 20% First? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTXZoSmVzX3RZWTRnUjNvY054WGtSdWZhM2xybUUyMGc0ZWJLeHZzQWFnZVRESGQySDNOTXJ0SVlKdTZMM1VDRW9USnpuVzFQTVAxQlIzbVlEQU40V3R6UGRRZ1BqUEYzaFI0M0lkZ0V2SE5fanJBdi1DaXZPSlo2TjVzYWJfdmx0anZrdlFBU19NaFlPaGFCeC1RM3lISVQzRjZ1VmQxaUlaYVF0TGRycXVOUVk5UnZTVmI0Mm5NTWV4V1oyT3BTZ2hIZnREb0xZRHQtQVA0bnhqMGVJ?oc=5",
+      "source": "24/7 Wall St.",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T00:36:17+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "0952ad02dee1702cae43",
+      "title": "美国 NEAR 现货 ETF 单日净流出 483.91 万美元，ZEC 现货 ETF 净流入 345.35 万美元 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByd2gwdmJMZnY4QjNvOElmcVJFZnF6REhETTg0RzFzTE1HX2NFMm1aRmVfd2ZMaWtYemlqTndwY2xKMW5HdlROOTdvUUJ5QkE2aTZ6MDNLLUdGYlQtNTQ5UTRIa29KUQ?oc=5",
+      "source": "TradingView",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T00:27:37+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "7480776b9ae98398a6aa",
+      "title": "$125M in reserves: Is Zcash funding more than its grant p - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMU194Rk1POVpsMXZoTzFuZk8zcnZTZFNBdXFKdVdlejdTUDBFRjdWdEk3TTFLclB1OVg0ZThmUmxpWmNTWEVkblhBNjhSQnRkMVlCR2Z3WmZjMVNSSFNqaTN0Y09vUmd1ZU1HOFpOSEJUQQ?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T23:29:21+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "70d2acba10631cd32a0a",
       "title": "Zcash’s $125 million funding fight widens as Tyler Winklevoss calls to end its ‘USAID’ - CryptoSlate",
@@ -125,6 +164,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：launch",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "a968fec1f6392d182d16",
+      "title": "Zcash Slips 20% From September Peak as Traders Zero In on $834 Support - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBON1VpdlVFZ1EzZHREM1AzUVdORTc4WkhxNmhRLW5hMzlTU0k2NEdwdFVqckt6d0E4TXNzY3dLTTVVc293TF9XcnoyeUN0N1JGZVA3a0NHLThueC1EZEpHNU5sYTVfbHlMcWlsWUZIanhraHNadFE?oc=5",
+      "source": "BigGo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T18:36:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -349,6 +401,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "83bcf29ae9b9083273f1",
+      "title": "Zcash 联合创始人提议终止拨款资助，理由是拥有 1.25 亿美元的国库资金 - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZGdfZHhtZU5KaWZtSkNlQ3ZYZHFGR1pkNmRLXzl5ZVJtLTRraFpuSGRRZ2E0aFRZWGdPVmpORUY3S0laMWRhajZOTzNadFdKUmNvU1V0SEVydkN5NS1mMWF4RXVkNVRJUWtGM3BaeE95Y1RZMnU3djNuczZETzd4YlFpTERTN2QwV1ZpWmpBUzR6WXk2RzY3WlJlcjVyZmpTNUFRV0ZHN3d1V0Nmd0RqUDJ1VUt1bFhlVGx6cUFXQ3JkTlk?oc=5",
+      "source": "CoinDesk",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T06:14:41+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "19a301173c7ec5b89c02",
       "title": "Zcash (ZEC) Rallied Hard This Year, But Is the Party Finally Over? - Cryptonews.net",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mMUhUcHNnZ04wRTBPWUZEd3Y2MDg3QVpPVS1NZi1TR0lHZE41VGhrekFSWHdfRlgxS1JVb2tZTkVXajFUWURNbXQxS3pxX01WdkpMelZtS3Fkdw?oc=5",
@@ -466,6 +531,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "5e912a810ade808cd916",
+      "title": "四大幣種盤面速覽｜BNB 蓄勢、ZEC 超跌反彈，TRX、SHIB 低位磨盤| 幣安廣場上的饭饭又困了 - Binance",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aOGVyVlZtZ0Q5dm1YeURka0JBUEZCaFg5WjJFaDJoNG5ZRmFWbTN1VGs5cG1rZmxUUi1TdFFRQ2Zod0xjdGFydHdOalR1LTFBMGVqa0RheVVkMDducGpNMV9iQVZFUkpt?oc=5",
+      "source": "Binance",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T02:36:20+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "9d408bf4e0d964cb6cf8",
       "title": "美国 NEAR、ZEC 现货 ETF 单日合计净流入 336.26 万美元 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5b3VLTWIzVm5wSFNZbTBfT2tQWVRlLVYxLXhIUXdUVDJLSktteHUwZ2Y0OWZHNWhKOWFPcnRzQ2FfV3ZWeHBuQzUzRnJyWlRaZ1ZqZjF6YWRSZkRQRkVYSzl2MmthcGs?oc=5",
@@ -525,19 +603,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-26T16:22:24+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "47c41a0099e3b256ff85",
-      "title": "Zcash (ZEC) price jumps 2.33% amid heavy short liquidations on Binance and other exchanges - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN1lUbDhJSW9DbENXLUV4YTNLaFN5SjJxYW1nSWpkY3hoYzYzd1dXclpsTGxSLTFaTVhXRW1Wa3hwMHk2S3h6Z0lGU2ZLeUtDc3FZY0IzMlE4ZmJwbThSQlNraHFqMzFLNUJRSS1UYXFvTFJrX25YMEZNN1N2Q1RER3ZiVHVIR19IdTkw?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-26T15:24:18+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -619,71 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b0be7cac6b09fffdad93",
-      "title": "Zcash Price Forecast: Renewed ETF inflows offer limited relief from wider market headwinds - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMGhGWUNTU0xvUlBtSXB3ZHBJT2JhVVd0YkRnODB4OVdRNTZheFAwRUJnczN2T2QybzV3bEdSMEd4aTVvTl9PeDR4OGRDOVZnTFk4Qk43eW1hTFhyRl8tQU5tU1BVaDlvRXBHS3pZY1NtVlpnSmZaNHRPUTVRMmR4U3h4WGdwcENHaE45eFVIekVEdVdQcFBrN2Z2MEM5V3VXQ2lqR0R0OVpwT25LRFdhOVVCSnhrQVZyQmhVa0NSS2hmVTdON29YMXdrR0pjWDBjaERqNWtMbC1VSHRfSjlzbDBZX3N2MHVhU3c?oc=5",
-      "source": "www.tmgm.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-26T05:21:29+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "45f141206758d504384a",
-      "title": "Cryptocurrencies Price Prediction: Cardano, Bitcoin & Zcash – Asian Wrap 26 October - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNktxRVRSdWhoa3ZDTHNHWFBKNkVHWmZBRy02eHcyQTdNMWpTbnR0RUIwdXBpWnpuSHVxLTlJNkx3dmdkTElocl9FRExBbDRVd2dTY3JickdLRWloanp3anZLTm1WUWZERmVvSVBqaUU1cnBXZUdPSTIzRm4tRGR5N3VRYmpwLV9QMjJtRUp6VnNnRW94bHdLeFBNOGpUeERUdjhvV0c2ZDRSaVFKWThzMzFMeS10eDdmaU1JdFRPSFlmSF9OWkd1Q3lJMkRpaGlQSU13?oc=5",
-      "source": "FXStreet",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-26T04:53:18+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "bd7cb978623360427791",
-      "title": "[Altcoin spot ETFs] ZEC and NEAR draw inflows as other funds report flat flows - TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KSFBzQ0FjdGt1YXB2RnNDejlUUkZDOXo3SXVNR0dPQWd4LWVhclpCZ3dLLTZhSWNyakUyLTlpSUJzWHMwVXhfNTVuZnM3N3A3aHlVVThIaTR4UQ?oc=5",
-      "source": "TOKENPOST",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-26T04:22:28+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "8af6d55fcb1dfa4dcb62",
-      "title": "Zcash will triple transaction speed days after turning ten years old - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0RibXlUVXhUc3ViZ3BBUlBseF96amFpWllOQXNmTTJPOFNLMHJmV2U3aEFPYXFFZVQ2ckIzV1FsRmE5UGtMS1dweGNxZUt0UmwzVzZiZnZWaDNvZEpzbV9CZnAtbVdpaGk5ajRiUV9aOFU3NGFtbjJzVUQzRHhZLWV6NFNBSUlxMUx3Rkg0dVk3ZVpyMmQ1X2w3Nm0?oc=5",
-      "source": "Startup Fortune",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-26T03:22:33+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "411908b7ba94bd503054",
-      "title": "Could Zcash rally on renewed ETF inflows? - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ3hBRkFDZGVJellhOGNCdUVEVThvajVIV3pPQ1lDNU1scmhPYzJZak9qMGw4MHAwSGFsNlF3QnpxSzVRVWwtNV9wWGxSVU5BWG85bFMzdGFyWldnWWtEdFQwZTRhNE9ERVRiZXZab21DTkhzR2J5Qks5ajQweThlTmpMSUVaRWpoNlBQQnBpdnR1eGpHSzBKS3hRVUVZbFhzU2xLMnd1YThzUnpRclg5cW9NWEZwZ2g2bnVfWW00UFFSUElrWFBHSUtmdTVaT2VldTRrVXVTeGdlc2JIcGc?oc=5",
-      "source": "FXStreet",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-26T02:57:21+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     }
   ]
