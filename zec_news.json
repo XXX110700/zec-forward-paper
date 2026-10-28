@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-28T12:54:16.352805+00:00",
-  "last_success_at": "2026-10-28T12:54:16.352805+00:00",
-  "status": "partial",
+  "checked_at": "2026-10-28T13:59:01.808921+00:00",
+  "last_success_at": "2026-10-28T13:59:01.808921+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 1
     },
     {
       "name": "Cointelegraph",
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 14
+      "matched": 26
     }
   ],
   "items": [
+    {
+      "id": "152357967a7c190c8b09",
+      "title": "Key facts: ZECUSD OI $1.5B; Redirect 91,453 ZEC Plan; +6.3% to $1,304 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVVUyalpReDJkS3Nlc3hSS3RVSHliNXAtOHAyWnFkbDhKajVFQnZkLW0yM2JVYXRwVUZzZV9yUk5LU3UwOVU5eDBWU1lscVA0cTI5d3VsM2F4NVJKOXduaElpMUxJMWNtNWtYQXFqWWMwVlJqNEdFLUtFZmpaTndWb1YxM3RwNzJhYjZ2LXVTVzYzSE01Ujg1bTNIUnFfT21pdUNTdUpJU01FR3YxZC1aTWJfTF9UbzZNOXhLUHdLYWxsdw?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T12:00:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "37d94a326e9fe3dc9d5f",
       "title": "Euronext’s suspension halts CoinShares’ Zcash ETP debut in Paris - The Cryptonomist",
@@ -125,6 +138,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "eca894f5c9ddb373595d",
+      "title": "Zcash（ZEC）推出10年后，2026年脱颖而出的两件事 - 币界网",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1X3ZoQ2FXNnA4Wm12T2xobXlVZDZyRmtyVzIwVS14QWhlT1diZkMyQmQ4a0g5UWIzRzRGR2oydnI1MnUzYmJuYXpOeW9NQnFxX19XcQ?oc=5",
+      "source": "币界网",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T08:51:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -658,32 +684,6 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "425695a8ab25141083fb",
-      "title": "Zcash 联创提议停止向社区基金「输血」：坐拥 9.1 万枚 ZEC，8% 区块奖励拟转入网络储备 - 深潮TechFlow",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vT245WGhPWUs2eDBVVVNHOGt3U0k3QzluZmdQWnpXcEIzak9WenMwOFE2ME9xb2xUcW9KeFhqREFLbVdtWUREa0NHRWpZSGJ0b1lVdw?oc=5",
-      "source": "深潮TechFlow",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T05:10:17+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f3b38eb8b19721fb9f37",
-      "title": "Zcash 挖矿计算器：ZEC 挖矿收益 - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Gb1N5NW5Ja2RjTVp4ZHF2MlNPVnRKeXZJaWNXUU9SMEZOMnoxNXdqcW11TGVjU1ptanlUWERhbUdXMFFHbEM4ZzJoaUwzcjA1bmVHRmdXM3M5RHJKUVE?oc=5",
-      "source": "CoinDesk",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T04:51:03+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
