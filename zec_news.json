@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-28T19:48:54.693881+00:00",
-  "last_success_at": "2026-10-28T19:48:54.693881+00:00",
+  "checked_at": "2026-10-28T20:43:34.740472+00:00",
+  "last_success_at": "2026-10-28T20:43:34.740472+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 12
+      "matched": 25
     }
   ],
   "items": [
+    {
+      "id": "2e833b3e4c634613caac",
+      "title": "Zcash Price Prediction: ZEC Rally Faces Pressure as Co-Founder Proposes Ending Grants Funding - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOZFhJN3NpcWduRkdyYnhHMm1Ram9abFlhbklUUXJqdTh5djdHTVJGb0otMWNSTFN5aHU5czRORzB2cV8xOWxDRHZVa1BLWk0tLUJVcFd6S0s5aDg?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T19:56:59+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "3643700b7a4e074efff7",
       "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut - Cryptonews.net",
@@ -70,6 +83,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T16:05:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "7776e6c8ea017e2bed45",
+      "title": "Euronext首日叫停CoinShares Zcash ETP上市 - 区块周刊BlockWeeks",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ORERQeVpfeFRtY1IzbVV4aThuYXdPazhSMDVqYlNrNVJHZFZNZnNxUEhaSzdnUG5vcWNGTDNpMldZZUJCNlBqdmZB?oc=5",
+      "source": "区块周刊BlockWeeks",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T15:30:50+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -219,6 +245,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "eca894f5c9ddb373595d",
+      "title": "Zcash（ZEC）推出10年后，2026年脱颖而出的两件事 - 币界网",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1X3ZoQ2FXNnA4Wm12T2xobXlVZDZyRmtyVzIwVS14QWhlT1diZkMyQmQ4a0g5UWIzRzRGR2oydnI1MnUzYmJuYXpOeW9NQnFxX19XcQ?oc=5",
+      "source": "币界网",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T08:51:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "3e9153fad29b730e3637",
       "title": "Zcash Price Forecast: Steady ETF inflows and retail confidence strengthen bullish momentum - www.tmgm.com",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM2lrMXBodGNzNkM1TkdLTzJma2dZd0RrUHljZGJ2RWZLSWU5Wmo3X3ZhbmMwcXpKTTJXVGtWbk8xMHN1ZnFuYnFrSU5FQURzQzJUV0cxMEtKekZxc05ldVlGRkVfeTg4UEIwZVQ3WmluQmdDMzlzUzVVNWtSOFZ5ZXZKTU5TT0w0V003TGNzSjJiVUJuV0NOVFpzLUk4a0xsamt3RGRqV2JYOXhpbU5ZTFdmakhQMDBwUXRDLXFiWUFqc1BMYjN6MW4wWWZ4NnBwa1hqazFiZWNZYWVza0g3UUQ1VDZfRlJU?oc=5",
@@ -330,6 +369,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T04:00:51+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "41f15b4d9af183e93e66",
+      "title": "Zcash 联合创始人呼吁停止为“超1.25亿美元”的拨款计划提供资金 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzN1o0cXBoY2lManhjcjJHTkNFRGZuQ2FScTh6eWpoZHhPV2hfeDJjbUNkNzJHV2djZXZULVRJQllackVpUzBUVlQ0NDgyUm1hY3MwV2Z1RE51eFMyZmwxLTlTTC1LSnF5cUtUU0tGclU?oc=5",
+      "source": "TradingView",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T03:15:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -629,58 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-27T07:56:15+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1db79554131b28b85495",
-      "title": "Zcash Co-founder Proposes Ending Grants Funding, Citing $125 Million Treasury - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObi1sd3VYU1RCSnA2dEx1Y0s5bjZTR3IzV1FJOU5yd051NWNYMGliZFhNbWF5SDB0Y3FORjYxQ1czWHVEQVczSXA4engyaHg0bEV1MVZmRklSV25raXpERzBpMHlUWXpKVTlPeVM0dURmVjNGWWdfRmt1d3E0cGRWTEZqMVpSSTNNZTRBMDNERk1yNGlPSzBrR0FPbFcwZDMxRnp4bzJsdVVHRnRpU0tN?oc=5",
-      "source": "Moomoo",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T07:10:33+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "28d74a790a7b100d04c3",
-      "title": "Zcash co-founder proposes redirecting 8% of block rewards to network reserve - Crypto News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSkpKRkxKVEktMzI2eEFhWi13Nzl4NnNqLUFiWFdMbFBxcVRrSXdubkxORDBIYVFBZXFCbWdhWmQtaGRNblBXZGFMQTF4MWxrMkRhR3BXT0JCV01FRjg4a0NHbnZXazNaSjJObVgyTnd2UmRiNnQxQkxELXVQSFVlQXNVOHNlUC14WldEb1ZvQzRIc1NZWlNvR21MbGk?oc=5",
-      "source": "Crypto News",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T06:19:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b73ca93e798830348919",
-      "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWnBpLWltUVBwUkFtMFM3TUVHSkY2MWJrSGpreXhYOFV0NUZQa3VtUTdGcjBVcnZlN2l6czJIWnI1eEFHZGNoV2xBeWtLalphWjFpOXRuY19OaTBHdnhCWWU2QzFYR0RtMGJXSDBLU0dUOVpCRk8zVGVkOVFCV05VTHJmc3BKamhXU0tOcHFSNzNSZERkVzVDSC1ZdVNBWWtSVThJYU0zMjVMS01LMzF2TVliMG1SMzJqWG5aS09NSQ?oc=5",
-      "source": "CoinDesk",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T06:14:41+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "83bcf29ae9b9083273f1",
-      "title": "Zcash 联合创始人提议终止拨款资助，理由是拥有 1.25 亿美元的国库资金 - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZGdfZHhtZU5KaWZtSkNlQ3ZYZHFGR1pkNmRLXzl5ZVJtLTRraFpuSGRRZ2E0aFRZWGdPVmpORUY3S0laMWRhajZOTzNadFdKUmNvU1V0SEVydkN5NS1mMWF4RXVkNVRJUWtGM3BaeE95Y1RZMnU3djNuczZETzd4YlFpTERTN2QwV1ZpWmpBUzR6WXk2RzY3WlJlcjVyZmpTNUFRV0ZHN3d1V0Nmd0RqUDJ1VUt1bFhlVGx6cUFXQ3JkTlk?oc=5",
-      "source": "CoinDesk",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T06:14:41+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
