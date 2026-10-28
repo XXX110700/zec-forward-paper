@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-28T16:52:27.608512+00:00",
-  "last_success_at": "2026-10-28T16:52:27.608512+00:00",
-  "status": "ok",
+  "checked_at": "2026-10-28T17:47:08.627476+00:00",
+  "last_success_at": "2026-10-28T17:47:08.627476+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 1
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -32,10 +32,36 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 24
+      "matched": 13
     }
   ],
   "items": [
+    {
+      "id": "3643700b7a4e074efff7",
+      "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCRVFqSmhNZXFueWt2aWNxZlU0eEx1aUE1LVlCQXBWVVA3SzZOREp2emVNOXNzWjNxUGdTaDBJUmY1cEhkTzh1RHZlbUlQV1FlTGFmQ3NESQ?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T17:11:27+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "d25d424ac9cdd5cc8cf7",
+      "title": "Zcash Tests $1,350 as Fed Decision Looms and Solana Bridge Hits Record $124M - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xQ3haTTdmdkVEOEJydXprWUh6eTRXc2gzU2pjYUZJdTdtVDdqYlFFby1xQU9qb3QxRkItUFFwR0RRQ09MTmcxVm9vYmFPaFVlWG92N2RLMDRLaVhDNlphaWRpTW5HZF8wZnFGbWxvT3RSTW9Eanc?oc=5",
+      "source": "BigGo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T16:36:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "104456a4ed20fbf016e8",
       "title": "Crypto: Zcash celebrates its 10th anniversary with a strategy that intrigues Grayscale - Cointribune",
@@ -141,19 +167,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "b457bcabb514c3b5c0d5",
-      "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLTY3c3k5b1l5VDJRWGpha0VoYktrcW8xdEZlLXZRREZDUWRldndVX3RvNldkY2pKVU9MaWUtTlRYMXhnbXZPQnhCV2ttbGNmMTFDRVI2SDNISVNFemhtSW8wdmV3R0NQd2ozb2ZRWlZyaE9yaW9hWnYxQXpSRGd3aUduVm41MGNVS0N6U182RUNJeWpXQnpUUkliOWVNVlRuenNnQUV2TGFfUGhMQUg2NGR4MFUyU0tjWWFuQ1ZoNER4c1pWbUFoYzVCbEYzbm5RaDdIb0FQTUw3eTg?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T11:24:07+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "5dd6cbfec4c307e783e2",
       "title": "Zcash extends gains as geopolitical fears ease ahead of the FOMC decision. What's next? - investingLive",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNendpamtERWY5Qi00UkhCXy1aWllISzdhVjhhemg3d2xHbWVjRk1PZ1NHQ1RVWkwtaWdVQTQ3aWtiVjdINUxvMHVvRkRORWJPS2ljZUlRa3NMR2x1ZV9hYkJKeWNyR1Q2LURNZlVrcmZEVU1lOGpKQUloTFB4Ymx2NElIbFdrdGY2UVgySDJSTFNId0t4QnJJa2VXWF9aQUJyc3BjTE5TMTFhcFNVeGRmTmhXQUtfN2tGS1FGUUtEcV9TcXluUXc?oc=5",
@@ -190,19 +203,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "eca894f5c9ddb373595d",
-      "title": "Zcash（ZEC）推出10年后，2026年脱颖而出的两件事 - 币界网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1X3ZoQ2FXNnA4Wm12T2xobXlVZDZyRmtyVzIwVS14QWhlT1diZkMyQmQ4a0g5UWIzRzRGR2oydnI1MnUzYmJuYXpOeW9NQnFxX19XcQ?oc=5",
-      "source": "币界网",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T08:51:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
