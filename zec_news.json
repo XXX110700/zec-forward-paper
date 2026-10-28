@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-28T20:43:34.740472+00:00",
-  "last_success_at": "2026-10-28T20:43:34.740472+00:00",
+  "checked_at": "2026-10-28T21:41:35.037026+00:00",
+  "last_success_at": "2026-10-28T21:41:35.037026+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 25
+      "matched": 14
     }
   ],
   "items": [
@@ -89,13 +89,26 @@
       "verification": "未独立核实"
     },
     {
-      "id": "7776e6c8ea017e2bed45",
-      "title": "Euronext首日叫停CoinShares Zcash ETP上市 - 区块周刊BlockWeeks",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ORERQeVpfeFRtY1IzbVV4aThuYXdPazhSMDVqYlNrNVJHZFZNZnNxUEhaSzdnUG5vcWNGTDNpMldZZUJCNlBqdmZB?oc=5",
-      "source": "区块周刊BlockWeeks",
-      "feed": "Google News 中文",
+      "id": "a2575861417ff1c175bb",
+      "title": "Euronext Restarts CoinShares’ Zcash ETP After Debut-Day Halt - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXNiM3g1N3pWS0J1V3hkZGtGR3h1cnAxY3E2UnRwY2U5eU1QZWh2ajNXTmk4aHgydk12VjVTM0JqSEQwOWJZVHBrTElqMEI1ZDdNd1VFOFhGengta3lLcThIMmJNOUxlanc4Z1h2OE43ZjA1Y19sWERma0pieHBNdnhnVld1UExoUE9RZ3FuaTVXeTJoVGpoVHFMMXlmY3RkWTBXeFRvUnc2LXNXdmc?oc=5",
+      "source": "The Defiant",
+      "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-28T15:30:50+00:00",
+      "published_at": "2026-10-28T15:45:07+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "3cf24d6fdc740d6dc209",
+      "title": "CoinShares Says Zcash Product Trades Again in Paris Hours After Euronext Suspension - unchainedcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORDItRElQSFdtaUV5Um01ZVA0bF9kRGc0cHNjZFIzdUZiUENfcGFPSTNRdmVXOWlxUzhVNEptVm0xZWJNeWlnZjBzMnh1XzJQSGNfMVRNc2xlRVZic1hxczdobk9YMUp6SHNRdnIwWmxCLS13YVgtdVBkd3dVNDNMLVlpMDJDaUFvZGJEOEdIenhYWTdnWlpRWjA0aU5ibXVZbGJXVFBOS0E5aC1pSkUzUmlB?oc=5",
+      "source": "unchainedcrypto.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T15:32:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -115,19 +128,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "a2575861417ff1c175bb",
-      "title": "Euronext Restarts CoinShares’ Zcash ETP After Debut-Day Halt - The Defiant",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXNiM3g1N3pWS0J1V3hkZGtGR3h1cnAxY3E2UnRwY2U5eU1QZWh2ajNXTmk4aHgydk12VjVTM0JqSEQwOWJZVHBrTElqMEI1ZDdNd1VFOFhGengta3lLcThIMmJNOUxlanc4Z1h2OE43ZjA1Y19sWERma0pieHBNdnhnVld1UExoUE9RZ3FuaTVXeTJoVGpoVHFMMXlmY3RkWTBXeFRvUnc2LXNXdmc?oc=5",
-      "source": "The Defiant",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T15:20:28+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "adc5b181084d0efc89e7",
       "title": "Zcash (ZEC) Price Prediction: Whale Goes Long Before FOMC Announcement as H&S Pattern Puts $1,350 in Focus - Brave New Coin",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdnd5OGRiSWJ4cmg4WTdFMml4eWRWenB6LWV1T3lVWGxqcGZ1Qi1FaXVFbEpSVEJkZ1h1Rl9uSlZ3eEJEWnVFX2NmYi1DLWdHNWdyLVQ3Ul9EWFlUakpxaEh3eUk2cjZrQVRtTVhzbm1PWkdTS2l6TDFjMHVPT3Y2OGN6Wkx6bXhRYlM3Yi1mclk4dDFOYUhKMmpZYmprTFNJd2duMWJMM2FlQ3FGbS1tdTVROTlxZDdmTDFDZmh6V3BYeFVPRElaQ2k1TmFzc1E?oc=5",
@@ -135,19 +135,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T14:59:43+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "3cf24d6fdc740d6dc209",
-      "title": "CoinShares Says Zcash Product Trades Again in Paris Hours After Euronext Suspension - unchainedcrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORDItRElQSFdtaUV5Um01ZVA0bF9kRGc0cHNjZFIzdUZiUENfcGFPSTNRdmVXOWlxUzhVNEptVm0xZWJNeWlnZjBzMnh1XzJQSGNfMVRNc2xlRVZic1hxczdobk9YMUp6SHNRdnIwWmxCLS13YVgtdVBkd3dVNDNMLVlpMDJDaUFvZGJEOEdIenhYWTdnWlpRWjA0aU5ibXVZbGJXVFBOS0E5aC1pSkUzUmlB?oc=5",
-      "source": "unchainedcrypto.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T14:43:31+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -245,13 +232,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "eca894f5c9ddb373595d",
-      "title": "Zcash（ZEC）推出10年后，2026年脱颖而出的两件事 - 币界网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1X3ZoQ2FXNnA4Wm12T2xobXlVZDZyRmtyVzIwVS14QWhlT1diZkMyQmQ4a0g5UWIzRzRGR2oydnI1MnUzYmJuYXpOeW9NQnFxX19XcQ?oc=5",
-      "source": "币界网",
+      "id": "673a0a8ca2d63bc049df",
+      "title": "$125 Million Treasury Sparks Debate: Should Zcash Continue Subsidizing Developers? - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMHhrLVRELWFEaHRad0VnYXY5Mkd5bkpCOHZyODh4RXZBVVFNYThoeDNoV2lGOVdoNXVPUnZjZDBPX1JGTHlueTRxOWpNQy1zN2tNb2xuZUJ2ZVltTnpzZURhenU0OFFOZWNxX2hQNVZWMWg3cjVLemcxbjNUQUt3U0RFdWkyQV96RmxFRkRpRGhrR3dRRHVlaU8zSllZYVIyZ2xMRUs5NDRGck5PeXcyQmlFSFVNV3VwT0pNVkhGSQ?oc=5",
+      "source": "富途牛牛",
       "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-10-28T08:51:00+00:00",
+      "published_at": "2026-10-28T06:52:13+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -377,7 +364,7 @@
     {
       "id": "41f15b4d9af183e93e66",
       "title": "Zcash 联合创始人呼吁停止为“超1.25亿美元”的拨款计划提供资金 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzN1o0cXBoY2lManhjcjJHTkNFRGZuQ2FScTh6eWpoZHhPV2hfeDJjbUNkNzJHV2djZXZULVRJQllackVpUzBUVlQ0NDgyUm1hY3MwV2Z1RE51eFMyZmwxLTlTTC1LSnF5cUtUU0tGclU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nMmNuWVBMbi02ZlROYllGNkNudXNLVEp4OWY3MVhJMjhMQkN5R0VSY0lFb3A2aGJLbVZQUUtjYTZiVUFsR0pITVUzMkNtVHkzdW9sd0V4Y0wzbzF4dWl3R0JRQl9LX0ZFSi02NDl6UQ?oc=5",
       "source": "TradingView",
       "feed": "Google News 中文",
       "kind": "aggregation",
@@ -681,6 +668,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-27T07:56:15+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "1db79554131b28b85495",
+      "title": "Zcash Co-founder Proposes Ending Grants Funding, Citing $125 Million Treasury - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObi1sd3VYU1RCSnA2dEx1Y0s5bjZTR3IzV1FJOU5yd051NWNYMGliZFhNbWF5SDB0Y3FORjYxQ1czWHVEQVczSXA4engyaHg0bEV1MVZmRklSV25raXpERzBpMHlUWXpKVTlPeVM0dURmVjNGWWdfRmt1d3E0cGRWTEZqMVpSSTNNZTRBMDNERk1yNGlPSzBrR0FPbFcwZDMxRnp4bzJsdVVHRnRpU0tN?oc=5",
+      "source": "Moomoo",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T07:10:33+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
