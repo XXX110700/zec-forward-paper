@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-28T09:50:35.203637+00:00",
-  "last_success_at": "2026-10-28T09:50:35.203637+00:00",
+  "checked_at": "2026-10-28T10:46:50.034245+00:00",
+  "last_success_at": "2026-10-28T10:46:50.034245+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 16
+      "matched": 25
     }
   ],
   "items": [
+    {
+      "id": "0ea91d88e5be6c8be143",
+      "title": "Zcash (ZEC) Celebrates 10 Years, Key Upgrades and Price Surge Define 2026 - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT2V2T0NhamlyTG1EZjhFS204TVRmbGVDYTB5ZXdMYlpsSUFnck1ZVVJUbDhqUVRQZ2lDdUVsLXJoRHdRQjFkTGhQOUNyS0lTSGN3SDRJTjdxcm9vOTBSeHJ3V3pBVmhYUWJNbk9fT3pZUFdObk9JbnlNUkthUnVraXZURTQta0tVZlZzR0pkLVVHNlpjX21HSkV1UlQ?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T10:26:55+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
     {
       "id": "673a0a8ca2d63bc049df",
       "title": "$125 Million Treasury Sparks Debate: Should Zcash Continue Subsidizing Developers? - 富途牛牛",
@@ -596,6 +609,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "5e912a810ade808cd916",
+      "title": "四大幣種盤面速覽｜BNB 蓄勢、ZEC 超跌反彈，TRX、SHIB 低位磨盤| 幣安廣場上的饭饭又困了 - Binance",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aOGVyVlZtZ0Q5dm1YeURka0JBUEZCaFg5WjJFaDJoNG5ZRmFWbTN1VGs5cG1rZmxUUi1TdFFRQ2Zod0xjdGFydHdOalR1LTFBMGVqa0RheVVkMDducGpNMV9iQVZFUkpt?oc=5",
+      "source": "Binance",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T02:36:20+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "9d408bf4e0d964cb6cf8",
       "title": "美国 NEAR、ZEC 现货 ETF 单日合计净流入 336.26 万美元 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5b3VLTWIzVm5wSFNZbTBfT2tQWVRlLVYxLXhIUXdUVDJLSktteHUwZ2Y0OWZHNWhKOWFPcnRzQ2FfV3ZWeHBuQzUzRnJyWlRaZ1ZqZjF6YWRSZkRQRkVYSzl2MmthcGs?oc=5",
@@ -655,32 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-26T18:30:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "3853a9b0902af8e9d03c",
-      "title": "ZEC Outperforms BTC After Developers Launch New Toolkit To Make Building Zcash Apps Easier - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMVBUc0w1SkRaeENPOUpvSlh3ajZwM1A1aUZCUTJQaktPcXNZcWhvem94cHlfenVETEEzSnQ1ZVV6UU9JNUhUNWIzRVNlQnBMam9CMW1YZmFCc3N6VnM4SWdhX2N2VmtYVVJmd0NkemVCbmdYaHlUczg2cGcyMDJYTUR2dmpKUGVrUHdwZy1DdWd2ak1weUlpcFpVRTJFempWVHVYaEx0ZGxDOGhhTHFmaUlQZGNKT0NtckExcUN5MngxT1JCOGVvd1ByNmttaU16SDNkaEpXNlVvZjJiN3NqWjJWSklLQQ?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-26T16:42:30+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：launch",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1d924f58934f8aeaf430",
-      "title": "Zcash to Undergo Hard Fork on November 5th - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3JUUU9zRVVnRktFVThGaVVhaUhKSEhYYUZ2VHNSOS11LTcwSmdCS3JTaHNyc3o0ZE1SRW1IOGlxekhrdVItSWJJd0FiTC1HT1hxejg0dWxYSlNtQXdxd1p0cGFLZTZ0SWhkQUt4MzFFZVVRdEpicFpQS1dWSk15bUxfUEJSbUdvRjU0a2l0cHpMRU50SGY4dDduZFZseGxmdXc?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-26T16:22:24+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
