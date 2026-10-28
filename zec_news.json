@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-28T18:48:42.155727+00:00",
-  "last_success_at": "2026-10-28T18:48:42.155727+00:00",
+  "checked_at": "2026-10-28T19:48:54.693881+00:00",
+  "last_success_at": "2026-10-28T19:48:54.693881+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 25
+      "matched": 12
     }
   ],
   "items": [
@@ -70,19 +70,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T16:05:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "7776e6c8ea017e2bed45",
-      "title": "Euronext首日叫停CoinShares Zcash ETP上市 - 区块周刊BlockWeeks",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ORERQeVpfeFRtY1IzbVV4aThuYXdPazhSMDVqYlNrNVJHZFZNZnNxUEhaSzdnUG5vcWNGTDNpMldZZUJCNlBqdmZB?oc=5",
-      "source": "区块周刊BlockWeeks",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T15:30:50+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -135,6 +122,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T14:43:31+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "7442067dfc38d13c177c",
+      "title": "Zcash Developer Proposes Ending ZCG's Grants Funding Stream Entirely - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYW5NaWpuZlRYRFZkOGdQeFltcklHSktDYUZEcnJsamZMbzY5ZUpXVGNqSlI3VVU3V2FUWHFuOW9vZVl5SWp1bEUwbzRJZE1PZ3ZqQ1JUQWFhYmxVdDh1UTZ1dVAwcDZtM09BZmZFRXpGZGUzMHBYTDU0VDMxSE1uWklFWXY?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T12:22:53+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -219,19 +219,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "eca894f5c9ddb373595d",
-      "title": "Zcash（ZEC）推出10年后，2026年脱颖而出的两件事 - 币界网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1X3ZoQ2FXNnA4Wm12T2xobXlVZDZyRmtyVzIwVS14QWhlT1diZkMyQmQ4a0g5UWIzRzRGR2oydnI1MnUzYmJuYXpOeW9NQnFxX19XcQ?oc=5",
-      "source": "币界网",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T08:51:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "3e9153fad29b730e3637",
       "title": "Zcash Price Forecast: Steady ETF inflows and retail confidence strengthen bullish momentum - www.tmgm.com",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM2lrMXBodGNzNkM1TkdLTzJma2dZd0RrUHljZGJ2RWZLSWU5Wmo3X3ZhbmMwcXpKTTJXVGtWbk8xMHN1ZnFuYnFrSU5FQURzQzJUV0cxMEtKekZxc05ldVlGRkVfeTg4UEIwZVQ3WmluQmdDMzlzUzVVNWtSOFZ5ZXZKTU5TT0w0V003TGNzSjJiVUJuV0NOVFpzLUk4a0xsamt3RGRqV2JYOXhpbU5ZTFdmakhQMDBwUXRDLXFiWUFqc1BMYjN6MW4wWWZ4NnBwa1hqazFiZWNZYWVza0g3UUQ1VDZfRlJU?oc=5",
@@ -303,7 +290,7 @@
       "source": "Cryptonews.net",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-28T04:32:41+00:00",
+      "published_at": "2026-10-28T04:36:34+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -408,19 +395,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-27T21:24:13+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "7442067dfc38d13c177c",
-      "title": "Zcash Developer Proposes Ending ZCG's Grants Funding Stream Entirely - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYW5NaWpuZlRYRFZkOGdQeFltcklHSktDYUZEcnJsamZMbzY5ZUpXVGNqSlI3VVU3V2FUWHFuOW9vZVl5SWp1bEUwbzRJZE1PZ3ZqQ1JUQWFhYmxVdDh1UTZ1dVAwcDZtM09BZmZFRXpGZGUzMHBYTDU0VDMxSE1uWklFWXY?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T21:22:04+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -681,6 +655,32 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-27T06:19:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "b73ca93e798830348919",
+      "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWnBpLWltUVBwUkFtMFM3TUVHSkY2MWJrSGpreXhYOFV0NUZQa3VtUTdGcjBVcnZlN2l6czJIWnI1eEFHZGNoV2xBeWtLalphWjFpOXRuY19OaTBHdnhCWWU2QzFYR0RtMGJXSDBLU0dUOVpCRk8zVGVkOVFCV05VTHJmc3BKamhXU0tOcHFSNzNSZERkVzVDSC1ZdVNBWWtSVThJYU0zMjVMS01LMzF2TVliMG1SMzJqWG5aS09NSQ?oc=5",
+      "source": "CoinDesk",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T06:14:41+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "83bcf29ae9b9083273f1",
+      "title": "Zcash 联合创始人提议终止拨款资助，理由是拥有 1.25 亿美元的国库资金 - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZGdfZHhtZU5KaWZtSkNlQ3ZYZHFGR1pkNmRLXzl5ZVJtLTRraFpuSGRRZ2E0aFRZWGdPVmpORUY3S0laMWRhajZOTzNadFdKUmNvU1V0SEVydkN5NS1mMWF4RXVkNVRJUWtGM3BaeE95Y1RZMnU3djNuczZETzd4YlFpTERTN2QwV1ZpWmpBUzR6WXk2RzY3WlJlcjVyZmpTNUFRV0ZHN3d1V0Nmd0RqUDJ1VUt1bFhlVGx6cUFXQ3JkTlk?oc=5",
+      "source": "CoinDesk",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T06:14:41+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
