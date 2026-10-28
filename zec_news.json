@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-28T22:41:46.770234+00:00",
-  "last_success_at": "2026-10-28T22:41:46.770234+00:00",
+  "checked_at": "2026-10-28T23:38:32.903262+00:00",
+  "last_success_at": "2026-10-28T23:38:32.903262+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 13
+      "matched": 25
     }
   ],
   "items": [
@@ -63,13 +63,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "74a1ed668c4a28c9b813",
-      "title": "Euronext Halts, Then Resumes CoinShares' New Zcash ETP on Debut Day - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3VsaHlNNnJ1alBmQjZwR1NBZjBxQXR3YjE0LU5ON1hQZXNUVlh5SUNoU3p1cEt0ZkpfZEpCeWJtV3ZfSnJrVjQxb2NDU28zX0VNS0ROaUtxdHY3TGpUWE83ZlhjWkhoa2xyOWFrRnVKdTZXck01QzNPU0YyZERscnMzYTFvS0ItYl9V?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News EN",
+      "id": "49888cd04f7e1a0c009f",
+      "title": "Zcash (ZEC) 价格预测：巨鲸在 FOMC 公告前做多，头肩顶形态将 1,350 美元价位推向焦点。 - Brave New Coin",
+      "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQVjVsekJUSTBXRkJES21FU2JLXzZ2Ny13QU40LU1nQ2QzZVZiQjdVVFZRNzdLTmlJUjZhX1h1TnU3MXozR3U3ZTJ5MkRuVG13QmVmNEE3SndMaW9Tcjg3NTZIYmZ6RC1kN0ZFN2NXTUMxbHAtalVsd2lhUmJaeUwyX1R6U2VjVXRMc2Z3aEJ6VnFMLXpmeF9vdXBnWHlTWGU4YlNDaHktWExjak9XbmpvTlhNdERoVE9GVUdqUWRaZlNEYUNnVFZiLVdvZjd0eEpQb2xodkRNZnE1WTFOeUJpaWs1TmV4cFVoODlFTTBaMHFsR2E4WjIyQ3I2V0doN3BScnotLWVZQXhRcFg0RWkyVWI2NW5IMF9ieVVHRnItS2RRSmM0NWVRY1NFem9HSWR3TDVqM2hGYVREQjhldFNKNkFPQzNDTE43RW4wQ0Jpdk5QVzlEOVZUbFZjdXVKa2Z2cmdtaTQtVTZodUV0YTFwd2U4MFlKNHJ0STBsd0RfVW1HWVl2aHlmMnpHU1F6NUlGS0hsWkNuMERMWlFzSjROd3l5d0wyWGhSRUtkTlY0QnotUkdwcE9US25KdVVuazg0SXFZLU90R0xTdUQxdkdVRi0tLWI0bVdsQ0NDcS1yRlpyT0ExZnlJcE1qODM?oc=5",
+      "source": "Brave New Coin",
+      "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-10-28T19:52:34+00:00",
+      "published_at": "2026-10-28T19:36:14+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -141,6 +141,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "a4cb010ed1d0d7f011e7",
+      "title": "CoinShares adds Zcash to its physical ETP range - CoinShares",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1FhZ1pfS2xKTWlQSEpVblZaVUVRTmtsNnpXZHZjeHVZR2xrSHh2QUN5X3luekR3UzVQMmZSYnNvamFwZWhSaVB4RDVjN3ZDSDBJTXN1d1M2YVpHOFdyMnFhZWw0Yk8wTkt4WHdqeHRrcTIyX1p2bm5BLTl0dVNYakluR0h5OXlxOGc?oc=5",
+      "source": "CoinShares",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T15:20:56+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "adc5b181084d0efc89e7",
       "title": "Zcash (ZEC) Price Prediction: Whale Goes Long Before FOMC Announcement as H&S Pattern Puts $1,350 in Focus - Brave New Coin",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdnd5OGRiSWJ4cmg4WTdFMml4eWRWenB6LWV1T3lVWGxqcGZ1Qi1FaXVFbEpSVEJkZ1h1Rl9uSlZ3eEJEWnVFX2NmYi1DLWdHNWdyLVQ3Ul9EWFlUakpxaEh3eUk2cjZrQVRtTVhzbm1PWkdTS2l6TDFjMHVPT3Y2OGN6Wkx6bXhRYlM3Yi1mclk4dDFOYUhKMmpZYmprTFNJd2duMWJMM2FlQ3FGbS1tdTVROTlxZDdmTDFDZmh6V3BYeFVPRElaQ2k1TmFzc1E?oc=5",
@@ -154,13 +167,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "c4a9fb129b79839ff354",
-      "title": "Confidential ZEC trading goes live on Shield - Finbold",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84NkRzendFNHN3YWw1dlpHTk9rWjh6MncyTmtMVHc2NFJhdHFaNnh5bjZjSnNZTEpQX0VyQ05obVItUjFIRTExX0FNQ1F1eTVlUml0UjhhRVFYd2lQeUhhSlI1MWl5TzEzZmJPOVpfU01jaFU?oc=5",
-      "source": "Finbold",
+      "id": "7442067dfc38d13c177c",
+      "title": "Zcash Developer Proposes Ending ZCG's Grants Funding Stream Entirely - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYW5NaWpuZlRYRFZkOGdQeFltcklHSktDYUZEcnJsamZMbzY5ZUpXVGNqSlI3VVU3V2FUWHFuOW9vZVl5SWp1bEUwbzRJZE1PZ3ZqQ1JUQWFhYmxVdDh1UTZ1dVAwcDZtM09BZmZFRXpGZGUzMHBYTDU0VDMxSE1uWklFWXY?oc=5",
+      "source": "CoinMarketCap",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-28T14:00:00+00:00",
+      "published_at": "2026-10-28T12:22:53+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -193,19 +206,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "37d94a326e9fe3dc9d5f",
-      "title": "Euronext’s suspension halts CoinShares’ Zcash ETP debut in Paris - The Cryptonomist",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZGhDRTVwdm9lajZwMXAzWTkwbS01S2NWeC1tWndkaUtjamdqSEVHWWZwWHd5TGxoLUIzdV91YkV0ZVdVSGdobHRpWmFQeFd0NDd5bUhTczBXUDJJaG1HNzg2SG9UZmtXSmNtSzFjbDFPQXZmbUVOaV9DNVkwNEQyWQ?oc=5",
-      "source": "The Cryptonomist",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T11:41:20+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "37d8fa12e45cdf05a77a",
       "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut",
       "url": "https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -232,13 +232,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "f5cb26187caed2d64d21",
-      "title": "Bitcoin passes above $80,000 again, but Zcash and MemeCore steal the show! - Cointribune",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa3JYM2h1VTlLajZMb1RESGV3R1NjSXdpVVIya2ZiTWVOeTk1TGRTOW5Qc2xJTllJLTBzeC1GWC1EQWNqNUNPZlhBOXhGOFFMc2h6OWNNTU1HdjdjM2l6QnNQNTgtZ2ZWbTM1dGliOEx3Sm5LdTVhbnpXTVA4ZFI5NDUyRFYtcUwtOEI1c0pCYksxUTU1N1I5WlFSVWd3Q25HNmdRcw?oc=5",
-      "source": "Cointribune",
+      "id": "acec2dce58c1cd1d0bea",
+      "title": "CoinShares bets on privacy with a new physical Zcash ETP - RankiaPro",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCSk5SVVl2V0pUTkhLM0dKQU1LU001VGlQdWlZeTZ0UTdUUFRfNjNHVHJlSXJabGRVWWU3NXV2LUdsR3hHREQ4ZlFmekV1ck5wSFdWOUlqZmo3dFdWaXpGdA?oc=5",
+      "source": "RankiaPro",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-28T10:57:17+00:00",
+      "published_at": "2026-10-28T10:53:17+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -258,13 +258,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "22034aaa9ecbe5d637b9",
-      "title": "️ In 8 days, $ZEC will confirm transactions three times fas - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xMzdlaVdwMk9CR1RqOThycS1JMXpYa1o0YTJBcFNnZ25rUThxTFNyNXFMVVRzU2hIWUV0RkdUME5mTFJyb0ZjVF8xYnVDSVFYOGdnbklDdll4ci1kVzd4RldOU1lGdHBlUjVGMVNZVC1QUQ?oc=5",
-      "source": "KuCoin",
-      "feed": "Google News EN",
+      "id": "eca894f5c9ddb373595d",
+      "title": "Zcash（ZEC）推出10年后，2026年脱颖而出的两件事 - 币界网",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1X3ZoQ2FXNnA4Wm12T2xobXlVZDZyRmtyVzIwVS14QWhlT1diZkMyQmQ4a0g5UWIzRzRGR2oydnI1MnUzYmJuYXpOeW9NQnFxX19XcQ?oc=5",
+      "source": "币界网",
+      "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-10-28T07:47:39+00:00",
+      "published_at": "2026-10-28T08:51:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -388,19 +388,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "83cd3d7f276ef574ebc6",
-      "title": "[Altcoin spot ETFs] ZEC alone draws inflows as SOL, HBAR and two others see outflows - TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIMHRaMXFxY0J3Mk1ETzJtaUlPekZYU2VnbzRpaTZXMWg5M2JPdENES1JsUDJ5Q25UX1dTWFFvVkZ4eHlxSGlnRkREUmZOdjRvdzBOOWpHVVQ4Zw?oc=5",
-      "source": "TOKENPOST",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T03:42:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "41f15b4d9af183e93e66",
       "title": "Zcash 联合创始人呼吁停止为“超1.25亿美元”的拨款计划提供资金 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nMmNuWVBMbi02ZlROYllGNkNudXNLVEp4OWY3MVhJMjhMQkN5R0VSY0lFb3A2aGJLbVZQUUtjYTZiVUFsR0pITVUzMkNtVHkzdW9sd0V4Y0wzbzF4dWl3R0JRQl9LX0ZFSi02NDl6UQ?oc=5",
@@ -408,32 +395,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-10-28T03:15:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "9e97e07b027e41b08236",
-      "title": "Zillions Launches a Desktop Browser Wallet for Zcash Users - TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4WWpFQzBtRmlKblpXa2FoZTlTZUE0QUF6UVJyeFQ1UlFtMU9aRk56eFFBd1RRZlhtT3l1a2xXeTd0S0dnRWRqQnlzbXoxbjhqZkJTemdlUXdOWlk?oc=5",
-      "source": "TOKENPOST",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T02:46:00+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：launch",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "4f205dd522e59ca1236b",
-      "title": "How much lower will ZEC go? Looking at the chart, even those - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNF9wcjBzY2hfVFJ4dTZ3XzZ5Mjg5bjJHeFdvVHB2VC1qa1JqQkJIbjU1MFhMdGdiRWhobVlpamJTLUdfc1k3MXZGcjNkWmp2LTB0dzdHbTdCVVNXMHhQTkFjLUNjaFIwbjBOUGhwZ0tfZw?oc=5",
-      "source": "KuCoin",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T02:00:08+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -479,19 +440,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "7480776b9ae98398a6aa",
-      "title": "$125M in reserves: Is Zcash funding more than its grant p - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMU194Rk1POVpsMXZoTzFuZk8zcnZTZFNBdXFKdVdlejdTUDBFRjdWdEk3TTFLclB1OVg0ZThmUmxpWmNTWEVkblhBNjhSQnRkMVlCR2Z3WmZjMVNSSFNqaTN0Y09vUmd1ZU1HOFpOSEJUQQ?oc=5",
-      "source": "KuCoin",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T23:29:21+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "70d2acba10631cd32a0a",
       "title": "Zcash’s $125 million funding fight widens as Tyler Winklevoss calls to end its ‘USAID’ - CryptoSlate",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnJid3dZR3A3QkVlMVFNMTJBR2FGRms1RnZ2Uk5pVVFtajFPRGRJTU1zQlc3MkpXckhCRnFfMzgwbzR0eTJFbUhlM3NKbjNjTGJfY2k4VHlNTXZRUWl0OG5HdFR0dzdQZ1hna29LNG9mUEJVNUhyQTV5eUk5am9jRGdUZ0VyYjZuNnVKVWcxaWxnQlBuaEFlV3BYVko4V0VpUkVoaUFwV2JYSFk?oc=5",
@@ -512,19 +460,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-27T21:24:13+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "366b2f1e7fbfa6018d40",
-      "title": "Public wallet logs expose founder histories, and Zcash group demands fix - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Zb0owSEhxMkp4WlYwRVl2S1ViajNLcE12b1h6cWU0UGYxRkd4LUdsbi0waUkyaTBrZGlwZHZ0dy1heFhDUjNGeXJNZHBYVWx2X2o3dmN3?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T20:53:49+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -557,32 +492,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "0ea64d061b599d847e86",
-      "title": "Zcash introduces Zillions browser wallet with Ledger support - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ON182WmtfemdQSTJYRl9YQ0xjSm52ZmdvVGdQMkFPdTBhdUZPVVdmNmpBWGFTTHg5R3JVV0I4Ry0wQkNhTkJ4X2ROSjJtMGNRdkItalVkLXVDUQ?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T19:19:36+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "59fa0bf967b4878231a4",
-      "title": "Bitcoin Price Prediction: BTC Slips 1.9% This Week as Ben-Sasson's $2,000 Zcash Target Puts Altcoins in Focus - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUzZHOHZXM3pZTGVrUFRyWk85WnpRUEJPY0tWbjJtTjd3TlRiZzlpSWtjXzdqSVNZeWw5THRLTDZsTnIzUVE5ZlJHbmxaOThMT2k1QUJscWZ0WHNNMHlRWHp0a1FlNF9EY3lWVTk2d3ZfX21Fb1BMdzRuNDU4b0RCN1Z0OWN6WWJHcGtobVpLeTgwenEyd2hBb3dqTmREZ3dPOGlTQVV2STVfMUtQdXRsUVlUVG5jTS10N2MxY1AwYmd0R3hnVkpRTg?oc=5",
-      "source": "TechBullion",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T19:00:09+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "1b4e08e2d8ecc2de7a85",
       "title": "Zcash Launches Zillions Browser Wallet with Ledger Support and Fast Shielded Transfers - KuCoin",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSnhSa0JBSkRRZEJkdEdDM1RQWEdFdEhjRm9WOG9CbHM2cGdyZjhzQV9CZ3NtZ2plUWk2MDJMdmVGMkdmdzc2alplMjlhX2haWEI0TGM5eEZjQjB2cHlqTTI0T0I4RzZqM1QtOThlcTB3Ry1EMG1Ed3lZT1MzTk9rWlpiME1peVNoQVY3QVhqQ1dndFpsSEN4WEgyQnhwOXFGSmY5QzJsWHBGM2tnOG9KNTBaSzVUbGs4Vjk1NQ?oc=5",
@@ -593,6 +502,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：launch",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "9122ef1aefe65d176038",
+      "title": "Josh Swihart Urges Zcash to End Both Automatic Funding Streams - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12QXZyTWV4V2xOTFRCMWRUMkFicG40d0tLODdIT3Ryc0x5aEFWcFZjbEtnRXVLOHEzVGhCWW1TR3BMUmN3Q3VqZGdScjJoM0JtTU5xZFVCWXdKZ00?oc=5",
+      "source": "TOKENPOST",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T18:36:56+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -635,19 +557,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "a4cfbe14676d39cfab4c",
-      "title": "Zcash introduces Zillions browser wallet with Ledger support - Crypto News",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KRmRLbFdxNUU0Z3ZlYXJwQTNDaXA4VTY4MUQ4UjBtMDBVZVJPengybE9SN1ZkdkQ5a3FYeEZjQnc4V0NidVNMd1pvNmYzTEhXYlZzUmF1TU1JcWpIY2h2dGFHQTZpZlgyTEhqeTBnV3dCQ0k?oc=5",
-      "source": "Crypto News",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T15:55:35+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "a1c5e3acfad994e9401a",
       "title": "Zcash Developers Split Over Where Grants Program’s 8% Block Share Should Go - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMXdPMW92N1ItY3ozMUJFenBnV09LNDlVWjRoS1lvV2ZFTWt5SzFEZ3hQNXFpMFFsXzZrTURDSUpBSHFQVjN5Mm5sQ0hVa245TVF5RFdlc2xaVXZmbFd3bUlKVFBfM3RmTXpHYWRVNFMtbmNiczVjLV9qVml3Ukh6UEZsWDhpRmc0aExJbHhqTmM3Mmo0SGxxU0ItTFNrMzA?oc=5",
@@ -674,6 +583,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "967743f71289a20f91c8",
+      "title": "Zcash Co-founder Proposed Changing the Ecosystem Funding Mechanism - Incrypted",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZFpRTXQtLV9TWWxlUDFlZXBJZm0wTDY0MFRYbHAzbnBnNVpqVU5ySXVBWF9PanNMQV84MDVCVWdmNm5kb0FiV040cmVzTTJUSDhGbjNjNDBkeHpESmMzTmxxRXgzcHFTemdCQkxIRWwtMkM2T003QUZ2ZVJCSXJYWXFrb0ZFejdibkRObkhjOFI2VmxuTlg0?oc=5",
+      "source": "Incrypted",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T13:51:43+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
       "id": "50c6f0c526f577cfdba7",
       "title": "Zcash Co-Founder Proposes Ending ZCG's 8% Block Reward Share - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2xmTlE5eVZhdnpDQVJBX3RxaDVhV3BNM1o0ZWlBVlZnNHFsdE5FUHJhWE8zNThpYXN5ck85SmlUTVU3YldBY1AtbzVtbjBZRHpkSDFjeGRXUWdYODRSMm9hNFBGc2ItRGpuSi1Pel9VZnM4N1ZJeldFeGJMVDN1VGoxWjA0cE04Sk9GaXVhcC1uenhTa1lKdklMX3VGZw?oc=5",
@@ -681,6 +603,84 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-27T13:27:57+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "1a66dfff9ba82aa830ab",
+      "title": "Zcash Turns 10 Tomorrow, and Its Co-Founder Is Fighting to Rewrite Who Gets Paid - CCN.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckRFX0g2SF9LQzMyakMwNDRLYlcwcWQ4ZHNjaG5yMkgwRWdJSjl5cTRXTkpzMFMxYzJMN2pQZ1hHcXMzcDdsQVNhUS1nWFNLNm9HMjJoNDhsSlh3WXI3bXhDd2RvYk5aaUthelVuMndqR3psUXlIaXhpZldzMDdvVXFoRk0zZDQ?oc=5",
+      "source": "CCN.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T12:08:46+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "f97ad3e66d63d9fff97c",
+      "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury - The Block",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc3gxdl8yVnBNcUhxMXd3NDAxdUJ3cTFjQ3RyZjVrcDFXdVk5YW1SeHZUMHdTcS1qVVNnamdnaWdXVXotOHFNdEowSUo5OG5DOU1ILURlNHJRaXltWlNCLW9hVGVaV01uM1JuRV81S2VhMDN4SEh4MVJYU0hwd2E0OFpFOUxwNkFkYkxaVnNuc0c3NC0tV1M4dUozQ3UwY1o0WXpzZUVJRDEwMmpaZktVNTRPNjEzazJodVAzaEFGNVNQbDlrX3J2WnhoTFNEdw?oc=5",
+      "source": "The Block",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T12:05:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "aa72e54fb07752fc8dec",
+      "title": "Zcash Co-Founder Shawn Bowe Says Automatic Funding for Community Grants Should End With $125 Million Stockpiled - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MWTZvN3gyZmxFX1ZDM2NiaUctWFFGU21XZjRQTHhWTk9ZV0U3Wl9SUWdPZGFBR21EakNzUldaM3FzbTF6VkxCQ2lIc0xzenVMcW1TVg?oc=5",
+      "source": "bloomingbit",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T11:26:05+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "27a1b39a11a58898b3c9",
+      "title": "Zcash Co-Founder Sean Bowe Proposes Redirecting 8% Block Subsidies From Zcash Community Grants - NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMXIza0E5ZzBUVzhrSUZQWFJWZ0J4NGxQTUo5dWt1aENHTWViMS0yNHVwRkh3NndiZUNJWE9QaWRiRFhFbmRESHo3QklnOUI2c19LYzdNWlhWM1drY093V1c4X3hNekJNQi1OTWhHQ3BZZUUyM1hRZDk3aUJ1eGRDeFVOUk9FNWVvNHI2UGN1YTZGNXlpSDZCVk1UUi1ZYkppbHRYVFlaRXJvZmtNbXZZOUd0ckJsNEJVaEgwT0hfRHlRVmVQSlpMcWhRMG4ycGJyV1lYVFFVSXFtMzBxcjdDclNicnl3YUFLdUE?oc=5",
+      "source": "NewsCord",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T11:22:39+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "42b560d60d2c00883e5e",
+      "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1d6NXYxVmRvNW5nMGFDbnFaMWdhT0ZkMnZIWTRqblUxWHBpQVo2TUxnUGFRTi1td29CbzZwdWhKX3dQQi1iRkZyV1Z3SzN5ZG1ndTlqUmhudVFiX2Y0aHh0eWloTkJIY2FXWFk3cVFQNFYwdWhnMHFFQkNhajRienFLTk84MDhUWE93NHBlcG5WS3NZd2lWODlaZEJNLXQyU1ZhN1IyU2RVTUhROWhqbkt2VGJGQmVWdVlWc09QWUhiN2hQQlE?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T10:00:31+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "bdc36675afdc61eaf01e",
+      "title": "Public wallet logs expose founder histories, and Zcash group demands fix - CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS0hwaTlLeUxIN3ZtNlI1X0dseXpOMEh3T1BoV0V5TGpvSHQxd1VUMkptaVJTOU1fUHVxWmdiLXZfaG5KcVB1eDdVVFNqeXc3OExMLUZnRktGQ01qUFI5dnNiRTctRURQUFgtenZDYlVYNllUSGFpLXF6VjFRQXBReUlFRFlqQ2FnTzk3SlFHTURwMDdmZnBZSkhSdm9Ec21r?oc=5",
+      "source": "CryptoSlate",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T08:50:22+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
