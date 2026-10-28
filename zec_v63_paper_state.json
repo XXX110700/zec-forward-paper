@@ -1,19 +1,15 @@
 {
   "version": "V6.3",
-  "last_processed_15m_ts": 1793154600000,
-  "pending_signal": null,
-  "open_trade": {
+  "last_processed_15m_ts": 1793155500000,
+  "pending_signal": {
     "side": "long",
-    "signal_ts": 1793150100000,
-    "entry_candle_ts": 1793151000000,
-    "entry": 1303.81,
-    "risk": 13.285827343397937,
-    "sl": 1290.524172656602,
-    "tp1": 1319.7529928120775,
-    "tp2": 1330.3816546867959,
+    "signal_ts": 1793155500000,
+    "signal_close": 1312.27,
+    "atr": 8.67748732092045,
     "long_confirm": 5,
     "short_confirm": 0
   },
+  "open_trade": null,
   "closed_trades": [
     {
       "side": "short",
@@ -626,33 +622,50 @@
       "reason": "SL",
       "gross_r": -1.0,
       "net_r": -1.124316
+    },
+    {
+      "side": "long",
+      "signal_ts": 1793150100000,
+      "entry_candle_ts": 1793151000000,
+      "entry": 1303.81,
+      "risk": 13.285827343397937,
+      "sl": 1290.524172656602,
+      "tp1": 1319.7529928120775,
+      "tp2": 1330.3816546867959,
+      "long_confirm": 5,
+      "short_confirm": 0,
+      "exit_ts": 1793155500000,
+      "exit_price": 1319.7529928120775,
+      "reason": "TP1",
+      "gross_r": 1.2,
+      "net_r": 1.06261
     }
   ],
   "long_confirm": 5,
   "short_confirm": 0,
   "max_drawdown": 2.3359939999999995,
-  "updated_at": "2026-10-28T02:48:03.436677+00:00",
-  "last_processed_close_ts": 1793155500000,
+  "updated_at": "2026-10-28T03:03:03.266560+00:00",
+  "last_processed_close_ts": 1793156400000,
   "market_snapshot": {
     "source": "OKX public closed candles",
-    "close_ts": 1793155500000,
-    "close": 1313.12,
-    "rsi_15m": 61.31616922608988,
-    "atr_15m": 8.66652480716145,
+    "close_ts": 1793156400000,
+    "close": 1312.27,
+    "rsi_15m": 60.0645876496944,
+    "atr_15m": 8.67748732092045,
     "score_1h": 3,
     "score_4h": 3,
-    "close_1h_ts": 1793152800000,
+    "close_1h_ts": 1793156400000,
     "close_4h_ts": 1793145600000,
     "supertrend_1h": 1,
     "supertrend_4h": 1
   },
   "tp_confirmation_refresh": {
-    "event_id": "long:1793136600000:1793137500000:1793142000000:TP1",
+    "event_id": "long:1793150100000:1793151000000:1793155500000:TP1",
     "reason": "TP1",
-    "decision_ts": 1793142900000,
-    "long_confirm": 6,
+    "decision_ts": 1793156400000,
+    "long_confirm": 5,
     "short_confirm": 0,
-    "count": 10
+    "count": 11
   },
   "sl_confirmation_refresh": {
     "event_id": "long:1793142000000:1793142900000:1793145600000:SL",
@@ -661,6 +674,5 @@
     "long_confirm": 4,
     "short_confirm": 0,
     "count": 1
-  },
-  "csv_outbox": []
+  }
 }
