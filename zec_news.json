@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-28T08:52:39.100011+00:00",
-  "last_success_at": "2026-10-28T08:52:39.100011+00:00",
+  "checked_at": "2026-10-28T09:50:35.203637+00:00",
+  "last_success_at": "2026-10-28T09:50:35.203637+00:00",
   "status": "ok",
   "sources": [
     {
@@ -22,7 +22,7 @@
     {
       "name": "CoinDesk",
       "status": "ok",
-      "matched": 2
+      "matched": 1
     },
     {
       "name": "Google News EN",
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 26
+      "matched": 16
     }
   ],
   "items": [
+    {
+      "id": "673a0a8ca2d63bc049df",
+      "title": "$125 Million Treasury Sparks Debate: Should Zcash Continue Subsidizing Developers? - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMHhrLVRELWFEaHRad0VnYXY5Mkd5bkpCOHZyODh4RXZBVVFNYThoeDNoV2lGOVdoNXVPUnZjZDBPX1JGTHlueTRxOWpNQy1zN2tNb2xuZUJ2ZVltTnpzZURhenU0OFFOZWNxX2hQNVZWMWg3cjVLemcxbjNUQUt3U0RFdWkyQV96RmxFRkRpRGhrR3dRRHVlaU8zSllZYVIyZ2xMRUs5NDRGck5PeXcyQmlFSFVNV3VwT0pNVkhGSQ?oc=5",
+      "source": "富途牛牛",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T06:52:13+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "f9a77a7ec4c8e9ebc740",
       "title": "Zcash 十周年变局：1.25 亿财库引发开发者补贴存废激辩_滚动新闻_财经 - 证券之星",
@@ -479,19 +492,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "872ef381a288e609c94c",
-      "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
-      "url": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
-      "source": "CoinDesk",
-      "feed": "CoinDesk",
-      "kind": "media",
-      "published_at": "2026-10-27T06:14:41+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "b73ca93e798830348919",
       "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury - CoinDesk",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWnBpLWltUVBwUkFtMFM3TUVHSkY2MWJrSGpreXhYOFV0NUZQa3VtUTdGcjBVcnZlN2l6czJIWnI1eEFHZGNoV2xBeWtLalphWjFpOXRuY19OaTBHdnhCWWU2QzFYR0RtMGJXSDBLU0dUOVpCRk8zVGVkOVFCV05VTHJmc3BKamhXU0tOcHFSNzNSZERkVzVDSC1ZdVNBWWtSVThJYU0zMjVMS01LMzF2TVliMG1SMzJqWG5aS09NSQ?oc=5",
@@ -596,19 +596,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "5e912a810ade808cd916",
-      "title": "四大幣種盤面速覽｜BNB 蓄勢、ZEC 超跌反彈，TRX、SHIB 低位磨盤| 幣安廣場上的饭饭又困了 - Binance",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aOGVyVlZtZ0Q5dm1YeURka0JBUEZCaFg5WjJFaDJoNG5ZRmFWbTN1VGs5cG1rZmxUUi1TdFFRQ2Zod0xjdGFydHdOalR1LTFBMGVqa0RheVVkMDducGpNMV9iQVZFUkpt?oc=5",
-      "source": "Binance",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T02:36:20+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "9d408bf4e0d964cb6cf8",
       "title": "美国 NEAR、ZEC 现货 ETF 单日合计净流入 336.26 万美元 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5b3VLTWIzVm5wSFNZbTBfT2tQWVRlLVYxLXhIUXdUVDJLSktteHUwZ2Y0OWZHNWhKOWFPcnRzQ2FfV3ZWeHBuQzUzRnJyWlRaZ1ZqZjF6YWRSZkRQRkVYSzl2MmthcGs?oc=5",
@@ -684,6 +671,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：launch",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "1d924f58934f8aeaf430",
+      "title": "Zcash to Undergo Hard Fork on November 5th - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3JUUU9zRVVnRktFVThGaVVhaUhKSEhYYUZ2VHNSOS11LTcwSmdCS3JTaHNyc3o0ZE1SRW1IOGlxekhrdVItSWJJd0FiTC1HT1hxejg0dWxYSlNtQXdxd1p0cGFLZTZ0SWhkQUt4MzFFZVVRdEpicFpQS1dWSk15bUxfUEJSbUdvRjU0a2l0cHpMRU50SGY4dDduZFZseGxmdXc?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-26T16:22:24+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
