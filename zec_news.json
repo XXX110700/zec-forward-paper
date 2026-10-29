@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-29T19:50:49.074451+00:00",
-  "last_success_at": "2026-10-29T19:50:49.074451+00:00",
+  "checked_at": "2026-10-29T20:45:03.810409+00:00",
+  "last_success_at": "2026-10-29T20:45:03.810409+00:00",
   "status": "ok",
   "sources": [
     {
@@ -219,19 +219,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "a8599b8634c6411f7cd7",
-      "title": "ZEC spot ETFs see $2.07M inflows while SOL ETFs face $5.66M outflows on Oct 28, 2026. - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcWtBYTR3eEUteEMwb1VXZ0s5SXRrMHlfU2JwQmg4OEZvTC1kcUhKN0dUdmJzUXI1RDBSQzlYcEdIcVNVMzZTcjlKZGRGOGJhSkpoMDJhRm5hZGVYWUF6WTVSNXpmN3E3QWRkRHphTHhrZ3FFWnhiMzhlbk5ucXhfdjNCUTQwMkp3UFBRNXlrRERPVHZU?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-29T04:03:19+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "8c294ea0bad96c0888eb",
       "title": "[Altcoin spot ETFs] ZEC draws sole inflow as SOL sees withdrawals - tokenpost.com",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qQUdVVzA0X216bEdocE9fMlBUS1pTbWxWNnBDQS11OXRIMEIxdTVVT2tRVmpMczJzNmZRWkdMaXhSN1lGVWlIYnZ6SWNXcHRsQlhscw?oc=5",
@@ -440,6 +427,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "77a9f12042f54ff27889",
+      "title": "Zcash Drops 3.54% in Four Hours to $1,272 on Binance Spot - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hT2pkbWl1blBCSmo0cjJDZXo5NFdQMTJXVmtoVnBWQWhBWGY1TEZWdVY4MkhyZmtYN2lYc09fOGptQ3VQelhTZ184N0VLckRIVzRtNlZmUHF5dw?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T14:28:16+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "f6ebfd1940e71e4375a7",
       "title": "Zcash ETP debut on Euronext Paris delayed due t... - Pluang",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObjJyZmpWaU8tazAyU0FaUjBvZ05hMXAyN0dRZ3JXVWt6QXF1SWRoNThDZ01SUmdLLTAxUUg1MzlZc2lySkNCQzVZdFctXzVReUx5LW1YNXpxRUhmby1JUmc4OG9ZbFZZdVhQb1RQT1MwYWpQWTFDcjMzMGJYdTkwQkoyMThnQmVlV2dYSQ?oc=5",
@@ -512,19 +512,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T11:41:20+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "5dd6cbfec4c307e783e2",
-      "title": "Zcash extends gains as geopolitical fears ease ahead of the FOMC decision. What's next? - investingLive",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNendpamtERWY5Qi00UkhCXy1aWllISzdhVjhhemg3d2xHbWVjRk1PZ1NHQ1RVWkwtaWdVQTQ3aWtiVjdINUxvMHVvRkRORWJPS2ljZUlRa3NMR2x1ZV9hYkJKeWNyR1Q2LURNZlVrcmZEVU1lOGpKQUloTFB4Ymx2NElIbFdrdGY2UVgySDJSTFNId0t4QnJJa2VXWF9aQUJyc3BjTE5TMTFhcFNVeGRmTmhXQUtfN2tGS1FGUUtEcV9TcXluUXc?oc=5",
-      "source": "investingLive",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T11:18:31+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -681,6 +668,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T03:42:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "41f15b4d9af183e93e66",
+      "title": "Zcash 联合创始人呼吁停止为“超1.25亿美元”的拨款计划提供资金 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nMmNuWVBMbi02ZlROYllGNkNudXNLVEp4OWY3MVhJMjhMQkN5R0VSY0lFb3A2aGJLbVZQUUtjYTZiVUFsR0pITVUzMkNtVHkzdW9sd0V4Y0wzbzF4dWl3R0JRQl9LX0ZFSi02NDl6UQ?oc=5",
+      "source": "TradingView",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T03:15:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
