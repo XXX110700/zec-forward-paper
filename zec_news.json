@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-29T15:54:59.209288+00:00",
-  "last_success_at": "2026-10-29T15:54:59.209288+00:00",
+  "checked_at": "2026-10-29T16:54:57.716110+00:00",
+  "last_success_at": "2026-10-29T16:54:57.716110+00:00",
   "status": "ok",
   "sources": [
     {
@@ -12,12 +12,12 @@
     {
       "name": "Zcash Foundation",
       "status": "ok",
-      "matched": 1
+      "matched": 0
     },
     {
       "name": "Cointelegraph",
       "status": "ok",
-      "matched": 1
+      "matched": 0
     },
     {
       "name": "CoinDesk",
@@ -258,6 +258,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "54ef12e45b81ccb7bae5",
+      "title": "Euronext Paris Suspends CoinShares Zcash ETP on Scheduled Debut - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jVm5tei1LNXZNV19UYkY2QkFPcmlwMndoZzFoSDNoYVR3NGM1T0VtZ0lDOXNOZ2pxSWpQaXZjYlRhRzh0ck1ucXRzcnRIa1hHYXJtSUphRjh6UQ?oc=5",
+      "source": "TOKENPOST",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T13:59:16+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "bbb7df154a3ccffae09d",
       "title": "结算问题致 Euronext 暂停 CoinShares Zcash ETP 首日交易 - CryptoRank",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xbE9XRHo2WUVkQ0J0ZllucGJIcDVUWjJyVWFvdThFQkM1SzFON2pkcDQ2VFZHNTRxaHdpS3JjelBMS1MtNWlyQW9wQXJZUGljSUpVMmRvMnZIWkxC?oc=5",
@@ -317,19 +330,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T11:41:20+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "37d8fa12e45cdf05a77a",
-      "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut",
-      "url": "https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "feed": "Cointelegraph",
-      "kind": "media",
-      "published_at": "2026-10-28T11:24:07+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
