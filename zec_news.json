@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-29T20:45:03.810409+00:00",
-  "last_success_at": "2026-10-29T20:45:03.810409+00:00",
+  "checked_at": "2026-10-29T21:43:03.939167+00:00",
+  "last_success_at": "2026-10-29T21:43:03.939167+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,18 +32,31 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 18
+      "matched": 26
     }
   ],
   "items": [
     {
-      "id": "4d7e43970a6db6753586",
-      "title": "Elon Musk’s Grok AI Predicts an Explosive Move for Zcash (ZEC) - 99Bitcoins",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSDVZLTlyM09kWjNBTHFsVzJrTXphTzNkaGxidDM4SnBlT2U4ZV9LSWVzMjZNbkZFbTRKckFzOGhVMXNnVHB1cTdjVTlQRnoxbzJZU0llN1hlYUZYdXF5ZVo0Zjk4YnY3bXktbzhORVFrd1VHVW5NTl9BWXhIMUhJOVQ4bHRkWjhPR2U1dlM0VDNHNmpNbUVpX0lzeGh3Zw?oc=5",
-      "source": "99Bitcoins",
+      "id": "b76abd1c004467be10f5",
+      "title": "Winklevoss Files Zcash ETF, VanEck Withdraws Lido Staked Ether Proposal - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU3JBWUVSTmlqZ09SSDFOWDlMa25iUWhqSVZ6dFB3TW41V2F4ajgyVkVBUl9GTGFRQVlWTFFOSVhoU1A4QTNCaWJrWnRObVZRVnNBUUtsU25JZjB2dEdYTXR1blJTUy1nWS1lQ0VoU29nUFgwRVRtM25wZ2ZORE9kR3RjMldPazhqVHRxdzhEaS01a3BhZkVpVUxOenB3Z25aOFp1TTFQdw?oc=5",
+      "source": "KuCoin",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-29T19:14:19+00:00",
+      "published_at": "2026-10-29T20:54:53+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "f3b8dd2e6dd51ca78cdb",
+      "title": "Elon Musk’s Grok AI Predicts an Explosive Move for Zcash (ZEC) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeVhSU3A2Qk1nNlE5enBzWEpxRnc0VC00Y0UxbzhpeGVXRDFiaF9PeU1oWUpPNlFBTVFLNGplSVYxdXdvVjE0TndxRjF2dkFQeTFWSkhPWXZQMF9yRmVaVFp5YXB3M2p4R3JQXy1rWl9NeGVtcUk5TmRhM3B3TWVRV200ZWk5aWFiLUlTRFg0bm5JRWt3eUE?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-29T19:09:46+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -154,6 +167,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "bbb7df154a3ccffae09d",
+      "title": "结算问题致 Euronext 暂停 CoinShares Zcash ETP 首日交易 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CLUFwRnZxUTlCQkdsekRQS0l3Q2RlcFNFd0JNUzJCeWtlM1RmRXE2VS1sdHZUcWpkdkJ5bzNUUUdGY2h2N3B5UXNKUjZTZWJ6VWxrVDhpY3c?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-29T07:53:15+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "d4ab2984f8e1703abe25",
       "title": "泛欧交易所暂停 CoinShares Zcash ETP，称结算未获支持 - CryptoRank",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NSmI2el92NGRyX0dLdF9FeVBsSjQxcjgybU9JeHIwUEtWYzVVeTRFM1Y2YzRQY3lTUnhTaTVSajBhaUdOU0hRQVNwZ21YU2FEZzl1TE1OTGhfYjlE?oc=5",
@@ -174,6 +200,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-29T06:34:02+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "a3718cc0066f86b39e25",
+      "title": "Euronext暂停CoinShares Zcash ETP交易，称因结算系统尚无法支持 - BlockBeats",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3UkhRbHJrby1IczBxNXQ2NnRrNHcxMnBETnVkMGExZGZ5RG42Wk15b2ZIbFRpTTZHRHJva3FCSE5kSFgyWmVmb0pJM2Jmc0FSOWx5N2N3?oc=5",
+      "source": "BlockBeats",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-29T05:50:09+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -440,19 +479,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "f6ebfd1940e71e4375a7",
-      "title": "Zcash ETP debut on Euronext Paris delayed due t... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObjJyZmpWaU8tazAyU0FaUjBvZ05hMXAyN0dRZ3JXVWt6QXF1SWRoNThDZ01SUmdLLTAxUUg1MzlZc2lySkNCQzVZdFctXzVReUx5LW1YNXpxRUhmby1JUmc4OG9ZbFZZdVhQb1RQT1MwYWpQWTFDcjMzMGJYdTkwQkoyMThnQmVlV2dYSQ?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T14:26:18+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "c4a9fb129b79839ff354",
       "title": "Confidential ZEC trading goes live on Shield - Finbold",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84NkRzendFNHN3YWw1dlpHTk9rWjh6MncyTmtMVHc2NFJhdHFaNnh5bjZjSnNZTEpQX0VyQ05obVItUjFIRTExX0FNQ1F1eTVlUml0UjhhRVFYd2lQeUhhSlI1MWl5TzEzZmJPOVpfU01jaFU?oc=5",
@@ -460,19 +486,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T14:00:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "bbb7df154a3ccffae09d",
-      "title": "结算问题致 Euronext 暂停 CoinShares Zcash ETP 首日交易 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xbE9XRHo2WUVkQ0J0ZllucGJIcDVUWjJyVWFvdThFQkM1SzFON2pkcDQ2VFZHNTRxaHdpS3JjelBMS1MtNWlyQW9wQXJZUGljSUpVMmRvMnZIWkxC?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T12:59:37+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -541,6 +554,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "eca894f5c9ddb373595d",
+      "title": "Zcash（ZEC）推出10年后，2026年脱颖而出的两件事 - 币界网",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1X3ZoQ2FXNnA4Wm12T2xobXlVZDZyRmtyVzIwVS14QWhlT1diZkMyQmQ4a0g5UWIzRzRGR2oydnI1MnUzYmJuYXpOeW9NQnFxX19XcQ?oc=5",
+      "source": "币界网",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T08:51:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -655,32 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T04:00:51+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "83cd3d7f276ef574ebc6",
-      "title": "[Altcoin spot ETFs] ZEC alone draws inflows as SOL, HBAR and two others see outflows - TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIMHRaMXFxY0J3Mk1ETzJtaUlPekZYU2VnbzRpaTZXMWg5M2JPdENES1JsUDJ5Q25UX1dTWFFvVkZ4eHlxSGlnRkREUmZOdjRvdzBOOWpHVVQ4Zw?oc=5",
-      "source": "TOKENPOST",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T03:42:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "41f15b4d9af183e93e66",
-      "title": "Zcash 联合创始人呼吁停止为“超1.25亿美元”的拨款计划提供资金 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nMmNuWVBMbi02ZlROYllGNkNudXNLVEp4OWY3MVhJMjhMQkN5R0VSY0lFb3A2aGJLbVZQUUtjYTZiVUFsR0pITVUzMkNtVHkzdW9sd0V4Y0wzbzF4dWl3R0JRQl9LX0ZFSi02NDl6UQ?oc=5",
-      "source": "TradingView",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T03:15:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
