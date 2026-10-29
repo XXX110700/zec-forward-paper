@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-29T11:43:51.505362+00:00",
-  "last_success_at": "2026-10-29T11:43:51.505362+00:00",
+  "checked_at": "2026-10-29T12:54:40.204116+00:00",
+  "last_success_at": "2026-10-29T12:54:40.204116+00:00",
   "status": "partial",
   "sources": [
     {
@@ -401,19 +401,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "fa6ceded00600946a477",
-      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8% - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbHpfbDhWMGQ2djlUdllSSV9tZFVxODB4VjRqcU1RTVM4eDRQdzFENTE1WEJnNnE4MmhoUjBIZnRkc0J6QnJHTzYyMExPMFVVa2pCMm5OYy1pb3BFSzEwTzNndU5YcTJzelE5dnBON0xzQkhyYVh4dnI1N281RVZ6SElFeDREdWxQNF8ycEg4YlZiTGVFZ3dGZS10cWZWVGZiSDhLNXdmZ1RKUXlTRWtsWkFHcmYtLWIx?oc=5",
-      "source": "FXStreet",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T06:36:33+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "1ad3d915d6d1e2d7f5f3",
       "title": "Where is Zcash price heading now? - FXStreet",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTHRFYV9VMzFoSXdiRXhZYzRXMjN6UzBIU01kWl9qQV9Rbl82ZXJpbzViWHI0d0xTd2JiSUxIZzlUSGo4RzkwMHcwREVZcVZiV2h1alYxTUxHc1lvZGlDOG5QS29OVmVQVXNwa2VXcFBDVVdyWTQ0WVBiNzZtcFlXcEs5OWlvUXZnN2gxQTZKNGhUY25BOWs4dDlKYmR3WU1JbTVwYTczYkV5NXA1SXJKXzNxTlhWb3ZaN0MwN2ZNUUU3N004WVJXai1jdFF6bmVnelZHUlk2SU5NUU5I?oc=5",
@@ -583,6 +570,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "9122ef1aefe65d176038",
+      "title": "Josh Swihart Urges Zcash to End Both Automatic Funding Streams - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12QXZyTWV4V2xOTFRCMWRUMkFicG40d0tLODdIT3Ryc0x5aEFWcFZjbEtnRXVLOHEzVGhCWW1TR3BMUmN3Q3VqZGdScjJoM0JtTU5xZFVCWXdKZ00?oc=5",
+      "source": "TOKENPOST",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T18:36:56+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "a968fec1f6392d182d16",
       "title": "Zcash Slips 20% From September Peak as Traders Zero In on $834 Support - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBON1VpdlVFZ1EzZHREM1AzUVdORTc4WkhxNmhRLW5hMzlTU0k2NEdwdFVqckt6d0E4TXNzY3dLTTVVc293TF9XcnoyeUN0N1JGZVA3a0NHLThueC1EZEpHNU5sYTVfbHlMcWlsWUZIanhraHNadFE?oc=5",
@@ -674,13 +674,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "1a66dfff9ba82aa830ab",
-      "title": "Zcash Turns 10 Tomorrow, and Its Co-Founder Is Fighting to Rewrite Who Gets Paid - CCN.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckRFX0g2SF9LQzMyakMwNDRLYlcwcWQ4ZHNjaG5yMkgwRWdJSjl5cTRXTkpzMFMxYzJMN2pQZ1hHcXMzcDdsQVNhUS1nWFNLNm9HMjJoNDhsSlh3WXI3bXhDd2RvYk5aaUthelVuMndqR3psUXlIaXhpZldzMDdvVXFoRk0zZDQ?oc=5",
-      "source": "CCN.com",
+      "id": "41366a1204900dc47f87",
+      "title": "Zcash Co-Founder Proposes Ending Block Reward Funding for Grants - ForkLog",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeEJyUC1fa0hTdC1RTWxqUHNvM0hkb3JtOWhpcl84WGFPb3ROcDRCT2lNTW5fSEJ4a0NHa1JJX1I3ZVBaRng2Qi1yOEtyTU1OR0dOOGVoc0FHZUtQeVRyZHRuelZ6RUxuZU1PaEN0dUhqMUExZTU1dGxqTlptYzlxVTNDUWpCT19halFfSWRUR0JoQQ?oc=5",
+      "source": "ForkLog",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-27T12:08:46+00:00",
+      "published_at": "2026-10-27T13:05:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
