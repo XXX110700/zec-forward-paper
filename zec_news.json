@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-29T21:43:03.939167+00:00",
-  "last_success_at": "2026-10-29T21:43:03.939167+00:00",
+  "checked_at": "2026-10-29T22:43:19.162625+00:00",
+  "last_success_at": "2026-10-29T22:43:19.162625+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 95
+      "matched": 96
     },
     {
       "name": "Google News 中文",
@@ -50,13 +50,26 @@
       "verification": "未独立核实"
     },
     {
-      "id": "f3b8dd2e6dd51ca78cdb",
-      "title": "Elon Musk’s Grok AI Predicts an Explosive Move for Zcash (ZEC) - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeVhSU3A2Qk1nNlE5enBzWEpxRnc0VC00Y0UxbzhpeGVXRDFiaF9PeU1oWUpPNlFBTVFLNGplSVYxdXdvVjE0TndxRjF2dkFQeTFWSkhPWXZQMF9yRmVaVFp5YXB3M2p4R3JQXy1rWl9NeGVtcUk5TmRhM3B3TWVRV200ZWk5aWFiLUlTRFg0bm5JRWt3eUE?oc=5",
-      "source": "Yahoo Finance",
+      "id": "d35e168b07fabef0d435",
+      "title": "Zcash (ZEC) drops 6.53% in four hours, wiping o... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLU1HSWl3NjAyZnlGYVFPSXNDMHA3dWVjMzVLZ2tsdGdVZ0tDRC1fcEtmR2xINnRyM01kUWhKX2JEbWZzTlotczFTSWNGNThrREJ0ZnRMbjRHSW55NTkwRDBKMUJra1gyWm9EWVI0UHhUaXFOUVAtZkxUaDVHVzZwYnpBcGdGejZIZVBLVVFiQnhPU0ZtVVdaczU5Rk00MHNQUXFR?oc=5",
+      "source": "Pluang",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-29T19:09:46+00:00",
+      "published_at": "2026-10-29T20:38:42+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "4d7e43970a6db6753586",
+      "title": "Elon Musk’s Grok AI Predicts an Explosive Move for Zcash (ZEC) - 99Bitcoins",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSDVZLTlyM09kWjNBTHFsVzJrTXphTzNkaGxidDM4SnBlT2U4ZV9LSWVzMjZNbkZFbTRKckFzOGhVMXNnVHB1cTdjVTlQRnoxbzJZU0llN1hlYUZYdXF5ZVo0Zjk4YnY3bXktbzhORVFrd1VHVW5NTl9BWXhIMUhJOVQ4bHRkWjhPR2U1dlM0VDNHNmpNbUVpX0lzeGh3Zw?oc=5",
+      "source": "99Bitcoins",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-29T19:13:49+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -255,6 +268,19 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "a8599b8634c6411f7cd7",
+      "title": "ZEC spot ETFs see $2.07M inflows while SOL ETFs face $5.66M outflows on Oct 28, 2026. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcWtBYTR3eEUteEMwb1VXZ0s5SXRrMHlfU2JwQmg4OEZvTC1kcUhKN0dUdmJzUXI1RDBSQzlYcEdIcVNVMzZTcjlKZGRGOGJhSkpoMDJhRm5hZGVYWUF6WTVSNXpmN3E3QWRkRHphTHhrZ3FFWnhiMzhlbk5ucXhfdjNCUTQwMkp3UFBRNXlrRERPVHZU?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-29T04:03:19+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -479,6 +505,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "f6ebfd1940e71e4375a7",
+      "title": "Zcash ETP debut on Euronext Paris delayed due t... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObjJyZmpWaU8tazAyU0FaUjBvZ05hMXAyN0dRZ3JXVWt6QXF1SWRoNThDZ01SUmdLLTAxUUg1MzlZc2lySkNCQzVZdFctXzVReUx5LW1YNXpxRUhmby1JUmc4OG9ZbFZZdVhQb1RQT1MwYWpQWTFDcjMzMGJYdTkwQkoyMThnQmVlV2dYSQ?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T14:26:18+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "c4a9fb129b79839ff354",
       "title": "Confidential ZEC trading goes live on Shield - Finbold",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84NkRzendFNHN3YWw1dlpHTk9rWjh6MncyTmtMVHc2NFJhdHFaNnh5bjZjSnNZTEpQX0VyQ05obVItUjFIRTExX0FNQ1F1eTVlUml0UjhhRVFYd2lQeUhhSlI1MWl5TzEzZmJPOVpfU01jaFU?oc=5",
@@ -645,45 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：launch",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "0a630d403d104421ca20",
-      "title": "Zcash Turns 10 as Grayscale Highlights Its 20% Developer Fund - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4MDQzamFJODRDc2hRMWduS0hfSkxXb2t1YTByd2ZNc29vZmh0WUNJRWFwTDh3OV9KWExmVjVSaXlIejd1SWdlSV92TzN5OUJoa0gtV1NVNUV0Zw?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T04:32:41+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "e17900dae3bda64dcfc4",
-      "title": "BTC, ETH price news: Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8% - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkNaeE44eFBVY2pMUnFSTkY3ekxfaFZoQWxqQ19Hb193eVYzalI1c2IyUjQzSHY4YVQ0eEZMQVZXd3FGVGRvOFRXSEVSTEdMdXFpQ0ZrWHBvRF9wd0haVUVJcjlfMjk1ejhoaTNGTnhkdVB0bndzWTRnSXppSGpTa194Q1VOcGJqUnVFUVB6QTkwMEQydGFHMUctVUpqWG5tblpBT25yNA?oc=5",
-      "source": "CoinDesk",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T04:15:20+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "63545ffb45d49258beb8",
-      "title": "REALITY CHECK | ZCash Co-Founder Moves to End Grants Funding as Treasury Tops Over $100 Million - BitKE",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpUWxGM3ROMDEzV1ZZXzZJMEZRTEJwSmRqYXBURkhtcW5CV3hUcS11aTBQRjJZVGZoUGZkVWszUG5uZlFqVG1QbjNWWWxDUEFNM2RMV2tuTVZwZzhGM0xkbW5rVUNVZl9JMzNrZXUwdWI?oc=5",
-      "source": "BitKE",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T04:00:51+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
