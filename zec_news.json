@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-28T23:38:32.903262+00:00",
-  "last_success_at": "2026-10-28T23:38:32.903262+00:00",
+  "checked_at": "2026-10-29T00:54:01.490355+00:00",
+  "last_success_at": "2026-10-29T00:54:01.490355+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 25
+      "matched": 14
     }
   ],
   "items": [
@@ -63,26 +63,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "49888cd04f7e1a0c009f",
-      "title": "Zcash (ZEC) 价格预测：巨鲸在 FOMC 公告前做多，头肩顶形态将 1,350 美元价位推向焦点。 - Brave New Coin",
-      "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQVjVsekJUSTBXRkJES21FU2JLXzZ2Ny13QU40LU1nQ2QzZVZiQjdVVFZRNzdLTmlJUjZhX1h1TnU3MXozR3U3ZTJ5MkRuVG13QmVmNEE3SndMaW9Tcjg3NTZIYmZ6RC1kN0ZFN2NXTUMxbHAtalVsd2lhUmJaeUwyX1R6U2VjVXRMc2Z3aEJ6VnFMLXpmeF9vdXBnWHlTWGU4YlNDaHktWExjak9XbmpvTlhNdERoVE9GVUdqUWRaZlNEYUNnVFZiLVdvZjd0eEpQb2xodkRNZnE1WTFOeUJpaWs1TmV4cFVoODlFTTBaMHFsR2E4WjIyQ3I2V0doN3BScnotLWVZQXhRcFg0RWkyVWI2NW5IMF9ieVVHRnItS2RRSmM0NWVRY1NFem9HSWR3TDVqM2hGYVREQjhldFNKNkFPQzNDTE43RW4wQ0Jpdk5QVzlEOVZUbFZjdXVKa2Z2cmdtaTQtVTZodUV0YTFwd2U4MFlKNHJ0STBsd0RfVW1HWVl2aHlmMnpHU1F6NUlGS0hsWkNuMERMWlFzSjROd3l5d0wyWGhSRUtkTlY0QnotUkdwcE9US25KdVVuazg0SXFZLU90R0xTdUQxdkdVRi0tLWI0bVdsQ0NDcS1yRlpyT0ExZnlJcE1qODM?oc=5",
-      "source": "Brave New Coin",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T19:36:14+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "3643700b7a4e074efff7",
       "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut - Cryptonews.net",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCRVFqSmhNZXFueWt2aWNxZlU0eEx1aUE1LVlCQXBWVVA3SzZOREp2emVNOXNzWjNxUGdTaDBJUmY1cEhkTzh1RHZlbUlQV1FlTGFmQ3NESQ?oc=5",
       "source": "Cryptonews.net",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-28T17:11:27+00:00",
+      "published_at": "2026-10-28T17:12:26+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -167,6 +154,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "54ef12e45b81ccb7bae5",
+      "title": "Euronext Paris Suspends CoinShares Zcash ETP on Scheduled Debut - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jVm5tei1LNXZNV19UYkY2QkFPcmlwMndoZzFoSDNoYVR3NGM1T0VtZ0lDOXNOZ2pxSWpQaXZjYlRhRzh0ck1ucXRzcnRIa1hHYXJtSUphRjh6UQ?oc=5",
+      "source": "TOKENPOST",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T13:59:16+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "7442067dfc38d13c177c",
       "title": "Zcash Developer Proposes Ending ZCG's Grants Funding Stream Entirely - CoinMarketCap",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYW5NaWpuZlRYRFZkOGdQeFltcklHSktDYUZEcnJsamZMbzY5ZUpXVGNqSlI3VVU3V2FUWHFuOW9vZVl5SWp1bEUwbzRJZE1PZ3ZqQ1JUQWFhYmxVdDh1UTZ1dVAwcDZtM09BZmZFRXpGZGUzMHBYTDU0VDMxSE1uWklFWXY?oc=5",
@@ -200,6 +200,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T11:52:01+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "37d94a326e9fe3dc9d5f",
+      "title": "Euronext’s suspension halts CoinShares’ Zcash ETP debut in Paris - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZGhDRTVwdm9lajZwMXAzWTkwbS01S2NWeC1tWndkaUtjamdqSEVHWWZwWHd5TGxoLUIzdV91YkV0ZVdVSGdobHRpWmFQeFd0NDd5bUhTczBXUDJJaG1HNzg2SG9UZmtXSmNtSzFjbDFPQXZmbUVOaV9DNVkwNEQyWQ?oc=5",
+      "source": "The Cryptonomist",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T11:41:20+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -258,13 +271,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "eca894f5c9ddb373595d",
-      "title": "Zcash（ZEC）推出10年后，2026年脱颖而出的两件事 - 币界网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1X3ZoQ2FXNnA4Wm12T2xobXlVZDZyRmtyVzIwVS14QWhlT1diZkMyQmQ4a0g5UWIzRzRGR2oydnI1MnUzYmJuYXpOeW9NQnFxX19XcQ?oc=5",
-      "source": "币界网",
+      "id": "673a0a8ca2d63bc049df",
+      "title": "$125 Million Treasury Sparks Debate: Should Zcash Continue Subsidizing Developers? - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMHhrLVRELWFEaHRad0VnYXY5Mkd5bkpCOHZyODh4RXZBVVFNYThoeDNoV2lGOVdoNXVPUnZjZDBPX1JGTHlueTRxOWpNQy1zN2tNb2xuZUJ2ZVltTnpzZURhenU0OFFOZWNxX2hQNVZWMWg3cjVLemcxbjNUQUt3U0RFdWkyQV96RmxFRkRpRGhrR3dRRHVlaU8zSllZYVIyZ2xMRUs5NDRGck5PeXcyQmlFSFVNV3VwT0pNVkhGSQ?oc=5",
+      "source": "富途牛牛",
       "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-10-28T08:51:00+00:00",
+      "published_at": "2026-10-28T06:52:13+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-27T10:00:31+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "bdc36675afdc61eaf01e",
-      "title": "Public wallet logs expose founder histories, and Zcash group demands fix - CryptoSlate",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS0hwaTlLeUxIN3ZtNlI1X0dseXpOMEh3T1BoV0V5TGpvSHQxd1VUMkptaVJTOU1fUHVxWmdiLXZfaG5KcVB1eDdVVFNqeXc3OExMLUZnRktGQ01qUFI5dnNiRTctRURQUFgtenZDYlVYNllUSGFpLXF6VjFRQXBReUlFRFlqQ2FnTzk3SlFHTURwMDdmZnBZSkhSdm9Ec21r?oc=5",
-      "source": "CryptoSlate",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T08:50:22+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
