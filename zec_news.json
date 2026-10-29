@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-29T06:55:00.726368+00:00",
-  "last_success_at": "2026-10-29T06:55:00.726368+00:00",
+  "checked_at": "2026-10-29T08:01:17.399810+00:00",
+  "last_success_at": "2026-10-29T08:01:17.399810+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,49 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 26
+      "matched": 28
     }
   ],
   "items": [
+    {
+      "id": "d4ab2984f8e1703abe25",
+      "title": "泛欧交易所暂停 CoinShares Zcash ETP，称结算未获支持 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NSmI2el92NGRyX0dLdF9FeVBsSjQxcjgybU9JeHIwUEtWYzVVeTRFM1Y2YzRQY3lTUnhTaTVSajBhaUdOU0hRQVNwZ21YU2FEZzl1TE1OTGhfYjlE?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-29T07:51:08+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "a3718cc0066f86b39e25",
+      "title": "Euronext暂停CoinShares Zcash ETP交易，称因结算系统尚无法支持 - BlockBeats",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3UkhRbHJrby1IczBxNXQ2NnRrNHcxMnBETnVkMGExZGZ5RG42Wk15b2ZIbFRpTTZHRHJva3FCSE5kSFgyWmVmb0pJM2Jmc0FSOWx5N2N3?oc=5",
+      "source": "BlockBeats",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-29T05:50:09+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "7c038b7516d59227f5ff",
+      "title": "泛欧交易所暂停CoinShares Zcash ETP，称结算操作未获支持 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1OWVlNE4zY3pJa092dVpuQlduUDVxUGNfRWFScEJISHdDZHE5bjBySVhZRXJWekhMVzRpY25sRlktZ0ZIR3J5eDgwZlNTY0RBR0Ezd0lZRnNjRm1oM2tIcTRDZnkwZw?oc=5",
+      "source": "TradingView",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-29T05:14:00+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
     {
       "id": "b9fbe47f6f2212d9f66a",
       "title": "Zcash 1.25 亿美元金库引发争议：社区提出四项改革方案，拟取消 8% 区块奖励补贴 - 深潮TechFlow",
@@ -187,6 +226,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T14:59:43+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "bbb7df154a3ccffae09d",
+      "title": "结算问题致 Euronext 暂停 CoinShares Zcash ETP 首日交易 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xbE9XRHo2WUVkQ0J0ZllucGJIcDVUWjJyVWFvdThFQkM1SzFON2pkcDQ2VFZHNTRxaHdpS3JjelBMS1MtNWlyQW9wQXJZUGljSUpVMmRvMnZIWkxC?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T12:59:37+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -544,19 +596,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "1b4e08e2d8ecc2de7a85",
-      "title": "Zcash Launches Zillions Browser Wallet with Ledger Support and Fast Shielded Transfers - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSnhSa0JBSkRRZEJkdEdDM1RQWEdFdEhjRm9WOG9CbHM2cGdyZjhzQV9CZ3NtZ2plUWk2MDJMdmVGMkdmdzc2alplMjlhX2haWEI0TGM5eEZjQjB2cHlqTTI0T0I4RzZqM1QtOThlcTB3Ry1EMG1Ed3lZT1MzTk9rWlpiME1peVNoQVY3QVhqQ1dndFpsSEN4WEgyQnhwOXFGSmY5QzJsWHBGM2tnOG9KNTBaSzVUbGs4Vjk1NQ?oc=5",
-      "source": "KuCoin",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T18:55:26+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：launch",
-      "verification": "未独立核实"
-    },
-    {
       "id": "9122ef1aefe65d176038",
       "title": "Josh Swihart Urges Zcash to End Both Automatic Funding Streams - TOKENPOST",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12QXZyTWV4V2xOTFRCMWRUMkFicG40d0tLODdIT3Ryc0x5aEFWcFZjbEtnRXVLOHEzVGhCWW1TR3BMUmN3Q3VqZGdScjJoM0JtTU5xZFVCWXdKZ00?oc=5",
@@ -645,45 +684,6 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "50c6f0c526f577cfdba7",
-      "title": "Zcash Co-Founder Proposes Ending ZCG's 8% Block Reward Share - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2xmTlE5eVZhdnpDQVJBX3RxaDVhV3BNM1o0ZWlBVlZnNHFsdE5FUHJhWE8zNThpYXN5ck85SmlUTVU3YldBY1AtbzVtbjBZRHpkSDFjeGRXUWdYODRSMm9hNFBGc2ItRGpuSi1Pel9VZnM4N1ZJeldFeGJMVDN1VGoxWjA0cE04Sk9GaXVhcC1uenhTa1lKdklMX3VGZw?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T13:27:57+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1a66dfff9ba82aa830ab",
-      "title": "Zcash Turns 10 Tomorrow, and Its Co-Founder Is Fighting to Rewrite Who Gets Paid - CCN.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckRFX0g2SF9LQzMyakMwNDRLYlcwcWQ4ZHNjaG5yMkgwRWdJSjl5cTRXTkpzMFMxYzJMN2pQZ1hHcXMzcDdsQVNhUS1nWFNLNm9HMjJoNDhsSlh3WXI3bXhDd2RvYk5aaUthelVuMndqR3psUXlIaXhpZldzMDdvVXFoRk0zZDQ?oc=5",
-      "source": "CCN.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T12:08:46+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f97ad3e66d63d9fff97c",
-      "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury - The Block",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc3gxdl8yVnBNcUhxMXd3NDAxdUJ3cTFjQ3RyZjVrcDFXdVk5YW1SeHZUMHdTcS1qVVNnamdnaWdXVXotOHFNdEowSUo5OG5DOU1ILURlNHJRaXltWlNCLW9hVGVaV01uM1JuRV81S2VhMDN4SEh4MVJYU0hwd2E0OFpFOUxwNkFkYkxaVnNuc0c3NC0tV1M4dUozQ3UwY1o0WXpzZUVJRDEwMmpaZktVNTRPNjEzazJodVAzaEFGNVNQbDlrX3J2WnhoTFNEdw?oc=5",
-      "source": "The Block",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T12:05:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
