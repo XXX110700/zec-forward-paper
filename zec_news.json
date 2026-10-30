@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-30T11:41:17.888111+00:00",
-  "last_success_at": "2026-10-30T11:41:17.888111+00:00",
+  "checked_at": "2026-10-30T12:54:22.178501+00:00",
+  "last_success_at": "2026-10-30T12:54:22.178501+00:00",
   "status": "ok",
   "sources": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Cointelegraph",
       "status": "ok",
-      "matched": 0
+      "matched": 1
     },
     {
       "name": "CoinDesk",
@@ -32,10 +32,36 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 29
+      "matched": 30
     }
   ],
   "items": [
+    {
+      "id": "b59c81f2909289f421a6",
+      "title": "Zcash grants group offers $124M compromise as governance backlash grows",
+      "url": "https://cointelegraph.com/news/zcash-grants-46m-proposal-governance-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "feed": "Cointelegraph",
+      "kind": "media",
+      "published_at": "2026-10-30T11:36:23+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "9479e6dfd10170133b24",
+      "title": "Zcash grants group offers $124M compromise as governance backlash grows - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbUdHYnV5TVNmVW9mTnNuTEZJVWFST2s2N2FPZElwUlZydEM5NGliOFlrRVhNN1VsSXlRWEdzQkJiUXJZWjRKLXh4UG81ZEc2Q2xSbUREUWRSOUI1NWJTT21ZQXRoMlczOGhudGo3VWJad19Oa2dZbVplUVhHSDZtaEZPUDU2ZFNYNVZ5SEVybGloVlR2NEhlcGhtMGlKV095YUhuNFlpdkxGT1hUSzZITFV3X1NUWVpRR1p6SXpXWk1nQjRQYUdZeGtMd0JGLW8?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T11:36:23+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "1385815c0922d867676f",
       "title": "Hyperliquid 市值冲上 220 亿美元反超 Zcash，非稳定币市值前十争夺白热化 - 区块周刊BlockWeeks",
@@ -466,19 +492,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "37d94a326e9fe3dc9d5f",
-      "title": "Euronext’s suspension halts CoinShares’ Zcash ETP debut in Paris - The Cryptonomist",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZGhDRTVwdm9lajZwMXAzWTkwbS01S2NWeC1tWndkaUtjamdqSEVHWWZwWHd5TGxoLUIzdV91YkV0ZVdVSGdobHRpWmFQeFd0NDd5bUhTczBXUDJJaG1HNzg2SG9UZmtXSmNtSzFjbDFPQXZmbUVOaV9DNVkwNEQyWQ?oc=5",
-      "source": "The Cryptonomist",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T11:41:20+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "5dd6cbfec4c307e783e2",
       "title": "Zcash extends gains as geopolitical fears ease ahead of the FOMC decision. What's next? - investingLive",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNendpamtERWY5Qi00UkhCXy1aWllISzdhVjhhemg3d2xHbWVjRk1PZ1NHQ1RVWkwtaWdVQTQ3aWtiVjdINUxvMHVvRkRORWJPS2ljZUlRa3NMR2x1ZV9hYkJKeWNyR1Q2LURNZlVrcmZEVU1lOGpKQUloTFB4Ymx2NElIbFdrdGY2UVgySDJSTFNId0t4QnJJa2VXWF9aQUJyc3BjTE5TMTFhcFNVeGRmTmhXQUtfN2tGS1FGUUtEcV9TcXluUXc?oc=5",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f700abae14e7a39e66d0",
-      "title": "Zcash and Bitcoin Cash Are Up This Week While Solana Fell 5%. Which Could Gain 20% First? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTXZoSmVzX3RZWTRnUjNvY054WGtSdWZhM2xybUUyMGc0ZWJLeHZzQWFnZVRESGQySDNOTXJ0SVlKdTZMM1VDRW9USnpuVzFQTVAxQlIzbVlEQU40V3R6UGRRZ1BqUEYzaFI0M0lkZ0V2SE5fanJBdi1DaXZPSlo2TjVzYWJfdmx0anZrdlFBU19NaFlPaGFCeC1RM3lISVQzRjZ1VmQxaUlaYVF0TGRycXVOUVk5UnZTVmI0Mm5NTWV4V1oyT3BTZ2hIZnREb0xZRHQtQVA0bnhqMGVJ?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T01:33:00+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     }
   ]
