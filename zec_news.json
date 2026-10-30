@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-30T22:40:33.494785+00:00",
-  "last_success_at": "2026-10-30T22:40:33.494785+00:00",
+  "checked_at": "2026-10-30T23:38:04.928733+00:00",
+  "last_success_at": "2026-10-30T23:38:04.928733+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,15 +27,28 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 95
+      "matched": 96
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 28
+      "matched": 27
     }
   ],
   "items": [
+    {
+      "id": "1001be3e521ad28239dc",
+      "title": "Zcash Price Prediction November 2026: Can ZEC Reach $1,400 in November as NU7 Goes Live? - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xM01UbjVzM25rTzhESHNlQkdWYkN2ZjdfS084UTFub2Z2bWdiTHNFaFJNal9MdUFEM1ZVLUV6VWxoeWRPN0c2QnVxZ0lJQTEzY3U1MGlnSE9lOE0?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T22:52:50+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "cd3223b69cbcaf1c3efd",
       "title": "Bitcoin ETFs Add $441M in 4 Days as Zcash Streak Hits Day 8 - Cryptonews.net",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T16:05:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "3cf24d6fdc740d6dc209",
-      "title": "CoinShares Says Zcash Product Trades Again in Paris Hours After Euronext Suspension - unchainedcrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORDItRElQSFdtaUV5Um01ZVA0bF9kRGc0cHNjZFIzdUZiUENfcGFPSTNRdmVXOWlxUzhVNEptVm0xZWJNeWlnZjBzMnh1XzJQSGNfMVRNc2xlRVZic1hxczdobk9YMUp6SHNRdnIwWmxCLS13YVgtdVBkd3dVNDNMLVlpMDJDaUFvZGJEOEdIenhYWTdnWlpRWjA0aU5ibXVZbGJXVFBOS0E5aC1pSkUzUmlB?oc=5",
-      "source": "unchainedcrypto.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T15:32:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
