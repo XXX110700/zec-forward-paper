@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-30T20:40:48.830838+00:00",
-  "last_success_at": "2026-10-30T20:40:48.830838+00:00",
+  "checked_at": "2026-10-30T21:39:23.424247+00:00",
+  "last_success_at": "2026-10-30T21:39:23.424247+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 21
+      "matched": 20
     }
   ],
   "items": [
@@ -115,6 +115,32 @@
       "verification": "未独立核实"
     },
     {
+      "id": "ea5c1907c8f927b8d033",
+      "title": "Hyperliquid (HYPE) Entered the Crypto Top 10 List, Surpassing Zcash - Coinpedia",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObkJuSFJ2WnBXVTFyYzVab1FXcERWWkNEUXlueUZlQXg1UW53MzZ4SjJTRi12NzZPWkhhb3N1S3FaYUJmWWdkT2h2QktXNGtfTV9USHVtS0VrQTU2cl8xQlNENzZGV0YwaXk4M0hFQjMxbTk1aEVWb09sOElxbGxtOXBDdjdPOHJtbW5PWVhtVWtjZWdE0gGUAUFVX3lxTE5uQm5IUnZacFdVMXJjNVpvUVdwRFZaQ0RReW55RmVBeDVRbnczNnhKMlNGLXY3Nk9aSGFvc3VLcVphQmZZZ2RPaHZCS1c0a19NX1RIdW1LRWtBNTZyXzFCU0Q3NkZXRjBpeTgzSEVCMzFtOTVoRVZvT2w4SXFsbG05cEN2N084cm1tbk9ZWG1Va2NlZ0Q?oc=5",
+      "source": "Coinpedia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T16:41:05+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "2f1a547ea4b950c9484d",
+      "title": "Zcash Member Proposes Ending Development Fund Before 2028 Expiration - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KSVRIYWtNaElpZFpDemFHTmswcG4ycnBXaVZubmFLQzU4MjVYVEVwSHQwMTc1UGlnYl9FbkZLT3VUYjYwM2h0cDdKS3ZVUDNmMHNxMGRGX0EwSzg?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T16:37:48+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "95a4f7733dc1f1fa8078",
       "title": "Zcash Price Prediction November 2026: Can ZEC Reach $1,400 in November as NU7 Goes Live? - CryptoRank",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzV3OFlRSFQxazB2YVJnMXBmajBrVmNwbEtKYzY1MDQ3dTB0cjNiM0Z6eWNYc2hFQXdUWGwxNEJSYXRwZllwX0s4a2dnWkhOb3l4RUtzUGdXUS1kVVFkbDhYc0F1Ymd6dkY2a1c4LXVLbWl0NklFVHZhNFN2S2tBUU9VUmRaelV6N3JvLTZaenN5YzdDVVhla21fbjVNcWRYUElHQXhzWWlFZk10Q2drbEZ5b2E5MjBoVWR4NWV6Yw?oc=5",
@@ -148,6 +174,19 @@
       "feed": "Cointelegraph",
       "kind": "media",
       "published_at": "2026-10-30T11:36:23+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "39a742164afc087f539c",
+      "title": "Hyperliquid’s HYPE Token Tops Zcash With a $22 Billion Market Cap - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Sk45MGkzTjI1SzBpTUpVaEg2cWxKNHp3bklrQy1IdnI0T1hXZmh3ZkdxSDJNWnM3Mk9RWE9JbUJ6NUpKeWNrYi1iWDNaLWwwbFg0cGJoZXJmUQ?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T08:08:02+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -206,19 +245,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "0f12f3b89f2ac536da19",
-      "title": "The Zcash ETF (ZCSH) Seasonal returns chart - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kVTdFRGF4b0hpbC1EMmRYa3E5YkJqOHZFZGFsek45a2pfbTA3WnhGWGx6cFI4Y1drUHY5WlZsQWxCckpZUkY3ZzJDWHh2SkpqRmxkOW8yM2NoQmRKNDh0NFdn?oc=5",
-      "source": "Yahoo Finance UK",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-29T22:35:24+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "797ec69f78a788542d00",
       "title": "Zcash NU7: block time drops to 25 seconds - CryptoTicker.io",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sWEVhTmQtR0VuWV80b2RVa1F1ZVlYTUZOcTNseGxnU0dJY1NSMG9TN2t3VU1DWmN4TnY0N2NQMGdydTRRQ0U2YU9hbGoxVWozbWdrSEItSU9UTjYtNDlpcFpjUDZIMDlaTFQ4?oc=5",
@@ -265,19 +291,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-29T16:10:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f317995296cd663b7a39",
-      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdjQ1OUo2OEIzZFVqRXIwaGNTbUdIb19jRkEtWGlqQTk5SEc5UUxiNmt1X3V0SFZtRnNzOGJKWFktZVBRSVJPT1VlZnN4RmpuY0d4RkVYMzlvUQ?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-29T12:25:41+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T04:32:41+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "e17900dae3bda64dcfc4",
-      "title": "BTC, ETH price news: Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8% - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkNaeE44eFBVY2pMUnFSTkY3ekxfaFZoQWxqQ19Hb193eVYzalI1c2IyUjQzSHY4YVQ0eEZMQVZXd3FGVGRvOFRXSEVSTEdMdXFpQ0ZrWHBvRF9wd0haVUVJcjlfMjk1ejhoaTNGTnhkdVB0bndzWTRnSXppSGpTa194Q1VOcGJqUnVFUVB6QTkwMEQydGFHMUctVUpqWG5tblpBT25yNA?oc=5",
-      "source": "CoinDesk",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T04:15:20+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
