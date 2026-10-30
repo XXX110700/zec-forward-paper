@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-30T14:56:55.300211+00:00",
-  "last_success_at": "2026-10-30T14:56:55.300211+00:00",
+  "checked_at": "2026-10-30T15:51:46.097827+00:00",
+  "last_success_at": "2026-10-30T15:51:46.097827+00:00",
   "status": "ok",
   "sources": [
     {
@@ -609,19 +609,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "c518bb482adb52fe51e1",
-      "title": "Zcash Price Prediction Today, October 2026, 2030 & 2040 - CoinDCX",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oTVVSd0xLaFRFTkJOS2JOZ0ZXaENBR3NaX1VqRFJMR1M4MzlOMUlGbXpHTFhnNFVGaVRsbjkyaTh5R1RnX2hvZDN5emJtWF9zSERfZms3dFJ2bGtjeHl3bVlhdnY?oc=5",
-      "source": "CoinDCX",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T12:40:12+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "152357967a7c190c8b09",
       "title": "Key facts: ZECUSD OI $1.5B; Redirect 91,453 ZEC Plan; +6.3% to $1,304 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVVUyalpReDJkS3Nlc3hSS3RVSHliNXAtOHAyWnFkbDhKajVFQnZkLW0yM2JVYXRwVUZzZV9yUk5LU3UwOVU5eDBWU1lscVA0cTI5d3VsM2F4NVJKOXduaElpMUxJMWNtNWtYQXFqWWMwVlJqNEdFLUtFZmpaTndWb1YxM3RwNzJhYjZ2LXVTVzYzSE01Ujg1bTNIUnFfT21pdUNTdUpJU01FR3YxZC1aTWJfTF9UbzZNOXhLUHdLYWxsdw?oc=5",
@@ -684,6 +671,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "0ea91d88e5be6c8be143",
+      "title": "Zcash (ZEC) Celebrates 10 Years, Key Upgrades and Price Surge Define 2026 - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT2V2T0NhamlyTG1EZjhFS204TVRmbGVDYTB5ZXdMYlpsSUFnck1ZVVJUbDhqUVRQZ2lDdUVsLXJoRHdRQjFkTGhQOUNyS0lTSGN3SDRJTjdxcm9vOTBSeHJ3V3pBVmhYUWJNbk9fT3pZUFdObk9JbnlNUkthUnVraXZURTQta0tVZlZzR0pkLVVHNlpjX21HSkV1UlQ?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T10:26:55+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
