@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-30T18:47:20.905215+00:00",
-  "last_success_at": "2026-10-30T18:47:20.905215+00:00",
-  "status": "ok",
+  "checked_at": "2026-10-30T19:47:39.257500+00:00",
+  "last_success_at": "2026-10-30T19:47:39.257500+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 0
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -36,6 +36,32 @@
     }
   ],
   "items": [
+    {
+      "id": "7445277d444de27c735f",
+      "title": "Zcash grants group offers $124M compromise as governance backlash grows - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yRXVsaldtRHFJMFJacllmX2t4Z09hTnQ0ZzIxMnQzMnV1dWZXek9GWWQ5cVhqQy03UGMwSFVSNFY2THE0VFlhWmV4My1FVnVuNl9iNndJWVJtZw?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T19:27:34+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "91ed563cf97979fbc9a1",
+      "title": "Zcash Compromise Proposes 50,000 ZEC Donation and Funding Redirect - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdGxSUnFDRGl5MmFjeUdmR2d4VXkxMENfZzJieDk3TWEwcDRzdEFZa2ZtMUpMSDh2cTVkSXVEd1l1MnNFRVRIU1Q2R1NzQWlNZ1d3X09BV0FVbExmUlBpanVzTHN0Vnd4QjdoSE03cHVSdWwxbHo4ZlNDYUY2X1lSVHV2QkgxUzFSeFc1ai1OR3FMVTJVZUl2WWoxRV9DMXZMSUE?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T19:04:30+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "be40c4a0379acfe9298d",
       "title": "ZIP 1016 Author Josh Swihart Calls to End Zcash's Dev Fund Entirely - Yahoo Finance",
@@ -147,19 +173,6 @@
       "source": "Cointelegraph",
       "feed": "Cointelegraph",
       "kind": "media",
-      "published_at": "2026-10-30T11:36:23+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "9479e6dfd10170133b24",
-      "title": "Zcash grants group offers $124M compromise as governance backlash grows - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbUdHYnV5TVNmVW9mTnNuTEZJVWFST2s2N2FPZElwUlZydEM5NGliOFlrRVhNN1VsSXlRWEdzQkJiUXJZWjRKLXh4UG81ZEc2Q2xSbUREUWRSOUI1NWJTT21ZQXRoMlczOGhudGo3VWJad19Oa2dZbVplUVhHSDZtaEZPUDU2ZFNYNVZ5SEVybGloVlR2NEhlcGhtMGlKV095YUhuNFlpdkxGT1hUSzZITFV3X1NUWVpRR1p6SXpXWk1nQjRQYUdZeGtMd0JGLW8?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
       "published_at": "2026-10-30T11:36:23+00:00",
       "event_time": null,
       "sentiment": "中性",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T12:00:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "e2816460c29c79c3278c",
-      "title": "Zcash reclaims $1,300 as ETF inflows and rising OI fuel recovery - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaFB1eHg1emZMa2gzdDlVaHdGSVFUUXNkTWstSkZjYU9iZ3A0QU5YdU1XcllReTA2VDBkUnN2NHo2Ymt0d3llQ0hoYW43b3Z1VERBUmVvLTBLcHBLOExZY2xHVVA5WFU5d29oTFZXQWNPNjMwNGNGeElEQjNjRHBTN3d3TkM2dThrZXh1OHlXQ21KUHM3aDFvTFdzcFpPZTA2UDN6S1dTc1pJS1JoNTB4N1p4bHZuNV9uQ0lrbw?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T11:52:01+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
