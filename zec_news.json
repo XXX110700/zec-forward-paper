@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-29T23:38:53.375178+00:00",
-  "last_success_at": "2026-10-29T23:38:53.375178+00:00",
+  "checked_at": "2026-10-30T00:55:38.881038+00:00",
+  "last_success_at": "2026-10-30T00:55:38.881038+00:00",
   "status": "ok",
   "sources": [
     {
@@ -37,6 +37,19 @@
   ],
   "items": [
     {
+      "id": "71b05d4b8a846db4fa65",
+      "title": "Zcash's 10th Anniversary Meets a Governance Storm: Founder Calls for Halting 8% Development Allocation as Debate Erupts Over the Fate of $125 Million Treasury - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zVkQ4V25UWkxwMWluWG9WU2NZdG8ya0hJTDk1bUdtNkZqeHpsbVNBRjh1Szcwcm9KZnNIVk94Rm5aYjVtbE1mNENUQU80R2xlMTlVQXlOenJjS0dQWV9kTFQxVGY1aUVhdnRkTUhjTGJCZ3JxNVE?oc=5",
+      "source": "BigGo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T00:45:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "b76abd1c004467be10f5",
       "title": "Winklevoss Files Zcash ETF, VanEck Withdraws Lido Staked Ether Proposal - KuCoin",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU3JBWUVSTmlqZ09SSDFOWDlMa25iUWhqSVZ6dFB3TW41V2F4ajgyVkVBUl9GTGFRQVlWTFFOSVhoU1A4QTNCaWJrWnRObVZRVnNBUUtsU25JZjB2dEdYTXR1blJTUy1nWS1lQ0VoU29nUFgwRVRtM25wZ2ZORE9kR3RjMldPazhqVHRxdzhEaS01a3BhZkVpVUxOenB3Z25aOFp1TTFQdw?oc=5",
@@ -47,6 +60,19 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "3f385528aad0c52a7084",
+      "title": "Elon Musk’s Grok AI Predicts an Explosive Move for Zcash (ZEC) - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPallZaWx2UWhBekZ5STE3T09rSHhBZkJJR1BickF0dFdQdi0zVDdPNUktQWFKa28zb2tZOXlmaXZnUDVqc2ctVlB6MFFGclVCZGM0S1phLWFCZEI5MjJPRjdOa0ZqNTR4ekhGb3B6Vy1RaFV0aWNEYThpc0xEelRrYjBOMzhrU1ZldVpaZHA5YlB2ZWR6bmZCWjlDbzFpcmpNRTYtOU9jaVE0OXMtaTJnSElBRHV3S1VoYWY1Qkln?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-29T19:09:46+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -83,19 +109,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-29T16:10:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "d03ee6ebb106e57d7866",
-      "title": "Zcash Miner Fortitude Adds 15 MW Nebraska Site to SPP Demand Response - TheEnergyMag",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWNsVXFTLU1tZ0N6eG0xRHMyMHk5akRibldXS2N1MWtBekFkNFpYWjdvTjcxSE9xUWNKYzVIRlpVVmRseUU0aDY0cUw3a1R5bk5jaTFob3J2TFhfTFZhSE9IZ05BcVpFU0w0Skl2aTVWQV9iNTRiaC0xR3BwWXZ4T2FWTXFYWlZzMHdVY04zU0hJWndkbGc?oc=5",
-      "source": "TheEnergyMag",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-29T12:03:23+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -330,19 +343,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-10-28T12:59:37+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "7442067dfc38d13c177c",
-      "title": "Zcash Developer Proposes Ending ZCG's Grants Funding Stream Entirely - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYW5NaWpuZlRYRFZkOGdQeFltcklHSktDYUZEcnJsamZMbzY5ZUpXVGNqSlI3VVU3V2FUWHFuOW9vZVl5SWp1bEUwbzRJZE1PZ3ZqQ1JUQWFhYmxVdDh1UTZ1dVAwcDZtM09BZmZFRXpGZGUzMHBYTDU0VDMxSE1uWklFWXY?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T12:22:53+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -622,6 +622,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "7442067dfc38d13c177c",
+      "title": "Zcash Developer Proposes Ending ZCG's Grants Funding Stream Entirely - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYW5NaWpuZlRYRFZkOGdQeFltcklHSktDYUZEcnJsamZMbzY5ZUpXVGNqSlI3VVU3V2FUWHFuOW9vZVl5SWp1bEUwbzRJZE1PZ3ZqQ1JUQWFhYmxVdDh1UTZ1dVAwcDZtM09BZmZFRXpGZGUzMHBYTDU0VDMxSE1uWklFWXY?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-27T21:22:04+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "cc340afc70f3965c7093",
       "title": "Zcash Jumps 5%, Outpaces Bitcoin, ETH as 10-Year Anniversary Draws Close - TradingView",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSTd0a1c5WlJzajQteXpXTF93Y3lZQ0J1OHVuU1lvQUlrajNXcWY3Z3dLOF9RMm5JMW5WUEN4Y0FhSkxhb0dMbTNEZGItbFo0a1VKRkF0QmlMem1Ec3ZQZVVxNzRTM3QxdmdKR05QNm9SUWNXeVRGTjNmM1c4QVEtRlFVa1dXVFBDWlNiQUJtMG1KZGR5TnJ5OGVHMW9IY2dxYlpjNjlmOHJVUEQtYXk0MmNoRDM0WmI0WGQ4b2pzYmE0TlhTMFg0?oc=5",
@@ -664,19 +677,6 @@
       "id": "9c2a304845a03edf42f9",
       "title": "Zcash Marks 10 Years as 20% Block Reward Dev Fund Draws Grayscale Praise - finance.biggo.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UTG1WZi1VcXlMNkQ5S2NLU1lpU3FEU09IcFhLbHZSZWFiSUtmQjR1Y0JGQl9lVlRzWTI2aUtpc3ZrZVh0eF9XWWJERklGTTVrZEYwcXFZVFk4LUx0d3ZuclM4SDdhUFRSeHhuZ0VHWl96SkRaUUE?oc=5",
-      "source": "finance.biggo.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-27T18:05:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "0d9cc7e4be4fa8f23e4d",
-      "title": "Zcash Co-Founder Sean Bowe Moves to Cut Off $125 Million Grants Stream, Redirect 8% of Block Rewards - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VUjBVQnhqSWFtSDZBbmd0LU1XQU9DR1laR095WV9Vd3pEMXBEaTdzRlhsdkVNTVo1TkVmSEx4S2VFbGJFQi1fUW1IUzQ2OU1KWm56eTZDdjhyYUJLcE1wOGM2RDRUeW83NWk2SGQ2WG9qaEl2bVE?oc=5",
       "source": "finance.biggo.com",
       "feed": "Google News EN",
       "kind": "aggregation",
