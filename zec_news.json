@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-30T23:38:04.928733+00:00",
-  "last_success_at": "2026-10-30T23:38:04.928733+00:00",
+  "checked_at": "2026-10-31T00:57:01.872681+00:00",
+  "last_success_at": "2026-10-31T00:57:01.872681+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 27
+      "matched": 20
     }
   ],
   "items": [
@@ -89,6 +89,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "d578b3146c85cccc4e68",
+      "title": "Zcash (ZEC) Just Lost Its Top-10 Spot to Hyperliquid. Can the NU7 Upgrade Win It Back? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTUZyT01md3ZVcGFHNV92dGN4SWYxUzZpYkQ0ZkRicmdCeVl0VW84UEZadFAyVzZTdU10WTlxbGlDeHQ4bnVoZFhrVWRxd1M3czc3NE1TNmVSeUhITGtlSjYwUjFaRmRvdXJaSTRSTWJlUms1bGcxa202MjV2OEdSRlZDMV9ERURESjhVUEd3Z0xSdDlLQU84ZGI5M3MtNnZpRWRyYW5VWmJBUzNrdGY4N3VtZEhUWVhDLUo5Vm83b0FqRXNaSVd1eWI1MWtpYk5NRjJObTZMOEw?oc=5",
+      "source": "24/7 Wall St.",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T18:49:00+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
       "id": "be40c4a0379acfe9298d",
       "title": "ZIP 1016 Author Josh Swihart Calls to End Zcash's Dev Fund Entirely - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzhZN0RlSDMxZUJrckREMmpQVG0zeHN2V0RMNzd5MFFNd3htbF9pSEpyaGZJZkZ0YkhtSnVxOFdMYXZ3eXhObm1lSUhxbDc0TkFJSVE0VTVLV2MwQTFqdHhMSUo0UFEzRE5RREtOZ1V1Y3hQRUdKUWZ6UHhHVWlfYmNNRm1yUmZCNHpZWmtHc0lwREt2Nk5aeA?oc=5",
@@ -99,19 +112,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "d578b3146c85cccc4e68",
-      "title": "Zcash (ZEC) Just Lost Its Top-10 Spot to Hyperliquid. Can the NU7 Upgrade Win It Back? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTUZyT01md3ZVcGFHNV92dGN4SWYxUzZpYkQ0ZkRicmdCeVl0VW84UEZadFAyVzZTdU10WTlxbGlDeHQ4bnVoZFhrVWRxd1M3czc3NE1TNmVSeUhITGtlSjYwUjFaRmRvdXJaSTRSTWJlUms1bGcxa202MjV2OEdSRlZDMV9ERURESjhVUEd3Z0xSdDlLQU84ZGI5M3MtNnZpRWRyYW5VWmJBUzNrdGY4N3VtZEhUWVhDLUo5Vm83b0FqRXNaSVd1eWI1MWtpYk5NRjJObTZMOEw?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-30T18:02:18+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -466,32 +466,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "bbb7df154a3ccffae09d",
-      "title": "结算问题致 Euronext 暂停 CoinShares Zcash ETP 首日交易 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CLUFwRnZxUTlCQkdsekRQS0l3Q2RlcFNFd0JNUzJCeWtlM1RmRXE2VS1sdHZUcWpkdkJ5bzNUUUdGY2h2N3B5UXNKUjZTZWJ6VWxrVDhpY3c?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-29T07:53:15+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "d4ab2984f8e1703abe25",
-      "title": "泛欧交易所暂停 CoinShares Zcash ETP，称结算未获支持 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NSmI2el92NGRyX0dLdF9FeVBsSjQxcjgybU9JeHIwUEtWYzVVeTRFM1Y2YzRQY3lTUnhTaTVSajBhaUdOU0hRQVNwZ21YU2FEZzl1TE1OTGhfYjlE?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-29T07:51:08+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
       "id": "ba75a451eac8c6665ecb",
       "title": "Zcash Price Forecast: Steady ETF inflows and retail confidence drive bullish momentum - www.tmgm.com",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPekROYW9VdDdOSnpuZzgzYlBkY3VlTGhPMlU5bWstb0hUZ2M3WWNIcnZSXzdqYUdNTzFHYnh4dzlPQVpfNlp2b0VFWU9NZmg0elRqeVpmTUdNbEdTcG5mSVBxaGtWQmVhOVFJcl9UTS1RVDc4TWw2Vmlrcl9sYi1OaEw3N2hOR2lFMU9iUnFBRGRyR1ctTE40cG1QRUt2NjNlU3J0alp3R3hnbUJQLWVucWZoQ3lrVFRadGU1MkpCV3VhWUFYZXRNMldkcHFKc2diSnVlWlFtNENHX3ZSN01vX0JFVlh4QQ?oc=5",
@@ -499,19 +473,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-29T06:34:02+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "a3718cc0066f86b39e25",
-      "title": "Euronext暂停CoinShares Zcash ETP交易，称因结算系统尚无法支持 - BlockBeats",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3UkhRbHJrby1IczBxNXQ2NnRrNHcxMnBETnVkMGExZGZ5RG42Wk15b2ZIbFRpTTZHRHJva3FCSE5kSFgyWmVmb0pJM2Jmc0FSOWx5N2N3?oc=5",
-      "source": "BlockBeats",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-29T05:50:09+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -681,6 +642,45 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T16:05:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "3cf24d6fdc740d6dc209",
+      "title": "CoinShares Says Zcash Product Trades Again in Paris Hours After Euronext Suspension - unchainedcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORDItRElQSFdtaUV5Um01ZVA0bF9kRGc0cHNjZFIzdUZiUENfcGFPSTNRdmVXOWlxUzhVNEptVm0xZWJNeWlnZjBzMnh1XzJQSGNfMVRNc2xlRVZic1hxczdobk9YMUp6SHNRdnIwWmxCLS13YVgtdVBkd3dVNDNMLVlpMDJDaUFvZGJEOEdIenhYWTdnWlpRWjA0aU5ibXVZbGJXVFBOS0E5aC1pSkUzUmlB?oc=5",
+      "source": "unchainedcrypto.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T15:32:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "77a9f12042f54ff27889",
+      "title": "Zcash Drops 3.54% in Four Hours to $1,272 on Binance Spot - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hT2pkbWl1blBCSmo0cjJDZXo5NFdQMTJXVmtoVnBWQWhBWGY1TEZWdVY4MkhyZmtYN2lYc09fOGptQ3VQelhTZ184N0VLckRIVzRtNlZmUHF5dw?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T14:28:16+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "c4a9fb129b79839ff354",
+      "title": "Confidential ZEC trading goes live on Shield - Finbold",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84NkRzendFNHN3YWw1dlpHTk9rWjh6MncyTmtMVHc2NFJhdHFaNnh5bjZjSnNZTEpQX0VyQ05obVItUjFIRTExX0FNQ1F1eTVlUml0UjhhRVFYd2lQeUhhSlI1MWl5TzEzZmJPOVpfU01jaFU?oc=5",
+      "source": "Finbold",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T14:00:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
