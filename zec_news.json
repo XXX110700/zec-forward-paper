@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-31T09:40:18.538130+00:00",
-  "last_success_at": "2026-10-31T09:40:18.538130+00:00",
+  "checked_at": "2026-10-31T10:38:12.624714+00:00",
+  "last_success_at": "2026-10-31T10:38:12.624714+00:00",
   "status": "partial",
   "sources": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 1
     },
     {
       "name": "Cointelegraph",
@@ -26,13 +26,13 @@
     },
     {
       "name": "Google News EN",
-      "status": "ok",
-      "matched": 98
+      "status": "error",
+      "error": "HTTPError"
     },
     {
       "name": "Google News 中文",
-      "status": "ok",
-      "matched": 20
+      "status": "error",
+      "error": "HTTPError"
     }
   ],
   "items": [
