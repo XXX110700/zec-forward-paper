@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-31T07:52:50.163605+00:00",
-  "last_success_at": "2026-10-31T07:52:50.163605+00:00",
-  "status": "partial",
+  "checked_at": "2026-10-31T08:44:25.932260+00:00",
+  "last_success_at": "2026-10-31T08:44:25.932260+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 1
     },
     {
       "name": "Cointelegraph",
@@ -27,15 +27,28 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 98
+      "matched": 97
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 19
+      "matched": 30
     }
   ],
   "items": [
+    {
+      "id": "480193f418dff5450a68",
+      "title": "美国 XRP、ZEC 现货 ETF 单日合计净流出 506.79 万美元 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KQmE1UXdtTkNPU3hPWXVPem1CSUtqTF9VS2tRbHVCZFBSVzJMNWdyNFQtQkY2N041WVM3R19ORDZWcnF0aGdPZ2hhVU9wZjRzMzE4WGxleUdJMkNLUjM3d1lyWWw0UQ?oc=5",
+      "source": "TradingView",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-31T04:30:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "e0f7bb1dc0fce07eb982",
       "title": "Zebra Ándale: The Fastest Zebra Yet",
@@ -108,7 +121,7 @@
       "source": "Cryptonews.net",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-30T20:33:07+00:00",
+      "published_at": "2026-10-30T20:32:38+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -401,6 +414,32 @@
       "verification": "未独立核实"
     },
     {
+      "id": "bbb7df154a3ccffae09d",
+      "title": "结算问题致 Euronext 暂停 CoinShares Zcash ETP 首日交易 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CLUFwRnZxUTlCQkdsekRQS0l3Q2RlcFNFd0JNUzJCeWtlM1RmRXE2VS1sdHZUcWpkdkJ5bzNUUUdGY2h2N3B5UXNKUjZTZWJ6VWxrVDhpY3c?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-29T07:53:15+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "d4ab2984f8e1703abe25",
+      "title": "泛欧交易所暂停 CoinShares Zcash ETP，称结算未获支持 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NSmI2el92NGRyX0dLdF9FeVBsSjQxcjgybU9JeHIwUEtWYzVVeTRFM1Y2YzRQY3lTUnhTaTVSajBhaUdOU0hRQVNwZ21YU2FEZzl1TE1OTGhfYjlE?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-29T07:51:08+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
       "id": "ba75a451eac8c6665ecb",
       "title": "Zcash Price Forecast: Steady ETF inflows and retail confidence drive bullish momentum - www.tmgm.com",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPekROYW9VdDdOSnpuZzgzYlBkY3VlTGhPMlU5bWstb0hUZ2M3WWNIcnZSXzdqYUdNTzFHYnh4dzlPQVpfNlp2b0VFWU9NZmg0elRqeVpmTUdNbEdTcG5mSVBxaGtWQmVhOVFJcl9UTS1RVDc4TWw2Vmlrcl9sYi1OaEw3N2hOR2lFMU9iUnFBRGRyR1ctTE40cG1QRUt2NjNlU3J0alp3R3hnbUJQLWVucWZoQ3lrVFRadGU1MkpCV3VhWUFYZXRNMldkcHFKc2diSnVlWlFtNENHX3ZSN01vX0JFVlh4QQ?oc=5",
@@ -408,6 +447,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-29T06:34:02+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "a3718cc0066f86b39e25",
+      "title": "Euronext暂停CoinShares Zcash ETP交易，称因结算系统尚无法支持 - BlockBeats",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3UkhRbHJrby1IczBxNXQ2NnRrNHcxMnBETnVkMGExZGZ5RG42Wk15b2ZIbFRpTTZHRHJva3FCSE5kSFgyWmVmb0pJM2Jmc0FSOWx5N2N3?oc=5",
+      "source": "BlockBeats",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-29T05:50:09+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -479,6 +531,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "49888cd04f7e1a0c009f",
+      "title": "Zcash (ZEC) 价格预测：巨鲸在 FOMC 公告前做多，头肩顶形态将 1,350 美元价位推向焦点。 - Brave New Coin",
+      "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQVjVsekJUSTBXRkJES21FU2JLXzZ2Ny13QU40LU1nQ2QzZVZiQjdVVFZRNzdLTmlJUjZhX1h1TnU3MXozR3U3ZTJ5MkRuVG13QmVmNEE3SndMaW9Tcjg3NTZIYmZ6RC1kN0ZFN2NXTUMxbHAtalVsd2lhUmJaeUwyX1R6U2VjVXRMc2Z3aEJ6VnFMLXpmeF9vdXBnWHlTWGU4YlNDaHktWExjak9XbmpvTlhNdERoVE9GVUdqUWRaZlNEYUNnVFZiLVdvZjd0eEpQb2xodkRNZnE1WTFOeUJpaWs1TmV4cFVoODlFTTBaMHFsR2E4WjIyQ3I2V0doN3BScnotLWVZQXhRcFg0RWkyVWI2NW5IMF9ieVVHRnItS2RRSmM0NWVRY1NFem9HSWR3TDVqM2hGYVREQjhldFNKNkFPQzNDTE43RW4wQ0Jpdk5QVzlEOVZUbFZjdXVKa2Z2cmdtaTQtVTZodUV0YTFwd2U4MFlKNHJ0STBsd0RfVW1HWVl2aHlmMnpHU1F6NUlGS0hsWkNuMERMWlFzSjROd3l5d0wyWGhSRUtkTlY0QnotUkdwcE9US25KdVVuazg0SXFZLU90R0xTdUQxdkdVRi0tLWI0bVdsQ0NDcS1yRlpyT0ExZnlJcE1qODM?oc=5",
+      "source": "Brave New Coin",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T19:36:14+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "91f7df94494af28ac207",
       "title": "What is Zcash? A guide to ZEC and shielded privacy - CoinShares",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfQjdqNHMwWks5LXNUMWFMV2RTZlZBeGJBVTlhOUNta3U1M05Oemt6ZF9KMEdCUThnUmtidVFLSlBGSEFGQlJ0R3lHUDFIVjd5NlBmT2lSUlZYOXdsOC1jQ0dHRkM?oc=5",
@@ -512,6 +577,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T17:45:08+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "3643700b7a4e074efff7",
+      "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCRVFqSmhNZXFueWt2aWNxZlU0eEx1aUE1LVlCQXBWVVA3SzZOREp2emVNOXNzWjNxUGdTaDBJUmY1cEhkTzh1RHZlbUlQV1FlTGFmQ3NESQ?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-28T17:12:26+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -603,84 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T13:59:16+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "152357967a7c190c8b09",
-      "title": "Key facts: ZECUSD OI $1.5B; Redirect 91,453 ZEC Plan; +6.3% to $1,304 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVVUyalpReDJkS3Nlc3hSS3RVSHliNXAtOHAyWnFkbDhKajVFQnZkLW0yM2JVYXRwVUZzZV9yUk5LU3UwOVU5eDBWU1lscVA0cTI5d3VsM2F4NVJKOXduaElpMUxJMWNtNWtYQXFqWWMwVlJqNEdFLUtFZmpaTndWb1YxM3RwNzJhYjZ2LXVTVzYzSE01Ujg1bTNIUnFfT21pdUNTdUpJU01FR3YxZC1aTWJfTF9UbzZNOXhLUHdLYWxsdw?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T12:00:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "e2816460c29c79c3278c",
-      "title": "Zcash reclaims $1,300 as ETF inflows and rising OI fuel recovery - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaFB1eHg1emZMa2gzdDlVaHdGSVFUUXNkTWstSkZjYU9iZ3A0QU5YdU1XcllReTA2VDBkUnN2NHo2Ymt0d3llQ0hoYW43b3Z1VERBUmVvLTBLcHBLOExZY2xHVVA5WFU5d29oTFZXQWNPNjMwNGNGeElEQjNjRHBTN3d3TkM2dThrZXh1OHlXQ21KUHM3aDFvTFdzcFpPZTA2UDN6S1dTc1pJS1JoNTB4N1p4bHZuNV9uQ0lrbw?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T11:52:01+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "5dd6cbfec4c307e783e2",
-      "title": "Zcash extends gains as geopolitical fears ease ahead of the FOMC decision. What's next? - investingLive",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcTBNOXZMR0poUmR6S3M4azVfQUlMZXFOYVNLMG02ZXQycjRBX29iLTEtWlc4V3M0Ykh0S0tfU0RMc2lFX3hhQ1pIWm1tcVA5cUhteDg2S01EYmtxNGdaMUtZY3RYYkJpcENDV0hRZ0Y5V0tmQzY4bTJVTWVSUTEtRjNnMWZuTlBkOEliXzdobVhvZGhDckUwckRHVXl1eFRnU1NNWHk2d2Vqa3ZkazRTd0pOVVlhN3g4T01oTTJUSlZLcjQw?oc=5",
-      "source": "investingLive",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T11:18:31+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "acec2dce58c1cd1d0bea",
-      "title": "CoinShares bets on privacy with a new physical Zcash ETP - RankiaPro",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCSk5SVVl2V0pUTkhLM0dKQU1LU001VGlQdWlZeTZ0UTdUUFRfNjNHVHJlSXJabGRVWWU3NXV2LUdsR3hHREQ4ZlFmekV1ck5wSFdWOUlqZmo3dFdWaXpGdA?oc=5",
-      "source": "RankiaPro",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T10:53:17+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "0ea91d88e5be6c8be143",
-      "title": "Zcash (ZEC) Celebrates 10 Years, Key Upgrades and Price Surge Define 2026 - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT2V2T0NhamlyTG1EZjhFS204TVRmbGVDYTB5ZXdMYlpsSUFnck1ZVVJUbDhqUVRQZ2lDdUVsLXJoRHdRQjFkTGhQOUNyS0lTSGN3SDRJTjdxcm9vOTBSeHJ3V3pBVmhYUWJNbk9fT3pZUFdObk9JbnlNUkthUnVraXZURTQta0tVZlZzR0pkLVVHNlpjX21HSkV1UlQ?oc=5",
-      "source": "KuCoin",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T10:26:55+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "3e9153fad29b730e3637",
-      "title": "Zcash Price Forecast: Steady ETF inflows and retail confidence strengthen bullish momentum - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM2lrMXBodGNzNkM1TkdLTzJma2dZd0RrUHljZGJ2RWZLSWU5Wmo3X3ZhbmMwcXpKTTJXVGtWbk8xMHN1ZnFuYnFrSU5FQURzQzJUV0cxMEtKekZxc05ldVlGRkVfeTg4UEIwZVQ3WmluQmdDMzlzUzVVNWtSOFZ5ZXZKTU5TT0w0V003TGNzSjJiVUJuV0NOVFpzLUk4a0xsamt3RGRqV2JYOXhpbU5ZTFdmakhQMDBwUXRDLXFiWUFqc1BMYjN6MW4wWWZ4NnBwa1hqazFiZWNZYWVza0g3UUQ1VDZfRlJU?oc=5",
-      "source": "www.tmgm.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T06:49:51+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
