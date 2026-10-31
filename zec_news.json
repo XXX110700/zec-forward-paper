@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-31T06:51:03.779920+00:00",
-  "last_success_at": "2026-10-31T06:51:03.779920+00:00",
-  "status": "ok",
+  "checked_at": "2026-10-31T07:52:50.163605+00:00",
+  "last_success_at": "2026-10-31T07:52:50.163605+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 1
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 20
+      "matched": 19
     }
   ],
   "items": [
@@ -48,6 +48,19 @@
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
       "verification": "官方发布"
+    },
+    {
+      "id": "1a0b34ab68d8d38baee8",
+      "title": "Crypto Address Cuts About 8,000 Zcash (ZEC) Long, Leaves No Position - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SRngwZ2hTVVRib1UyaFdXZWRJVVZSY0dmY0tybkFTTGNWaW42eTBNSF9CRXlkcWRuakE0TVFBMWptVFQxSElNZ2lNZEl2aUtTaVQ1Mk81RXUtdw?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-31T02:15:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
     },
     {
       "id": "ad123b9b0ab99d3b5cae",
@@ -121,7 +134,7 @@
       "source": "Cryptonews.net",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-10-30T19:27:34+00:00",
+      "published_at": "2026-10-30T19:27:38+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -213,6 +226,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-30T14:47:23+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "bcfe0483c4aee7388854",
+      "title": "Key facts: ZECUSD: 36,200 ZEC moved; Foundation cut criticized; $1,272 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUmN1SzNKNHNIZ3RSSlZDbUFFU2JMb0x1eHZveTAtbVNMU0pfWEpjTkhpM3NsUUtFX3hOcEt0Q0ZNeWVvWGJYRHRQT2h5aEgtQXpJRGt1TzFkUUdUUVBBeUI3S0NJMU90RnVkR21KRHdHbnZsV2dvUE5FWDZDeUlVYUZ5Z00xVUpTS1UxaC01RUEtTWdZWnZ0WDRpbDRZSF94MDhGQ3RBRF9JaUFCV05mQ3NKWFduc0sxTjA3ZDVXOFJ4WTd6Q2c?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T12:00:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -492,19 +518,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "3643700b7a4e074efff7",
-      "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCRVFqSmhNZXFueWt2aWNxZlU0eEx1aUE1LVlCQXBWVVA3SzZOREp2emVNOXNzWjNxUGdTaDBJUmY1cEhkTzh1RHZlbUlQV1FlTGFmQ3NESQ?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T17:12:26+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "d25d424ac9cdd5cc8cf7",
       "title": "Zcash Tests $1,350 as Fed Decision Looms and Solana Bridge Hits Record $124M - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xQ3haTTdmdkVEOEJydXprWUh6eTRXc2gzU2pjYUZJdTdtVDdqYlFFby1xQU9qb3QxRkItUFFwR0RRQ09MTmcxVm9vYmFPaFVlWG92N2RLMDRLaVhDNlphaWRpTW5HZF8wZnFGbWxvT3RSTW9Eanc?oc=5",
@@ -658,19 +671,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "673a0a8ca2d63bc049df",
-      "title": "$125 Million Treasury Sparks Debate: Should Zcash Continue Subsidizing Developers? - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMHhrLVRELWFEaHRad0VnYXY5Mkd5bkpCOHZyODh4RXZBVVFNYThoeDNoV2lGOVdoNXVPUnZjZDBPX1JGTHlueTRxOWpNQy1zN2tNb2xuZUJ2ZVltTnpzZURhenU0OFFOZWNxX2hQNVZWMWg3cjVLemcxbjNUQUt3U0RFdWkyQV96RmxFRkRpRGhrR3dRRHVlaU8zSllZYVIyZ2xMRUs5NDRGck5PeXcyQmlFSFVNV3VwT0pNVkhGSQ?oc=5",
-      "source": "富途牛牛",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T06:52:13+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
