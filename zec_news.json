@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-10-31T13:46:18.935394+00:00",
-  "last_success_at": "2026-10-31T13:46:18.935394+00:00",
-  "status": "ok",
+  "checked_at": "2026-10-31T14:37:33.864185+00:00",
+  "last_success_at": "2026-10-31T14:37:33.864185+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 1
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -37,9 +37,22 @@
   ],
   "items": [
     {
+      "id": "4cb3d44007e5701d66ee",
+      "title": "Crypto Overview: Fed Holds Rates at 3.75%–4% as Solana, Zcash and Pepeto Draw Attention - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM29sbnpieEZ3NGl6akhIV2RidGthMXhZakpuanBzV0RuQkRibkgtX1JQbXBtTHBaZmhVbDFuUlFpMVB4N092ekloVkp3SmxrX2trWHBvOVJtT3BnTW5sUmQ0VzZtVXo2c2VKQURaUVpia2pxZmpnb004c2t2T2dDaVZBTmVCbWxyMTlrLVpWWFVPSEsySDVTN3BhWUJpX0ZkZE1JbTlMNHBqY2VN?oc=5",
+      "source": "TechBullion",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-31T14:30:03+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "513134512cfb0e267d1b",
       "title": "Winklevoss 兄弟：Zcash 是加密版的比特币，AI 越强隐私越贵 - 吴说",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVFl4Y0MzUEY0Sk1US0ZJMUFjYXNfNVVwU25TOHd5eGUzcGFYeHlyeHk4TW1Jel9PcDdkMXExVHZTeExFeWR1ajJTRWVhWXVlOGw3RlRLdjBXaERtaWlIRFVnZTRYOEZOMzJ0TzdtR0hxaEZSSXVFaDduZW00dXZsdTRkZHRYWUM2OERvQ3dxUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPXy1sSjhyYi1Ydk4zN2JLMDBwMHRBZVlOeUxjX19MaE43bUhRc0s0MEJ6WUZoWEVLTWx2NTRNbFRDOGhZdXJJOVFlWDUyVy1LU2xJWms0ZHo2OFNwU2Q1bV9naENIOGhMaDdISndDX29BeDFrZDZ5dlNqSGVmcjFsOVhXeTRSc3FqS0txN20wdFZmOENx?oc=5",
       "source": "吴说",
       "feed": "Google News 中文",
       "kind": "aggregation",
@@ -668,19 +681,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-10-29T00:39:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "675be837160829574f77",
-      "title": "Zcash USD (ZEC-USD) interactive price chart – Yahoo Finance - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYdWFDY0IwbGhxc0ZfcEk4UmJZbGlZZ0dDZ2hZSkxmTFNxYm1HVkJqTWZnYUxwRHpBRzBnTjRtZlkwNXJESDM4SE9veDU0QzRQajRmTWFqbkNDY1MzSEE?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T23:39:25+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
