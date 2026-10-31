@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-10-31T11:37:48.972119+00:00",
-  "last_success_at": "2026-10-31T11:37:48.972119+00:00",
+  "checked_at": "2026-10-31T12:47:56.679762+00:00",
+  "last_success_at": "2026-10-31T12:47:56.679762+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,18 +32,18 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 30
+      "matched": 31
     }
   ],
   "items": [
     {
-      "id": "f317995296cd663b7a39",
-      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdjQ1OUo2OEIzZFVqRXIwaGNTbUdIb19jRkEtWGlqQTk5SEc5UUxiNmt1X3V0SFZtRnNzOGJKWFktZVBRSVJPT1VlZnN4RmpuY0d4RkVYMzlvUQ?oc=5",
-      "source": "CoinMarketCap",
+      "id": "513134512cfb0e267d1b",
+      "title": "Winklevoss 兄弟：Zcash 是加密版的比特币，AI 越强隐私越贵 - 吴说",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVFl4Y0MzUEY0Sk1US0ZJMUFjYXNfNVVwU25TOHd5eGUzcGFYeHlyeHk4TW1Jel9PcDdkMXExVHZTeExFeWR1ajJTRWVhWXVlOGw3RlRLdjBXaERtaWlIRFVnZTRYOEZOMzJ0TzdtR0hxaEZSSXVFaDduZW00dXZsdTRkZHRYWUM2OERvQ3dxUQ?oc=5",
+      "source": "吴说",
       "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-10-31T05:32:02+00:00",
+      "published_at": "2026-10-31T11:11:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -109,6 +109,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-30T22:52:50+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "f317995296cd663b7a39",
+      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdjQ1OUo2OEIzZFVqRXIwaGNTbUdIb19jRkEtWGlqQTk5SEc5UUxiNmt1X3V0SFZtRnNzOGJKWFktZVBRSVJPT1VlZnN4RmpuY0d4RkVYMzlvUQ?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T20:52:06+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -219,6 +232,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "ea5c1907c8f927b8d033",
+      "title": "Hyperliquid (HYPE) Entered the Crypto Top 10 List, Surpassing Zcash - Coinpedia",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObkJuSFJ2WnBXVTFyYzVab1FXcERWWkNEUXlueUZlQXg1UW53MzZ4SjJTRi12NzZPWkhhb3N1S3FaYUJmWWdkT2h2QktXNGtfTV9USHVtS0VrQTU2cl8xQlNENzZGV0YwaXk4M0hFQjMxbTk1aEVWb09sOElxbGxtOXBDdjdPOHJtbW5PWVhtVWtjZWdE0gGUAUFVX3lxTE5uQm5IUnZacFdVMXJjNVpvUVdwRFZaQ0RReW55RmVBeDVRbnczNnhKMlNGLXY3Nk9aSGFvc3VLcVphQmZZZ2RPaHZCS1c0a19NX1RIdW1LRWtBNTZyXzFCU0Q3NkZXRjBpeTgzSEVCMzFtOTVoRVZvT2w4SXFsbG05cEN2N084cm1tbk9ZWG1Va2NlZ0Q?oc=5",
+      "source": "Coinpedia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T16:41:05+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "c8e9cbaccaf3326fe90d",
       "title": "Zcash Member Proposes Ending Development Fund Before 2028 Expiration - TOKENPOST",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KSVRIYWtNaElpZFpDemFHTmswcG4ycnBXaVZubmFLQzU4MjVYVEVwSHQwMTc1UGlnYl9FbkZLT3VUYjYwM2h0cDdKS3ZVUDNmMHNxMGRGX0EwSzg?oc=5",
@@ -278,6 +304,19 @@
       "feed": "Cointelegraph",
       "kind": "media",
       "published_at": "2026-10-30T11:36:23+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "39a742164afc087f539c",
+      "title": "Hyperliquid’s HYPE Token Tops Zcash With a $22 Billion Market Cap - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Sk45MGkzTjI1SzBpTUpVaEg2cWxKNHp3bklrQy1IdnI0T1hXZmh3ZkdxSDJNWnM3Mk9RWE9JbUJ6NUpKeWNrYi1iWDNaLWwwbFg0cGJoZXJmUQ?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T08:08:02+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -642,45 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-28T15:20:56+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "adc5b181084d0efc89e7",
-      "title": "Zcash (ZEC) Price Prediction: Whale Goes Long Before FOMC Announcement as H&S Pattern Puts $1,350 in Focus - Brave New Coin",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdnd5OGRiSWJ4cmg4WTdFMml4eWRWenB6LWV1T3lVWGxqcGZ1Qi1FaXVFbEpSVEJkZ1h1Rl9uSlZ3eEJEWnVFX2NmYi1DLWdHNWdyLVQ3Ul9EWFlUakpxaEh3eUk2cjZrQVRtTVhzbm1PWkdTS2l6TDFjMHVPT3Y2OGN6Wkx6bXhRYlM3Yi1mclk4dDFOYUhKMmpZYmprTFNJd2duMWJMM2FlQ3FGbS1tdTVROTlxZDdmTDFDZmh6V3BYeFVPRElaQ2k1TmFzc1E?oc=5",
-      "source": "Brave New Coin",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T14:59:43+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "77a9f12042f54ff27889",
-      "title": "Zcash Drops 3.54% in Four Hours to $1,272 on Binance Spot - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hT2pkbWl1blBCSmo0cjJDZXo5NFdQMTJXVmtoVnBWQWhBWGY1TEZWdVY4MkhyZmtYN2lYc09fOGptQ3VQelhTZ184N0VLckRIVzRtNlZmUHF5dw?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T14:28:16+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "54ef12e45b81ccb7bae5",
-      "title": "Euronext Paris Suspends CoinShares Zcash ETP on Scheduled Debut - TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jVm5tei1LNXZNV19UYkY2QkFPcmlwMndoZzFoSDNoYVR3NGM1T0VtZ0lDOXNOZ2pxSWpQaXZjYlRhRzh0ck1ucXRzcnRIa1hHYXJtSUphRjh6UQ?oc=5",
-      "source": "TOKENPOST",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-28T13:59:16+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
