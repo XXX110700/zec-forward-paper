@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-01T11:37:16.266753+00:00",
-  "last_success_at": "2026-11-01T11:37:16.266753+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-01T12:48:54.840472+00:00",
+  "last_success_at": "2026-11-01T12:48:54.840472+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 1
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 95
+      "matched": 94
     },
     {
       "name": "Google News 中文",
@@ -135,6 +135,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-31T18:30:06+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "a4407266e33a2d9b23a4",
+      "title": "Zcash ZEC (ZEC-ETH) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15TXkwTDZLVUpub1BqRGdCRXJhVUMwQWcyMmFleVQxeXJic0paLWZZeFRzWWdaV0hjTjBMZmNEcXRsdVZtVDZUdXJlSG9xSUh2dFo2SjBn?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-31T17:25:59+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "fe44360414d05056f7bf",
-      "title": "1.25 亿美元“闲置”金库引爆争议，Zcash 社区吵着要“砍掉”补贴 - PANews",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1aWZOdGs1TnJIeDc4c1lBaVZxbFIwRVN3YUxkOGJWNUFaQ2ljTDZOZ0FhOThRaGhncGRWTDdyLWxIRzRJbmZJZ2tpMnFSM1lwRGpCdjJRN0czSTlYZnR6REdlS3FZS3JkQlluUENxQVV1T1VJRzg1V0lUcHp5UzQ?oc=5",
-      "source": "PANews",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-29T10:23:17+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
