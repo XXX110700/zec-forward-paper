@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-01T06:55:58.572333+00:00",
-  "last_success_at": "2026-11-01T06:55:58.572333+00:00",
-  "status": "partial",
+  "checked_at": "2026-11-01T07:58:41.317000+00:00",
+  "last_success_at": "2026-11-01T07:58:41.317000+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 1
     },
     {
       "name": "Cointelegraph",
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 20
+      "matched": 19
     }
   ],
   "items": [
@@ -83,19 +83,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-31T22:49:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "cb3f7ce06a9694923adc",
-      "title": "Zcash (ZEC) News Flow - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNMUdwdUFlMWpjV1V5M2JjdHdZX1FSaUhjMzhreUkxZmxEdy16UVhxcTRPdTgzV0l6OTlMcS1zUDViQm5aVkl0djAzRlJqS3AyTV9iRmtiY2UzZkQxeGJRRWVuLVQ3bEZNNVdNWHpSeENqa0RBc29tVGo4VG14SHo0Ry1fLVVlRS11VkZ4M3RCSFRpYkJSWEpjWFZlTjR3NE93R2NvZUYxWnJWUnJ5UEZua05CVWFGOGhkdDBMcGIxRDNaaWhzUy1oODZDQ3hjUi1kZ0FSWE15ZEhLd0NlYkZuQUJEYmUxYTlPYXFyWldodVhLYTRfWFRFbDRVRGVqVUZfUERHLWt4bG80UFdoa3dldnI1RWd6VFlOMW5iSU1jcVlVT0VUQmlOSVV4TlVEZTU1WTh3X1hmZXBHNUNud08zMkVGUm1QOFk?oc=5",
-      "source": "Moomoo",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-31T20:06:20+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -681,6 +668,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-29T09:01:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "ba75a451eac8c6665ecb",
+      "title": "Zcash Price Forecast: Steady ETF inflows and retail confidence drive bullish momentum - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPekROYW9VdDdOSnpuZzgzYlBkY3VlTGhPMlU5bWstb0hUZ2M3WWNIcnZSXzdqYUdNTzFHYnh4dzlPQVpfNlp2b0VFWU9NZmg0elRqeVpmTUdNbEdTcG5mSVBxaGtWQmVhOVFJcl9UTS1RVDc4TWw2Vmlrcl9sYi1OaEw3N2hOR2lFMU9iUnFBRGRyR1ctTE40cG1QRUt2NjNlU3J0alp3R3hnbUJQLWVucWZoQ3lrVFRadGU1MkpCV3VhWUFYZXRNMldkcHFKc2diSnVlWlFtNENHX3ZSN01vX0JFVlh4QQ?oc=5",
+      "source": "www.tmgm.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-29T06:34:02+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
