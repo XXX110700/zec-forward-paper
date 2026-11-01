@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-01T14:39:10.977899+00:00",
-  "last_success_at": "2026-11-01T14:39:10.977899+00:00",
-  "status": "partial",
+  "checked_at": "2026-11-01T15:36:52.045829+00:00",
+  "last_success_at": "2026-11-01T15:36:52.045829+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 1
     },
     {
       "name": "Cointelegraph",
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "12ec6cc90d0a3c9cd4e0",
+      "title": "Best Crypto to Buy in 2026: Hyperliquid, Zcash and Pepeto Eye BNB-Style Growth - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXluVHhpX2tXSDdpUk50bmxXT3pvNGJ0WW9NbkNLQVlITmhoY0RZMkg4Q0QwajNrbjFjbDd6VklRNG15ZElJNVJ0TGptYjFKUTNUNENqLTNscXZIaUNybGlzaXUzRkxhcVkwMzFnNW4tbXkyRUV1cGZNdnJqNFpuYm9hWk5DRWFHbGphaXhqSHQ5c0h4Q2RiNGJUTDc3TE9zd0dB?oc=5",
+      "source": "TechBullion",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-01T14:35:03+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "f32e66de69e1aa0c27b4",
       "title": "November 1, 2026: ZEC 15 min · 8:30–8:45 AM EST Crypto Prediction Market - Robinhood",
@@ -583,6 +596,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "970db90bc2bae630fe9a",
+      "title": "Zcash and Hyperliquid ETFs see $18.51M net infl... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWmZKRTVtQ1MwZ0NJSEVIZ1FqR3ozZ1QxVlEwQk81NHhCb2ZNLU4tV0N5RFRYUU5jazVQemdseHdwdUJocUZSakdsU2FQNU9Dc1MyWFlkSlEwdFEzT083NmZTS2hjUGd2WkxKMmQ1YzlTd2JFYllOQ2pwZms3WXh5a0M5WjZBYlI5UVFFOElB?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T02:54:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "606f322a11f594881a66",
       "title": "美国 HYPE、ZEC 现货 ETF 单日合计净流入 1851.31 万美元 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90OEh6UmZYem9KYXpwR0NiVzlMRTBTZ1AtRElLc0s3SUt2SUp6aE14MFRtSHA2VjFqTDRBRGFMUmxENFJ2UGJNRGN5ZloyODI0Y0RrNVl0b0FsekVqTUVpVXVNb0lFdw?oc=5",
@@ -655,32 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-29T18:31:09+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "79a393e82ea21b9347ff",
-      "title": "如何购买Zcash(ZEC)并保护您的持仓 - OneBullEx",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUFJsZEhwc2NmeXVVZ1YzRXdZckdyVTQ5OG1jSF9oOWVxNzM0d0htOXFFSDg0dHNvOUx2LWJ1NTQ5Sl9pZE1OcGRmamptWGtZTGkzRUZXYkdNemE2SWdscmJJbjYxcEdHTUQ1VmsyU010SXlhM2diTnBMa1Rmc0RjZHI2LWF0bGdHSC01eGNuYzRwUlFa?oc=5",
-      "source": "OneBullEx",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-29T17:41:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "10e86e4c74498384cb15",
-      "title": "Zcash (ZEC) jumps 9.51% in 4 hours, hitting $1,... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQkNQaXZ6UE13TzFiY2NGNGdiaEFhMzNCbXh3aDFGdjZWb0ZBSE1jNk51MGxzd3YtZk5TMmR1YTdGZDF6RFdHUEVOVjFuajh4RG1wTTctdzZIQ1lHVlhNNGJVVUFEYktlT0o0elBqSXMtbTdER21ZQlY1aVNPLWZhNFdXc2JhUkl0SVAwRXRQLXVKU1FYbUE?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-29T16:28:03+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
