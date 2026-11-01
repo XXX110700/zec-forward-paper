@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-01T13:48:15.609166+00:00",
-  "last_success_at": "2026-11-01T13:48:15.609166+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-01T14:39:10.977899+00:00",
+  "last_success_at": "2026-11-01T14:39:10.977899+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 1
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 24
+      "matched": 33
     }
   ],
   "items": [
@@ -167,6 +167,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "a4407266e33a2d9b23a4",
+      "title": "Zcash ZEC (ZEC-ETH) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15TXkwTDZLVUpub1BqRGdCRXJhVUMwQWcyMmFleVQxeXJic0paLWZZeFRzWWdaV0hjTjBMZmNEcXRsdVZtVDZUdXJlSG9xSUh2dFo2SjBn?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-31T17:25:59+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "007b75711103001282e7",
       "title": "Next Crypto to Explode: HYPE Jumps 18% as Pepeto, XRP and ZEC Draw 300x Speculation - TechBullion",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeDZuRGJoWUJkU3lfMXBKOVNfcERQMmpsTU9mQ2laOG5nU1JJYlo5ZXl5UzJzOHFNTGVhbzVwN3hmbzV5dzF5M0xZUjZGWk1ncGZILXk1MU5kWFItNDZIZXl3R05ESm9vZm9iWjY0bWpKQWhZbWRfQ3FsRWRGdzgwZloxQXg2SWNnRV9IWWFLTFVYM3ZCdTdnWDdOTEQ3WDBMOWFtOTlKcVE?oc=5",
@@ -187,6 +200,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-31T14:30:03+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "513134512cfb0e267d1b",
+      "title": "Winklevoss 兄弟：Zcash 是加密版的比特币，AI 越强隐私越贵 - 吴说",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPXy1sSjhyYi1Ydk4zN2JLMDBwMHRBZVlOeUxjX19MaE43bUhRc0s0MEJ6WUZoWEVLTWx2NTRNbFRDOGhZdXJJOVFlWDUyVy1LU2xJWms0ZHo2OFNwU2Q1bV9naENIOGhMaDdISndDX29BeDFrZDZ5dlNqSGVmcjFsOVhXeTRSc3FqS0txN20wdFZmOENx?oc=5",
+      "source": "吴说",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-31T11:11:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -492,9 +518,9 @@
       "verification": "未独立核实"
     },
     {
-      "id": "9e85304fc81f7ba45b0d",
-      "title": "Zcash 社区提案：提前终止开发基金，涉及 20% 区块奖励 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55MmthMTVCS3ltd2hXd2EwMUtpd1otVm9iT0Y5bFlJdG9Callpelk0NXpyZDduRjVCSU8xdjM0a21yVGI0UzI3WEcyaWpxQ1hoamJYMlpPdXlscVF2?oc=5",
+      "id": "8a3ba7ec841505a98607",
+      "title": "Ignas：HYPE、ZEC 等资产显现独立行情，加密市场仍有结构性机会 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55eUJUZ2xLVmdSSmw4bUlxV1QyMXZGcTFZMERrZERGVWNIcjQyY3NDR0FMWEYxbHNXTk9MS2ZwV3Y3Q1dZRDhtTjVRVHR5amx3NU56VkEyV2o?oc=5",
       "source": "CryptoRank",
       "feed": "Google News 中文",
       "kind": "aggregation",
@@ -505,9 +531,9 @@
       "verification": "未独立核实"
     },
     {
-      "id": "8a3ba7ec841505a98607",
-      "title": "Ignas：HYPE、ZEC 等资产显现独立行情，加密市场仍有结构性机会 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KdzFHUHJQaHY1OExfcTFYSGxnSmp0dGNkM3VxNnNYNFZ0YWR5ODdHbURvb3N6c3kyd1lJc2prbmJyNkYzUDFvRDdTTFoyeG9ZVjJaZkhBY3JxTDc2?oc=5",
+      "id": "9e85304fc81f7ba45b0d",
+      "title": "Zcash 社区提案：提前终止开发基金，涉及 20% 区块奖励 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55MmthMTVCS3ltd2hXd2EwMUtpd1otVm9iT0Y5bFlJdG9Callpelk0NXpyZDduRjVCSU8xdjM0a21yVGI0UzI3WEcyaWpxQ1hoamJYMlpPdXlscVF2?oc=5",
       "source": "CryptoRank",
       "feed": "Google News 中文",
       "kind": "aggregation",
@@ -551,19 +577,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-30T03:12:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "970db90bc2bae630fe9a",
-      "title": "Zcash and Hyperliquid ETFs see $18.51M net infl... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWmZKRTVtQ1MwZ0NJSEVIZ1FqR3ozZ1QxVlEwQk81NHhCb2ZNLU4tV0N5RFRYUU5jazVQemdseHdwdUJocUZSakdsU2FQNU9Dc1MyWFlkSlEwdFEzT083NmZTS2hjUGd2WkxKMmQ1YzlTd2JFYllOQ2pwZms3WXh5a0M5WjZBYlI5UVFFOElB?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-30T02:54:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-29T16:28:03+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "5bf94cf4be7b6dec9a88",
-      "title": "Zcash (ZEC) price jumps nearly 4% in one hour o... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdlYwRXU0YUFjYzJtNjlhc25GNVZ0ZmFSTEh4S01uOGJ0TDhPTXBYTy1ER09zY2t2bmZ3YWRUTFZxSTVnNndTeDhOMVQxcGJiVVlFVVpibUR5SllrYy02TFBpZlZNN3l0d3JnbDlBUXZQWngtYjExOGRGOURTSlE1TEhR?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-29T16:07:29+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
