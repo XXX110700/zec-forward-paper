@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-01T12:48:54.840472+00:00",
-  "last_success_at": "2026-11-01T12:48:54.840472+00:00",
-  "status": "partial",
+  "checked_at": "2026-11-01T13:48:15.609166+00:00",
+  "last_success_at": "2026-11-01T13:48:15.609166+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 1
     },
     {
       "name": "Cointelegraph",
@@ -27,15 +27,41 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 94
+      "matched": 96
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 24
     }
   ],
   "items": [
+    {
+      "id": "f32e66de69e1aa0c27b4",
+      "title": "November 1, 2026: ZEC 15 min · 8:30–8:45 AM EST Crypto Prediction Market - Robinhood",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR1BiUjRpSmxNVVdtQ3NqdXphTU41M3VZUTVMNTFnWGtTWVA3am5kdUpTU1FidG11Q0pMT2ozLWZqV21DQ2JyYW00OUMyRmNKWHRndDdVMmNVU0Q5UUp6TWhaeGdNbjhqLUZwc09TQkpjaHRIem9QVktDdzAxbTFhanUtR1BtMWd6Y0psV1RUa3I3THBpQ3lGN1BISkJWRktpNG1r?oc=5",
+      "source": "Robinhood",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-01T13:39:50+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "cc90e6a70958c3da32f5",
+      "title": "NoirWallet takes network privacy for Zcash users one step fu - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmdWNpSkRQZHBvQWRnTk9vcE5YNi1QUmtyVVNlc1ZoU3I1NEQwZmtWMmRNWXRSOEZiRWEwWkxuaWxHUl9TcEE5WFFMbVdmNExTUE9aN3hCcnFMSmpDZmJlaWkwUkkwYWVWbldhcEdadmlNZw?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-01T12:24:14+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "5b0789ca498d85e4a22f",
       "title": "数据：美国 XRP、ZEC 现货 ETF 单日合计净流出 506.79 万美元 - CryptoRank",
@@ -135,19 +161,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-31T18:30:06+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "a4407266e33a2d9b23a4",
-      "title": "Zcash ZEC (ZEC-ETH) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15TXkwTDZLVUpub1BqRGdCRXJhVUMwQWcyMmFleVQxeXJic0paLWZZeFRzWWdaV0hjTjBMZmNEcXRsdVZtVDZUdXJlSG9xSUh2dFo2SjBn?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-31T17:25:59+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -479,6 +492,32 @@
       "verification": "未独立核实"
     },
     {
+      "id": "9e85304fc81f7ba45b0d",
+      "title": "Zcash 社区提案：提前终止开发基金，涉及 20% 区块奖励 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55MmthMTVCS3ltd2hXd2EwMUtpd1otVm9iT0Y5bFlJdG9Callpelk0NXpyZDduRjVCSU8xdjM0a21yVGI0UzI3WEcyaWpxQ1hoamJYMlpPdXlscVF2?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T07:00:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "8a3ba7ec841505a98607",
+      "title": "Ignas：HYPE、ZEC 等资产显现独立行情，加密市场仍有结构性机会 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KdzFHUHJQaHY1OExfcTFYSGxnSmp0dGNkM3VxNnNYNFZ0YWR5ODdHbURvb3N6c3kyd1lJc2prbmJyNkYzUDFvRDdTTFoyeG9ZVjJaZkhBY3JxTDc2?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T07:00:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "ad55df506060fb077b76",
       "title": "Crypto News: New 2027 Stablecoin Rules Hit Banks as Pepeto Attracts Buyers and ETH, ZEC Split - TechBullion",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaTd1akViX1FWcHVxQUI0eFJyZ3ByaDBKUVM0Z1dFVUd2MXhyUHk1T0hZZ1Nzby1wcXoyR3JmdDZ6WUFqWWtLbGU4anZxeXRValpNMUU4SndzaW02LXBnOEJ1eXRHdzRnRjkwT0w0YVczQTZfZ1NaTXVReUh5bFRCNjVJWFM4OHg0QXp4OWhCckkyVXdYeXZqRV9EUlNUdTEwMGhfNkVRYU5OQURaTC1mUGk1cUEzQ2s?oc=5",
@@ -499,6 +538,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-30T03:13:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "8a262c197831285b3cf7",
+      "title": "Cameron Winklevoss Calls for Zcash to End ZCG, Focus on Privacy - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iak9URzJsTVZHZ09lNWRCY21FLUdoX0xYRzdGaXFZb0NET3NDLWRndEltT0UyQXBjeTRSVW1WMFl0ZlF6ZVhON1pOa0ZJNGhZX29LVTdB?oc=5",
+      "source": "TOKENPOST",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T03:12:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -632,58 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "12a7c3673a9afd706c5c",
-      "title": "ZEC, HYPE or Pepeto? The Best Crypto to Buy Now as Stablecoin Rules Land and Pepeto Eyes 100x - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRVRzdUpMYXhPekttcHdqLXY2V1Nlbkd1c2hQN0E0MHVmNEItbnBzRUhPZ0pOVVI0ZVFHRzlDR1E3M1AwVXJ1dnZBdWhXU1hLVHFXSmdMZmU3RUVZeHFyeXVrbXRmMGdIOXBYTC1oMEt1NGtxN1BKMlRMdU5iT01Dd3h0M0VpVllCMExMY0FtZ1VRNURZdnFtOExhT29SakJnX0lJSWFkNldOdTBMd1JYc0lJNXlXSFU?oc=5",
-      "source": "TechBullion",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-29T12:15:04+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "d03ee6ebb106e57d7866",
-      "title": "Zcash Miner Fortitude Adds 15 MW Nebraska Site to SPP Demand Response - TheEnergyMag",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWNsVXFTLU1tZ0N6eG0xRHMyMHk5akRibldXS2N1MWtBekFkNFpYWjdvTjcxSE9xUWNKYzVIRlpVVmRseUU0aDY0cUw3a1R5bk5jaTFob3J2TFhfTFZhSE9IZ05BcVpFU0w0Skl2aTVWQV9iNTRiaC0xR3BwWXZ4T2FWTXFYWlZzMHdVY04zU0hJWndkbGc?oc=5",
-      "source": "TheEnergyMag",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-29T12:03:23+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "2523154f84256f563ce2",
-      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart and Price History - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWUF3VTYyMmFad2tQamthVmVhT3dPWlh5NG01LUtxbm42S0pOU2R0Q2FQZHVlOHBhV29xSzdsTEExX21FTTd2cTNObTc3RlBQVGZLMm5n?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-29T11:04:10+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f011fa27c300b8559485",
-      "title": "ZEC Reclaims $1,200 Ahead of NU7 Upgrade - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mWlNHQWE3Y0NkX0FjRFdXOE5RMUFmQ1AzMHNWcjNOR24wenZjWFUyR1NfYkttN29kOUpZaDZuZTA3VW9zZ21Wd0UwemRmZTJrbll6NWI0ZzlsTU5VRU1qRnJpWkRWNjB6NktTMlZ1dlhUNldNdFhYdlhKOGxXdw?oc=5",
-      "source": "KuCoin",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-29T10:26:45+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
