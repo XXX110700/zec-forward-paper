@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-01T16:38:56.379572+00:00",
-  "last_success_at": "2026-11-01T16:38:56.379572+00:00",
-  "status": "partial",
+  "checked_at": "2026-11-01T17:36:11.332969+00:00",
+  "last_success_at": "2026-11-01T17:36:11.332969+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -26,13 +26,13 @@
     },
     {
       "name": "Google News EN",
-      "status": "error",
-      "error": "HTTPError"
+      "status": "ok",
+      "matched": 96
     },
     {
       "name": "Google News 中文",
-      "status": "error",
-      "error": "HTTPError"
+      "status": "ok",
+      "matched": 33
     }
   ],
   "items": [
@@ -180,19 +180,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "a4407266e33a2d9b23a4",
-      "title": "Zcash ZEC (ZEC-ETH) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15TXkwTDZLVUpub1BqRGdCRXJhVUMwQWcyMmFleVQxeXJic0paLWZZeFRzWWdaV0hjTjBMZmNEcXRsdVZtVDZUdXJlSG9xSUh2dFo2SjBn?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-31T17:25:59+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "007b75711103001282e7",
       "title": "Next Crypto to Explode: HYPE Jumps 18% as Pepeto, XRP and ZEC Draw 300x Speculation - TechBullion",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeDZuRGJoWUJkU3lfMXBKOVNfcERQMmpsTU9mQ2laOG5nU1JJYlo5ZXl5UzJzOHFNTGVhbzVwN3hmbzV5dzF5M0xZUjZGWk1ncGZILXk1MU5kWFItNDZIZXl3R05ESm9vZm9iWjY0bWpKQWhZbWRfQ3FsRWRGdzgwZloxQXg2SWNnRV9IWWFLTFVYM3ZCdTdnWDdOTEQ3WDBMOWFtOTlKcVE?oc=5",
@@ -226,6 +213,19 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-10-31T11:11:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "ed52e7dd7b23a46ad4ef",
+      "title": "Zcash Miner Fortitude Connects 15 MW Farm to U.S. Energy Market - ForkLog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeXNnamEya21JaGowdkw3M1RFLWJ5cmJjR2VXb3I3dVdzOU44MnRUa3VkNUVVWERuZFotNDFrZExSQ1BidnR0VDduQnJVUHRYeXI3VGl4TTM3bE5CNkc0RGlKbmlmdG1PWXVmcE5Xd19IYWtrQjVkVXpQOUNLSDVuZzdGejRqYnhrcGNFaWVPSQ?oc=5",
+      "source": "ForkLog",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-31T10:30:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
