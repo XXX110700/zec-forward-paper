@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-02T03:56:01.348455+00:00",
-  "last_success_at": "2026-11-02T03:56:01.348455+00:00",
-  "status": "partial",
+  "checked_at": "2026-11-02T05:00:07.196863+00:00",
+  "last_success_at": "2026-11-02T05:00:07.196863+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 1
     },
     {
       "name": "Cointelegraph",
@@ -27,12 +27,12 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 96
+      "matched": 97
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 32
     }
   ],
   "items": [
@@ -44,6 +44,32 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-02T03:46:23+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "ade5a153493c59c35a9c",
+      "title": "Whale Opens $10.16M Zcash Long After 3,052-ZEC Purchase - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LQ1NpYkNFRVFocGhvYkFZR2Q1eW8xX3hGSndWc1MyY2pfN254b0xzbXpaMWhkZk9ncDZZNUg3TXBkbkdUekwzSUdScHl2V1NzcTk2cVF0cG9EZw?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T03:36:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "cb3f7ce06a9694923adc",
+      "title": "Zcash (ZEC) News Flow - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNV0p3b2VkVi1sblo1WmdEc2lJNG9kdTBDanBoaHJmRFhZcEZDWWk0WkNVVHhfbUV6SFVwWEpPSHFGWHBpRHN0NEkxVlFaYUF2Z0FXdHBVTXNsQ2pCaUJLZnRVaU1kV2c0UDF0UWphODJibWVqUnc5REd0UlRoejZCYlRxWEh5R3VhZG1RNHg3cXdHTDE5S0VUVXBTcjlDbmI5cjZWcVNDTHVLSHZfNy1YdUtBY0c1eTNNME1YcmRYT25HWnktSlBnMmpicV9YdmNhZDBDSVBMM1hIRDZoNmZOelpoV2ozRUV4dXk5Nkp6WlRiWUpfdHQ3X3RQd0F5NmMtNFhPaGU0b2k1ZjdzN3VtOE5jV0dTWDFaWnRRTHNNMnVSUTRYMjQzVTRoWldyQndQdjRlc3hlcktUbTg?oc=5",
+      "source": "Moomoo",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T02:05:19+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -86,6 +112,19 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "c3f922bda56b04684d48",
+      "title": "Zcash Price Showdown as NU7 Nears - OneSafe.io",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tOE5XWWdmNFNUSC05YzM4MnY0SVlibXdmenFSMmN3d19lTEZOUWQ2ZFEzMVRfWGtRalNSVVZEZUJ1b2dFd0dyLXFEb2Nkc3NqNHJGeThRMXBtR01QWWxrblBUcmwxRDI2bEI4M0pB?oc=5",
+      "source": "OneSafe.io",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-01T20:51:58+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -583,6 +622,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "1385815c0922d867676f",
+      "title": "Hyperliquid 市值冲上 220 亿美元反超 Zcash，非稳定币市值前十争夺白热化 - 区块周刊BlockWeeks",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tMF9HclVCRkVrem1ENUN3dmdlX0ZxWGxNS1JGSTMtZmhnX05XVUVvN1pFWC0zNWhKWm5NUURCeDJoZkp6LUw1ZHl3?oc=5",
+      "source": "区块周刊BlockWeeks",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T07:45:34+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "1cccd4fe111d8d1cff1c",
       "title": "Winklevoss twins urge Zcash to end community gr... - Pluang",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1ZINkR3UGJSVy1UdTRBYXZQOUk0VHJVQlN4VGZLeWQ5elJFNU56NWhGZkxOdkNCVjZlUEhaMXpSOG4tRm1RdFgyRGNDYm1YcUtxMnZDVlU1dkN5MHRrR0pVMWpDWE9adXNVNV9OZUF5dHRucjA2WWZVVHNUSnljMnlkaVNvUVV5TUJrWXpWWk8?oc=5",
@@ -611,7 +663,7 @@
     {
       "id": "9e85304fc81f7ba45b0d",
       "title": "Zcash 社区提案：提前终止开发基金，涉及 20% 区块奖励 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55MmthMTVCS3ltd2hXd2EwMUtpd1otVm9iT0Y5bFlJdG9Callpelk0NXpyZDduRjVCSU8xdjM0a21yVGI0UzI3WEcyaWpxQ1hoamJYMlpPdXlscVF2?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vMTduVEpvdnpzZ3E2OUtCZnFSRzJNaEFFUGdaeGxEcVBHbGlXeG91d3N5Z3pzR1M3aVRGUzg3T0gxU3JGeHljeHc0XzV4Vk9mZHM1T3d1dGI?oc=5",
       "source": "CryptoRank",
       "feed": "Google News 中文",
       "kind": "aggregation",
@@ -624,63 +676,11 @@
     {
       "id": "8a3ba7ec841505a98607",
       "title": "Ignas：HYPE、ZEC 等资产显现独立行情，加密市场仍有结构性机会 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KdzFHUHJQaHY1OExfcTFYSGxnSmp0dGNkM3VxNnNYNFZ0YWR5ODdHbURvb3N6c3kyd1lJc2prbmJyNkYzUDFvRDdTTFoyeG9ZVjJaZkhBY3JxTDc2?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55eUJUZ2xLVmdSSmw4bUlxV1QyMXZGcTFZMERrZERGVWNIcjQyY3NDR0FMWEYxbHNXTk9MS2ZwV3Y3Q1dZRDhtTjVRVHR5amx3NU56VkEyV2o?oc=5",
       "source": "CryptoRank",
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-10-30T07:00:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "ad55df506060fb077b76",
-      "title": "Crypto News: New 2027 Stablecoin Rules Hit Banks as Pepeto Attracts Buyers and ETH, ZEC Split - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaTd1akViX1FWcHVxQUI0eFJyZ3ByaDBKUVM0Z1dFVUd2MXhyUHk1T0hZZ1Nzby1wcXoyR3JmdDZ6WUFqWWtLbGU4anZxeXRValpNMUU4SndzaW02LXBnOEJ1eXRHdzRnRjkwT0w0YVczQTZfZ1NaTXVReUh5bFRCNjVJWFM4OHg0QXp4OWhCckkyVXdYeXZqRV9EUlNUdTEwMGhfNkVRYU5OQURaTC1mUGk1cUEzQ2s?oc=5",
-      "source": "TechBullion",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-30T05:25:01+00:00",
-      "event_time": null,
-      "sentiment": "偏利空",
-      "basis": "标题关键词：ban",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "a530500be804c128db1f",
-      "title": "If Crypto Rallies 50% Into Year-End, Which Rises Most: Solana, Dogecoin or Zcash? Grok AI Ranks Them - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYjRtZlA0cFBMOWJuYjh1NEJhN3VlRnVGWGN5Ung2Y2JuWF9vRWlTOTFMYklycUdYWGFERlVjamVYTzUxZWJrejh3U0VXbXBPTG5vZ1M5Wkx2MVZKckQ4VURJNG8yeDFLQzNnNHg5MnZNUkh1ZmtvLVQ4czRfNmh0ZmJHTm12MTctUnY5U0U3WVRqRHV6dUNlMGhGUVMyR0NLQS1NYl9fNDRpU0hOOU1hdVd2NjRXTkNMWkJLUnJKU09WUGNZTHdMbEVub0Z3d3dTS0g4OGJUVGlmU3FCclNHR3A4ZXZWRGg2UXc?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-30T03:21:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "ddb4cbf5027ad8943ea3",
-      "title": "Winklevoss Urges Zcash to End Grants and Keep Privacy at Its Core - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96WWI2ZkN6c05pc3ItSWtiT1Nyd2pMZEhIN3NSSnd4VHFyZlFLY0k5Zmx5QTFKRE41bzhUdmhTYXlsTE5pZkdtdllnQlRUbXFhZDQ1UEZ1bmlfLW8?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-30T03:13:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "8a262c197831285b3cf7",
-      "title": "Cameron Winklevoss Calls for Zcash to End ZCG, Focus on Privacy - TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iak9URzJsTVZHZ09lNWRCY21FLUdoX0xYRzdGaXFZb0NET3NDLWRndEltT0UyQXBjeTRSVW1WMFl0ZlF6ZVhON1pOa0ZJNGhZX29LVTdB?oc=5",
-      "source": "TOKENPOST",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-30T03:12:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
