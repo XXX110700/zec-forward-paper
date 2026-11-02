@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-02T10:59:53.108787+00:00",
-  "last_success_at": "2026-11-02T10:59:53.108787+00:00",
+  "checked_at": "2026-11-02T11:54:44.922540+00:00",
+  "last_success_at": "2026-11-02T11:54:44.922540+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,32 @@
     }
   ],
   "items": [
+    {
+      "id": "61aa1c799adbe6b45a1c",
+      "title": "Zcash Faces 'Sell-the-News' Test as NU7 Upgrade Nears; Analysts Split on Whether ZEC Holds $1,100 - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MamJKSWtzRlpQaGRuVGY3N1JSNkFaMC1oSnpvWkpzXzg2YnJRVE9vXzktWGlpRkYxTE9WUDRzaE41MmJNZi0zbUtKTlR5ZnYweWNzeDhYMnpES0VWbnk2QklJUkRvU01GOTJVRVM4ei1XZVRwRGc?oc=5",
+      "source": "BigGo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T11:35:00+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "30e118e4d6c6c08ff09b",
+      "title": "Zcash extends consolidation as macro headwinds continue to limit the upside. What to watch next? - investingLive",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQkhIVXNGb1VjM05JQUxmY0FIV3ljRWt0TVJCV3U4NWczQl9jMVNTVmE0Y1FCd0JfUWRZdHItaGdCRjlhYXpFMjBWd0lqWkNsNDBxRHpyZ0hFU1VubTlLd2tlTWVWZW40allZTTJqSjZSelJKbk1La0ZtcDN2X1ZyMlBOdHdfLVZrWlIxNTI5X2M2TTdoLTM0bWNvLUhDVnlvWmZQSHh2S1B4V1Vqak12aWtOUlJwR3B2N2kyZUNXUU9WSXc0dFlObGFiUTRqN29ERnc?oc=5",
+      "source": "investingLive",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T11:25:51+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "c45f5c87a0f0de0b7705",
       "title": "Crypto News | Bitcoin Holds Near $78,000 as Markets Steady Ahead of the US Midterms; ZEC Leads Majors - Binance",
@@ -232,19 +258,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "11ae31c5b51f27fa4eb4",
-      "title": "Zcash USD (ZEC-USD) stock price, news, quote and history - Yahoo Finance - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2VXhtSklIQnJscUkyUzlxa2lOaHNkbFZiR18tOEpxZ3BGcEpZYThBMy1GOW1IcjZVbnVXQVN0NkVwZVcxT0psbElwZURFd1h0TFk4ajV6QVRFQmJWZGx0U1h0TzNmUQ?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-01T02:13:52+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "ec212900e20f4e2c009f",
       "title": "Zcash price drops 2.63% in one hour but stays s... - Pluang",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHJmMlRCNHhsZlZTRE5GUDJFVlFzNjVuWWsxZ0dhbUZjMVJ3ai1YaHNDQUFTWDVmWDhoSjhhMnZ3V2NWVlZoSmhldjZnV0JzTmpTcnpiaUU0MEk1azRTYVhUcWJMZzBpcTNvSE8yZTBhTlB5YTRIWmNFUFVEdEUwVThEbHdBOVRRWWItSVhwN0FURzdSYXNlRHA3ZUJHdw?oc=5",
@@ -362,6 +375,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "f317995296cd663b7a39",
+      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdjQ1OUo2OEIzZFVqRXIwaGNTbUdIb19jRkEtWGlqQTk5SEc5UUxiNmt1X3V0SFZtRnNzOGJKWFktZVBRSVJPT1VlZnN4RmpuY0d4RkVYMzlvUQ?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-31T09:34:11+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "6303ed81b9c4961e74db",
       "title": "XRP and Zcash ETFs Record $5.07 Million in Combined Outflows as ZCSH Leads Withdrawals - Altcoin Buzz",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56WU1MZTJVZWlJZGN6MHJCV3FLekdjMjdNOTRPVEU0QmxGaFNFaGRsRzhrbWtvOFFrZHdoRjY0OTRQeWlsa2F0bGFXWHJKVU11aHIwckV1cV95cENIVU91MXlVajhwaGpra29kMg?oc=5",
@@ -408,19 +434,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-31T02:33:49+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f317995296cd663b7a39",
-      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdjQ1OUo2OEIzZFVqRXIwaGNTbUdIb19jRkEtWGlqQTk5SEc5UUxiNmt1X3V0SFZtRnNzOGJKWFktZVBRSVJPT1VlZnN4RmpuY0d4RkVYMzlvUQ?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-31T01:34:18+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-30T07:23:46+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "0ff99db1a3d0cc210689",
-      "title": "Winklevoss twins call for Zcash grants committee to be scrapped - Crypto News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb05PQkprUEZSX3FFcEhCTGNHYWswaHZZcFNDeTF6TjZ2UEZ5U2N2OUtfazZvOGdYQnRVSTMtOWduOGs3dU1UVXBrLUZheGdMV0dNN1VYb2VTUjNTUlJZTTJERnkwTjItTm1LekI0X2gyMTZrSFdFRGdPdlpZTFNMcXJVT05QZFVtcU9aSQ?oc=5",
-      "source": "Crypto News",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-30T07:13:59+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
