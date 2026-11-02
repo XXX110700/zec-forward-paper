@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-02T01:00:32.226269+00:00",
-  "last_success_at": "2026-11-02T01:00:32.226269+00:00",
+  "checked_at": "2026-11-02T02:04:19.451952+00:00",
+  "last_success_at": "2026-11-02T02:04:19.451952+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 31
     }
   ],
   "items": [
+    {
+      "id": "0ed03e0c754cca07ddfa",
+      "title": "Zcash Hits $1,280 as Whale Threatens Full Exit Over $50M Grant Cap Fight - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Hd0VTdGNTXzAwekwtXzF1N1pfZjFzUUxZRUxjUklaaWJET215VFI1azc0SWdyNUVIbGg5Wk9YUnhWYUx6RG0yY2Q5VnhSMXIwREZSU18xVXc0ZFF1eTdDeGdwRm1xdUdSSHR2c1psbzFIWWh4OEE?oc=5",
+      "source": "BigGo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T00:56:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "a8df85ff810143c506b0",
       "title": "$1,000 in Zcash or $1,000 in Monero: Which Could Be Worth More by 2028? - 24/7 Wall St.",
@@ -47,6 +60,19 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "ef20ffa79478a4e413a0",
+      "title": "November 1, 2026: ZEC 15 min · 5:00–5:15 PM EST Crypto Prediction Market - Robinhood",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQzBwZXl5bmZlMWY5dnpNVTlTbjA5bFJYUFhUVlJKa1dzNVFJLVFIcEpQQTlNdkljd2E1cHNJTEI2SG0tT3g0SDZkOE1yLWZVa3gzaGNzbXJCcXVKSTdlb2tEUTRCRXFzX09IcGtlWUFCMW81aEhFYWEweDZsczlTLXpIZnNHWUVGNl91WGtCeUJDX0Y4RHFUZkEzTTM4eVpodFcw?oc=5",
+      "source": "Robinhood",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-01T22:07:37+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -135,6 +161,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-31T20:53:47+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "cb3f7ce06a9694923adc",
+      "title": "Zcash (ZEC) News Flow - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNMUdwdUFlMWpjV1V5M2JjdHdZX1FSaUhjMzhreUkxZmxEdy16UVhxcTRPdTgzV0l6OTlMcS1zUDViQm5aVkl0djAzRlJqS3AyTV9iRmtiY2UzZkQxeGJRRWVuLVQ3bEZNNVdNWHpSeENqa0RBc29tVGo4VG14SHo0Ry1fLVVlRS11VkZ4M3RCSFRpYkJSWEpjWFZlTjR3NE93R2NvZUYxWnJWUnJ5UEZua05CVWFGOGhkdDBMcGIxRDNaaWhzUy1oODZDQ3hjUi1kZ0FSWE15ZEhLd0NlYkZuQUJEYmUxYTlPYXFyWldodVhLYTRfWFRFbDRVRGVqVUZfUERHLWt4bG80UFdoa3dldnI1RWd6VFlOMW5iSU1jcVlVT0VUQmlOSVV4TlVEZTU1WTh3X1hmZXBHNUNud08zMkVGUm1QOFk?oc=5",
+      "source": "Moomoo",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-10-31T20:06:20+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -466,22 +505,9 @@
       "verification": "未独立核实"
     },
     {
-      "id": "9e85304fc81f7ba45b0d",
-      "title": "Zcash 社区提案：提前终止开发基金，涉及 20% 区块奖励 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55MmthMTVCS3ltd2hXd2EwMUtpd1otVm9iT0Y5bFlJdG9Callpelk0NXpyZDduRjVCSU8xdjM0a21yVGI0UzI3WEcyaWpxQ1hoamJYMlpPdXlscVF2?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-30T07:00:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "8a3ba7ec841505a98607",
       "title": "Ignas：HYPE、ZEC 等资产显现独立行情，加密市场仍有结构性机会 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KdzFHUHJQaHY1OExfcTFYSGxnSmp0dGNkM3VxNnNYNFZ0YWR5ODdHbURvb3N6c3kyd1lJc2prbmJyNkYzUDFvRDdTTFoyeG9ZVjJaZkhBY3JxTDc2?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55eUJUZ2xLVmdSSmw4bUlxV1QyMXZGcTFZMERrZERGVWNIcjQyY3NDR0FMWEYxbHNXTk9MS2ZwV3Y3Q1dZRDhtTjVRVHR5amx3NU56VkEyV2o?oc=5",
       "source": "CryptoRank",
       "feed": "Google News 中文",
       "kind": "aggregation",
@@ -492,13 +518,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "edc6990daab78e33da20",
-      "title": "ZEC Jumps 12% as Zcash Nears Proof Against Counterfeit Bugs - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLWxpMEN5WWdTUGs5TjQ2SlJKUWxGVkdsM3ZoS3JxaUR2ZDhXQ2gwNGx1bXQxT25ubTYzLVpqbEVST1U1dWlMS3lXRURHX09RN0JCdGkwclZIUnl1SkV5Mi1jR1RRTHpBMnd4eWpSVTAwZl9pMWJfWllEWE1YOEJjeWJqazg1UWtHY2IxMnd3eHNMRlJWclREYzN1MA?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News EN",
+      "id": "9e85304fc81f7ba45b0d",
+      "title": "Zcash 社区提案：提前终止开发基金，涉及 20% 区块奖励 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vMTduVEpvdnpzZ3E2OUtCZnFSRzJNaEFFUGdaeGxEcVBHbGlXeG91d3N5Z3pzR1M3aVRGUzg3T0gxU3JGeHljeHc0XzV4Vk9mZHM1T3d1dGI?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-10-30T03:24:06+00:00",
+      "published_at": "2026-10-30T07:00:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -658,32 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "ba75a451eac8c6665ecb",
-      "title": "Zcash Price Forecast: Steady ETF inflows and retail confidence drive bullish momentum - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPekROYW9VdDdOSnpuZzgzYlBkY3VlTGhPMlU5bWstb0hUZ2M3WWNIcnZSXzdqYUdNTzFHYnh4dzlPQVpfNlp2b0VFWU9NZmg0elRqeVpmTUdNbEdTcG5mSVBxaGtWQmVhOVFJcl9UTS1RVDc4TWw2Vmlrcl9sYi1OaEw3N2hOR2lFMU9iUnFBRGRyR1ctTE40cG1QRUt2NjNlU3J0alp3R3hnbUJQLWVucWZoQ3lrVFRadGU1MkpCV3VhWUFYZXRNMldkcHFKc2diSnVlWlFtNENHX3ZSN01vX0JFVlh4QQ?oc=5",
-      "source": "www.tmgm.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-29T06:34:02+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "7c038b7516d59227f5ff",
-      "title": "泛欧交易所暂停CoinShares Zcash ETP，称结算操作未获支持 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1OWVlNE4zY3pJa092dVpuQlduUDVxUGNfRWFScEJISHdDZHE5bjBySVhZRXJWekhMVzRpY25sRlktZ0ZIR3J5eDgwZlNTY0RBR0Ezd0lZRnNjRm1oM2tIcTRDZnkwZw?oc=5",
-      "source": "TradingView",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-29T05:14:00+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     }
   ]
