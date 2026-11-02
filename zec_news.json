@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-02T02:04:19.451952+00:00",
-  "last_success_at": "2026-11-02T02:04:19.451952+00:00",
+  "checked_at": "2026-11-02T02:52:39.709565+00:00",
+  "last_success_at": "2026-11-02T02:52:39.709565+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,15 +27,41 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 96
+      "matched": 95
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 31
+      "matched": 22
     }
   ],
   "items": [
+    {
+      "id": "e036dd8e1d9e39728810",
+      "title": "Binance Announces Re-Enabled Withdrawals for ZEC, User - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lRUR2a0FxOTE0WDlmdWlvMWZBTGN6X2hwRFNlSDN2NVZwV09pdGg3UVc5ODNNTzd4aE13QUNpM2EzSUZObEhJdEZJaExLOVpUai02Q1NBZw?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T02:16:58+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "e88a4f88b4b133e000ac",
+      "title": "Zcash Rises 2.17% in an Hour to $1,255 on Binance Spot - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45TURsVkVHUERXLVB4M243Mk1QNkd5M2RVRFJDWjhndXBrLWN2Z0RkWjg3aThQY3Y4WHR6aGNQZ244cnBYY3lYNGxkbC1zODhCRkh5eGpDTWNCQQ?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T01:51:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "0ed03e0c754cca07ddfa",
       "title": "Zcash Hits $1,280 as Whale Threatens Full Exit Over $50M Grant Cap Fight - BigGo Finance",
@@ -148,32 +174,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-31T22:49:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "9e60bf4dffd276212512",
-      "title": "Zcash Flashes Bullish Crossovers, Mirroring The Setup Before Its Prior 185% Rally - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQTRyUmtLTGVScnVVb1l0LTdvTDNac0NaRHdUUG1VSGVrT3hFU1duRWZIUUtIbWZLTjQ4QlV4OXFCTFNKWVBFRm1PdHZJVVdySFljRTFRU19iS2ZVVEN2cjdlYWdPX3BGaGZjbUh5U3ZweEFZd0k1UW43MFBZdnh4QUdYYXVKSlk0WTl1U2p3M2NmVWs2b3g5VDgtN1NMcHIyTDlfalR5bm81UQ?oc=5",
-      "source": "Stocktwits",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-31T20:53:47+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "cb3f7ce06a9694923adc",
-      "title": "Zcash (ZEC) News Flow - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNMUdwdUFlMWpjV1V5M2JjdHdZX1FSaUhjMzhreUkxZmxEdy16UVhxcTRPdTgzV0l6OTlMcS1zUDViQm5aVkl0djAzRlJqS3AyTV9iRmtiY2UzZkQxeGJRRWVuLVQ3bEZNNVdNWHpSeENqa0RBc29tVGo4VG14SHo0Ry1fLVVlRS11VkZ4M3RCSFRpYkJSWEpjWFZlTjR3NE93R2NvZUYxWnJWUnJ5UEZua05CVWFGOGhkdDBMcGIxRDNaaWhzUy1oODZDQ3hjUi1kZ0FSWE15ZEhLd0NlYkZuQUJEYmUxYTlPYXFyWldodVhLYTRfWFRFbDRVRGVqVUZfUERHLWt4bG80UFdoa3dldnI1RWd6VFlOMW5iSU1jcVlVT0VUQmlOSVV4TlVEZTU1WTh3X1hmZXBHNUNud08zMkVGUm1QOFk?oc=5",
-      "source": "Moomoo",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-31T20:06:20+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -505,9 +505,9 @@
       "verification": "未独立核实"
     },
     {
-      "id": "8a3ba7ec841505a98607",
-      "title": "Ignas：HYPE、ZEC 等资产显现独立行情，加密市场仍有结构性机会 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55eUJUZ2xLVmdSSmw4bUlxV1QyMXZGcTFZMERrZERGVWNIcjQyY3NDR0FMWEYxbHNXTk9MS2ZwV3Y3Q1dZRDhtTjVRVHR5amx3NU56VkEyV2o?oc=5",
+      "id": "9e85304fc81f7ba45b0d",
+      "title": "Zcash 社区提案：提前终止开发基金，涉及 20% 区块奖励 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55MmthMTVCS3ltd2hXd2EwMUtpd1otVm9iT0Y5bFlJdG9Callpelk0NXpyZDduRjVCSU8xdjM0a21yVGI0UzI3WEcyaWpxQ1hoamJYMlpPdXlscVF2?oc=5",
       "source": "CryptoRank",
       "feed": "Google News 中文",
       "kind": "aggregation",
@@ -518,9 +518,9 @@
       "verification": "未独立核实"
     },
     {
-      "id": "9e85304fc81f7ba45b0d",
-      "title": "Zcash 社区提案：提前终止开发基金，涉及 20% 区块奖励 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vMTduVEpvdnpzZ3E2OUtCZnFSRzJNaEFFUGdaeGxEcVBHbGlXeG91d3N5Z3pzR1M3aVRGUzg3T0gxU3JGeHljeHc0XzV4Vk9mZHM1T3d1dGI?oc=5",
+      "id": "8a3ba7ec841505a98607",
+      "title": "Ignas：HYPE、ZEC 等资产显现独立行情，加密市场仍有结构性机会 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KdzFHUHJQaHY1OExfcTFYSGxnSmp0dGNkM3VxNnNYNFZ0YWR5ODdHbURvb3N6c3kyd1lJc2prbmJyNkYzUDFvRDdTTFoyeG9ZVjJaZkhBY3JxTDc2?oc=5",
       "source": "CryptoRank",
       "feed": "Google News 中文",
       "kind": "aggregation",
