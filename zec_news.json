@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-02T06:02:03.770411+00:00",
-  "last_success_at": "2026-11-02T06:02:03.770411+00:00",
+  "checked_at": "2026-11-02T07:24:20.679305+00:00",
+  "last_success_at": "2026-11-02T07:24:20.679305+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,12 +27,12 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 95
+      "matched": 96
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 32
+      "matched": 22
     }
   ],
   "items": [
@@ -44,6 +44,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-02T05:44:38+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "d959f611eb419f0d234f",
+      "title": "Zcash Price Forecast: ZODL Founder’s New Support for Ending Community Grants Accompanies ZEC Rebound - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNa0FZeVBISDJSU2UxYVZrdkdNRnBpbjRDRXU1NkRFdkwxTm5PNnNZcmtBZURkUlpNU19RUy1lMW5lLU1iQUM0QWxRZUdiZlVkc2dNQW9FX3B2YXl5NW4yN2wxWDZ5dE5hV1hiMlNRQ1FkQlVtTlVSUDRzX1c3bUdSLUo1aFZDNzZGT3ZUUDZKWWRQT3J4MXpXdHZCQkNHXzVaYWotT01Zd0dSZzJWNnhnYndTZmVYUTd4bGRPOFg5VEVGcDRyTzdRVEk2WlphQnk1RkNiVDdzU2tXU1lsUDB1RjQ3VzduU1hTQ0hv?oc=5",
+      "source": "www.tmgm.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T04:04:44+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -76,13 +89,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "cb3f7ce06a9694923adc",
-      "title": "Zcash (ZEC) News Flow - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNV0p3b2VkVi1sblo1WmdEc2lJNG9kdTBDanBoaHJmRFhZcEZDWWk0WkNVVHhfbUV6SFVwWEpPSHFGWHBpRHN0NEkxVlFaYUF2Z0FXdHBVTXNsQ2pCaUJLZnRVaU1kV2c0UDF0UWphODJibWVqUnc5REd0UlRoejZCYlRxWEh5R3VhZG1RNHg3cXdHTDE5S0VUVXBTcjlDbmI5cjZWcVNDTHVLSHZfNy1YdUtBY0c1eTNNME1YcmRYT25HWnktSlBnMmpicV9YdmNhZDBDSVBMM1hIRDZoNmZOelpoV2ozRUV4dXk5Nkp6WlRiWUpfdHQ3X3RQd0F5NmMtNFhPaGU0b2k1ZjdzN3VtOE5jV0dTWDFaWnRRTHNNMnVSUTRYMjQzVTRoWldyQndQdjRlc3hlcktUbTg?oc=5",
-      "source": "Moomoo",
+      "id": "a78915b6fbbd9562e390",
+      "title": "随着治理反弹加剧，Zcash 资助组织提出 1.24 亿美元的妥协方案 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PRl9SS1ZvRE5JdVhQZV83cXFiWFBzWFh2WE15Z0RzVDhFQ0RVSmdIaWcyWHNIbGpBTklSbHUtUHB4SzlPWjl0RjhaeTRtOUd4VW1IdU9EMGhOdDE4bHhaUXFBb1BJZkdSbl9vOHZVSVA?oc=5",
+      "source": "TradingView",
       "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-11-02T02:05:19+00:00",
+      "published_at": "2026-11-02T03:27:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -232,19 +245,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "9e60bf4dffd276212512",
-      "title": "Zcash Flashes Bullish Crossovers, Mirroring The Setup Before Its Prior 185% Rally - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQTRyUmtLTGVScnVVb1l0LTdvTDNac0NaRHdUUG1VSGVrT3hFU1duRWZIUUtIbWZLTjQ4QlV4OXFCTFNKWVBFRm1PdHZJVVdySFljRTFRU19iS2ZVVEN2cjdlYWdPX3BGaGZjbUh5U3ZweEFZd0k1UW43MFBZdnh4QUdYYXVKSlk0WTl1U2p3M2NmVWs2b3g5VDgtN1NMcHIyTDlfalR5bm81UQ?oc=5",
-      "source": "Stocktwits",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-31T20:53:47+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "92d16b65c73353db3f85",
       "title": "Zcash ETF ZCSH Triples In Three Weeks, Grayscale Announces 3-For-1 Split As ZEC Tops $1,500 - Stocktwits",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ1hiSll3OGZuYUlMUzR3dU51MUZZMDhubUFmLXZOZnpVZUMyYWhNcnd3Z2I1Mkw1bTloTWE1U0hHNUZQc1E4SXJqeXh2VUlMQkktOXZFWlh0QVZEcWFaNDdIdWVzQmVSNDJQaHNBLUZBck1QOE41OHdMYTM2SkNNdlVSTldfaEhKNGw3LVpyeHRobnNYV0wwdzBtcXVCSXNfNzk2aktxUjZBNlk?oc=5",
@@ -334,6 +334,19 @@
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
       "verification": "官方发布"
+    },
+    {
+      "id": "24bf498c598c64f98d08",
+      "title": "Crypto Address Cuts About 8,000 Zcash (ZEC) Long, Leaves No Position - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SRngwZ2hTVVRib1UyaFdXZWRJVVZSY0dmY0tybkFTTGNWaW42eTBNSF9CRXlkcWRuakE0TVFBMWptVFQxSElNZ2lNZEl2aUtTaVQ1Mk81RXUtdw?oc=5",
+      "source": "TOKENPOST",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-31T02:15:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
     },
     {
       "id": "f317995296cd663b7a39",
@@ -557,22 +570,9 @@
       "verification": "未独立核实"
     },
     {
-      "id": "1385815c0922d867676f",
-      "title": "Hyperliquid 市值冲上 220 亿美元反超 Zcash，非稳定币市值前十争夺白热化 - 区块周刊BlockWeeks",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tMF9HclVCRkVrem1ENUN3dmdlX0ZxWGxNS1JGSTMtZmhnX05XVUVvN1pFWC0zNWhKWm5NUURCeDJoZkp6LUw1ZHl3?oc=5",
-      "source": "区块周刊BlockWeeks",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-30T07:45:34+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "9e85304fc81f7ba45b0d",
       "title": "Zcash 社区提案：提前终止开发基金，涉及 20% 区块奖励 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vMTduVEpvdnpzZ3E2OUtCZnFSRzJNaEFFUGdaeGxEcVBHbGlXeG91d3N5Z3pzR1M3aVRGUzg3T0gxU3JGeHljeHc0XzV4Vk9mZHM1T3d1dGI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55MmthMTVCS3ltd2hXd2EwMUtpd1otVm9iT0Y5bFlJdG9Callpelk0NXpyZDduRjVCSU8xdjM0a21yVGI0UzI3WEcyaWpxQ1hoamJYMlpPdXlscVF2?oc=5",
       "source": "CryptoRank",
       "feed": "Google News 中文",
       "kind": "aggregation",
@@ -585,24 +585,11 @@
     {
       "id": "8a3ba7ec841505a98607",
       "title": "Ignas：HYPE、ZEC 等资产显现独立行情，加密市场仍有结构性机会 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55eUJUZ2xLVmdSSmw4bUlxV1QyMXZGcTFZMERrZERGVWNIcjQyY3NDR0FMWEYxbHNXTk9MS2ZwV3Y3Q1dZRDhtTjVRVHR5amx3NU56VkEyV2o?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KdzFHUHJQaHY1OExfcTFYSGxnSmp0dGNkM3VxNnNYNFZ0YWR5ODdHbURvb3N6c3kyd1lJc2prbmJyNkYzUDFvRDdTTFoyeG9ZVjJaZkhBY3JxTDc2?oc=5",
       "source": "CryptoRank",
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-10-30T07:00:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "edc6990daab78e33da20",
-      "title": "ZEC Jumps 12% as Zcash Nears Proof Against Counterfeit Bugs - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLWxpMEN5WWdTUGs5TjQ2SlJKUWxGVkdsM3ZoS3JxaUR2ZDhXQ2gwNGx1bXQxT25ubTYzLVpqbEVST1U1dWlMS3lXRURHX09RN0JCdGkwclZIUnl1SkV5Mi1jR1RRTHpBMnd4eWpSVTAwZl9pMWJfWllEWE1YOEJjeWJqazg1UWtHY2IxMnd3eHNMRlJWclREYzN1MA?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-30T03:24:06+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -629,6 +616,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-30T03:13:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "8a262c197831285b3cf7",
+      "title": "Cameron Winklevoss Calls for Zcash to End ZCG, Focus on Privacy - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iak9URzJsTVZHZ09lNWRCY21FLUdoX0xYRzdGaXFZb0NET3NDLWRndEltT0UyQXBjeTRSVW1WMFl0ZlF6ZVhON1pOa0ZJNGhZX29LVTdB?oc=5",
+      "source": "TOKENPOST",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T03:12:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
