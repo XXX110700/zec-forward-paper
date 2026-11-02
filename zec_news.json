@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-02T17:57:13.578805+00:00",
-  "last_success_at": "2026-11-02T17:57:13.578805+00:00",
+  "checked_at": "2026-11-02T18:55:47.975942+00:00",
+  "last_success_at": "2026-11-02T18:55:47.975942+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 95
+      "matched": 97
     },
     {
       "name": "Google News 中文",
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "3ff2b67041851104fb12",
+      "title": "Zcash (ZEC) Whale Builds $14 Million Long Ahead of 300% Speed Upgrade - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GWFlvRkVwZnJ1ZzFnVEpqQkRJZEZVbU5QWXN3aDIxamtzT0dYS0Q1dzJZWGRES2VEaGJpazU5dERpZDctYURld2hhSWxwYnJ3OURiTTdTS1QtZw?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T17:57:41+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
     {
       "id": "ef14b3dfc43a0bb4a911",
       "title": "Zcash (ZEC) drops 3.12% in one hour amid $2.43M long liquidations on Binance and other exchanges - Pluang",
@@ -317,19 +330,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-01T14:35:03+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "6873ca7f03d4ea886732",
-      "title": "Zcash hits $1,280 but whale investors revolt ov... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ1R6SDBueWlQalN0dWhNN1ZwZWZmZGdDbWNmZk9LWDZGeEY1ZFk2S3lKdTQ2RnlXVHFqeF9uZURZa3hWT0pIMDB5bzFydDEwTHd4b1YxNHBlQWtEZE51Z29kQzVYOElrT0k1dE5wcFp0NklRb3FjWUNaczI0bGRYaWR5UEtLWGU0dDFoSDY3TzB1MWpm?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-01T12:14:38+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
