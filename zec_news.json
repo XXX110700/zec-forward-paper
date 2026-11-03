@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-03T22:44:41.011929+00:00",
-  "last_success_at": "2026-11-03T22:44:41.011929+00:00",
+  "checked_at": "2026-11-03T23:41:19.242804+00:00",
+  "last_success_at": "2026-11-03T23:41:19.242804+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 27
+      "matched": 29
     }
   ],
   "items": [
+    {
+      "id": "dfb55da77aa7602b2214",
+      "title": "Gemini 上线 Zcash 和 Hyperliquid 预测市场 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EVFpTOUtfZ1FMdk5MZE52bVZDSVh1YmZvalNWSUFENGFsODR3NG96X1B5eW9jaENlTkNIQkFuZnh1ZHNJSGhjRHQ5Ykg3ME9NcmhmbFFOd3hiZEZn?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-03T23:17:26+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：上线",
+      "verification": "未独立核实"
+    },
     {
       "id": "13beba74b04be1acc303",
       "title": "Crypto Market Today, Nov. 3: XRP and Zcash Defy Recent Weakness as Midterm Elections Take Center Stage - Yahoo Finance",
@@ -138,6 +151,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：升级",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "7f2cfa6af3a232639be7",
+      "title": "Will these five upgrades determine the future of ZEC? - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkYxMG1ndUliQVNHS0tJODVMUThkMVo3eWpiS0lHbUtrZVF3dUt2c1E4R25IVzhEV0k2QV84ZHNPb3JPR1VWTUo4V2JrbTMtLUpYNGpXSnoyZ0h3Q2tTWkV2c3lZRUFZeHdfdmVxYVJTUXpqYkt1eVlmbmdHd0NWODdZeFotWFQwWDVxZ1RfUFlRMTdfcGVoTUFzaw?oc=5",
+      "source": "富途牛牛",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-03T11:17:24+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -372,19 +398,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "8c7704a6f76fc3d71285",
-      "title": "这五项升级，将决定 ZEC 的未来？ - ForesightNews",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fRFJzNHF0RExWT2VFRXdyZUN2M0lzcmVaYzU5QmpkUlRqSEJ6VlJzWXQ0eHpyWmkxWmtMSmZqc1ZleGk3bUFoZGg3dTQtSGNZRXVFRGJQNEFqb3M?oc=5",
-      "source": "ForesightNews",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T16:01:00+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：升级",
       "verification": "未独立核实"
     },
     {
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "624f8d4431ba5e91dcd5",
-      "title": "Is Zcash a Good Investment After a 199% Year? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkR6U0hkZ3RHNWdWRzY2MVZSbFZsWDhYQVdnNzE0dmFuSDNaM1FQRTBVVWRQLVpZaVE2LTcxTTZxR28tRzNhQVB6TUhFRFJvZEJzWDN1cVVldTN1bEdOdkNuaFYzUXNvZ2QwWG5qZWl6N3BxekhsOXNDVDJMa3B4Unh6M0w5b08tLUNfcFlZZU5JUU9VVWlzLTJDTDl6RVFWbjZjNA?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-01T19:37:00+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：investment",
       "verification": "未独立核实"
     }
   ]
