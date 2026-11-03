@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-03T15:52:07.850180+00:00",
-  "last_success_at": "2026-11-03T15:52:07.850180+00:00",
+  "checked_at": "2026-11-03T16:56:31.430806+00:00",
+  "last_success_at": "2026-11-03T16:56:31.430806+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "ebabb689e9d328330d25",
+      "title": "Claude AI Predicts a Privacy Coin Boom: Can Zcash Go To $5,000? - 99Bitcoins",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTmY0U3VqSllrQjhfWm1kY3psUVR2Y0tQSVFOOFFyN2ZmYnhOVTA0cnk0ZFFUVjk0SHl4aUR3TzVCcmVNV0VQSWxsT2VxR0Y3VURjMlhVdm1yYkpYMTdhWHV0c3NqMlhJdllOeXFzY3dZZDJmZk1nT1h3d2VhSkxCNV9sSjlvdjJHNjM5bTkzQ2d2S01fUlpKWHJpYURjUQ?oc=5",
+      "source": "99Bitcoins",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-03T16:05:16+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "f1c65c6e8fb8ed3e59b1",
       "title": "Gemini Trading Markets Add Hyperliquid and Zcash - The Cryptonomist",
@@ -570,6 +583,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "24b274b2aa5ee68cb09f",
+      "title": "A crypto address closed a 10,000 Zcash long pos... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeGI2WlFDWXN0OW5UR2tfTTVwbFA0SG81c3JxNUZ3YlJSZXFNNzhEaEdCVVQ2WjBKUzhsaU1Ea3AxdEdxR1A0SzRmbEJ0dkx6b2FTazQ2UE92MXhpTUVocTd5RFpRc1JiS2J5UEd0ZnFkLXJUeVlTd0hnZlBlX3FvdTJBa1oySF9hVEtFRFp1QUMyS055ODMyc1FyTEFURmc?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T00:14:33+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "a8df85ff810143c506b0",
       "title": "$1,000 in Zcash or $1,000 in Monero: Which Could Be Worth More by 2028? - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGpqM0xNXzk2VnRYZDFNU2dwMmluSklqX2VfVDUtTVF0cTdMRUFNOHNyUUpIN2FOMmllVktCdjFZSTdYVHRfRUc4aTBONVhwSHBBYlhXSnJlQWt2eXIybDBER29UV000aE13elJjLUJBdmlPSmpJU3AwNHB4RUhjMUYwNWZuZHViMzVwTEF1enR5NHF1RHVOdUFRRHkxYUFsSjlGckR3OVpCWjhVbVZnUlQyVlVHUmIzcFB2U0Q3M19YZw?oc=5",
@@ -655,32 +681,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-01T10:48:54+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "a0b95b33d166ce90d3b3",
-      "title": "Zcash Price Prediction 2026: How High Can ZEC Go? - Bitcoin Foundation",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNenI5anFVNzR1YXVvQXA5UFNJYmpmUi1NQ2taTEpRWmI4d0tHVXQ4ZXU0UktVd0lIVzNQbkV3cW02U2lNYzRyVTJ0QjFPMEx1V191U1NGR05ZTFp5RDZWdWJ3d3VwZ2Q3LWswdFZ5bE8tb1JodmFFLUdhcUVNdE1OQ3AzSXlpSlo4U0JOQV9VRFBVeUFWNUow?oc=5",
-      "source": "Bitcoin Foundation",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-01T00:00:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "ec212900e20f4e2c009f",
-      "title": "Zcash price drops 2.63% in one hour but stays s... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHJmMlRCNHhsZlZTRE5GUDJFVlFzNjVuWWsxZ0dhbUZjMVJ3ai1YaHNDQUFTWDVmWDhoSjhhMnZ3V2NWVlZoSmhldjZnV0JzTmpTcnpiaUU0MEk1azRTYVhUcWJMZzBpcTNvSE8yZTBhTlB5YTRIWmNFUFVEdEUwVThEbHdBOVRRWWItSVhwN0FURzdSYXNlRHA3ZUJHdw?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-10-31T23:24:14+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
