@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-03T05:55:04.749730+00:00",
-  "last_success_at": "2026-11-03T05:55:04.749730+00:00",
+  "checked_at": "2026-11-03T07:06:55.970683+00:00",
+  "last_success_at": "2026-11-03T07:06:55.970683+00:00",
   "status": "partial",
   "sources": [
     {
@@ -27,15 +27,41 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 94
+      "matched": 92
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 29
+      "matched": 20
     }
   ],
   "items": [
+    {
+      "id": "474a38c320dae5697470",
+      "title": "Материалы подкаста | Беседа с основной командой Zcash: прорыв в 50 000 TPS и квантово-устойчивая защита, оценка долгоср… - 深潮TechFlow",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84RDBGSWg4RnhuOHUzU1U1VXI1bzhtR0RyNDZwMXVIdmJ0NDF1SWpqeVJRWlhmemMwY19Wd3ZlcFU3REZsZlJfUTFNT3M0eU5xVFdqaHQ2emhVbS1n?oc=5",
+      "source": "深潮TechFlow",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-03T06:22:30+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "0ec4d70679598380b0b9",
+      "title": "Podcast Notes | Interview with the Zcash Core Team: Breaking Through 50,000 TPS and Post-Quantum Defense, Evaluating ZE… - 深潮TechFlow",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YSWozQmkzOFEyLUhmSHp3anNkY3FBNTNaUmpZZXdnUDZtTTZRcUlXa3NCZ1lEc0owX28wMG9udTBqenRGTkV1TlczSTBld0ZtRUIwam52bG1PSVoy?oc=5",
+      "source": "深潮TechFlow",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-03T05:28:17+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "a743520cf44327a9368a",
       "title": "美国 XRP、HYPE、ZEC 现货 ETF 单日合计净流出 702.17 万美元 - TradingView",
@@ -57,6 +83,19 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-03T01:44:59+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "39d46d5c301bac6ff35b",
+      "title": "Zcash Transactions Become Available Through Cash App and PayPal - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qODRRV0N4WlltUXl3QkwxNWxZbml6czg1OV9oWS1fcjE5SE82X3VPcVYzbDVhX0ZzaGthd2ZOaV9wb0JUT0NkN2VxVkZuck1STjJDbWZyYzY0ejA?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-03T01:34:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -206,19 +245,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "fec4bd19a234c55a9fe4",
-      "title": "Zcash（ZEC）在NU7升级前面临“利好出尽”风险-区块链文库 - https://www.5m88.com/",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WdjEzSG9yNEsyeHhkUXZJSERkR08yVEV3RFF4eURST3FkMXRXM051UFg1TjhFT09iQlM2Y2tkS09nTVMwNXZNUngzMnB3dw?oc=5",
-      "source": "https://www.5m88.com/",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T11:21:00+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：升级",
-      "verification": "未独立核实"
-    },
-    {
       "id": "3df32774f2754d661d0f",
       "title": "Zcash eyes $1,385 as ETF inflows return ahead of NU7 upgrade - TradingView",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOG9DNTZCOXVGbVZfT2RlXzZpQlFMM21MdF9xbkhseDhwRFFIeWNhRmdKeEFuZkVYV3ZnclotVkJ0VFJtWVlxSjd0UGRwbURxdmkwYmg5RUtDVHQyYlNFMHA3NWpfWXN5TzAwMnViZHc5YzNydDdmUHRsSW5iQ2U1anlZbVZZUXdvcXl2Q3ExckZzUDBvQjJjWW0zenBESF93RDBXQk5vM1Q3cllfb2JMUDFISl9WQQ?oc=5",
@@ -229,19 +255,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "6f314b617bc792aeef19",
-      "title": "播客笔记｜对话 Zcash 核心团队：突破 5 万 TPS 与抗量子防御，评估 ZEC 的长线爆发逻辑 - ChainCatcher",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tb0RBWGdoSGdKNGY5SmZuSVZIMzBuMGFDVG5iZzRWM0hITWs4R0U4cnJRVURkeVVEU1lQMHlaNHhGTWpaQ29acVpHSDBlUzh5ZWRvUzRaYw?oc=5",
-      "source": "ChainCatcher",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T10:08:33+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -486,19 +499,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-31T22:49:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "cb3f7ce06a9694923adc",
-      "title": "Zcash (ZEC) News Flow - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNMUdwdUFlMWpjV1V5M2JjdHdZX1FSaUhjMzhreUkxZmxEdy16UVhxcTRPdTgzV0l6OTlMcS1zUDViQm5aVkl0djAzRlJqS3AyTV9iRmtiY2UzZkQxeGJRRWVuLVQ3bEZNNVdNWHpSeENqa0RBc29tVGo4VG14SHo0Ry1fLVVlRS11VkZ4M3RCSFRpYkJSWEpjWFZlTjR3NE93R2NvZUYxWnJWUnJ5UEZua05CVWFGOGhkdDBMcGIxRDNaaWhzUy1oODZDQ3hjUi1kZ0FSWE15ZEhLd0NlYkZuQUJEYmUxYTlPYXFyWldodVhLYTRfWFRFbDRVRGVqVUZfUERHLWt4bG80UFdoa3dldnI1RWd6VFlOMW5iSU1jcVlVT0VUQmlOSVV4TlVEZTU1WTh3X1hmZXBHNUNud08zMkVGUm1QOFk?oc=5",
-      "source": "Moomoo",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-10-31T20:06:20+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
