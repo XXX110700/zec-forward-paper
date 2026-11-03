@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-03T19:53:54.356750+00:00",
-  "last_success_at": "2026-11-03T19:53:54.356750+00:00",
-  "status": "partial",
+  "checked_at": "2026-11-03T20:48:26.361342+00:00",
+  "last_success_at": "2026-11-03T20:48:26.361342+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 1
     },
     {
       "name": "Cointelegraph",
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 97
+      "matched": 98
     },
     {
       "name": "Google News 中文",
@@ -82,7 +82,7 @@
       "source": "Cryptonews.net",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-03T13:58:31+00:00",
+      "published_at": "2026-11-03T13:58:09+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -112,6 +112,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：升级",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "7f2cfa6af3a232639be7",
+      "title": "Will these five upgrades determine the future of ZEC? - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkYxMG1ndUliQVNHS0tJODVMUThkMVo3eWpiS0lHbUtrZVF3dUt2c1E4R25IVzhEV0k2QV84ZHNPb3JPR1VWTUo4V2JrbTMtLUpYNGpXSnoyZ0h3Q2tTWkV2c3lZRUFZeHdfdmVxYVJTUXpqYkt1eVlmbmdHd0NWODdZeFotWFQwWDVxZ1RfUFlRMTdfcGVoTUFzaw?oc=5",
+      "source": "富途牛牛",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-03T11:17:24+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -362,19 +375,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "8c7704a6f76fc3d71285",
-      "title": "这五项升级，将决定 ZEC 的未来？ - ForesightNews",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fRFJzNHF0RExWT2VFRXdyZUN2M0lzcmVaYzU5QmpkUlRqSEJ6VlJzWXQ0eHpyWmkxWmtMSmZqc1ZleGk3bUFoZGg3dTQtSGNZRXVFRGJQNEFqb3M?oc=5",
-      "source": "ForesightNews",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T16:01:00+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：升级",
-      "verification": "未独立核实"
-    },
-    {
       "id": "8b3fd1535daa737103db",
       "title": "Zcash (ZEC) price rises 2.13% to $1,266 amid he... - Pluang",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUl2WVVJOEpCQV9CYy1lZk1INVNGdmp2dFo1VUtJTThMampjeWR1bFVocVBDemcwVVcySkQ1SFR1UTVvdkRFRExjTDhWd0lHZHg3SWRwU1V6SkUySGx1VnJ0ampIZWtjNHBuOV9iUDJkMHFTZV80a251TFJHUGpCcFR1bW5ZUkFzbUVBYmZRaUVvVTIzblNJ?oc=5",
@@ -411,6 +411,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "b5e35104a4514590318e",
+      "title": "Zcash price key level at $1,370 could trigger a bullish breakout or continued downtrend. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQkxQYWRPRzg4b1MzUmVTdV9YQUVmQWZHem1QRkRLbzVGcHNIaS1fOW5NYnJCREM2b184alNWSFgzeWhoWDd0YkdWeGZONm13MTVfMnVaU1FHVl9wdUZvQXBlLThTNVVUZFZfXzhlNVE3SmcwX3FlNVVjVm5ERjFYWHNhYXdmbjM5VThVMg?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T13:16:33+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     },
     {
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-01T12:14:38+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "5b0789ca498d85e4a22f",
-      "title": "数据：美国 XRP、ZEC 现货 ETF 单日合计净流出 506.79 万美元 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VWW9EeXYxcTBnc2RFQnJmNE9PUUItSGdxcFVNTWpxRC1JNEVjd2p0WTB5Y1BxLXZzVUQ1UFZmb01KOEFQTjFmbGR5ZGd5N2JJeFIwcWlHd1R6Zm16?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-01T10:48:54+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
