@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-03T21:45:50.847297+00:00",
-  "last_success_at": "2026-11-03T21:45:50.847297+00:00",
-  "status": "partial",
+  "checked_at": "2026-11-03T22:44:41.011929+00:00",
+  "last_success_at": "2026-11-03T22:44:41.011929+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 1
     },
     {
       "name": "Cointelegraph",
@@ -27,15 +27,28 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 98
+      "matched": 93
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 27
     }
   ],
   "items": [
+    {
+      "id": "13beba74b04be1acc303",
+      "title": "Crypto Market Today, Nov. 3: XRP and Zcash Defy Recent Weakness as Midterm Elections Take Center Stage - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXQ4MFBnRXQzSldXVk1kS3N4LUo2OHV4N09KdFZYbkgzZGV6TmNvNTI1aTdsQkVndG9VN1l2djdRLWgzUWhWTjhrYkNCeV9Eb0RKbnNJMnF5amRudjdjalFhc25qd0trSTlCb3dhR2VPXzB0anJHZmpSRGM3OGlxb2FhMWJUQUdWMHFfSFpQQlNBU2U0?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-03T22:30:02+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "6ccf6fa76b68622837bc",
       "title": "Gemini Adds Trading Markets Tied to Hyperliquid and Zcash - TOKENPOST",
@@ -76,32 +89,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "38879e9a190130db3eec",
-      "title": "Claude AI Predicts a Privacy Coin Boom: Can Zcash Go To $5,000? - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaVBxdHB4bEhmYWI3SDVnSWZXZkxiLUFueHVVSDRZZUJzYy02OHRQWW5UT0ZiNFdPQXVVeWlFODE0TzNfY1pILUdnbU9yQTlfajZvRmctejNYNW40Qy12U0NTbmxQUmVKUGpISkJVanBOTEdqUy1LSlZZZzdKLXRaNUNoUHFtSzJydXF3ZkwtZ2dtZUlBbWx0TEVTX08tX1paVHF1VXpVaUF3YjNtRlpaUEV5bHFjU1VDUzJVN1B3?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-03T16:02:13+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f1c65c6e8fb8ed3e59b1",
-      "title": "Gemini Trading Markets Add Hyperliquid and Zcash - The Cryptonomist",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02N3pySU00UnAzMHRCaERXOXNJZWh3VnBoRkNiRUhOUHBDUnNlNmw1bUZacTk0TW1uYnc0Q3d5YmRUVnpnMUpFY2RDdTByU19lNnBYcFRYcDFOUzJFX1hQMlFTOEdRRnlfME1QQWlfYldBZDA1ZDNQaWVR?oc=5",
-      "source": "The Cryptonomist",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-03T15:15:54+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "590f5639d83c3a1a5902",
       "title": "Privacy Coins Tumble as Zcash Plunges, Monero Defies Sell-Off - Cryptonews.net",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uYklOZzRDQXdCa1NENTJ6NTJWUGRtNl9FNXNqeFJDdk9wb0xMcTFqU1o1U3luLThzRkNpUGpkMVktaFZLN1d1aDBtUzEybUlTRm9VWGFtLU9MQQ?oc=5",
@@ -115,13 +102,26 @@
       "verification": "未独立核实"
     },
     {
-      "id": "1a0cdd29cb5a6b8f2e02",
-      "title": "Zcash Price Prediction: ZEC Still a Buy Below $1,200 as NU7 Upgrade Approaches - FXEmpire",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXcyQzJjUW1hbGlhM0J0ZXZ3amdKekZBZ2ZNWlp1RXZSVUZZQjF0NE9YYzNPcVE3T1kwcmJjdmZhdDQxNGNmNFVIdm1OZ3VVZW83MWlLYzVDY3ZnOTFXcy1iZUV2U25PZmtmZWo1VkhoMG5KUUlZUWFEalBObUJXQkI3X2MtT3Jva0pTUkRTU1BMaUpxTm4yYWJ3M2NCWGgxcEJrY2RiTm5QYXA2UEh1eXFDTXJkUDd2QXRMalRiQXh6cWRu?oc=5",
-      "source": "FXEmpire",
+      "id": "bb13bf4f1d09c89e094d",
+      "title": "Zcash Price Prediction: ZEC Still a Buy Below $1,200 as NU7 Upgrade Approaches - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUWJvSFBNRTVhUVl5RFRXUlJtSVZiVzQ5QkVCQlRQYlZKRlo1NVVGSFFtZWNCcU93aFMxV2pMc3VjYlVvdGdaQ2lRa2R4WTBmdExFczd0YlhqdjZlOGswQXR3Q2RzYmIwSlNEZzY2TThhNWhIYzNBSHVfX3hZZVNqbXljODRKaUst?oc=5",
+      "source": "Yahoo Finance UK",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-03T13:09:34+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "a7dea4be7976ec38a038",
+      "title": "Breaking Down Zcash's Scaling Roadmap: How 5 Major Technical Upgrades Propel It Toward Becoming a High-Concurrency Priv… - 深潮TechFlow",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNl9lczBqRF9VX1pwb1Q1ZTFBSG5uYzFZMklsd1pJNllZUEpjRlE4TFdsSmF4UVhZR0FLNTZfNFYyRmVyajUtc2FWZUdxSXJUSk04SHV2bmo1dmFG?oc=5",
+      "source": "深潮TechFlow",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-03T11:19:25+00:00",
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
@@ -167,26 +167,39 @@
       "verification": "未独立核实"
     },
     {
-      "id": "50ad13e43b9e660d191f",
-      "title": "Wallet with $8M Zcash short holds buy orders th... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0ctR3o2dFJvUUlydlFYVExLNUdKamhoT21NeEQxdXlWWDZZVXpjRzJROXBmMzlGdUs4MEx4UG9oekRYRVBHV0NpY2d4b0wzc2ZQYzFhNEt6alVpeW0tX0lmVjY3MTdDMzhoc0RUV3Y4OVZWVEs3VWRhaE5HVlM2UVVmLUtaRGduQmUzWTlQY2tteWtCYXlVT3dWRUlHcTU4LWdOMUVqY2hteGFod1E?oc=5",
-      "source": "Pluang",
+      "id": "7c7300b8b6fdda24177c",
+      "title": "Zcash Draft Proposes New Adoption Pool With Existing Grant Funding - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CVWtsVzVIOWJ6QXo0VUV2MzlGZGc1c3ZpbmNWTFVJNU9fb0x1VzhNTmlQdURuUl9jSWdBcWNsWDc5Tkd3bE1sdzBod0Vjcm9MbW56TGtCZ1Q?oc=5",
+      "source": "TOKENPOST",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-03T08:01:29+00:00",
+      "published_at": "2026-11-03T08:07:05+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：adoption",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "3da860fb260141b9887e",
+      "title": "Zcash Whale Holds $8 Million Short as $10.8 Million in Buy Orders Sit Below - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BWFlvZWl5QnFMa3FPR1htNjlpRXp5NVpheVpEYy1YZVdYWW1mQm0tQ0tnMEhjNGlNU243bFIxa3BIajNKaF9sYzZMNmpGTVYyZmRVUTlaYU1ZUQ?oc=5",
+      "source": "TOKENPOST",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-03T07:30:41+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
-      "id": "bc17901f0fff6a033fe7",
-      "title": "Zcash price drops 11% amid whale liquidation, g... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNCNkVVamsyci1XVmQ2S0JYdlpBSTZGMHdNSndRLWZHMXowQmlNWVU5MlJwTnp3T2tQVlB3R3VHX0tsQ3JxVTBVSHJWVGRQdUdLampVZHJSSkdXM1FJOTFHYWtOZ1FxRGRzQWpYVkJMVjV2azNqVTYxOUdJZU1UVFdfNU11X0FUdUJ4SHFZY2tDY1dF?oc=5",
-      "source": "Pluang",
+      "id": "635363d8d77fd5b811e4",
+      "title": "ZEC Whale Closes Short Position, Places $10.7M Buy Order to Switch to Long - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMWtnQ3FVSnVRSGdxNEI4NU15aXdRSWU2UV92amk2OWU3WjRTWS1ad3JsRzNBOXpkZjVGemltcVlwbkc1Um40a3UybEZKR202RE9ZUU9yVU16Y04yWlkyODRSRktyQkJ3c05tT2phRVVWT2RVbXNpRHhYUlM4eEJPaWZrdDc4b3dGbF83M0NKdWtobzZlUEt4ZG16a1RTclZKell3NA?oc=5",
+      "source": "KuCoin",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-03T07:25:21+00:00",
+      "published_at": "2026-11-03T07:23:58+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -245,19 +258,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "b1e5bf2cf6816c08142e",
-      "title": "NEAR, XRP, SHIB Test Critical Support as Altcoin Correction Deepens; Zcash Holds Range - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qMVFuMWVFTk5ZU2lVWVpHczJQM3c5eFpTMjVGQzdoMDE3ZDZxNGRvbGtlWFZEeDZzMlVTX014VVVHTE53bTVNUDNIQVdoaHhxaXJsLTZqNmIzMW5ZNjF2N1F1MFZyTlNMNXJsS2NINFlVbXI4Vmc?oc=5",
-      "source": "BigGo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-03T01:56:55+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "8922a950717deb348f22",
       "title": "播客笔记｜对话 Zcash 核心团队：突破 5 万 TPS 与抗量子防御，评估 ZEC 的长线爆发逻辑 - 深潮TechFlow",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53TmZjZHY2UUJ6Y2tLM3FJRHNzLXNlSTIxREMycmNhRWw3WUQwTFMtcXFGWEhBYXNSd2taMlZFdkVLbXQwTnF0VU55ZEF2amExT3lZZg?oc=5",
@@ -271,16 +271,16 @@
       "verification": "未独立核实"
     },
     {
-      "id": "cb73d0abbbad3e2752ba",
-      "title": "Zcash drops 7.4% amid Binance hack fallout; NU7 upgrade nears, making old Sprout pool balances unusable. - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeXNIWW8zVlIwUlp3X2JNbDd1UXVfR2J3RU1vWE12bUNUVnRaLVF5dXFFaGNYWlpVT2sxRUFTcjA2UGlHSDAxUURHeUljT013OThBVHFuWkZ1WFlBbmpwUlNlMXYzYklyMzRGSjdUWHVKVVlfUmJaX01tTml2UExXVlR4S3ViYXdOdjZKYno4WWtMNUlw?oc=5",
-      "source": "Pluang",
+      "id": "39d46d5c301bac6ff35b",
+      "title": "Zcash Transactions Become Available Through Cash App and PayPal - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qODRRV0N4WlltUXl3QkwxNWxZbml6czg1OV9oWS1fcjE5SE82X3VPcVYzbDVhX0ZzaGthd2ZOaV9wb0JUT0NkN2VxVkZuck1STjJDbWZyYzY0ejA?oc=5",
+      "source": "www.tokenpost.com",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-02T23:57:39+00:00",
+      "published_at": "2026-11-03T01:34:00+00:00",
       "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -291,19 +291,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-02T23:19:15+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "fe38ace546798a98bb34",
-      "title": "Zcash (ZEC) price drops nearly 10% in 4 hours a... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaXZYb3J4T1NERGdVbWF1TFJCQjRCb3oxdFVmUEttVDhaR093N0tnWFRvMkxWOWMyNVJ4b29oTHdPRERLR1ZfdzlzT1FtTnMyRnZ0bnlpcEp5NWFLTmdpLXdvOTZIcTczenlYZFVhNUt5SHRxaFk0cDNUTEdkNzVMSjlhdGwxM25uTFJlQmVpQlc?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T20:05:27+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -323,6 +310,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "c8fab70ec08ce8ba008f",
+      "title": "5 Upgrades That Can Turn Zcash Into Private Cash at Scale - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlJ0SndtM0xiV2tLbXNya2dWMVBaVXR3NzhrdF9sQURORmQ2N0UyY1V4M3Q3ZzA4YkxJYm10LW5aWVBhM0xfZFhrOWR2V1BSOFFONlFGd0FubXlRb0NMTzBEaTU5cWhwcXBaTzZVUncweHBWaG5Bb1hmRDhSbUxnblFmV04wQlk3SFpSSA?oc=5",
+      "source": "Yahoo Tech",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T19:52:57+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
       "id": "9cfb91d2933f5e306285",
       "title": "Zcash Falls 9.91% in Four Hours to $1,135 on Binance Spot - TOKENPOST",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtY3I5bDNIYlI4TWtLeThlWkJkZFE3YWZIa1VpSnRfc1VCQjd0RlZWUUVNYnNBdnRybXNkLU5nRGpOeWlVcVF4NnhFNXhmUG1nMUJESGQ5SlU5QQ?oc=5",
@@ -336,52 +336,39 @@
       "verification": "未独立核实"
     },
     {
-      "id": "aad7d106f45af63a1845",
-      "title": "Zcash (ZEC) drops over 5% in one hour amid $4.8... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHMUxjNUF0cVYzM0tzYTU2cnllV2hBVnhuYU9VLWNlMFFRVnN1TG5wY0RtZDV1aWdFWXJSTlN2bTRyaFNmY2VIOHhLSk9zc29wNnNVYm04WDBBVnY0NGtYeEdNWXZBcmV3b3hTTDExbzVnWDBfbWsxVEtMVGZ4dw?oc=5",
-      "source": "Pluang",
+      "id": "178bae5a533485af9a68",
+      "title": "Zcash Falls 3.12% in One Hour to $1,203 on Binance Spot Market - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NeUMwVTZuOGpVNkcwdks4OG45NktIWmk5S2NtRlN2c2pwSWdUUlBSR1FOYURwb0hFYm4ydGFUeEoxa3cyTl9Qb3loc21GN3pyd1d3VG94MEpVQQ?oc=5",
+      "source": "www.tokenpost.com",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-02T18:05:58+00:00",
+      "published_at": "2026-11-02T17:28:05+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
-      "id": "3ff2b67041851104fb12",
-      "title": "Zcash (ZEC) Whale Builds $14 Million Long Ahead of 300% Speed Upgrade - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GWFlvRkVwZnJ1ZzFnVEpqQkRJZEZVbU5QWXN3aDIxamtzT0dYS0Q1dzJZWGRES2VEaGJpazU5dERpZDctYURld2hhSWxwYnJ3OURiTTdTS1QtZw?oc=5",
-      "source": "Cryptonews.net",
+      "id": "2299447f3d99c880addb",
+      "title": "Zcash (ZEC) Surges 3.73% on NU7 Upgrade, Whale Activity - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZbGVnSHVHOU01MTRNbWtWdEJ0RVphSHBJMkJySnEtR1JrTTVKZVF1dEI2emNPa2lJeXBPaWplaGJTc1RKN3d3bW5QeXJTeldVZTR2YlRMSmpMa2FXOUF0WndMLUtYMjVsUENxZjRCTzk?oc=5",
+      "source": "CoinMarketCap",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-02T17:57:33+00:00",
+      "published_at": "2026-11-02T17:04:00+00:00",
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
-      "id": "ef14b3dfc43a0bb4a911",
-      "title": "Zcash (ZEC) drops 3.12% in one hour amid $2.43M long liquidations on Binance and other exchanges - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTTVzRlpqRlRZaDNMeVFEcHZtbGtQZnA1SjFfWk5meGlNLXIyR2J6M09GWDZySTdwc0Q4cXljNXJMU1Npb2tMd3F2NzgwenE5OG1uTzY0dm1tYWpJcUZwOFZtNTVRV2RHd0NzcDFRX3V1UDNNeXFUTnE2Z0VKZkhUN0lCclphbm5OSk5RQnFhZVJwaUYwWlY4?oc=5",
-      "source": "Pluang",
+      "id": "5238eccf195fc6fe448e",
+      "title": "Zcash Falls 2.64% in an Hour to $1,233 as Long Liquidations Reach $520,000 - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XTWN0Q1VsdU5PaENHdE5fV3RtV1BlaHdSc21jNUJtaU92bU0zak9PdEFXYXJrMFU4UEFJYVdtNk1JeGFXOXVJY3Z0cHZXdEpTeTlTMU1JUTlldw?oc=5",
+      "source": "www.tokenpost.com",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-02T17:46:10+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "a7ef83849b94393b0d28",
-      "title": "Zcash (ZEC) price drops 2.64% in one hour with $520K in long liquidations across major exchanges - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWlOMzYxRnAxQk15U2dZbkhfOHg0N1VnUDVacmVneGljdlB5bU5sQzBVNzhSSjNFTy1OcUNVdXRnanJXT0VySm1ZUU9UaE5tRHNDYlRfUlo1U1RTQmpNSUxzcjRQSEFoTmpQRjYxZHcwclI2Z1Yxc2lndy1LQ0ZsOTJIR0YwSTZoUEFJNXdvNVdxOEFpeXN5cUtnd1hPeGNPSkdOS0hSay0?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T16:53:57+00:00",
+      "published_at": "2026-11-02T16:32:05+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -401,19 +388,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "8b3fd1535daa737103db",
-      "title": "Zcash (ZEC) price rises 2.13% to $1,266 amid he... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUl2WVVJOEpCQV9CYy1lZk1INVNGdmp2dFo1VUtJTThMampjeWR1bFVocVBDemcwVVcySkQ1SFR1UTVvdkRFRExjTDhWd0lHZHg3SWRwU1V6SkUySGx1VnJ0ampIZWtjNHBuOV9iUDJkMHFTZV80a251TFJHUGpCcFR1bW5ZUkFzbUVBYmZRaUVvVTIzblNJ?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T14:34:36+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "11d67b9f951b8e11f73f",
       "title": "Whale Builds $14M Zcash Position Ahead of Block Speed Upgrade - KuCoin",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXVmaWtSYThoWDFPek5ldVVfaFF0Y1pvVUc4U19QNzFHZElLdkZ5cHV4RV9yN2stRmhxQzZtNUZSTVZCWjE2cUdiQjlTWGdaZUt1aDJqYnRUZ0pjZWtvLWhCQmNuNVVqd0xJVEk5bEVWS21MZmNJMHQyckpEbmpPSkE4QnJUYXkxYjd5cEtheWVyb2xKM2VjSkZB?oc=5",
@@ -424,19 +398,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "e7b6292c0cbc9f83ada3",
-      "title": "Zcash price rises as whale buys $3.8M ZEC and o... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVFE4eVp1Z2lzbTVWS2p1TDA0NDZTYWxCTzhFbXlheV9rbWwtX1Qzek02NUh0WFEweFFDdzFuc1lJU2EzVzZKVjFpcWNick5BSmsxSDVJQ2Iza2lKYnZmaFdUNHcxSkxMSGNhd0dscWRUNVVvRVRRTnU1ZlVPdmpLaldqaUloVnBhQjEyRjY3WmV3SkRmZHY5bEx1VXA3SkU?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T13:26:14+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -453,13 +414,39 @@
       "verification": "未独立核实"
     },
     {
-      "id": "5254e6fd900134031c0f",
-      "title": "[Crypto in & out] BTC leads with $40.34 million in inflows; ZEC ranks seventh at $6.81 million - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zWnlXbDRfOTJEa3d5NFJFTlFQdXFoeTdubTE1RzkzeDNtRHpZa1FJUmFhVV9qdkYwamZtampnTnhINWdUckFsbHhYSTIyalR2bjVWNVNIeUNlQQ?oc=5",
-      "source": "www.tokenpost.com",
+      "id": "448b410202fbb8dad693",
+      "title": "Zcash's Tachyon Roadmap: Sean Bowe and Dev Ojha Say Privacy Must Hit 50,000 TPS - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OVUItUXhhVmdFWU5JNGlrb3gwLU41LUNHTjg5d1Q0NFhLb2VUakxfbERLOHVVZlNHNDQ1ZjdIeERrNDRjRXZ2emRScGhsNFZ2TkJkMENXTklta0k?oc=5",
+      "source": "BigGo Finance",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-02T13:10:33+00:00",
+      "published_at": "2026-11-02T13:08:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "b5fb763c4405673c4f93",
+      "title": "Zcash whale buys $3.8M in ZEC – 2 obstacles could slow the recovery - AMBCrypto",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZmZwanhmU2RHSDg4QnZRbUZ3V1VMOEJkV0tqcGQzS2NQOE53TDEtLU9FNm9nekRjcVlQZkNLa2I4SEF4bnNBa1dLaWlHel9ZNGdYZnpMYkx1YXZfOEZ4blRzVHBEY3pRUHZycl92OWxFWk96Rm1GOU5mTmN6VHZsV2l6dEFOTlBEOVphbXJxa3U?oc=5",
+      "source": "AMBCrypto",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T13:00:57+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "dd96cc1cc490837f18e6",
+      "title": "Zcash Price Forecast: ZEC recovery coincides with ZODL founder’s new backing for ending community grants - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWHpnd3pIV1Ruczh6N2Vwd2piMldoS1VIZ3pkRTMtR1B5SERjdzJUSTl4RThGMkxqLXRPdHd5cXBWb0hOUmw0VFozcU4yUUJXU1hTWG1mY3Y3OHNwUUctTlllOUVpenduQ0VkdEVqODhzeDNidUJGaHpTeHl3bkwwQVpsLS1wYjJzNGpwcnhqTkZWTC1KNWgxMi1YV245M0MyVkFManJINWd5ZkV4Y0V2MHZsc2VvSUR4TllxRDhRc1d2T2RUVGVtbUZjOUFjeWtuVU90cV9jTHZkNkVrckZYMlBaLVBUcDVr?oc=5",
+      "source": "www.tmgm.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T12:37:45+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -505,6 +492,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "ca157ad8788f4915b4f9",
+      "title": "对话 Zcash 核心团队：突破 5 万 TPS 与抗量子防御，评估 ZEC 的长线爆发逻... - ChainCatcher",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tb0RBWGdoSGdKNGY5SmZuSVZIMzBuMGFDVG5iZzRWM0hITWs4R0U4cnJRVURkeVVEU1lQMHlaNHhGTWpaQ29acVpHSDBlUzh5ZWRvUzRaYw?oc=5",
+      "source": "ChainCatcher",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T10:08:33+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "060b633f56a724d72166",
       "title": "Cryptocurrencies Price Prediction: Zcash, Bitcoin & Solana – Asian Wrap 02 November - FXStreet",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNG1saTdURG9tc2tWNzc4c2hjWFFfdXBySTJJSUtHa1FwbnFZeTc2cXZrRUVfMHpOdjAyazFmTThUamNVY00xS0ZEeEV2amtZdFZGcDZmY1pFY3FZNUliajBoZ3ZJOEoxdGF6eG9GaGpBck5MNkgwR2I3T2V4T051N09hX3RXbU9xSWNGUUV3OUR4R21tSlY0OWhCUDhRZDZoYVBvVDRFNTFReVE2bm9ndWNDQVI1XzhOZEd1dVlRekdQR0p5VURGYkZQN2tRSTlQQ29B?oc=5",
@@ -518,13 +518,52 @@
       "verification": "未独立核实"
     },
     {
-      "id": "9a7a53e70f05d9f37920",
-      "title": "Crypto whale buys 3,052 Zcash and opens $10.16M 2x leveraged long position - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU3pGaUtVbHZQTTdsUnhkQkpxREZjUURvckxiQ2hvSzNwSXNZbHNXZEw3OTVWelNKTlZqOUthM01OZUszVVBwLW5KUHoySWhiTnBwWFFpOXYxeTgyVmkyeFRKSWY1eGQ2VTZoVlBmczVPLWpnaGtIUER2VjVvYVBKcElFR2lLc0w4c2RxRGdmREVVbk5nMi1Z?oc=5",
-      "source": "Pluang",
+      "id": "47b0878aa84aea00eda6",
+      "title": "Zcash Price Forecast: ZODL founder now backs ending community grants as ZEC recovers - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY21TWjVocjUzTlB5VmlUZGtwRy1KWXNSa0RGQmZ4TWJvNFpwX2hZUDFiV0toc0FoUUctN2UtQktpbnN2Rk9wdVpQdW1nSnBzQnV3eVlWSzVLRjl2ZEtiZTc5SUo0Mk1tY1psYlRnZ2xUc2JPbTlCY2hpVmNJVzVCYTR0MGh2WFBZOF9XSWR6VW9lWkNGVkFFVnJkZG5mNXRvLXZTbEM3em93cFFocEtodUZ5STdCYWJCZDMtWWkteXM1NlZ6STZEZnVaVWZ5STlVMzFsYy1qeVBkaEZGbzlfellUQVlnV2FHZlZj?oc=5",
+      "source": "www.tmgm.com",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-02T03:55:38+00:00",
+      "published_at": "2026-11-02T05:03:18+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "268e00f5d4607cec5a2f",
+      "title": "Zcash Rises 3.85% in Four Hours to $1,283 on Binance Spot - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByY0FlZk1KLWctM3ZpZDEzNkdWWTNySmExeEV3YnI1OFBRMTZfZnhQcEQ0eTVBR2U3aEZCd1htZVo4NW1mUnpNcG03ejJQdVlsQU8xX3BMWTNuQQ?oc=5",
+      "source": "TOKENPOST",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T04:15:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "d959f611eb419f0d234f",
+      "title": "Zcash Price Forecast: ZODL Founder’s New Support for Ending Community Grants Accompanies ZEC Rebound - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNa0FZeVBISDJSU2UxYVZrdkdNRnBpbjRDRXU1NkRFdkwxTm5PNnNZcmtBZURkUlpNU19RUy1lMW5lLU1iQUM0QWxRZUdiZlVkc2dNQW9FX3B2YXl5NW4yN2wxWDZ5dE5hV1hiMlNRQ1FkQlVtTlVSUDRzX1c3bUdSLUo1aFZDNzZGT3ZUUDZKWWRQT3J4MXpXdHZCQkNHXzVaYWotT01Zd0dSZzJWNnhnYndTZmVYUTd4bGRPOFg5VEVGcDRyTzdRVEk2WlphQnk1RkNiVDdzU2tXU1lsUDB1RjQ3VzduU1hTQ0hv?oc=5",
+      "source": "www.tmgm.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T04:04:44+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "e8bd579f8bd44025541c",
+      "title": "Zcash Rises 2.81% as Binance Resumes ZEC Withdrawals - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WcURiWUctdEJhb0FENkZWMnk5M3FQdE9sbUdyNGdGaVcwZGY0OGZiTXlNRG4tcUpuOXN2aUlqVVdLZlFMVXJ2SS10Z1c1bjNIWnRPQkwzYkRFSE1JTERSS3NmaUN6cHAzSktuOEU5dU0?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T04:04:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -570,26 +609,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "cb3f7ce06a9694923adc",
-      "title": "Zcash (ZEC) News Flow - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNV0p3b2VkVi1sblo1WmdEc2lJNG9kdTBDanBoaHJmRFhZcEZDWWk0WkNVVHhfbUV6SFVwWEpPSHFGWHBpRHN0NEkxVlFaYUF2Z0FXdHBVTXNsQ2pCaUJLZnRVaU1kV2c0UDF0UWphODJibWVqUnc5REd0UlRoejZCYlRxWEh5R3VhZG1RNHg3cXdHTDE5S0VUVXBTcjlDbmI5cjZWcVNDTHVLSHZfNy1YdUtBY0c1eTNNME1YcmRYT25HWnktSlBnMmpicV9YdmNhZDBDSVBMM1hIRDZoNmZOelpoV2ozRUV4dXk5Nkp6WlRiWUpfdHQ3X3RQd0F5NmMtNFhPaGU0b2k1ZjdzN3VtOE5jV0dTWDFaWnRRTHNNMnVSUTRYMjQzVTRoWldyQndQdjRlc3hlcktUbTg?oc=5",
-      "source": "Moomoo",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T02:05:19+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "4c813fa116bd8b96d429",
-      "title": "Zcash (ZEC) price rises 2.17% in one hour amid $1.11M short liquidations on major exchanges - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTzAxck1SMkRHT2NmdXZzZHd0RjllYVFlQjVMY1Zzc3Y5dElKNDBTUEI5R01iYVJHWXRiOEM3ODAybDlfUjBmX3p0RzlpdjdmSlFIRGxfZ2wwbTVyVEZudS1Ldkx1MGZ1WHZxUjFsQjZvVUVKT1hHNzVIb1k3NFR5NFZhNGhGNGtscUtZVi13?oc=5",
-      "source": "Pluang",
+      "id": "e88a4f88b4b133e000ac",
+      "title": "Zcash Rises 2.17% in an Hour to $1,255 on Binance Spot - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45TURsVkVHUERXLVB4M243Mk1QNkd5M2RVRFJDWjhndXBrLWN2Z0RkWjg3aThQY3Y4WHR6aGNQZ244cnBYY3lYNGxkbC1zODhCRkh5eGpDTWNCQQ?oc=5",
+      "source": "www.tokenpost.com",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-02T02:04:42+00:00",
+      "published_at": "2026-11-02T01:51:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -609,6 +635,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "c8c1e0ba7c2c00e07da6",
+      "title": "Zcash (ZEC) Address Closes 10,000 ZEC Long With About $21.29 Million in Total Profit - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GX2pqNENHaU02dXRnZjhnX1JjSEJxVWlYUWtCaVVJUUFLaDIwbm10MHF2VVd1bWNIU29qeEhvbkVnWjdwcWduRzNNcVEyR2RpUmhxLTB4RGMzZw?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T00:02:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "a8df85ff810143c506b0",
       "title": "$1,000 in Zcash or $1,000 in Monero: Which Could Be Worth More by 2028? - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGpqM0xNXzk2VnRYZDFNU2dwMmluSklqX2VfVDUtTVF0cTdMRUFNOHNyUUpIN2FOMmllVktCdjFZSTdYVHRfRUc4aTBONVhwSHBBYlhXSnJlQWt2eXIybDBER29UV000aE13elJjLUJBdmlPSmpJU3AwNHB4RUhjMUYwNWZuZHViMzVwTEF1enR5NHF1RHVOdUFRRHkxYUFsSjlGckR3OVpCWjhVbVZnUlQyVlVHUmIzcFB2U0Q3M19YZw?oc=5",
@@ -622,26 +661,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "8e1ece4169e68f078e22",
-      "title": "Duke Zec’s 25th Anniversary HQ Holden Premier - Street Machine",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3bTBYYjZKc3EzbndEVzAxX2J0WGRNY3lsaEJNbFRBLVNmM1VGbTlXeDhCRGFmN2FwTUwyRTYwcDFFWE1VY0cyX0d5cE1fcGxWS092d0w0VmtGOFpaR2ZhRndEcl9JMmVxdmF3SzVvbVpFUzhzb2NtSUhQWGxWQQ?oc=5",
-      "source": "Street Machine",
+      "id": "ef20ffa79478a4e413a0",
+      "title": "November 1, 2026: ZEC 15 min · 5:00–5:15 PM EST Crypto Prediction Market - Robinhood",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQzBwZXl5bmZlMWY5dnpNVTlTbjA5bFJYUFhUVlJKa1dzNVFJLVFIcEpQQTlNdkljd2E1cHNJTEI2SG0tT3g0SDZkOE1yLWZVa3gzaGNzbXJCcXVKSTdlb2tEUTRCRXFzX09IcGtlWUFCMW81aEhFYWEweDZsczlTLXpIZnNHWUVGNl91WGtCeUJDX0Y4RHFUZkEzTTM4eVpodFcw?oc=5",
+      "source": "Robinhood",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-01T23:13:38+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "9f04780cea09201436b2",
-      "title": "Zcash Price Showdown as NU7 Nears - OneSafe",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tOE5XWWdmNFNUSC05YzM4MnY0SVlibXdmenFSMmN3d19lTEZOUWQ2ZFEzMVRfWGtRalNSVVZEZUJ1b2dFd0dyLXFEb2Nkc3NqNHJGeThRMXBtR01QWWxrblBUcmwxRDI2bEI4M0pB?oc=5",
-      "source": "OneSafe",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-01T20:51:58+00:00",
+      "published_at": "2026-11-01T22:07:37+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -658,32 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：investment",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "12ec6cc90d0a3c9cd4e0",
-      "title": "Best Crypto to Buy in 2026: Hyperliquid, Zcash and Pepeto Eye BNB-Style Growth - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXluVHhpX2tXSDdpUk50bmxXT3pvNGJ0WW9NbkNLQVlITmhoY0RZMkg4Q0QwajNrbjFjbDd6VklRNG15ZElJNVJ0TGptYjFKUTNUNENqLTNscXZIaUNybGlzaXUzRkxhcVkwMzFnNW4tbXkyRUV1cGZNdnJqNFpuYm9hWk5DRWFHbGphaXhqSHQ5c0h4Q2RiNGJUTDc3TE9zd0dB?oc=5",
-      "source": "TechBullion",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-01T14:35:03+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "6873ca7f03d4ea886732",
-      "title": "Zcash hits $1,280 but whale investors revolt ov... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ1R6SDBueWlQalN0dWhNN1ZwZWZmZGdDbWNmZk9LWDZGeEY1ZFk2S3lKdTQ2RnlXVHFqeF9uZURZa3hWT0pIMDB5bzFydDEwTHd4b1YxNHBlQWtEZE51Z29kQzVYOElrT0k1dE5wcFp0NklRb3FjWUNaczI0bGRYaWR5UEtLWGU0dDFoSDY3TzB1MWpm?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-01T12:14:38+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
