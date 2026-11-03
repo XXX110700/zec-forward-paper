@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-03T04:55:17.661446+00:00",
-  "last_success_at": "2026-11-03T04:55:17.661446+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-03T05:55:04.749730+00:00",
+  "last_success_at": "2026-11-03T05:55:04.749730+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 1
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -27,57 +27,44 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 93
+      "matched": 94
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 30
+      "matched": 29
     }
   ],
   "items": [
     {
       "id": "a743520cf44327a9368a",
       "title": "美国 XRP、HYPE、ZEC 现货 ETF 单日合计净流出 702.17 万美元 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WVXA0UTZTM2pTbzVscWdGZ1lwVTA3bGhtWkM1TWpwSjlhb0FGUF9sV0paWmFQXzhSQm9ERS1OY2N5emdGR3p4Y0xydVNibDRIU0dwWUFUQ21DZmRjVERWdkowbXA0UQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94aUcxeFNMeWZmVWtYV2F2eTV4Rzhvb1dEZ1g1M3lES2JzbHpJQ2c0VDF5aXIzVWk2ZWxRVVliVF9SN2dra1BlSzdqbkgzclNyNFdBUDhwX1ViUEtaMVkxQVVvZkxHQQ?oc=5",
       "source": "TradingView",
       "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-11-03T03:22:05+00:00",
+      "published_at": "2026-11-03T03:22:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
-      "id": "1e279ff915af00d860ba",
-      "title": "播客笔记｜对话 Zcash 核心团队：突破 5 万 TPS 与抗量子防御，评估 ZEC 的长线爆发逻辑| 深潮TechFlow发布于币安广场 - Binance",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nbTRudy1sUTJYc2ZLTlV6NGFEZWpjVzFLcE5jRFJyNU40b3dXNzdDQ0pydVBTbnRYcFVZd3EzNGloMzlCVU1teXJzV0NheEl1Sm1BcF9ObTZYSEROQk5hODZyQWVJTlJo?oc=5",
-      "source": "Binance",
+      "id": "8922a950717deb348f22",
+      "title": "播客笔记｜对话 Zcash 核心团队：突破 5 万 TPS 与抗量子防御，评估 ZEC 的长线爆发逻辑 - 深潮TechFlow",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53TmZjZHY2UUJ6Y2tLM3FJRHNzLXNlSTIxREMycmNhRWw3WUQwTFMtcXFGWEhBYXNSd2taMlZFdkVLbXQwTnF0VU55ZEF2amExT3lZZg?oc=5",
+      "source": "深潮TechFlow",
       "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-11-03T01:45:41+00:00",
+      "published_at": "2026-11-03T01:44:59+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
-      "id": "39d46d5c301bac6ff35b",
-      "title": "Zcash Transactions Become Available Through Cash App and PayPal - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qODRRV0N4WlltUXl3QkwxNWxZbml6czg1OV9oWS1fcjE5SE82X3VPcVYzbDVhX0ZzaGthd2ZOaV9wb0JUT0NkN2VxVkZuck1STjJDbWZyYzY0ejA?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-03T01:34:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "932a26fbbc110f01ca58",
-      "title": "Zcash falls 7.4%: what NU7 means for Sprout pool ZEC - CryptoTicker.io",
+      "id": "9aded6eb05426c2b9a0c",
+      "title": "Zcash falls 7.4 percent ahead of block 3,543,405, the NU7 cut-off for old Sprout funds - CryptoTicker.io",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NX0ViZUhpQ2wzYUd3UFN5NjlDSDlqVkpGZ1l6ZGE4Q09aTUdfOEZFZ0dvMV9JVmY5QkdBM1cxVEkzUm5uUERlNzhLdVRUMjRaenhMcXFPb2dVb1ZsTEFkaFRyTEx3N2Zk?oc=5",
       "source": "CryptoTicker.io",
       "feed": "Google News EN",
@@ -154,6 +141,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "5238eccf195fc6fe448e",
+      "title": "Zcash Falls 2.64% in an Hour to $1,233 as Long Liquidations Reach $520,000 - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XTWN0Q1VsdU5PaENHdE5fV3RtV1BlaHdSc21jNUJtaU92bU0zak9PdEFXYXJrMFU4UEFJYVdtNk1JeGFXOXVJY3Z0cHZXdEpTeTlTMU1JUTlldw?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T16:32:05+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "3cbca46bce5cd9fdb8fa",
       "title": "Zcash Whale Buys $3.8M in ZEC Amid Mixed Market Signals - KuCoin",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ1ZNMktNcnl2b28tX1MtcWpTOUU4U18wcU1acEE3a0hQSkVVTW03TmVOTVJsWm1rYURuYWFRNmNLLWVaT3F5TzFKZjBhXzQxazE4bWhlN1BEOFJEYktuQVh3cVIwRTFaSktEMXJua1VhbVRmX04yV2xRV1c4UEszcTJJN1R6WWRQc0JiTEktS1JBdw?oc=5",
@@ -177,19 +177,6 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "dd96cc1cc490837f18e6",
-      "title": "Zcash Price Forecast: ZEC recovery coincides with ZODL founder’s new backing for ending community grants - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWHpnd3pIV1Ruczh6N2Vwd2piMldoS1VIZ3pkRTMtR1B5SERjdzJUSTl4RThGMkxqLXRPdHd5cXBWb0hOUmw0VFozcU4yUUJXU1hTWG1mY3Y3OHNwUUctTlllOUVpenduQ0VkdEVqODhzeDNidUJGaHpTeHl3bkwwQVpsLS1wYjJzNGpwcnhqTkZWTC1KNWgxMi1YV245M0MyVkFManJINWd5ZkV4Y0V2MHZsc2VvSUR4TllxRDhRc1d2T2RUVGVtbUZjOUFjeWtuVU90cV9jTHZkNkVrckZYMlBaLVBUcDVr?oc=5",
-      "source": "www.tmgm.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T12:37:45+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -229,6 +216,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：升级",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "3df32774f2754d661d0f",
+      "title": "Zcash eyes $1,385 as ETF inflows return ahead of NU7 upgrade - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOG9DNTZCOXVGbVZfT2RlXzZpQlFMM21MdF9xbkhseDhwRFFIeWNhRmdKeEFuZkVYV3ZnclotVkJ0VFJtWVlxSjd0UGRwbURxdmkwYmg5RUtDVHQyYlNFMHA3NWpfWXN5TzAwMnViZHc5YzNydDdmUHRsSW5iQ2U1anlZbVZZUXdvcXl2Q3ExckZzUDBvQjJjWW0zenBESF93RDBXQk5vM1Q3cllfb2JMUDFISl9WQQ?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T10:47:41+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -442,11 +442,11 @@
     {
       "id": "5b0789ca498d85e4a22f",
       "title": "数据：美国 XRP、ZEC 现货 ETF 单日合计净流出 506.79 万美元 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HOFpFZW13eHBZazZKTHJhZzNFZDVrdi00ZWhSek5JVkNjMHhnRGI1cmhuemllWjFhczFfWTgzT21uT3FsbWZjQTlrd1BCSEhBekFaeDNMR1Q?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VWW9EeXYxcTBnc2RFQnJmNE9PUUItSGdxcFVNTWpxRC1JNEVjd2p0WTB5Y1BxLXZzVUQ1UFZmb01KOEFQTjFmbGR5ZGd5N2JJeFIwcWlHd1R6Zm16?oc=5",
       "source": "CryptoRank",
       "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-11-01T10:50:44+00:00",
+      "published_at": "2026-11-01T10:48:54+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
