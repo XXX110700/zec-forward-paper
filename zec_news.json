@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-03T20:48:26.361342+00:00",
-  "last_success_at": "2026-11-03T20:48:26.361342+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-03T21:45:50.847297+00:00",
+  "last_success_at": "2026-11-03T21:45:50.847297+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 1
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "6ccf6fa76b68622837bc",
+      "title": "Gemini Adds Trading Markets Tied to Hyperliquid and Zcash - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDWm1nVUdOSWpvSDlyUGhjWUN2bFZYSWVhRmJuX2ZMMWlXNFFQaWxUYlpMeGRkcXNnSjJIa0NKLTVzTkxsQUlISUhXazNNOFZxbVJCS2hxVU4?oc=5",
+      "source": "TOKENPOST",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-03T20:07:11+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "d33c43e0384b84ce40d1",
       "title": "Zcash details seven Zebra security fixes ahead of NU7 upgrade - Crypto News",
@@ -70,6 +83,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-03T16:02:13+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "f1c65c6e8fb8ed3e59b1",
+      "title": "Gemini Trading Markets Add Hyperliquid and Zcash - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02N3pySU00UnAzMHRCaERXOXNJZWh3VnBoRkNiRUhOUHBDUnNlNmw1bUZacTk0TW1uYnc0Q3d5YmRUVnpnMUpFY2RDdTByU19lNnBYcFRYcDFOUzJFX1hQMlFTOEdRRnlfME1QQWlfYldBZDA1ZDNQaWVR?oc=5",
+      "source": "The Cryptonomist",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-03T15:15:54+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -112,19 +138,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：升级",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "7f2cfa6af3a232639be7",
-      "title": "Will these five upgrades determine the future of ZEC? - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkYxMG1ndUliQVNHS0tJODVMUThkMVo3eWpiS0lHbUtrZVF3dUt2c1E4R25IVzhEV0k2QV84ZHNPb3JPR1VWTUo4V2JrbTMtLUpYNGpXSnoyZ0h3Q2tTWkV2c3lZRUFZeHdfdmVxYVJTUXpqYkt1eVlmbmdHd0NWODdZeFotWFQwWDVxZ1RfUFlRMTdfcGVoTUFzaw?oc=5",
-      "source": "富途牛牛",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-03T11:17:24+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -375,6 +388,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "8c7704a6f76fc3d71285",
+      "title": "这五项升级，将决定 ZEC 的未来？ - ForesightNews",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fRFJzNHF0RExWT2VFRXdyZUN2M0lzcmVaYzU5QmpkUlRqSEJ6VlJzWXQ0eHpyWmkxWmtMSmZqc1ZleGk3bUFoZGg3dTQtSGNZRXVFRGJQNEFqb3M?oc=5",
+      "source": "ForesightNews",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T16:01:00+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：升级",
+      "verification": "未独立核实"
+    },
+    {
       "id": "8b3fd1535daa737103db",
       "title": "Zcash (ZEC) price rises 2.13% to $1,266 amid he... - Pluang",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUl2WVVJOEpCQV9CYy1lZk1INVNGdmp2dFo1VUtJTThMampjeWR1bFVocVBDemcwVVcySkQ1SFR1UTVvdkRFRExjTDhWd0lHZHg3SWRwU1V6SkUySGx1VnJ0ampIZWtjNHBuOV9iUDJkMHFTZV80a251TFJHUGpCcFR1bW5ZUkFzbUVBYmZRaUVvVTIzblNJ?oc=5",
@@ -411,19 +437,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b5e35104a4514590318e",
-      "title": "Zcash price key level at $1,370 could trigger a bullish breakout or continued downtrend. - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQkxQYWRPRzg4b1MzUmVTdV9YQUVmQWZHem1QRkRLbzVGcHNIaS1fOW5NYnJCREM2b184alNWSFgzeWhoWDd0YkdWeGZONm13MTVfMnVaU1FHVl9wdUZvQXBlLThTNVVUZFZfXzhlNVE3SmcwX3FlNVVjVm5ERjFYWHNhYXdmbjM5VThVMg?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T13:16:33+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     },
     {
@@ -489,19 +502,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "964747540d42df592380",
-      "title": "Gemini’s trading markets add HYPE and ZEC, but volume remains unreported - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zYWlJZGdVUmlBNkpXcE1kRVUzTzZMa05vTzZRSUdmZzU5Mk9oVWNSc2ZTUG1kNXhjc3hCQ282ZjQ0MklLMmRRMjRoZDRSOXJHRm9FRkxsZw?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T08:00:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
