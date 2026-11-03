@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-03T01:59:54.662697+00:00",
-  "last_success_at": "2026-11-03T01:59:54.662697+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-03T02:52:15.167667+00:00",
+  "last_success_at": "2026-11-03T02:52:15.167667+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 1
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -27,12 +27,12 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 96
+      "matched": 94
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 29
+      "matched": 30
     }
   ],
   "items": [
@@ -128,19 +128,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "5238eccf195fc6fe448e",
-      "title": "Zcash Falls 2.64% in an Hour to $1,233 as Long Liquidations Reach $520,000 - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XTWN0Q1VsdU5PaENHdE5fV3RtV1BlaHdSc21jNUJtaU92bU0zak9PdEFXYXJrMFU4UEFJYVdtNk1JeGFXOXVJY3Z0cHZXdEpTeTlTMU1JUTlldw?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T16:32:05+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "3cbca46bce5cd9fdb8fa",
       "title": "Zcash Whale Buys $3.8M in ZEC Amid Mixed Market Signals - KuCoin",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ1ZNMktNcnl2b28tX1MtcWpTOUU4U18wcU1acEE3a0hQSkVVTW03TmVOTVJsWm1rYURuYWFRNmNLLWVaT3F5TzFKZjBhXzQxazE4bWhlN1BEOFJEYktuQVh3cVIwRTFaSktEMXJua1VhbVRmX04yV2xRV1c4UEszcTJJN1R6WWRQc0JiTEktS1JBdw?oc=5",
@@ -219,6 +206,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "6f314b617bc792aeef19",
+      "title": "播客笔记｜对话 Zcash 核心团队：突破 5 万 TPS 与抗量子防御，评估 ZEC 的长线爆发逻辑 - ChainCatcher",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tb0RBWGdoSGdKNGY5SmZuSVZIMzBuMGFDVG5iZzRWM0hITWs4R0U4cnJRVURkeVVEU1lQMHlaNHhGTWpaQ29acVpHSDBlUzh5ZWRvUzRaYw?oc=5",
+      "source": "ChainCatcher",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T10:08:33+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "7bfc2d3fd2309917341c",
       "title": "Best Altcoins for November 2026: Zcash NU7, Stellar Bell - Crypto.com",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzdnZrZVpxMU15OFQtZHZEdTI4RWFhc1Z5WFpQUnZxR0pZazBWdDBSWG1VVkpxaVJRU0txTnhVWm9mMEwxMG5FYXQ5bXA2ZGItTlFkcUZUOEh3SXZHTGtoT21nbVJlelJMN0ZSamtmbEVOdw?oc=5",
@@ -239,19 +239,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-02T05:44:38+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "47b0878aa84aea00eda6",
-      "title": "Zcash Price Forecast: ZODL founder now backs ending community grants as ZEC recovers - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY21TWjVocjUzTlB5VmlUZGtwRy1KWXNSa0RGQmZ4TWJvNFpwX2hZUDFiV0toc0FoUUctN2UtQktpbnN2Rk9wdVpQdW1nSnBzQnV3eVlWSzVLRjl2ZEtiZTc5SUo0Mk1tY1psYlRnZ2xUc2JPbTlCY2hpVmNJVzVCYTR0MGh2WFBZOF9XSWR6VW9lWkNGVkFFVnJkZG5mNXRvLXZTbEM3em93cFFocEtodUZ5STdCYWJCZDMtWWkteXM1NlZ6STZEZnVaVWZ5STlVMzFsYy1qeVBkaEZGbzlfellUQVlnV2FHZlZj?oc=5",
-      "source": "www.tmgm.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T05:03:18+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -416,11 +403,11 @@
     {
       "id": "5b0789ca498d85e4a22f",
       "title": "数据：美国 XRP、ZEC 现货 ETF 单日合计净流出 506.79 万美元 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VWW9EeXYxcTBnc2RFQnJmNE9PUUItSGdxcFVNTWpxRC1JNEVjd2p0WTB5Y1BxLXZzVUQ1UFZmb01KOEFQTjFmbGR5ZGd5N2JJeFIwcWlHd1R6Zm16?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HOFpFZW13eHBZazZKTHJhZzNFZDVrdi00ZWhSek5JVkNjMHhnRGI1cmhuemllWjFhczFfWTgzT21uT3FsbWZjQTlrd1BCSEhBekFaeDNMR1Q?oc=5",
       "source": "CryptoRank",
       "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-11-01T10:48:54+00:00",
+      "published_at": "2026-11-01T10:50:44+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -681,6 +668,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-10-30T17:40:13+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "2b310e32c1471898ff65",
+      "title": "Zcash developers propose ending ZCG funding, moving 50,000 ZEC - Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aay1rQ1g0aVNIYmZBMHFfTjJRbW83amxMa0g5MkJoVi1zVFM1cW9fNW1ZR1A4SVV1RmpnQzFzUElZQklOZERBLTlTS0NaZGNBbGV1LTRaZWZPV1lFWkVVTVM1SDJXWUN5?oc=5",
+      "source": "Crypto News",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-10-30T17:09:02+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
