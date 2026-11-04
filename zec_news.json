@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-04T08:57:14.930951+00:00",
-  "last_success_at": "2026-11-04T08:57:14.930951+00:00",
+  "checked_at": "2026-11-04T10:02:49.212423+00:00",
+  "last_success_at": "2026-11-04T10:02:49.212423+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,15 +27,41 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 94
+      "matched": 93
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 28
     }
   ],
   "items": [
+    {
+      "id": "273b421ddb8af60802c6",
+      "title": "Zcash Price Surges 10% Ahead of NU7 Upgrade: Can ZEC Hit $1,500? - CoinGape",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZzF4THJ4UzZ0RnhUNURPZVQ3MmtKaTNQOWNFRjVia0JKMjJxOXEzbzRaTGlWR19YR0s1b0dVWUluQ3FwSzNtS3dVMzU4YnpDZm1MR1V6bVhPbUJuUm9tVXJFQTgwTFdwZlJqdkZ3QTFMWVJYOF92aGhqenlFdjA3RWQwN2hMR21jOExHNWVMeDhLRGs?oc=5",
+      "source": "CoinGape",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T09:30:58+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "0f46d456de9f25f7bee1",
+      "title": "Zcash grants committee drops proposed 98,000 ZEC transfer - grafa.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNmh4ZVpEOTJ4T05YSWNkRGhrbVhvWkpaLXB5TE9ZY1d3a1BkRWxMZk1scEVfM0RBUDVOXzBiLU5BaVpjMmdvblM5VVd4S3QwcXViREV0cWVfRlFmQ1hRZTdiV3hGdmYzWGZXZS1tYUhjNGhFalJ4THZEUUV4ZjloN1RNMTJaaFl4Wkt4YTI4WWg?oc=5",
+      "source": "grafa.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T09:01:51+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
     {
       "id": "35bae0ca3b1b8d27945f",
       "title": "Zcash Price Forecast: ZEC rebounds as retail speculations offset ETF outflows - tmgm.com",
@@ -252,19 +278,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T00:23:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "abb73dad37111958039f",
-      "title": "Zcash (ZEC) Price Prediction 2026: Can ZEC Reach $1,000? | Market Analysis & Future Outlook - Binance",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HbVBzQ0dmNGxFeXNwQUxySTVST3N2b0t3ekZCX0YzZDZ3NXJOM1ZjTXA3T05RdDR2MTRmamZfX2dxMS11QkRhZlZZeTdudThhN3FQR3piSWFuSmxrS3BwUE1LT3Y?oc=5",
-      "source": "Binance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-03T23:58:03+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -492,19 +505,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "fd6130e8d8e873d77a3b",
-      "title": "Zcash Falls 11% Two Days Before NU7: Sell-the-News Setup or Dip Before the Upgrade? - Binance",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wRlNIelZEeW5VcGFkQmRFaF9uX2owNThka2RKSDl6Vkw0NWZWQmJGZk8wazNzSlZOdmJnVi1qZHlhdjA3X0hJS2pXVElHbDNGQXBuNlB1cXhHbldPeU5jeDBPMEo?oc=5",
-      "source": "Binance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-03T06:51:33+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
       "id": "474a38c320dae5697470",
       "title": "Материалы подкаста | Беседа с основной командой Zcash: прорыв в 50 000 TPS и квантово-устойчивая защита, оценка долгоср… - 深潮TechFlow",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84RDBGSWg4RnhuOHUzU1U1VXI1bzhtR0RyNDZwMXVIdmJ0NDF1SWpqeVJRWlhmemMwY19Wd3ZlcFU3REZsZlJfUTFNT3M0eU5xVFdqaHQ2emhVbS1n?oc=5",
@@ -661,19 +661,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "11d67b9f951b8e11f73f",
-      "title": "Whale Builds $14M Zcash Position Ahead of Block Speed Upgrade - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXVmaWtSYThoWDFPek5ldVVfaFF0Y1pvVUc4U19QNzFHZElLdkZ5cHV4RV9yN2stRmhxQzZtNUZSTVZCWjE2cUdiQjlTWGdaZUt1aDJqYnRUZ0pjZWtvLWhCQmNuNVVqd0xJVEk5bEVWS21MZmNJMHQyckpEbmpPSkE4QnJUYXkxYjd5cEtheWVyb2xKM2VjSkZB?oc=5",
-      "source": "KuCoin",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T13:46:21+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
       "id": "3cbca46bce5cd9fdb8fa",
       "title": "Zcash Whale Buys $3.8M in ZEC Amid Mixed Market Signals - KuCoin",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ1ZNMktNcnl2b28tX1MtcWpTOUU4U18wcU1acEE3a0hQSkVVTW03TmVOTVJsWm1rYURuYWFRNmNLLWVaT3F5TzFKZjBhXzQxazE4bWhlN1BEOFJEYktuQVh3cVIwRTFaSktEMXJua1VhbVRmX04yV2xRV1c4UEszcTJJN1R6WWRQc0JiTEktS1JBdw?oc=5",
@@ -684,6 +671,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "b5fb763c4405673c4f93",
+      "title": "Zcash whale buys $3.8M in ZEC – 2 obstacles could slow the recovery - AMBCrypto",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZmZwanhmU2RHSDg4QnZRbUZ3V1VMOEJkV0tqcGQzS2NQOE53TDEtLU9FNm9nekRjcVlQZkNLa2I4SEF4bnNBa1dLaWlHel9ZNGdYZnpMYkx1YXZfOEZ4blRzVHBEY3pRUHZycl92OWxFWk96Rm1GOU5mTmN6VHZsV2l6dEFOTlBEOVphbXJxa3U?oc=5",
+      "source": "AMBCrypto",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T13:00:57+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     }
   ]
