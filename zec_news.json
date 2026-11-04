@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-04T04:57:42.039746+00:00",
-  "last_success_at": "2026-11-04T04:57:42.039746+00:00",
+  "checked_at": "2026-11-04T05:59:02.945212+00:00",
+  "last_success_at": "2026-11-04T05:59:02.945212+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,15 +27,41 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 98
+      "matched": 99
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 28
+      "matched": 27
     }
   ],
   "items": [
+    {
+      "id": "6de8b60cbcbf894b33c4",
+      "title": "Zcash (ZEC) price rises 3.31% in one hour, up 8... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYVU1SHV0SDV0NURVRy12N2VZTFlxSS1ncGJPYXJ0NnJFNGpOVzlaajVodHdRRDVSczAwZTVtcWpWNU94VGZ6bDNLc3hqb2w2MmNvRkUyTzgyeUtTOTFPa2t4SGFtMEpCZVBzNy1CRHhZV0FJdHZHNEZVaU1TZjVBVENyUQ?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T05:42:21+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "4a499e6a8b4820b70ace",
+      "title": "Zcash Rises 3.31% in One Hour to $1,234 at 12:25 a.m. ET - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tRVgybXVrQ0hoY3RMeVRfVnV5dTMzSjlvT0U2MEpncUN4cGxDMnIwdVB4WnVDREh2emZSTzY0WVRzc0tCNUF6QTd3YUMzNmRVMVZfY25sbnJiQQ?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T05:27:35+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "500a8a137225c442c9fe",
       "title": "Zcash (ZEC) jumps 3.2% in one hour amid $1.15M short liquidations on major crypto exchanges - Pluang",
@@ -148,19 +174,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-04T01:53:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "2a37816f51fe5c5202b6",
-      "title": "Zcash ETF (Derivatives) 今日 Vietnamese Dong 价格 | 实时 ZCSH 对 VND 汇率转换器 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xRmFtWGUyMWNWTzhlVmVRWlJjOHZMS284dXJxWFIxLWc1b25YNE1yWEdNX0dqdzVFZkFBMldBTXBFVVVBRW9YRGJqb0FFMm1Vbm9GYVRmMXMzTnRsbzdhbUw5d0pFTms?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T01:34:21+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "3df32774f2754d661d0f",
-      "title": "Zcash eyes $1,385 as ETF inflows return ahead of NU7 upgrade - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOG9DNTZCOXVGbVZfT2RlXzZpQlFMM21MdF9xbkhseDhwRFFIeWNhRmdKeEFuZkVYV3ZnclotVkJ0VFJtWVlxSjd0UGRwbURxdmkwYmg5RUtDVHQyYlNFMHA3NWpfWXN5TzAwMnViZHc5YzNydDdmUHRsSW5iQ2U1anlZbVZZUXdvcXl2Q3ExckZzUDBvQjJjWW0zenBESF93RDBXQk5vM1Q3cllfb2JMUDFISl9WQQ?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T10:47:41+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
