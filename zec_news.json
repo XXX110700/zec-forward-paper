@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-04T01:59:04.275795+00:00",
-  "last_success_at": "2026-11-04T01:59:04.275795+00:00",
+  "checked_at": "2026-11-04T02:51:22.922762+00:00",
+  "last_success_at": "2026-11-04T02:51:22.922762+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,49 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 27
+      "matched": 28
     }
   ],
   "items": [
+    {
+      "id": "32a88c60e0db7db5b4b6",
+      "title": "XRP, NEAR, ZEC, and ADA Price Analysis on November 4: Market Continues to Decline - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdW9FbFZyX1lVS21MRTRzTF8zUHJWMF82MW5HZXdWZnp6TFh6MGNvNTROMk1EdDZyWWpqbFdMWHdIdm9CTmZvRFpjLXR4TWVFbnlobThRR09vU2x3dzY3YlNLbmlZOUxYa1BaTHNzQTZ3Yk9RT0lQRWdQenY3emotbklHblY5WjBaWnRRYlNFTDJ2bFVvRnBZX2p1b01mbUVoTXpmc3RfZWNqSDNHX0RiOA?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T02:22:21+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "756ed3596075786c23c1",
+      "title": "Zcash Foundation Details Seven Zebra Security Fixes Ahead of NU7 - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FTHcyaXF6Ml9pSFhKRXA2OVY3UWYwd3dOa1Z3TnpQZkZCYTVwNGtiTGt3S242WkNEZGRmenpJYUJPeXVSeHdaZHVISnVUVjk3X3dRVUl2dFNkQk0?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T02:12:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "80bafb49864d8e115319",
+      "title": "美国 HYPE 现货 ETF 单日净流入 60.51 万美元，ZEC、NEAR 合计净流出 717.93 万美元 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55dVQ1VzRHRXpjOFBwNllLVkJSRmU1RjFJVl9JN0Q1SDRYZTRqRnRFZ292UjlEUXljYXc2MWg3cVRnTmUzRGcyeXFYbHQxYmk2Qzl5czl4V1NETElOR1RHWG0zUnVEUQ?oc=5",
+      "source": "TradingView",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T01:53:52+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "87d8477ac38824523e56",
       "title": "Zcash Releases Zebra 7.0.0 with Five High-Severity Fixes Ahead of NU7 Upgrade - KuCoin",
@@ -89,13 +128,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "13beba74b04be1acc303",
-      "title": "Crypto Market Today, Nov. 3: XRP and Zcash Defy Recent Weakness as Midterm Elections Take Center Stage - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXQ4MFBnRXQzSldXVk1kS3N4LUo2OHV4N09KdFZYbkgzZGV6TmNvNTI1aTdsQkVndG9VN1l2djdRLWgzUWhWTjhrYkNCeV9Eb0RKbnNJMnF5amRudjdjalFhc25qd0trSTlCb3dhR2VPXzB0anJHZmpSRGM3OGlxb2FhMWJUQUdWMHFfSFpQQlNBU2U0?oc=5",
-      "source": "Yahoo Finance",
+      "id": "16822f76461cb5f037c8",
+      "title": "Crypto Market Today, Nov. 3: XRP and Zcash Defy Recent Weakness as Midterm Elections Take Center Stage - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUzd3S0lDWTkzNV9WYUJ4SnNHOEFTSEluUTd0d2FXeDQ4TmU4U2VVWkVrSWRDc3VVOTJkWVRSdGlZZjc1aGlxZjcxejNFXzB0aUNkQzZ4YXk2aU5ONlowRGFHX1pvRWM1T0ZFMnNfbHpFSDUwMWpCUUQ3ZC13ZWdBLVhkajlDRld4UEpPYkhPcm4tYWVxN3cydnNVOFlNYUZpcnNOVWRnRmQtdmpYR2NKT2tHdDlZQmFQUUlPMGRkMUk3SEQ1WTNuS3RPekR6THg1SHc5eXp2akVyNUlrVnM1UVYxbHpicFJEczhNZThBR2oxZw?oc=5",
+      "source": "The Motley Fool",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-03T22:30:02+00:00",
+      "published_at": "2026-11-03T22:10:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -206,6 +245,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "7f2cfa6af3a232639be7",
+      "title": "Will these five upgrades determine the future of ZEC? - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkYxMG1ndUliQVNHS0tJODVMUThkMVo3eWpiS0lHbUtrZVF3dUt2c1E4R25IVzhEV0k2QV84ZHNPb3JPR1VWTUo4V2JrbTMtLUpYNGpXSnoyZ0h3Q2tTWkV2c3lZRUFZeHdfdmVxYVJTUXpqYkt1eVlmbmdHd0NWODdZeFotWFQwWDVxZ1RfUFlRMTdfcGVoTUFzaw?oc=5",
+      "source": "富途牛牛",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-03T11:17:24+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
       "id": "9ec8af91c4fbcbb13dd1",
       "title": "Zcash Upgrade to Triple Transaction Speed on November 5 - Cryptonews",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVTZ6Zmx3S0VtQVdoS2dsbE9NZHpxQ3JwWTJnYkZfODR1NlhVbEMtSkpKcUJyb0xSYjJ4MU5QNTBxVXp2LTZLZ2ItS1JYTldkaEFnbF9STjlaMnB1cjJUVlhOSWFPTTJrTmUtX0ZDVHFNY1N1QXFwdlFEWHcwVVRuTUZGQzc?oc=5",
@@ -226,19 +278,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-03T10:05:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "50ad13e43b9e660d191f",
-      "title": "Wallet with $8M Zcash short holds buy orders th... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0ctR3o2dFJvUUlydlFYVExLNUdKamhoT21NeEQxdXlWWDZZVXpjRzJROXBmMzlGdUs4MEx4UG9oekRYRVBHV0NpY2d4b0wzc2ZQYzFhNEt6alVpeW0tX0lmVjY3MTdDMzhoc0RUV3Y4OVZWVEs3VWRhaE5HVlM2UVVmLUtaRGduQmUzWTlQY2tteWtCYXlVT3dWRUlHcTU4LWdOMUVqY2hteGFod1E?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-03T08:01:29+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -453,19 +492,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "8c7704a6f76fc3d71285",
-      "title": "这五项升级，将决定 ZEC 的未来？ - ForesightNews",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fRFJzNHF0RExWT2VFRXdyZUN2M0lzcmVaYzU5QmpkUlRqSEJ6VlJzWXQ0eHpyWmkxWmtMSmZqc1ZleGk3bUFoZGg3dTQtSGNZRXVFRGJQNEFqb3M?oc=5",
-      "source": "ForesightNews",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T16:01:00+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：升级",
-      "verification": "未独立核实"
-    },
-    {
       "id": "8b3fd1535daa737103db",
       "title": "Zcash (ZEC) price rises 2.13% to $1,266 amid he... - Pluang",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUl2WVVJOEpCQV9CYy1lZk1INVNGdmp2dFo1VUtJTThMampjeWR1bFVocVBDemcwVVcySkQ1SFR1UTVvdkRFRExjTDhWd0lHZHg3SWRwU1V6SkUySGx1VnJ0ampIZWtjNHBuOV9iUDJkMHFTZV80a251TFJHUGpCcFR1bW5ZUkFzbUVBYmZRaUVvVTIzblNJ?oc=5",
@@ -658,32 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "0ed03e0c754cca07ddfa",
-      "title": "Zcash Hits $1,280 as Whale Threatens Full Exit Over $50M Grant Cap Fight - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Hd0VTdGNTXzAwekwtXzF1N1pfZjFzUUxZRUxjUklaaWJET215VFI1azc0SWdyNUVIbGg5Wk9YUnhWYUx6RG0yY2Q5VnhSMXIwREZSU18xVXc0ZFF1eTdDeGdwRm1xdUdSSHR2c1psbzFIWWh4OEE?oc=5",
-      "source": "BigGo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T00:56:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "a8df85ff810143c506b0",
-      "title": "$1,000 in Zcash or $1,000 in Monero: Which Could Be Worth More by 2028? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGpqM0xNXzk2VnRYZDFNU2dwMmluSklqX2VfVDUtTVF0cTdMRUFNOHNyUUpIN2FOMmllVktCdjFZSTdYVHRfRUc4aTBONVhwSHBBYlhXSnJlQWt2eXIybDBER29UV000aE13elJjLUJBdmlPSmpJU3AwNHB4RUhjMUYwNWZuZHViMzVwTEF1enR5NHF1RHVOdUFRRHkxYUFsSjlGckR3OVpCWjhVbVZnUlQyVlVHUmIzcFB2U0Q3M19YZw?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-01T23:53:00+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     }
   ]
