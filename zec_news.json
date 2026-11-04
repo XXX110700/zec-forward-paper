@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-04T20:53:28.962800+00:00",
-  "last_success_at": "2026-11-04T20:53:28.962800+00:00",
+  "checked_at": "2026-11-04T21:49:53.157224+00:00",
+  "last_success_at": "2026-11-04T21:49:53.157224+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,32 @@
     }
   ],
   "items": [
+    {
+      "id": "a3ca097de2ee526bd30c",
+      "title": "Zcash Grants Committee Drops 98,000 ZEC Plan Before NU7 - CryptoTicker.io",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmVnlRa1lMbjFXUUNkMlpzcjZmdTJUaUxJZE9NRnRzVGhtOVZvem9OVE9pS09KQk1QMl81dEdlS2ZCRzZldXhrWG1fRUxlWUN1N2JRel96Tm5FbGlyWXdaSXkyUlJna3ZSa0E?oc=5",
+      "source": "CryptoTicker.io",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T21:13:15+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "75d10548fe25b8912620",
+      "title": "Zcash Grants Committee Withdraws Plan to Redirect 98,000 ZEC - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pckJwejM2blpkRXJlV1JRNE5KbGl0NEhERHpvY3lGWXVsT2pzenJyUllnUWxrUU9yTmg5SmlQd2gwZUF0QnRUV200OTVyMXdkcG90SExidmRZYnM?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T21:02:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "3e656f9c3befb3e79069",
       "title": "数据：美国 HYPE 现货 ETF 单日净流入 60.51 万美元，ZEC、NEAR 合计净流出 717.93 万美元 - CryptoRank",
@@ -206,13 +232,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "267a142afb14358551be",
-      "title": "Elon Musk Grok AI Predicts Best Privacy Coin: Monero (XMR) Vs. Zcash (ZEC) - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2EzWTdjdVhmcWpPSDY5cnlPbWxTVnhZdmplWUIzTjRPR2VVaGZSQ1ZkbVFXb09hbFhLNTRkWUsyWXlaR0xNdWNBSVR1S01NVWVlRFdQajlfRl9fT195aTE2YXlXNWFEUnBDMFQyTG5fTjYyREhySS05ajRMek5Dd0hOZDR5cWdtaXg4cFdSLTZ6eTNSQnc?oc=5",
-      "source": "Yahoo Finance",
+      "id": "ff9803db9dfbd3c41776",
+      "title": "Elon Musk Grok AI Predicts Best Privacy Coin: Monero (XMR) Vs. Zcash (ZEC) - 99Bitcoins",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdVVzT1B3Qlg0THNEZHgtY0M1b19sVXNVVE5QcW5mUkVnY0tXVUVHWm5SQXVBM1ZJcEFYb05pWmthVzNINWJtZ1FNbnB1QkR4bU5BRHFCUFNCVkRHUFR3Z0lsUUlSblctLWlhZWRxQmZuRVJya0xrXzU5YmwyamsxTmRxeEZ6T3Fqb1YxTzQ1MnRyMXBBQ3N0emlpRQ?oc=5",
+      "source": "99Bitcoins",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-04T15:09:11+00:00",
+      "published_at": "2026-11-04T15:15:09+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -245,6 +271,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "daab703f866db11aa423",
+      "title": "Options Traders Drop Their Election Hedges as BTC Retakes $78,500, and Zcash Leverage Jumps 28% Before Its Upgrade - Coinspeaker",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5TU1oVmE1aFFPa0ROaFpEQ3lrNDdKMEJMSkJCRFh6MlgycFhaRG1KXzZtRkpsckFnMk44aHdpSUx1eVdacmhYSG1fTk5sa29rZ0kzMHhEVVBhdE5sLUc4Y2JPcXhBSUxJVXhkR0d1cHFfNzVyLWtFUlVqbXLSAYIBQVVfeXFMUEIxUC1XUWN0b2Rjclg4UFk1MV9YTmZUUmZ0YjVKZjFwbWkxbWkxMHdiUktvNGdydlFqekRkNWxrVzlvSURpenlrM2lKTHVxS2ZRRlBDNXJmRThwZElSeUM0R3Vkb3NKN3ZPR2JwNDM0cTdhUS1jQjZnTUNkbnlVTHdtdw?oc=5",
+      "source": "Coinspeaker",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T13:32:36+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
       "id": "79a4c1018ca6030242b7",
       "title": "US ETFs for Hyperliquid, Zcash, and NEAR show mixed flows with $7.18M outflows on Nov 3 - Pluang",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUUtJbnNsQjU0Q1JPbG5HLXZUejBOc3F6cmF4all2a0RLTEMySjlZaDhwNDJXZHA0RkNqMEZmY2NnUHc4VF9GSXlfV3FRenFxLUFQWUNfWF9oeHNTN3FKZmc1NUwwQ3dQOXc1LVRtMVJxYTRZT0FjYmxxZ09SZHdFWktnYVgySEV0TWpSNU52SQ?oc=5",
@@ -252,19 +291,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T13:25:57+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "0f6d1a52b930a6be8356",
-      "title": "Zcash (ZEC) drops 2% in an hour but gains 7% ov... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWUtRWC01MFd4aWJoWVp1RG1MOUFTR2hyd3R3N1dlbUU3TW1UajRFVU53Rk9XdkFoNzdvYkpBaGI5dkpNbGdTWng5eWtIaEJLVWpsNkZGZE1fNzlYdDU1TXM0SkRHRVRxMzNCRWJsVVpaOTJRNm9ucDVGVmdmdUt4bHBBR2tWSXM?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T13:05:53+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -658,32 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "935c9332ece3073334aa",
-      "title": "What Are Privacy Coins? Bitcoin, Monero and Zcash Compared - The Defiant",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ1NXRS1sRWJGajl5LTZEUnVwNXdLZmp5RUM5SW5EdkdBbmVsRkZSSmhfVVRmTXNZQmNtY25tYnc5Mlh5R1hXcWFDWGhkZDZFWU5HaUVjZGlwdFhxelJ6Q0I0ZDlHSXJYQlVMaU9aTmZaQ0hZTndrVThNdUtGVFBWNHJNZ0w4U3RaX3N6ZndpbU85Y25O?oc=5",
-      "source": "The Defiant",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T00:27:59+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "461eaab1e3788f89a0e3",
-      "title": "Zcash Falls 2.05% in an Hour to $1,212 on Binance Spot - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1c0b0w5eHBZLVBSbkF1dUVqSkszWFh4M2hndXVyQ0RsNjRCQzBqYWZxbnYtbjNNZ3NNM3BqTVAzZ25BUGt1NnRpSXVrN0hXbE5vaFdtUVFYdw?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T00:23:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
