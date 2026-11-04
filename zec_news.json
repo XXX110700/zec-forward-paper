@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-04T19:57:51.519405+00:00",
-  "last_success_at": "2026-11-04T19:57:51.519405+00:00",
+  "checked_at": "2026-11-04T20:53:28.962800+00:00",
+  "last_success_at": "2026-11-04T20:53:28.962800+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,45 @@
     }
   ],
   "items": [
+    {
+      "id": "3e656f9c3befb3e79069",
+      "title": "数据：美国 HYPE 现货 ETF 单日净流入 60.51 万美元，ZEC、NEAR 合计净流出 717.93 万美元 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xbllxQ1pBX1QzZTFCY2Y1Z2I1Mko3b3czWXpGQ2IyTDFOWVNHTlpmVzM5X0VoOHZZUF9aQjhlMW5IX3JhcXM1V1Jremx5NGpiYWc2ZlpoY0JrcFJk?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T20:51:29+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "05359b88cdbedbf05081",
+      "title": "Zcash Price Faces a Test at $1,332.85 as Momentum Lags - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaVdxTWpvblI5Y0tFTE91c3lNTzNHeXhlWVdpd2RsQzVjRjhOUWhnYTFKeVFrMEF2Zjd0d0dQQ0xyZnBwZVNQV1B0d2xrUUR2T3IyWlpMMHlNYmFRMUtSdHJPanlONmV0TVp0OTVnczFfLWxDd1FTbGt0VjhrcTFQNWQ2cWs5V3lKU3UxNF9YakxDSWNnaFE?oc=5",
+      "source": "The Cryptonomist",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T20:26:35+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "8dcb6b2f45de63f386d5",
+      "title": "ZEC Jumped 10.5% After Zcash Community Grants Dropped a Plan to Redirect 98,000 ZEC. Why Did Holders Object? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZFU1Wl9yYjlzSkk0Y19zaDdMZFVqVVNKcUY0MVhPQjBGR0xmZldLdnFFb1MyTzNNSndrcFZwSzAzclIwcEVBbDdrbUJLaUFsanc0U2doWWxuWEhfcmRtQ0FNaFROV0ROUW0zdU9zMVJhMzI0Ml8wNC1YalpWX0NjQ3lqRWo5WkRlU1lSb1hGNm5XeHJhcFdaY21HaDl6aVQzZlBnV2JYSW9nNWpwSVBsTUVybGF4T3NZUzF0N1dkWVZqZlZidDlIeFJETHlBVEI3dF8xQnBRVXFWLTNzVVlyRkxyc0NFT295RnV3MDJTWXZNaGZRRXc?oc=5",
+      "source": "24/7 Wall St.",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T20:23:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "ef35e39aafc2b97d201a",
       "title": "Zcash Grants Committee Withdraws 98,000 ZEC Dev Fund Taper Plan - Altcoin Buzz",
@@ -414,6 +453,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "2523154f84256f563ce2",
+      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart and Price History - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWUF3VTYyMmFad2tQamthVmVhT3dPWlh5NG01LUtxbm42S0pOU2R0Q2FQZHVlOHBhV29xSzdsTEExX21FTTd2cTNObTc3RlBQVGZLMm5n?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T08:08:03+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "d5db1524be87fb8101dc",
       "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
       "url": "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
@@ -486,19 +538,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T05:27:35+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "500a8a137225c442c9fe",
-      "title": "Zcash (ZEC) jumps 3.2% in one hour amid $1.15M short liquidations on major crypto exchanges - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQREJfWnhmM0hpemlkN1VJVTdLajMwdV9hYXhGZjU0WV92YWpGU09uZzVvRVFyTy1ReEZ3dWNjZnBPUmk4LXA5d2x5Tksxd0RZRUpkLVd3cDhLdk9zOWpTWlIzOEdaZzBTZHRnVUIwQmdxTDJoalVUOUl3SGd0QjBGeTJXM3R0ZnF3VXhUZEdR?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T04:23:58+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -642,45 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T00:23:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "3afbda0c2a200c983efb",
-      "title": "Zcash Price Prediction: ZEC Fell Nearly 6% and Slipped Out of the Top 10. How Low Could It Go? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeTZoS3M1c3pJcGU0dUlIQ25SOFUwMVR0NlNUY2ZPNnBHYzF5TXNBalczdnFNZzdjdHlnZWM0Z1ZrR29yRmFDZkFQc2w3ejFEY3RfLXJ3c3A4RDV2cTE0ZVJWSXVMb0EyclVNcTlKVm1oT1ktVDlneUl3SWlrM0h0UlVjWHBGVHRNNFlRVS14aGliV2s1RTJCSEplQ3duYmYyTkhfZXFOc1l4NDYyNUhEalpuckVaYmtTN1YxWV84cTBwekVHS3lrbFN5eGU5OGRwRmhMbnlzYjZTeG1PSGM2MnZMNA?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-03T23:53:00+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "dfb55da77aa7602b2214",
-      "title": "Gemini 上线 Zcash 和 Hyperliquid 预测市场 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EVFpTOUtfZ1FMdk5MZE52bVZDSVh1YmZvalNWSUFENGFsODR3NG96X1B5eW9jaENlTkNIQkFuZnh1ZHNJSGhjRHQ5Ykg3ME9NcmhmbFFOd3hiZEZn?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-03T23:17:26+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：上线",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "13beba74b04be1acc303",
-      "title": "Crypto Market Today, Nov. 3: XRP and Zcash Defy Recent Weakness as Midterm Elections Take Center Stage - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXQ4MFBnRXQzSldXVk1kS3N4LUo2OHV4N09KdFZYbkgzZGV6TmNvNTI1aTdsQkVndG9VN1l2djdRLWgzUWhWTjhrYkNCeV9Eb0RKbnNJMnF5amRudjdjalFhc25qd0trSTlCb3dhR2VPXzB0anJHZmpSRGM3OGlxb2FhMWJUQUdWMHFfSFpQQlNBU2U0?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-03T22:30:02+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
