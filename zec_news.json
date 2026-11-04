@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-04T05:59:02.945212+00:00",
-  "last_success_at": "2026-11-04T05:59:02.945212+00:00",
+  "checked_at": "2026-11-04T07:12:53.551920+00:00",
+  "last_success_at": "2026-11-04T07:12:53.551920+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,15 +27,28 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 99
+      "matched": 98
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 27
+      "matched": 21
     }
   ],
   "items": [
+    {
+      "id": "9aaade13e4eb2ec01734",
+      "title": "Zcash Jumps 5.8% in Four Hours to $1,266 on Binance Spot - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SdWZWaWg1Smc1T1NvVTk4MnBsMVRETDN1QU1abVY1aE5DaFc4QVVRZlpFamJjSGFlSUdTUEpydV81ZzR6UUtIcnVMcUVPQXowNXpqS2pIYm1rdw?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T06:30:02+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "6de8b60cbcbf894b33c4",
       "title": "Zcash (ZEC) price rises 3.31% in one hour, up 8... - Pluang",
@@ -186,7 +199,7 @@
       "source": "KuCoin",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-04T00:58:07+00:00",
+      "published_at": "2026-11-04T00:57:21+00:00",
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "30e118e4d6c6c08ff09b",
-      "title": "Zcash extends consolidation as macro headwinds continue to limit the upside. What to watch next? - investingLive",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQkhIVXNGb1VjM05JQUxmY0FIV3ljRWt0TVJCV3U4NWczQl9jMVNTVmE0Y1FCd0JfUWRZdHItaGdCRjlhYXpFMjBWd0lqWkNsNDBxRHpyZ0hFU1VubTlLd2tlTWVWZW40allZTTJqSjZSelJKbk1La0ZtcDN2X1ZyMlBOdHdfLVZrWlIxNTI5X2M2TTdoLTM0bWNvLUhDVnlvWmZQSHh2S1B4V1Vqak12aWtOUlJwR3B2N2kyZUNXUU9WSXc0dFlObGFiUTRqN29ERnc?oc=5",
-      "source": "investingLive",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T11:25:51+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
