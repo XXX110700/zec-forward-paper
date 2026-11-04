@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-04T18:56:42.168825+00:00",
-  "last_success_at": "2026-11-04T18:56:42.168825+00:00",
+  "checked_at": "2026-11-04T19:57:51.519405+00:00",
+  "last_success_at": "2026-11-04T19:57:51.519405+00:00",
   "status": "ok",
   "sources": [
     {
@@ -492,6 +492,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "500a8a137225c442c9fe",
+      "title": "Zcash (ZEC) jumps 3.2% in one hour amid $1.15M short liquidations on major crypto exchanges - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQREJfWnhmM0hpemlkN1VJVTdLajMwdV9hYXhGZjU0WV92YWpGU09uZzVvRVFyTy1ReEZ3dWNjZnBPUmk4LXA5d2x5Tksxd0RZRUpkLVd3cDhLdk9zOWpTWlIzOEdaZzBTZHRnVUIwQmdxTDJoalVUOUl3SGd0QjBGeTJXM3R0ZnF3VXhUZEdR?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T04:23:58+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "e298f51ea18692a73557",
       "title": "Zcash Rises 3.20% in One Hour to $1,209 on Binance Spot - www.tokenpost.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82RzdRMVJaTmstOEtBcllfZmVzaVFCXzdGZktwcnAyaXZ4MXJIVy13YjI3MWdtNVJ4M1dBZjg1ME5YbERuR0FMSGFWaENtSUd5S2phUllSTHo0QQ?oc=5",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-03T22:30:02+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "6ccf6fa76b68622837bc",
-      "title": "Gemini Adds Trading Markets Tied to Hyperliquid and Zcash - TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDWm1nVUdOSWpvSDlyUGhjWUN2bFZYSWVhRmJuX2ZMMWlXNFFQaWxUYlpMeGRkcXNnSjJIa0NKLTVzTkxsQUlISUhXazNNOFZxbVJCS2hxVU4?oc=5",
-      "source": "TOKENPOST",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-03T20:07:11+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
