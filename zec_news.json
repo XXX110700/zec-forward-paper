@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-04T01:00:06.090013+00:00",
-  "last_success_at": "2026-11-04T01:00:06.090013+00:00",
+  "checked_at": "2026-11-04T01:59:04.275795+00:00",
+  "last_success_at": "2026-11-04T01:59:04.275795+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,12 +27,12 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 97
+      "matched": 98
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 28
+      "matched": 27
     }
   ],
   "items": [
@@ -173,17 +173,17 @@
       "source": "Cryptonews.net",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-03T13:58:09+00:00",
+      "published_at": "2026-11-03T13:58:31+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
-      "id": "1a0cdd29cb5a6b8f2e02",
-      "title": "Zcash Price Prediction: ZEC Still a Buy Below $1,200 as NU7 Upgrade Approaches - FXEmpire",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXcyQzJjUW1hbGlhM0J0ZXZ3amdKekZBZ2ZNWlp1RXZSVUZZQjF0NE9YYzNPcVE3T1kwcmJjdmZhdDQxNGNmNFVIdm1OZ3VVZW83MWlLYzVDY3ZnOTFXcy1iZUV2U25PZmtmZWo1VkhoMG5KUUlZUWFEalBObUJXQkI3X2MtT3Jva0pTUkRTU1BMaUpxTm4yYWJ3M2NCWGgxcEJrY2RiTm5QYXA2UEh1eXFDTXJkUDd2QXRMalRiQXh6cWRu?oc=5",
-      "source": "FXEmpire",
+      "id": "bb13bf4f1d09c89e094d",
+      "title": "Zcash Price Prediction: ZEC Still a Buy Below $1,200 as NU7 Upgrade Approaches - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUWJvSFBNRTVhUVl5RFRXUlJtSVZiVzQ5QkVCQlRQYlZKRlo1NVVGSFFtZWNCcU93aFMxV2pMc3VjYlVvdGdaQ2lRa2R4WTBmdExFczd0YlhqdjZlOGswQXR3Q2RzYmIwSlNEZzY2TThhNWhIYzNBSHVfX3hZZVNqbXljODRKaUst?oc=5",
+      "source": "Yahoo Finance UK",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-03T13:09:34+00:00",
@@ -203,19 +203,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：升级",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "7f2cfa6af3a232639be7",
-      "title": "Will these five upgrades determine the future of ZEC? - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkYxMG1ndUliQVNHS0tJODVMUThkMVo3eWpiS0lHbUtrZVF3dUt2c1E4R25IVzhEV0k2QV84ZHNPb3JPR1VWTUo4V2JrbTMtLUpYNGpXSnoyZ0h3Q2tTWkV2c3lZRUFZeHdfdmVxYVJTUXpqYkt1eVlmbmdHd0NWODdZeFotWFQwWDVxZ1RfUFlRMTdfcGVoTUFzaw?oc=5",
-      "source": "富途牛牛",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-03T11:17:24+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -239,6 +226,32 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-03T10:05:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "50ad13e43b9e660d191f",
+      "title": "Wallet with $8M Zcash short holds buy orders th... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0ctR3o2dFJvUUlydlFYVExLNUdKamhoT21NeEQxdXlWWDZZVXpjRzJROXBmMzlGdUs4MEx4UG9oekRYRVBHV0NpY2d4b0wzc2ZQYzFhNEt6alVpeW0tX0lmVjY3MTdDMzhoc0RUV3Y4OVZWVEs3VWRhaE5HVlM2UVVmLUtaRGduQmUzWTlQY2tteWtCYXlVT3dWRUlHcTU4LWdOMUVqY2hteGFod1E?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-03T08:01:29+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "bc17901f0fff6a033fe7",
+      "title": "Zcash price drops 11% amid whale liquidation, g... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNCNkVVamsyci1XVmQ2S0JYdlpBSTZGMHdNSndRLWZHMXowQmlNWVU5MlJwTnp3T2tQVlB3R3VHX0tsQ3JxVTBVSHJWVGRQdUdLampVZHJSSkdXM1FJOTFHYWtOZ1FxRGRzQWpYVkJMVjV2azNqVTYxOUdJZU1UVFdfNU11X0FUdUJ4SHFZY2tDY1dF?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-03T07:25:21+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -440,6 +453,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "8c7704a6f76fc3d71285",
+      "title": "这五项升级，将决定 ZEC 的未来？ - ForesightNews",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fRFJzNHF0RExWT2VFRXdyZUN2M0lzcmVaYzU5QmpkUlRqSEJ6VlJzWXQ0eHpyWmkxWmtMSmZqc1ZleGk3bUFoZGg3dTQtSGNZRXVFRGJQNEFqb3M?oc=5",
+      "source": "ForesightNews",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-02T16:01:00+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：升级",
+      "verification": "未独立核实"
+    },
+    {
       "id": "8b3fd1535daa737103db",
       "title": "Zcash (ZEC) price rises 2.13% to $1,266 amid he... - Pluang",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUl2WVVJOEpCQV9CYy1lZk1INVNGdmp2dFo1VUtJTThMampjeWR1bFVocVBDemcwVVcySkQ1SFR1UTVvdkRFRExjTDhWd0lHZHg3SWRwU1V6SkUySGx1VnJ0ampIZWtjNHBuOV9iUDJkMHFTZV80a251TFJHUGpCcFR1bW5ZUkFzbUVBYmZRaUVvVTIzblNJ?oc=5",
@@ -570,19 +596,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "060b633f56a724d72166",
-      "title": "Cryptocurrencies Price Prediction: Zcash, Bitcoin & Solana – Asian Wrap 02 November - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNG1saTdURG9tc2tWNzc4c2hjWFFfdXBySTJJSUtHa1FwbnFZeTc2cXZrRUVfMHpOdjAyazFmTThUamNVY00xS0ZEeEV2amtZdFZGcDZmY1pFY3FZNUliajBoZ3ZJOEoxdGF6eG9GaGpBck5MNkgwR2I3T2V4T051N09hX3RXbU9xSWNGUUV3OUR4R21tSlY0OWhCUDhRZDZoYVBvVDRFNTFReVE2bm9ndWNDQVI1XzhOZEd1dVlRekdQR0p5VURGYkZQN2tRSTlQQ29B?oc=5",
-      "source": "FXStreet",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T05:44:38+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "9a7a53e70f05d9f37920",
       "title": "Crypto whale buys 3,052 Zcash and opens $10.16M 2x leveraged long position - Pluang",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU3pGaUtVbHZQTTdsUnhkQkpxREZjUURvckxiQ2hvSzNwSXNZbHNXZEw3OTVWelNKTlZqOUthM01OZUszVVBwLW5KUHoySWhiTnBwWFFpOXYxeTgyVmkyeFRKSWY1eGQ2VTZoVlBmczVPLWpnaGtIUER2VjVvYVBKcElFR2lLc0w4c2RxRGdmREVVbk5nMi1Z?oc=5",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "8e1ece4169e68f078e22",
-      "title": "Duke Zec’s 25th Anniversary HQ Holden Premier - Street Machine",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3bTBYYjZKc3EzbndEVzAxX2J0WGRNY3lsaEJNbFRBLVNmM1VGbTlXeDhCRGFmN2FwTUwyRTYwcDFFWE1VY0cyX0d5cE1fcGxWS092d0w0VmtGOFpaR2ZhRndEcl9JMmVxdmF3SzVvbVpFUzhzb2NtSUhQWGxWQQ?oc=5",
-      "source": "Street Machine",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-01T23:13:38+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
