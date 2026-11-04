@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-04T17:53:53.811378+00:00",
-  "last_success_at": "2026-11-04T17:53:53.811378+00:00",
+  "checked_at": "2026-11-04T18:56:42.168825+00:00",
+  "last_success_at": "2026-11-04T18:56:42.168825+00:00",
   "status": "ok",
   "sources": [
     {
@@ -37,13 +37,13 @@
   ],
   "items": [
     {
-      "id": "f1761e4f613f382ef0bd",
-      "title": "What Turned Cypherpunk Technologies (NASDAQ:CYPH) Into a Holder of 323,394 Zcash? - kalkine.ca",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWNacW1UdThpRmZqODUxTm1qTkNkSXBOLVJ4eVhnLWp0cXFvTGhrbXhxTzdTa3p0TTVOUGFEbmZjeXZQcEM0TFpCUzd4MFlrZm9yVEJlY25CdktVVkJHbVR5Ym02cURpT2I3ekFGMDV5aC00NnNBRDRQdjA5QUdxZzRjZUtPeHNCbjFBYjRSUFBkM09kcGdVMnIzVlVCVVdYUzBhMzFwTGsxYlJxNFl1YQ?oc=5",
-      "source": "kalkine.ca",
+      "id": "ef35e39aafc2b97d201a",
+      "title": "Zcash Grants Committee Withdraws 98,000 ZEC Dev Fund Taper Plan - Altcoin Buzz",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFlESjVTMDhRRFlUcU9DVlFkVHdmbmI3RzRkaXlZWUNUWnNNREQzN1plaGttY3F5YWpLTlBIQzNzMm9zaTdIV1J5NWxjWFloaGo3S0VDMWlqMFNrTl9iSjV3cm40eUxXRm9MUmZ6QnhFVk1VWWc5ekF0Ty1tY2hEcndqeDN6SXRnOEln?oc=5",
+      "source": "Altcoin Buzz",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-04T17:32:00+00:00",
+      "published_at": "2026-11-04T18:02:41+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -56,10 +56,23 @@
       "source": "The Defiant",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-04T17:07:35+00:00",
+      "published_at": "2026-11-04T17:55:52+00:00",
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "f1761e4f613f382ef0bd",
+      "title": "What Turned Cypherpunk Technologies (NASDAQ:CYPH) Into a Holder of 323,394 Zcash? - kalkine.ca",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWNacW1UdThpRmZqODUxTm1qTkNkSXBOLVJ4eVhnLWp0cXFvTGhrbXhxTzdTa3p0TTVOUGFEbmZjeXZQcEM0TFpCUzd4MFlrZm9yVEJlY25CdktVVkJHbVR5Ym02cURpT2I3ekFGMDV5aC00NnNBRDRQdjA5QUdxZzRjZUtPeHNCbjFBYjRSUFBkM09kcGdVMnIzVlVCVVdYUzBhMzFwTGsxYlJxNFl1YQ?oc=5",
+      "source": "kalkine.ca",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T17:32:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -109,6 +122,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T16:44:27+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "21bf4455cc4633d4ce6a",
+      "title": "Top Zcash Price Predictions as ZEC Surges 14% Daily - CryptoPotato",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb281dTNZbWZSM3VjY3ctNk85Qy1XeWxmQ24xd3FwT1M2UTV5cURiS081WWhWa1NuQTBCUmdrUEhwVG5vMThrZmtUQlBIU3VrV0JBRmxNVzNob0Z1OVYxVGN2U3Y5OUxxaEIzeVZBVzBjd2NaTUlZWW9nRTdYVmlWQ1J3?oc=5",
+      "source": "CryptoPotato",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T16:34:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -284,19 +310,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "388745d2cc8fcf0fab89",
-      "title": "Zcash price jumps 11.8% ahead of major NU7 netw... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95VEl6S0V5emFGU0p5NWEyUngwdjRBTmxhdms2Z21jZ2Z6RkU3dm93ZE5lRll6MWZ0VGhXUFJva1prVjZmNUd5a3pDSUUxcGlqZDBxYWRpWlJuUXlpR2liNEpLWmFGeWJZLWNOU196ZG1OVDM1amYwZjRVaXk0UQ?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T10:53:21+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "775faf02017cafa85fcf",
       "title": "拆解 Zcash 扩容路线图，5 大技术升级如何将其推向高并发隐私货币？ - 区块周刊BlockWeeks",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pRVFsdC1VYnRSdUVJU25CRlJMVGxLbjVwZ1EtcEpVdnZ3ekl4OGpiX1p3Q2UxT1ZGcG1xTmxwaGRYRmtFZkROZEdn?oc=5",
@@ -466,19 +479,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "6de8b60cbcbf894b33c4",
-      "title": "Zcash (ZEC) price rises 3.31% in one hour, up 8... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYVU1SHV0SDV0NURVRy12N2VZTFlxSS1ncGJPYXJ0NnJFNGpOVzlaajVodHdRRDVSczAwZTVtcWpWNU94VGZ6bDNLc3hqb2w2MmNvRkUyTzgyeUtTOTFPa2t4SGFtMEpCZVBzNy1CRHhZV0FJdHZHNEZVaU1TZjVBVENyUQ?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T05:42:21+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "4a499e6a8b4820b70ace",
       "title": "Zcash Rises 3.31% in One Hour to $1,234 at 12:25 a.m. ET - www.tokenpost.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tRVgybXVrQ0hoY3RMeVRfVnV5dTMzSjlvT0U2MEpncUN4cGxDMnIwdVB4WnVDREh2emZSTzY0WVRzc0tCNUF6QTd3YUMzNmRVMVZfY25sbnJiQQ?oc=5",
@@ -486,19 +486,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T05:27:35+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "500a8a137225c442c9fe",
-      "title": "Zcash (ZEC) jumps 3.2% in one hour amid $1.15M short liquidations on major crypto exchanges - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQREJfWnhmM0hpemlkN1VJVTdLajMwdV9hYXhGZjU0WV92YWpGU09uZzVvRVFyTy1ReEZ3dWNjZnBPUmk4LXA5d2x5Tksxd0RZRUpkLVd3cDhLdk9zOWpTWlIzOEdaZzBTZHRnVUIwQmdxTDJoalVUOUl3SGd0QjBGeTJXM3R0ZnF3VXhUZEdR?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T04:23:58+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -619,6 +606,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "935c9332ece3073334aa",
+      "title": "What Are Privacy Coins? Bitcoin, Monero and Zcash Compared - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ1NXRS1sRWJGajl5LTZEUnVwNXdLZmp5RUM5SW5EdkdBbmVsRkZSSmhfVVRmTXNZQmNtY25tYnc5Mlh5R1hXcWFDWGhkZDZFWU5HaUVjZGlwdFhxelJ6Q0I0ZDlHSXJYQlVMaU9aTmZaQ0hZTndrVThNdUtGVFBWNHJNZ0w4U3RaX3N6ZndpbU85Y25O?oc=5",
+      "source": "The Defiant",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T00:27:59+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
