@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-04T15:56:18.893534+00:00",
-  "last_success_at": "2026-11-04T15:56:18.893534+00:00",
+  "checked_at": "2026-11-04T16:56:46.392192+00:00",
+  "last_success_at": "2026-11-04T16:56:46.392192+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,58 @@
     }
   ],
   "items": [
+    {
+      "id": "6cf048adbe90b592ea14",
+      "title": "Top Zcash Price Predictions as ZEC Surges 14% Daily - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTE3Y1ZZUVNwRUY3Wi1qY2c4R3dDVy1hTGh5MWQ5RGVadG1JYnZrLWlGOGZNRE9wVUtrOV90bjVpSFpObEFha1hYcnZyeHd3Ymg0VVNzcnhuNlliSHlzNWdkMW5JblVHRjFfM0l2aG9uRG5iQzRaRGFRUUNITDBTQ3FNeFVxR0ltdVN3cTEwc1NWQQ?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T16:47:58+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "80ffbef51fbb14ea6447",
+      "title": "Zcash price rebounds 9% ahead of NU7 as traders eye $1,370 - Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zWkxCQ0RkckVWSy1TTVdUNkNYUF9jWTJ0Q3pzZVdQUFVUMUJ6R3RaSkNVenUzeWc0OGg3aE5KNUpjOXlkVkd1OHhXMk4wUTUtallpZmpXVnBJNEs5bzRhNU4tWUVQRzd4YUJaYlRXY0RfdXJaOUE?oc=5",
+      "source": "Crypto News",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T16:45:21+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "c2c705a051be66a943bf",
+      "title": "Zcash Community Grants Withdraws 98,000 ZEC Mining Rewards Proposal - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTTI5NmM2STJWTG1NVGM1SnZ6ZDNyNEctUmc2MGtfd3ZzYXNLS2RMSWM2RkxwVlo2WUpfc3ZyR1lLMG54WFhwMlZWZUowX1RfQ0hIRWl6T0VCTlhad0ptY0tQWEhqUVBrVGxHbnlsSml6SzRsWUs2T3JpNHRyR2x4a2lka0RLMFN1cWNzRldaZ2hmeS1tU1JlTGZVa3lQWjdJVWg4?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T16:14:07+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "62efc67916f153c9406d",
+      "title": "Zcash Grants Committee Backs Down on Plan to Give Up 98,000 ZEC - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWDZhTEtZUGlvclFheVE0V1M4TUpDVXEwcVZqRkhRS3FyTmtZaWFUTm5lM2ppRXRWTDN0SWwxWWJrZDd1UnZ6OUhfdWxqZHJacHVyR3JuY1FhQzZma3FuYXhnV3ZBUFNfM0VBUGxvbWR4S3ZRNkZqY05VSG1Mb1FFRkVGejNaUnZGQm9kdzFqZFY5MzB5T0VxUExjSHRPeFk?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T15:42:54+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "267a142afb14358551be",
       "title": "Elon Musk Grok AI Predicts Best Privacy Coin: Monero (XMR) Vs. Zcash (ZEC) - Yahoo Finance",
@@ -632,58 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "590f5639d83c3a1a5902",
-      "title": "Privacy Coins Tumble as Zcash Plunges, Monero Defies Sell-Off - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uYklOZzRDQXdCa1NENTJ6NTJWUGRtNl9FNXNqeFJDdk9wb0xMcTFqU1o1U3luLThzRkNpUGpkMVktaFZLN1d1aDBtUzEybUlTRm9VWGFtLU9MQQ?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-03T13:58:31+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "405881c4a13a19c59cfc",
-      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CeEl3cUcxS011QkY4S3NCVlFyMDJQQi0wVl9OWHlvVlpVQkdydFk0OTR1U21sdkw3eEZwWDMtN2FBcW9mZXlBUjVnUlhtRWd1ZW94dnJn?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-03T13:52:14+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "bb13bf4f1d09c89e094d",
-      "title": "Zcash Price Prediction: ZEC Still a Buy Below $1,200 as NU7 Upgrade Approaches - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUWJvSFBNRTVhUVl5RFRXUlJtSVZiVzQ5QkVCQlRQYlZKRlo1NVVGSFFtZWNCcU93aFMxV2pMc3VjYlVvdGdaQ2lRa2R4WTBmdExFczd0YlhqdjZlOGswQXR3Q2RzYmIwSlNEZzY2TThhNWhIYzNBSHVfX3hZZVNqbXljODRKaUst?oc=5",
-      "source": "Yahoo Finance UK",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-03T13:09:34+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "7f2cfa6af3a232639be7",
-      "title": "Will these five upgrades determine the future of ZEC? - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkYxMG1ndUliQVNHS0tJODVMUThkMVo3eWpiS0lHbUtrZVF3dUt2c1E4R25IVzhEV0k2QV84ZHNPb3JPR1VWTUo4V2JrbTMtLUpYNGpXSnoyZ0h3Q2tTWkV2c3lZRUFZeHdfdmVxYVJTUXpqYkt1eVlmbmdHd0NWODdZeFotWFQwWDVxZ1RfUFlRMTdfcGVoTUFzaw?oc=5",
-      "source": "富途牛牛",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-03T11:17:24+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
