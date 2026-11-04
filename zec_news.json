@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-04T22:48:57.275153+00:00",
-  "last_success_at": "2026-11-04T22:48:57.275153+00:00",
+  "checked_at": "2026-11-04T23:43:20.621702+00:00",
+  "last_success_at": "2026-11-04T23:43:20.621702+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 99
+      "matched": 97
     },
     {
       "name": "Google News 中文",
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "28de99be77a42f2f463e",
+      "title": "ZEC Wallet Adds 8,398 Tokens to Short With $142M in Cumulative Profit - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3dnJrODd6bmN4MzB4TVEwWTNnUDV1Z0NZbkRoNUxEczFReTN0SWJrdHpyVGhXaGQ5YkRMd0pRaXhva1dOYlNBYU9SOTdrbGRvLUlGVHc5aWpDdw?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T22:35:31+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "a3ca097de2ee526bd30c",
       "title": "Zcash Grants Committee Drops 98,000 ZEC Plan Before NU7 - CryptoTicker.io",
@@ -115,6 +128,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "860be7dd6ab0e430f615",
+      "title": "Zcash Climbs 9.5% Ahead of NU7 Network Upgrade - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcUd0VHM5OHlySDhyUDVockNtcWtncTJkVGxuVHpKYVpsS1hKMms1V3BTUVVHLTBDLUNubGF6RUpnWXNOVXdDVDJ6UjgyUThyV2ExTHV4cnRSeGpkQ2cyQ0ZpS1dObjlBZVotbU1mX3c3b2VsOTB3YzlEM1IwdzBpT2hVT0RERjA?oc=5",
+      "source": "The Defiant",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T18:04:15+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
       "id": "ef35e39aafc2b97d201a",
       "title": "Zcash Grants Committee Withdraws 98,000 ZEC Dev Fund Taper Plan - Altcoin Buzz",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFlESjVTMDhRRFlUcU9DVlFkVHdmbmI3RzRkaXlZWUNUWnNNREQzN1plaGttY3F5YWpLTlBIQzNzMm9zaTdIV1J5NWxjWFloaGo3S0VDMWlqMFNrTl9iSjV3cm40eUxXRm9MUmZ6QnhFVk1VWWc5ekF0Ty1tY2hEcndqeDN6SXRnOEln?oc=5",
@@ -125,19 +151,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "860be7dd6ab0e430f615",
-      "title": "Zcash Climbs 9.5% Ahead of NU7 Network Upgrade - The Defiant",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcUd0VHM5OHlySDhyUDVockNtcWtncTJkVGxuVHpKYVpsS1hKMms1V3BTUVVHLTBDLUNubGF6RUpnWXNOVXdDVDJ6UjgyUThyV2ExTHV4cnRSeGpkQ2cyQ0ZpS1dObjlBZVotbU1mX3c3b2VsOTB3YzlEM1IwdzBpT2hVT0RERjA?oc=5",
-      "source": "The Defiant",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T17:55:52+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -401,6 +414,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "3a5592925128ffe0dfa1",
+      "title": "Zcash Withdraws Plan to Redistribute 98,000 ZEC - ForkLog",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEZWhJZnZYTFA1dHlJSldaS0NCUnNxZXdKQV9vakl6MGNiX3ZJUXE2N1AtOGFaVUFmelRKNGtJdXZwOFVEdjdsN3BlcmVnTWhyaHdmYjN0dm5PZFVhaWJCV3JISDZjdkJOV25YN2xsOHVBWTE4bjBCa3pR?oc=5",
+      "source": "ForkLog",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T10:03:13+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "744e863091af4fb0b1c7",
       "title": "Zcash Gains 11.80% Before NU7 Activates at Block 3,543,405 - www.tokenpost.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1QWpVclJNUUgxMDlld2NJUHkyNFFMV0JkTTZXYi1acklVaTlIX2pJcWR3RFNacURFc3dUaV9WSDZKcGFHOVU5TF9JN1laVjluOW5aNFpockJuQQ?oc=5",
@@ -447,19 +473,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T08:39:24+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b4847862dd9a6d2221c8",
-      "title": "Zcash price jumps 14.13% in 24 hours, hitting $1,294 on Binance with significant short liquidations. - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNW9BbVJSTDRvbnpHU255Y3ZmX2NFc08yeDVRTHVqUnNxMjFUcFE3YVdiQnlWNUFic0lRN2t6aUtMVVpPeGJ2ZXBXSktNRTZyY2hpdWZLSTUtTHN3UndXenVPMVVpY2VKdjR2QkZMRERIb3llZXlzNFNFbnZsY05IWFhaQWt1Rk1ta09KOHZ0OA?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T08:34:30+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T02:12:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "80bafb49864d8e115319",
-      "title": "美国 HYPE 现货 ETF 单日净流入 60.51 万美元，ZEC、NEAR 合计净流出 717.93 万美元 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NOWVGdHVpNDkzTU13N09QNGp2amloa0xRVU5EMzUzUmlRbXVQUXY3SllSS1U4QXIxTWE5RTl4NFY0NVRYbS1nV3RwajhfUVNSOEpON3gtbVg5NXJDTVJPWkdJb0pDdw?oc=5",
-      "source": "TradingView",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T01:53:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
