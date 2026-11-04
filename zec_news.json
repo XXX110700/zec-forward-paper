@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-04T03:53:18.216447+00:00",
-  "last_success_at": "2026-11-04T03:53:18.216447+00:00",
-  "status": "partial",
+  "checked_at": "2026-11-04T04:57:42.039746+00:00",
+  "last_success_at": "2026-11-04T04:57:42.039746+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 1
     },
     {
       "name": "Cointelegraph",
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 99
+      "matched": 98
     },
     {
       "name": "Google News 中文",
@@ -36,6 +36,45 @@
     }
   ],
   "items": [
+    {
+      "id": "500a8a137225c442c9fe",
+      "title": "Zcash (ZEC) jumps 3.2% in one hour amid $1.15M short liquidations on major crypto exchanges - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQREJfWnhmM0hpemlkN1VJVTdLajMwdV9hYXhGZjU0WV92YWpGU09uZzVvRVFyTy1ReEZ3dWNjZnBPUmk4LXA5d2x5Tksxd0RZRUpkLVd3cDhLdk9zOWpTWlIzOEdaZzBTZHRnVUIwQmdxTDJoalVUOUl3SGd0QjBGeTJXM3R0ZnF3VXhUZEdR?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T04:23:58+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "e298f51ea18692a73557",
+      "title": "Zcash Rises 3.20% in One Hour to $1,209 on Binance Spot - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82RzdRMVJaTmstOEtBcllfZmVzaVFCXzdGZktwcnAyaXZ4MXJIVy13YjI3MWdtNVJ4M1dBZjg1ME5YbERuR0FMSGFWaENtSUd5S2phUllSTHo0QQ?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T04:11:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "014a37fc51f14247573a",
+      "title": "[Altcoin spot ETFs] HYPE alone draws inflows as BNB, ZEC and NEAR post outflows - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lZEI0cm1yTHZWRUN4VjhEZjhvZExoVG1OdkNUeDFRZkYxWDQtVzluMHpHU0g1OERqWHdpSzNvaU0zWnRCUW1EVURCempwRnh4Z2I2R1pIeEtoZw?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T03:42:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "fd61ffb2b34a30cb501a",
       "title": "Zcash price drops 3.58% in 4 hours amid $380K l... - Pluang",
@@ -109,6 +148,19 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-04T01:53:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "2a37816f51fe5c5202b6",
+      "title": "Zcash ETF (Derivatives) 今日 Vietnamese Dong 价格 | 实时 ZCSH 对 VND 汇率转换器 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xRmFtWGUyMWNWTzhlVmVRWlJjOHZMS284dXJxWFIxLWc1b25YNE1yWEdNX0dqdzVFZkFBMldBTXBFVVVBRW9YRGJqb0FFMm1Vbm9GYVRmMXMzTnRsbzdhbUw5d0pFTms?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T01:34:21+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -632,58 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "ca157ad8788f4915b4f9",
-      "title": "对话 Zcash 核心团队：突破 5 万 TPS 与抗量子防御，评估 ZEC 的长线爆发逻... - ChainCatcher",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tb0RBWGdoSGdKNGY5SmZuSVZIMzBuMGFDVG5iZzRWM0hITWs4R0U4cnJRVURkeVVEU1lQMHlaNHhGTWpaQ29acVpHSDBlUzh5ZWRvUzRaYw?oc=5",
-      "source": "ChainCatcher",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T10:08:33+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "9a7a53e70f05d9f37920",
-      "title": "Crypto whale buys 3,052 Zcash and opens $10.16M 2x leveraged long position - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU3pGaUtVbHZQTTdsUnhkQkpxREZjUURvckxiQ2hvSzNwSXNZbHNXZEw3OTVWelNKTlZqOUthM01OZUszVVBwLW5KUHoySWhiTnBwWFFpOXYxeTgyVmkyeFRKSWY1eGQ2VTZoVlBmczVPLWpnaGtIUER2VjVvYVBKcElFR2lLc0w4c2RxRGdmREVVbk5nMi1Z?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T03:55:38+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f8f81148a23ad4e527e1",
-      "title": "Zcash Price Forecast: ZEC rebounds as ZODL founder now supports ending community grants - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbURQeG54M1k4Ukt0TTRpNUhmTzhWdWliZ2tZcU5oZXZHYlB6d3VITC1fVkduQ3hhZDlqVDFmdUZJeVEyVE9GX0Q0M2FvRVFqaFI0djJDSUV5UVZqcHN0N2VtQ3VwczdZT1FGNzdZa0F1eEFPT1Bfd3h5M3pqZHF0cXRGM2pOd2tvazh0M0pBVXRPak1DelU4dTFCNkFQY1Z4TnUtaWZ5TlVBSExucE1RazZ2MV9JTWl5MnpCMnJ3bk9hWVBrSk1vRWVOWTF5NUh3WU1xSXJ4RnlSbzU0T2JF?oc=5",
-      "source": "FXStreet",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T03:46:23+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "d6ffd89bada72ec9c783",
-      "title": "Whale Opens $10.16M Zcash Long After 3,052-ZEC Purchase - TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LQ1NpYkNFRVFocGhvYkFZR2Q1eW8xX3hGSndWc1MyY2pfN254b0xzbXpaMWhkZk9ncDZZNUg3TXBkbkdUekwzSUdScHl2V1NzcTk2cVF0cG9EZw?oc=5",
-      "source": "TOKENPOST",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-02T03:36:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
