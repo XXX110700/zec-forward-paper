@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-04T21:49:53.157224+00:00",
-  "last_success_at": "2026-11-04T21:49:53.157224+00:00",
+  "checked_at": "2026-11-04T22:48:57.275153+00:00",
+  "last_success_at": "2026-11-04T22:48:57.275153+00:00",
   "status": "ok",
   "sources": [
     {
@@ -96,6 +96,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T20:23:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "935c9332ece3073334aa",
+      "title": "What Are Privacy Coins? Bitcoin, Monero and Zcash Compared - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ1NXRS1sRWJGajl5LTZEUnVwNXdLZmp5RUM5SW5EdkdBbmVsRkZSSmhfVVRmTXNZQmNtY25tYnc5Mlh5R1hXcWFDWGhkZDZFWU5HaUVjZGlwdFhxelJ6Q0I0ZDlHSXJYQlVMaU9aTmZaQ0hZTndrVThNdUtGVFBWNHJNZ0w4U3RaX3N6ZndpbU85Y25O?oc=5",
+      "source": "The Defiant",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T18:27:59+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -544,10 +557,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "9aaade13e4eb2ec01734",
-      "title": "Zcash Jumps 5.8% in Four Hours to $1,266 on Binance Spot - www.tokenpost.com",
+      "id": "efba69a870607a0c4169",
+      "title": "Zcash Jumps 5.8% in Four Hours to $1,266 on Binance Spot - TOKENPOST",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SdWZWaWg1Smc1T1NvVTk4MnBsMVRETDN1QU1abVY1aE5DaFc4QVVRZlpFamJjSGFlSUdTUEpydV81ZzR6UUtIcnVMcUVPQXowNXpqS2pIYm1rdw?oc=5",
-      "source": "www.tokenpost.com",
+      "source": "TOKENPOST",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T06:30:02+00:00",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "87d8477ac38824523e56",
-      "title": "Zcash Releases Zebra 7.0.0 with Five High-Severity Fixes Ahead of NU7 Upgrade - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX0d5X210OGRZTWtaUlY4X1E5R2xjQ0tocE9EaGo5TWNmRTZzaDdkR1k1ellOelByeThTXy1TUlpjMWFCTVV1YnJXOWNFUktVRmFOcERDTzdTTUdsR0tEaGh2cENHVGY0Qko5YkJqSXhTRDVOa3VDcTZocjZYRW9icnFKRXRNdG9JdUxfN0tDYnJ2b1VNTTZjci1idmk5bGRhYUtMSGgxdE5RZmZQcm05aA?oc=5",
-      "source": "KuCoin",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T00:57:21+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
