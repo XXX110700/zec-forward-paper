@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-05T21:48:12.630059+00:00",
-  "last_success_at": "2026-11-05T21:48:12.630059+00:00",
+  "checked_at": "2026-11-05T22:49:05.078830+00:00",
+  "last_success_at": "2026-11-05T22:49:05.078830+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 24
+      "matched": 22
     }
   ],
   "items": [
@@ -128,6 +128,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "8a5fdb254861ad7de1b2",
+      "title": "Zcash Nears NU7 Upgrade and Sprout Spending Cutoff - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkxoSGtMdkZRT3laQ0N1dXIxQTBSZkdzaG9HejRaZm5WVXIwMlpaRkoxMDlHSlE2MjU3RmRBVnhxMl9uY3FYY3lhMm1OTnZMRGVlTzhuSnRIUmRGQ0FRU1dPNzBhRFc1d3JsVnJJX0dvdk5VWm9UVWtkSW5mQXowNzR1M1hrWmNEaFZzdFRLM29LTmM?oc=5",
+      "source": "The Defiant",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T17:29:22+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
       "id": "4b4492b74c46e561fdee",
       "title": "Zcash Climbs 2.23% in One Hour to $1,260 on Binance Spot - www.tokenpost.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QamJEQk01QXBURTZGbUxNaEpXRDYzN2VURUNiSi1LaWxFaXc3ZjZYRVJPUDRGTllTYzRPTzBaSWJHVWFCZGtXSkJlTmtzYndlUGRNbDFhX1d5UQ?oc=5",
@@ -138,19 +151,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "8a5fdb254861ad7de1b2",
-      "title": "Zcash Nears NU7 Upgrade and Sprout Spending Cutoff - The Defiant",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkxoSGtMdkZRT3laQ0N1dXIxQTBSZkdzaG9HejRaZm5WVXIwMlpaRkoxMDlHSlE2MjU3RmRBVnhxMl9uY3FYY3lhMm1OTnZMRGVlTzhuSnRIUmRGQ0FRU1dPNzBhRFc1d3JsVnJJX0dvdk5VWm9UVWtkSW5mQXowNzR1M1hrWmNEaFZzdFRLM29LTmM?oc=5",
-      "source": "The Defiant",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T16:36:18+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -245,8 +245,8 @@
       "verification": "未独立核实"
     },
     {
-      "id": "6437718877ff4e059e78",
-      "title": "Injective (INJ), PEARL, Zcash (ZEC) Rally as Crypto Altcoins Surge - Cryptonews",
+      "id": "c2b6da02eacaddbf6752",
+      "title": "Injective (INJ), PEARL and Zcash (ZEC) Surge as Crypto Traders Return to Altcoins - Cryptonews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWjJsWlNOaXY0NmtNTWNyRDEwVHpEOTcxbm5yTlVrZmhFUTdsb053MTZJazRUaTJGUXJrUTM5b0UyNzlRY1JBLUJFRjEzNTNXR3Y5bWs3OWEwV3lhTjRkZGdMeVBqTFJCQ2F1MF8ybjh3Xzl3VlBqOFI3eF9HMkVnbnNxMkJjUQ?oc=5",
       "source": "Cryptonews",
       "feed": "Google News EN",
@@ -492,6 +492,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "37d7af856590a12fd0f1",
+      "title": "美国 ZEC 现货 ETF 单日总净流入 342.95 万美元 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3ZTBrbHFHb0pzblBkZ29JMjN3ZlJ1eDFDc3o1eXRTUmpvTnJlbGYxb2FmY1lBYmVHT0dSZG5mcVVnemdoUktTenFnMUpvX2hORG9iVGhtSmVnMEZBNlNaTHlvTzNHdw?oc=5",
+      "source": "TradingView",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T02:50:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "cf909fde7beef4458657",
       "title": "Zcash Rises 2.04% in One Hour to $1,315 on Binance Spot - www.tokenpost.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RWWU4M1JRNlJRUDQ0V1BMYWdBQl92ZHBjR1ZkXzRIUUVYQzBUX1ZEUVN4ejlpMlZoY21LWm82b0g4STBWSkpEZnBxcmk1V05SVTdvcHpBbU50dw?oc=5",
@@ -525,19 +538,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T21:02:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "3e656f9c3befb3e79069",
-      "title": "数据：美国 HYPE 现货 ETF 单日净流入 60.51 万美元，ZEC、NEAR 合计净流出 717.93 万美元 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xbllxQ1pBX1QzZTFCY2Y1Z2I1Mko3b3czWXpGQ2IyTDFOWVNHTlpmVzM5X0VoOHZZUF9aQjhlMW5IX3JhcXM1V1Jremx5NGpiYWc2ZlpoY0JrcFJk?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T20:51:29+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -590,19 +590,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T19:19:15+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "37d7af856590a12fd0f1",
-      "title": "美国 ZEC 现货 ETF 单日总净流入 342.95 万美元 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1V2NIR21VcXB6Y0VnMkVEeFl1Wm9zbE80dFBsaVJmSUw5YW5UU1Z6ZlFXMFpBb3B5UHJfbEtPa0tLT1JvTjFkQTB4ME03dUU1b0RCMm1ZZ2lBWWlKX1A3ZllQU095Zw?oc=5",
-      "source": "TradingView",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T18:50:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -681,6 +668,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T16:44:27+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "21bf4455cc4633d4ce6a",
+      "title": "Top Zcash Price Predictions as ZEC Surges 14% Daily - CryptoPotato",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb281dTNZbWZSM3VjY3ctNk85Qy1XeWxmQ24xd3FwT1M2UTV5cURiS081WWhWa1NuQTBCUmdrUEhwVG5vMThrZmtUQlBIU3VrV0JBRmxNVzNob0Z1OVYxVGN2U3Y5OUxxaEIzeVZBVzBjd2NaTUlZWW9nRTdYVmlWQ1J3?oc=5",
+      "source": "CryptoPotato",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T16:34:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
