@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-05T03:55:47.213542+00:00",
-  "last_success_at": "2026-11-05T03:55:47.213542+00:00",
+  "checked_at": "2026-11-05T04:59:11.227999+00:00",
+  "last_success_at": "2026-11-05T04:59:11.227999+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,49 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 21
+      "matched": 22
     }
   ],
   "items": [
+    {
+      "id": "da0c2b1bed3248c659e5",
+      "title": "Zcash's NU7 Upgrade Goes Live as ZEC Holds Gains From Its 1,500% Rally - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVEl6eDRwYXdlakFSaGwxOUN2Q0tBZlMyb0I0eVpEWFVPdzZKbnVCU0w4Y2szVWI0bFkwLVlZQ0pfaFh1ekhwQi1zeU5OZUJGTWNpWEJTUHhJdmJqelp4cnY2d2I1Vl9ZeVNNN1NKOTRVcjROUmZKUThFMHdja3VDazIxM1hpd1hBNU1ZM2pjN0VNOWNyV3dZT09waw?oc=5",
+      "source": "Startup Fortune",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T04:20:46+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "6bd929d2cf61fad040e5",
+      "title": "[Altcoin spot ETFs] HBAR and ZEC draw inflows as Litecoin and HYPE post outflows - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rMjF1LWhyWnNTTkRIQmwzdFAzUmlfa0VJS2F6VHl1YWd1UTVZWU9BX0lOdjBIM1hhaVB3ZlFMWkx1WnR6eHh4VTNseEJiZnhscjE0cFNtY2Mwdw?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T03:41:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "37d7af856590a12fd0f1",
+      "title": "美国 ZEC 现货 ETF 单日总净流入 342.95 万美元 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3ZTBrbHFHb0pzblBkZ29JMjN3ZlJ1eDFDc3o1eXRTUmpvTnJlbGYxb2FmY1lBYmVHT0dSZG5mcVVnemdoUktTenFnMUpvX2hORG9iVGhtSmVnMEZBNlNaTHlvTzNHdw?oc=5",
+      "source": "TradingView",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T02:50:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "cf909fde7beef4458657",
       "title": "Zcash Rises 2.04% in One Hour to $1,315 on Binance Spot - www.tokenpost.com",
@@ -645,45 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "014a37fc51f14247573a",
-      "title": "[Altcoin spot ETFs] HYPE alone draws inflows as BNB, ZEC and NEAR post outflows - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lZEI0cm1yTHZWRUN4VjhEZjhvZExoVG1OdkNUeDFRZkYxWDQtVzluMHpHU0g1OERqWHdpSzNvaU0zWnRCUW1EVURCempwRnh4Z2I2R1pIeEtoZw?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T03:42:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "fd61ffb2b34a30cb501a",
-      "title": "Zcash price drops 3.58% in 4 hours amid $380K l... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVllDYmthVi02OVQ0d0JyN1pvRkVPM3E0LVRFSF9oYkpmVnJNdHNBS1I4Y3dtMUdDVEFIRTdLWjhpMXozSW1LX1FEWE01SWF1RVVHQ0xudE1nOXAwSXhrTF9TbmlTYkY0eDBnNlJ3ZVR4c2ZKLXRsMXMwX1ZpODFsdzR0cFR5VUdLZXFoeGRQUERkSlU0UkM4cQ?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T03:15:49+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "5ecbf8cda3f372195751",
-      "title": "Zcash NU7 upgrade: Zebra 7.0.0 fixes seven security flaws - CryptoTicker.io",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCSXg4ZjQwaS01Wm1tX3JBclFjYzZZUlJlUXNsaG1SYUpwNVVoRVhmLThsZ0lIY3JFam1lbDUyT3ZzU2F1WTVBV3pCeTFrZnFkbE80dURjQThYNlRaM29POHFUWmxUX014cTF3?oc=5",
-      "source": "CryptoTicker.io",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T03:12:13+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
