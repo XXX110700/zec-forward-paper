@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-05T02:11:20.344247+00:00",
-  "last_success_at": "2026-11-05T02:11:20.344247+00:00",
+  "checked_at": "2026-11-05T03:55:47.213542+00:00",
+  "last_success_at": "2026-11-05T03:55:47.213542+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 98
+      "matched": 97
     },
     {
       "name": "Google News 中文",
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "cf909fde7beef4458657",
+      "title": "Zcash Rises 2.04% in One Hour to $1,315 on Binance Spot - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RWWU4M1JRNlJRUDQ0V1BMYWdBQl92ZHBjR1ZkXzRIUUVYQzBUX1ZEUVN4ejlpMlZoY21LWm82b0g4STBWSkpEZnBxcmk1V05SVTdvcHpBbU50dw?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T02:18:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "90d21fde2f12aec1d054",
       "title": "Crypto News Today: Zcash Jumps 12% Before Its NU7 Upgrade, but the Bigger Setup Sits in Pepeto’s Presale - StreetInsider",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "02b49c7f79331f5374e3",
-      "title": "Zcash Falls 3.58% in Four Hours to $1,184 on Binance Spot Market - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aYlZ3eTVEdHMxeHFIT3h0SHY0bkNMbU5vYmNmNzA5b1Y4QnVCWEp1LTMwRmVLNVk2QXVqQURzRVU0WjZOQVE0U1B3UXVIRlJpVWlEWmdqZ2N1UQ?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T03:00:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
