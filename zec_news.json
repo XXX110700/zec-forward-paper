@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-05T08:59:33.420553+00:00",
-  "last_success_at": "2026-11-05T08:59:33.420553+00:00",
+  "checked_at": "2026-11-05T10:02:16.023396+00:00",
+  "last_success_at": "2026-11-05T10:02:16.023396+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,45 @@
     }
   ],
   "items": [
+    {
+      "id": "5889f52233776ad9a85f",
+      "title": "Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGs1VUVmTGVkbm1nam9SY3VFSU9NWlBYY3VfUlcySlJKZi1kYnRrRzZjSHExWmZTYlZ5Smo3ZlZFOUhwaV9GNW1KeFlUalZZeTY5UjFac0xrLUZvUXlmU0M0ZjBCU1FjU1hQcmI2bENWS2ZlS2w2aWRvREFFQUpKY3VzZ1ZsUWJSZEtYZnRSOUJMYUZwZUsxcw?oc=5",
+      "source": "The Motley Fool",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T09:45:00+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "fb70da49325198b6b43a",
+      "title": "Zcash Price Bullish Outlook with Key Resistance - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjE3MTA2TFRYSjlVNFQ0ZDUzbnJRT241X3hqWmstNzJ6aTFhQW5fNmNaQlNHRFJiTXdzWUFKM2cxSTlRRTZKRDU1a1hHNlkyVXhlZDIzYW9CVS1ZZ1JxeHBQdmt2cWVoR1c2UHZ4TlF6X0V1ekROR3B4UVJleE5WbDFzY0FDTS1FSjF3RWdmcHRaZDhBMUpMbkk0OHpWVEJVRl9F?oc=5",
+      "source": "The Cryptonomist",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T09:34:30+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "bda803f18fafd139c292",
+      "title": "Zcash Network Upgrade NU7 Activates, 16M USD in ZEC at Risk of Permanent Freeze - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3FfZjlnV3ZCR0NQMEstQWd6UV9GekpHX2paNWNOd2tHeWhaLWNCRVM0U1hrcmxnSERhVDlfTjFWbjRBYlA3M1htcHBDaHFGc2I3Y1JjZHN3bEJHUllzbm41N0V3UDVXT1A2cXBad0J2Z1hNMU1jUmRHSmdqYnJIRmxKY1doZHo0cXNPeHl4WFl3QnFFOFBVaGoxek5RazQteE5hU0YzcVBCYzZMN1Y0?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T08:23:08+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
     {
       "id": "0a4e9279fff9346190a3",
       "title": "Zcash and Ethena Lead 24-Hour Gains Across 17 Crypto Assets - www.tokenpost.com",
@@ -76,25 +115,25 @@
       "verification": "未独立核实"
     },
     {
-      "id": "d36c44a844ed3de3a9d3",
-      "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
-      "url": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
-      "source": "CoinDesk",
-      "feed": "CoinDesk",
-      "kind": "media",
-      "published_at": "2026-11-05T05:47:01+00:00",
-      "event_time": null,
-      "sentiment": "偏利空",
-      "basis": "标题关键词：freeze",
-      "verification": "未独立核实"
-    },
-    {
       "id": "fb9c18bdf50bf5ca824c",
       "title": "Zcash is about to freeze $16 million in its oldest privacy pool - CoinDesk",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTVpYLVNqVzJYTUtaOWZxT3dqR3pvRlNRRXQ1NW1PWjJJd2U3SHRsenFjc01GdGpZSjdOMENZS1ZYV0xSLV9iOFVFQmV6ODMwb1lIdUJMNHVEek00WEl4WWIzc0hnOWR2M3JlTW11dVZkaDAxRmYybEhLWm5tY0x4a2EzV2V5UHRidUNrQk11Rmt3Ui1meWY1NlpDbW5VWFEyUVF2OHdfUEdUdw?oc=5",
       "source": "CoinDesk",
       "feed": "Google News EN",
       "kind": "aggregation",
+      "published_at": "2026-11-05T06:00:57+00:00",
+      "event_time": null,
+      "sentiment": "偏利空",
+      "basis": "标题关键词：freeze",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "d36c44a844ed3de3a9d3",
+      "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
+      "url": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
+      "source": "CoinDesk",
+      "feed": "CoinDesk",
+      "kind": "media",
       "published_at": "2026-11-05T05:47:01+00:00",
       "event_time": null,
       "sentiment": "偏利空",
@@ -505,19 +544,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "79a4c1018ca6030242b7",
-      "title": "US ETFs for Hyperliquid, Zcash, and NEAR show mixed flows with $7.18M outflows on Nov 3 - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUUtJbnNsQjU0Q1JPbG5HLXZUejBOc3F6cmF4all2a0RLTEMySjlZaDhwNDJXZHA0RkNqMEZmY2NnUHc4VF9GSXlfV3FRenFxLUFQWUNfWF9oeHNTN3FKZmc1NUwwQ3dQOXc1LVRtMVJxYTRZT0FjYmxxZ09SZHdFWktnYVgySEV0TWpSNU52SQ?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T13:25:57+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "d71e88fa2fbffe329cd5",
       "title": "Zcash Falls to $1,287 on Binance Spot During One-Hour Drop - www.tokenpost.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vRGZVelRpbDdlcnBGTDg2U3pma1dqVWhWckllMzRyVmpfNTdqeHBUWS1BS3dRTzkwVkxBT05lbVZ0M18yLS1BbGJFb0U1MjR2SXVPN1NoaVZQQQ?oc=5",
@@ -655,32 +681,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-04T08:39:41+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "303086e58b9697b7798d",
-      "title": "Zcash Community Grants Withdraws Plan to Redirect About 98,000 ZEC to Mining Rewards - bloomingbit",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZSnZJZ3RPYXlpZHJSUjFlc09xaGUxV29zSHRmQkt3RVBFbFl4QVJobFVaZkR0aG9tY2pJVUtKUzVCYXJJZXh6RFJNY2FKSms1NzJXRg?oc=5",
-      "source": "bloomingbit",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T08:39:24+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1d391c41aee8b99169ed",
-      "title": "Why is Zcash price rallying today? - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRFBaVlVaVV80b1A2WS1fbFEyaXV5TFV6T25BWDZ6M29QTHJDOVlxcFN5SzFzNnZyQ0JpZ2xjWFR6NWdHTDZ2VFJ4UnoyaW0zdm1maG43YU80TmQzbW1ZN05qYXJ0S25VbDhzNTlMLVFlYmhGb3FsQ1p6d0RtVXhTRlBzVEZ2MVZDQzVOemhkRDloS3ZQM29BcEJ4ZzdHQnN2c0VVX3NNOTNEU0dQM2JMMzVfVXB5aDhENllZMkExMW5ENjNKTDdDbHUwODNBLVRxc2c?oc=5",
-      "source": "FXStreet",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T08:23:23+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
