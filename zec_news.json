@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-05T18:55:13.576337+00:00",
-  "last_success_at": "2026-11-05T18:55:13.576337+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-05T19:54:38.332618+00:00",
+  "last_success_at": "2026-11-05T19:54:38.332618+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 1
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 97
+      "matched": 96
     },
     {
       "name": "Google News 中文",
@@ -36,6 +36,71 @@
     }
   ],
   "items": [
+    {
+      "id": "ec90525f13d9e32dd34c",
+      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11ZDlHMEdwNUdwdFl2c0U4dWl2b2V0Y20zaWl1U05hMzFWMFR3VnpJR2NDR2FZc1BFVWZPLU1xMzFkbHpFUHltS1JRaFA5U0Q4dTR1azVocEl3THlBc3ZrRlMzS01kbUJBZWxtUTQ1WWt6dG9UTXVj?oc=5",
+      "source": "Decrypt",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T19:46:03+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "3c60bb55c7b4c5b8896b",
+      "title": "Zcash price stays bullish, but $1,341.64 breakout remains unconfirmed - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54TGFLeEdKUDdjN05ibVNsTzFHRmZUTFdQYTV0X1BpU040ck0yd2FDRFlFUFhnVnNtbm9MQmRHUDRKNXJoc3VzSVlLcWdnNXEtSllqZzNWSzR5c1U?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T19:24:19+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "f72b162f51888b601392",
+      "title": "Zcash Upgrades Tonight. Bitcoin or Zcash: Which Is the Better Buy for 2027? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPckJzdm9QVG10SEt3U3BnTWhVSVJJdXJtNDZuZXJpLTRzdFNLcHZ4eENCeGJ4UkRvZ3VlTXY3MG93YzZLQkhVbVpmN2JBM250SWNnZW5YY2ZyMGlkbE5rTXZVbVUtbWpmUWR4RElHUTNYLWFqMUlBaE5mNzNRckpJaHA4X25NYTlXRUt0RnhTSkZFWHFLNUZkUmRhYnZPN3BRT2V4b0Y1dTlBZ1c3c3ZSMWpCa3FrM3dJQ0lhajY5dUg3R2w0TE5aNncxaw?oc=5",
+      "source": "24/7 Wall St.",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T18:57:00+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "d860fd959615647adbd7",
+      "title": "Zcash Falls 3.83% in Four Hours to $1,238 on Binance Spot - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ob0tsZlZ3Mms4QjlfOGc1cFpYdmY1ZGhUUnJPdmhyc0EtTjJwZmZjSGE5eWVRVzVFdzczVlJaWHJ1V3hzUURCTlN1TkJySjBSN2p6YnRReFpwdw?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T18:51:13+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "0af850e6cf319493bf54",
+      "title": "Zcash's Next Upgrade Arrives - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNmc1bzZyRlFUb3lUazB0aTR5M1d0MGh3eDFuM2hnOVpfQjlzSjVIMWZxVUYzeERUNTZhQU1MM3dNdlJmdlRuTHoxTHlJdTdrVmI3b1p1MlY1UkZ6Zm1ha1ZaY2NHcWJMMy1kdzVYTDIxZXVyZkxwUVVNLVlqMF9LZDI3ck5kY2N2bkN4Y3VaczU2VV8tSEo4?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T18:31:58+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
     {
       "id": "f4df8dc85da985b943fb",
       "title": "Crypto Price Analysis, BTC, ETH, NEAR, ENA and ZEC, Nov. 5: Bitcoin Reclaims Daily Averages as Ethereum Confirms MACD Crossover - Cryptonews.net",
@@ -99,6 +164,19 @@
       "event_time": null,
       "sentiment": "偏利空",
       "basis": "标题关键词：freeze",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "6ec85c09bddb27cca6c6",
+      "title": "Crypto Price Analysis, BTC, ETH, NEAR, ENA and ZEC, Nov. 5: Bitcoin Reclaims Daily Averages as Ethereum Confirms MACD Crossover - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOLUVneUFOYUxYOE14eTdSdkhSTEE5NnczNDVCdzMyLU9CYVZ5cGtaOHVDeEhITGwwcnF1LXVRdmV5UUl4VDZRUlNXUVY3S3Zkd1pWalNVVVkzb0pYTXoyOXV0bHJvSFlfTE93TC03bmNRNUNnQVU0Wi14Z1VIQnBPNnZtdnI2NDhyekZBQWpUcWprOW1DbUQ4TVZKMHNYcEQxa2puSTNzTHVUQnI4Qjk3bXpwTDVDYU1DVVg5NUIwR3hlU2l6NDNVeGxQcllUaENMVzRzelR4eVp1Wi1BR1NtQndEOUtPUGlhX0ppd1dyZw?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T14:31:02+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -216,19 +294,6 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "fb70da49325198b6b43a",
-      "title": "Zcash Price Bullish Outlook with Key Resistance - The Cryptonomist",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjE3MTA2TFRYSjlVNFQ0ZDUzbnJRT241X3hqWmstNzJ6aTFhQW5fNmNaQlNHRFJiTXdzWUFKM2cxSTlRRTZKRDU1a1hHNlkyVXhlZDIzYW9CVS1ZZ1JxeHBQdmt2cWVoR1c2UHZ4TlF6X0V1ekROR3B4UVJleE5WbDFzY0FDTS1FSjF3RWdmcHRaZDhBMUpMbkk0OHpWVEJVRl9F?oc=5",
-      "source": "The Cryptonomist",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T09:34:30+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -619,71 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "ff9803db9dfbd3c41776",
-      "title": "Elon Musk Grok AI Predicts Best Privacy Coin: Monero (XMR) Vs. Zcash (ZEC) - 99Bitcoins",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdVVzT1B3Qlg0THNEZHgtY0M1b19sVXNVVE5QcW5mUkVnY0tXVUVHWm5SQXVBM1ZJcEFYb05pWmthVzNINWJtZ1FNbnB1QkR4bU5BRHFCUFNCVkRHUFR3Z0lsUUlSblctLWlhZWRxQmZuRVJya0xrXzU5YmwyamsxTmRxeEZ6T3Fqb1YxTzQ1MnRyMXBBQ3N0emlpRQ?oc=5",
-      "source": "99Bitcoins",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T15:15:09+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "50c13d0928bf13bdbc8d",
-      "title": "24-hour fund flows | BTC and ZEC draw net inflows as USDC and XRP see outflows - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WRzdzMUduWUJPWXpsaHlyZFg3OTcxYWN6bERaZjFEekItenlCUUFOdWZvLVY1ZDRkcFFVd1B1SmN5QlpYRlkybDN2UGhMRWUwa2NNMl9rd1RjZw?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T13:43:34+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "6fea928d725fe364554b",
-      "title": "24-hour fund flows: BTC, ZEC and HYPE draw net inflows; USDC and XRP see outflows - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1SmhULS1IVUZ3QWR5SVNyVkkxb2xSeTN3SDNoU25FMGxzdDE0SG9tV1l4NVVhbDVfWGJrcjdNRTBfVVhjY1ZaZzhFaXBDV1JNUVhyRUxQd1NVdw?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T13:42:45+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "d71e88fa2fbffe329cd5",
-      "title": "Zcash Falls to $1,287 on Binance Spot During One-Hour Drop - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vRGZVelRpbDdlcnBGTDg2U3pma1dqVWhWckllMzRyVmpfNTdqeHBUWS1BS3dRTzkwVkxBT05lbVZ0M18yLS1BbGJFb0U1MjR2SXVPN1NoaVZQQQ?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T12:44:42+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "d337a3b1c15702badba3",
-      "title": "Zcash Price Surges 10% Ahead of NU7 Upgrade: Can ZEC Hit $1,500? - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9USFJGZVJMVkZMQzR5YTd3cmw5RFlCOXNPTjY1Y0pfZ18xVXJuVHFwbWtRLTc2Tkp5Z2VmRXF5ZEhna2hDekl1ZExYbm9ISFZZZjM1N19mdUpHWWs?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T11:50:56+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
