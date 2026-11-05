@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-05T10:02:16.023396+00:00",
-  "last_success_at": "2026-11-05T10:02:16.023396+00:00",
+  "checked_at": "2026-11-05T11:04:03.663601+00:00",
+  "last_success_at": "2026-11-05T11:04:03.663601+00:00",
   "status": "ok",
   "sources": [
     {
@@ -22,12 +22,12 @@
     {
       "name": "CoinDesk",
       "status": "ok",
-      "matched": 3
+      "matched": 2
     },
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 97
+      "matched": 96
     },
     {
       "name": "Google News 中文",
@@ -36,6 +36,45 @@
     }
   ],
   "items": [
+    {
+      "id": "6437718877ff4e059e78",
+      "title": "Injective (INJ), PEARL, Zcash (ZEC) Rally as Crypto Altcoins Surge - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWjJsWlNOaXY0NmtNTWNyRDEwVHpEOTcxbm5yTlVrZmhFUTdsb053MTZJazRUaTJGUXJrUTM5b0UyNzlRY1JBLUJFRjEzNTNXR3Y5bWs3OWEwV3lhTjRkZGdMeVBqTFJCQ2F1MF8ybjh3Xzl3VlBqOFI3eF9HMkVnbnNxMkJjUQ?oc=5",
+      "source": "Cryptonews",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T10:36:49+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "b72a78bdaf0bbad22429",
+      "title": "Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027. - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTX3dCN0g5TWV1OWNoMTF3SlZMek5ZUkhSQ3ZTYnlIcmw4SUIwT19xVEFqNmhlVks4RGNLRGI1X2Z3LWhxSFl5TFgtZEIzMUVKV2c0Ym10UFlmSlFhbWZsUTBMWThsR0ZSbWlDSng4cjdJOG9hWm56b3hWUFAwdw?oc=5",
+      "source": "AOL.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T10:05:00+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "a79bdc80f45c276868fe",
+      "title": "NU7 Update to Change Zcash Rules and Make Some Older Coins Inaccessible - Incrypted",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX0x1WVJYdlZtVlV1b2NZVWpKVGVFMUtUZThXMmFvdUxqZGZUMUV1QWllRW14RnIyZmNyNENuMWVyNVdqa1VSYnlydmtUa1lyRXFQdXVJNEhwZXdkdEdYTUpXS2FiaEdkZFp0djNwekc1Xy1tSFljalNxTXNQd1NtaGNReFpVOXpFWWdwNUJXVEJmdGNOVVg4LUFFRzJMdw?oc=5",
+      "source": "Incrypted",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T09:45:46+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "5889f52233776ad9a85f",
       "title": "Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027. - The Motley Fool",
@@ -242,19 +281,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "90d21fde2f12aec1d054",
-      "title": "Crypto News Today: Zcash Jumps 12% Before Its NU7 Upgrade, but the Bigger Setup Sits in Pepeto’s Presale - StreetInsider",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOWThmNVpMaDNBRjJvOFZUM1Q1RDBFblIyQUJlODF1M2VzVkxqQjExelh1WjhXbGQwSTRLbDNRdlN1YWt3a2QyZmNfM2pFcW1MNVU0V0dOMHVMU1U1RG1ySlJVblVWRXRUVWtObndaN3I5dFVMUnF3N3pncEVDTzdRZk5rWW5iQlRSdmVBeWhzMzJ3eHFkLWxjRjAwN0wyWXU1UE9wcXc5TEV3Y2FKcU5ObHZoVkh3Y1FpUnk2aVBxVmE3WWEyclEwZTJHWjJLMjRCU0tTMlMzcC04MUJSRm1pX2l6WTRmbHQyNUVaMWNlRE1yeTExZ3Z2Uks5QUdMWUNYc1loSDBRajByQQ?oc=5",
-      "source": "StreetInsider",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T01:56:38+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -655,32 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T09:41:57+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "273b421ddb8af60802c6",
-      "title": "Zcash Price Surges 10% Ahead of NU7 Upgrade: Can ZEC Hit $1,500? - CoinGape",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZzF4THJ4UzZ0RnhUNURPZVQ3MmtKaTNQOWNFRjVia0JKMjJxOXEzbzRaTGlWR19YR0s1b0dVWUluQ3FwSzNtS3dVMzU4YnpDZm1MR1V6bVhPbUJuUm9tVXJFQTgwTFdwZlJqdkZ3QTFMWVJYOF92aGhqenlFdjA3RWQwN2hMR21jOExHNWVMeDhLRGs?oc=5",
-      "source": "CoinGape",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T09:30:58+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "35bae0ca3b1b8d27945f",
-      "title": "Zcash Price Forecast: ZEC rebounds as retail speculations offset ETF outflows - tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ3lIVWJaVDRzeVVBNG9wdWs4WnBYNzJ1ZlNQeEU1TUpfZ01qTHFTT0JMYVdjTnFpRzBxUkRUZTBUVzNYQ1FJd2RVU3B4QzZQUTFkLWhucUtSVU8tRWpJWXJYNjM1aFQ1UWVvdFM5U21EaWM1djNxbjRoc2VNY0dTdC1EWHlBOExoWjB0dXVEaHpZbWgxNm5vNUhTM0pZS0ZyMXIxbWVvRzF6QjQxQy04eFRIZmE1YVF0WFA0cnRJdDhvYmoybnRUeXZjc2JsdHZjUHdPUzhRd0UxN3N4SnEzZw?oc=5",
-      "source": "tmgm.com",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T08:39:41+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
