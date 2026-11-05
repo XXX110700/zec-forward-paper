@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-05T19:54:38.332618+00:00",
-  "last_success_at": "2026-11-05T19:54:38.332618+00:00",
-  "status": "partial",
+  "checked_at": "2026-11-05T20:51:02.605992+00:00",
+  "last_success_at": "2026-11-05T20:51:02.605992+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 1
     },
     {
       "name": "Cointelegraph",
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 96
+      "matched": 97
     },
     {
       "name": "Google News 中文",
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "18543d63750a75890209",
+      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFNXSi03ODFQOFdCaUVLWXY0YmFwZGJxYkI5UloxS3F1M1VkVmM0YXlXMFhNUVlFSjF6d0xnMGNDRkVMbFE2NWp5QnlVbVBZVFZjWUp5WW1leUNSUkxKUmpHVk9jNDRmUjRCb2VWUGo4X0NiNDhJVFZHOFliUDYzQ0J5TERpVEJuc1pWNVJCZnB5ME9TVzBr?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T19:46:03+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
     {
       "id": "ec90525f13d9e32dd34c",
       "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever - Decrypt",
@@ -89,19 +102,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "0af850e6cf319493bf54",
-      "title": "Zcash's Next Upgrade Arrives - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNmc1bzZyRlFUb3lUazB0aTR5M1d0MGh3eDFuM2hnOVpfQjlzSjVIMWZxVUYzeERUNTZhQU1MM3dNdlJmdlRuTHoxTHlJdTdrVmI3b1p1MlY1UkZ6Zm1ha1ZaY2NHcWJMMy1kdzVYTDIxZXVyZkxwUVVNLVlqMF9LZDI3ck5kY2N2bkN4Y3VaczU2VV8tSEo4?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T18:31:58+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
       "id": "f4df8dc85da985b943fb",
       "title": "Crypto Price Analysis, BTC, ETH, NEAR, ENA and ZEC, Nov. 5: Bitcoin Reclaims Daily Averages as Ethereum Confirms MACD Crossover - Cryptonews.net",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LenhteG1fM25PWHA2MGtnd3ZucVFIaXJsb2xSM1JrMkhta3VvbWNLdTE5N1lDUkVUOGNqdlB4bEN5OFV5aHV4U3lrWmdyTGlwa00zUWdnWVB2SlE?oc=5",
@@ -134,7 +134,7 @@
       "source": "The Defiant",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-05T16:29:22+00:00",
+      "published_at": "2026-11-05T16:36:18+00:00",
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
