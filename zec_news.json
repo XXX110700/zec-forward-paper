@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-05T04:59:11.227999+00:00",
-  "last_success_at": "2026-11-05T04:59:11.227999+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-05T06:00:20.234912+00:00",
+  "last_success_at": "2026-11-05T06:00:20.234912+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 1
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -22,7 +22,7 @@
     {
       "name": "CoinDesk",
       "status": "ok",
-      "matched": 1
+      "matched": 3
     },
     {
       "name": "Google News EN",
@@ -32,10 +32,62 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 23
     }
   ],
   "items": [
+    {
+      "id": "d36c44a844ed3de3a9d3",
+      "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
+      "url": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
+      "source": "CoinDesk",
+      "feed": "CoinDesk",
+      "kind": "media",
+      "published_at": "2026-11-05T05:47:01+00:00",
+      "event_time": null,
+      "sentiment": "偏利空",
+      "basis": "标题关键词：freeze",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "fb9c18bdf50bf5ca824c",
+      "title": "Zcash is about to freeze $16 million in its oldest privacy pool - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTVpYLVNqVzJYTUtaOWZxT3dqR3pvRlNRRXQ1NW1PWjJJd2U3SHRsenFjc01GdGpZSjdOMENZS1ZYV0xSLV9iOFVFQmV6ODMwb1lIdUJMNHVEek00WEl4WWIzc0hnOWR2M3JlTW11dVZkaDAxRmYybEhLWm5tY0x4a2EzV2V5UHRidUNrQk11Rmt3Ui1meWY1NlpDbW5VWFEyUVF2OHdfUEdUdw?oc=5",
+      "source": "CoinDesk",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T05:47:01+00:00",
+      "event_time": null,
+      "sentiment": "偏利空",
+      "basis": "标题关键词：freeze",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "c4563be4b7da3c7a706e",
+      "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
+      "source": "CoinDesk",
+      "feed": "CoinDesk",
+      "kind": "media",
+      "published_at": "2026-11-05T05:13:45+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "dcb279144a9dc974b91e",
+      "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT1JhU0FPb0dEcVY0VmNFZWFnOGVDX0pIdndjNUQ0ZzB5WG04bVBUSUtNdWI2REs0R1ZRMGFLWks0dDRxRlRYbkJqVUdkcE9kNW95ZEZXbHdzNl9nS2tZTEhGX3VoSmFrTjZOWHBfbnFjTTByTUllM1FFa09ETU5yUWJwaUF0anA3RTU5VXc3LXpCMENFT1lSUi10NGlfZmJyclZFNE9xM2IzWDBaNllKNGljQnNMc3M3S1VyVmt3NjQ?oc=5",
+      "source": "CoinDesk",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T05:13:45+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "da0c2b1bed3248c659e5",
       "title": "Zcash's NU7 Upgrade Goes Live as ZEC Holds Gains From Its 1,500% Rally - Startup Fortune",
@@ -206,19 +258,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "860be7dd6ab0e430f615",
-      "title": "Zcash Climbs 9.5% Ahead of NU7 Network Upgrade - The Defiant",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcUd0VHM5OHlySDhyUDVockNtcWtncTJkVGxuVHpKYVpsS1hKMms1V3BTUVVHLTBDLUNubGF6RUpnWXNOVXdDVDJ6UjgyUThyV2ExTHV4cnRSeGpkQ2cyQ0ZpS1dObjlBZVotbU1mX3c3b2VsOTB3YzlEM1IwdzBpT2hVT0RERjA?oc=5",
-      "source": "The Defiant",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T18:04:15+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
       "id": "ef35e39aafc2b97d201a",
       "title": "Zcash Grants Committee Withdraws 98,000 ZEC Dev Fund Taper Plan - Altcoin Buzz",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFlESjVTMDhRRFlUcU9DVlFkVHdmbmI3RzRkaXlZWUNUWnNNREQzN1plaGttY3F5YWpLTlBIQzNzMm9zaTdIV1J5NWxjWFloaGo3S0VDMWlqMFNrTl9iSjV3cm40eUxXRm9MUmZ6QnhFVk1VWWc5ekF0Ty1tY2hEcndqeDN6SXRnOEln?oc=5",
@@ -252,6 +291,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T17:06:07+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "860be7dd6ab0e430f615",
+      "title": "Zcash Climbs 9.5% Ahead of NU7 Network Upgrade - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcUd0VHM5OHlySDhyUDVockNtcWtncTJkVGxuVHpKYVpsS1hKMms1V3BTUVVHLTBDLUNubGF6RUpnWXNOVXdDVDJ6UjgyUThyV2ExTHV4cnRSeGpkQ2cyQ0ZpS1dObjlBZVotbU1mX3c3b2VsOTB3YzlEM1IwdzBpT2hVT0RERjA?oc=5",
+      "source": "The Defiant",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T17:04:09+00:00",
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
@@ -629,58 +681,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-04T08:04:04+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "820144c1156ee7ff1a2b",
-      "title": "Zcash Is Getting a Major Upgrade in November. Could This Be a Catalyst for Further ZEC Price Gains? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON3RMazNjT05RUzR0czgwbFdYMzl4NzlLaXp0LU1IZ0FveEhnZTRtRXFHYWxCbUlxX3RYdUd6V0pqRGZxQVAzNXd0M0hQeFNOd3JuM0FjX0dMd01iOEtVNm5jMFhNVFlITWNGbk56cWNtdlNYMElqRXlmeG44RzNreENLS2YzVWs0M3VBZDRSOF9MV2Q2VUplbg?oc=5",
-      "source": "The Motley Fool",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T07:30:00+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "efba69a870607a0c4169",
-      "title": "Zcash Jumps 5.8% in Four Hours to $1,266 on Binance Spot - TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SdWZWaWg1Smc1T1NvVTk4MnBsMVRETDN1QU1abVY1aE5DaFc4QVVRZlpFamJjSGFlSUdTUEpydV81ZzR6UUtIcnVMcUVPQXowNXpqS2pIYm1rdw?oc=5",
-      "source": "TOKENPOST",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T06:30:02+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "4a499e6a8b4820b70ace",
-      "title": "Zcash Rises 3.31% in One Hour to $1,234 at 12:25 a.m. ET - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tRVgybXVrQ0hoY3RMeVRfVnV5dTMzSjlvT0U2MEpncUN4cGxDMnIwdVB4WnVDREh2emZSTzY0WVRzc0tCNUF6QTd3YUMzNmRVMVZfY25sbnJiQQ?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T05:27:35+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "e298f51ea18692a73557",
-      "title": "Zcash Rises 3.20% in One Hour to $1,209 on Binance Spot - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82RzdRMVJaTmstOEtBcllfZmVzaVFCXzdGZktwcnAyaXZ4MXJIVy13YjI3MWdtNVJ4M1dBZjg1ME5YbERuR0FMSGFWaENtSUd5S2phUllSTHo0QQ?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T04:11:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
