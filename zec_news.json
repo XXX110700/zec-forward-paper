@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-05T11:04:03.663601+00:00",
-  "last_success_at": "2026-11-05T11:04:03.663601+00:00",
+  "checked_at": "2026-11-05T11:57:44.573867+00:00",
+  "last_success_at": "2026-11-05T11:57:44.573867+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 23
+      "matched": 22
     }
   ],
   "items": [
@@ -47,6 +47,32 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "199f18efb6072d4223c5",
+      "title": "Zcash Leads Top Crypto Gainers With an 8.23% Rise to $1,305 - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVa0FCSnlnbHM1dG11cnBFTmRZZVpuSzU1dnlVOGZwN3lqUzlpa0J5N2pZRm14NXhGNF9qODAxZGZrRE1zRkRwaHROVl9JZFNvWWM1VDZyMzMyQQ?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T10:19:32+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "5d46fcb80168f003d44c",
+      "title": "Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd0dNaXIxTUVsX0p4VlNtalpRY25jWVVVd1EtZEJVYU5oS29kd29mUjZyaXNKY0szQTBkNm9La1BxME9val9DXzQ1Y21kdGNBWkQ1NWhLQ0dfZ2dJd1BkOW13ZE52WWwzWHI4RGhqdHBKTEx4LVdMLVpuNnYwZm9BM0FiUWVRbHljd3ppck90bkJ3VmVkUHJfSkhn?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T10:05:00+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     },
     {
@@ -323,19 +349,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "3e656f9c3befb3e79069",
-      "title": "数据：美国 HYPE 现货 ETF 单日净流入 60.51 万美元，ZEC、NEAR 合计净流出 717.93 万美元 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xbllxQ1pBX1QzZTFCY2Y1Z2I1Mko3b3czWXpGQ2IyTDFOWVNHTlpmVzM5X0VoOHZZUF9aQjhlMW5IX3JhcXM1V1Jremx5NGpiYWc2ZlpoY0JrcFJk?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T20:51:29+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "05359b88cdbedbf05081",
       "title": "Zcash Price Faces a Test at $1,332.85 as Momentum Lags - The Cryptonomist",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaVdxTWpvblI5Y0tFTE91c3lNTzNHeXhlWVdpd2RsQzVjRjhOUWhnYTFKeVFrMEF2Zjd0d0dQQ0xyZnBwZVNQV1B0d2xrUUR2T3IyWlpMMHlNYmFRMUtSdHJPanlONmV0TVp0OTVnczFfLWxDd1FTbGt0VjhrcTFQNWQ2cWs5V3lKU3UxNF9YakxDSWNnaFE?oc=5",
@@ -395,19 +408,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T18:02:41+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f1761e4f613f382ef0bd",
-      "title": "What Turned Cypherpunk Technologies (NASDAQ:CYPH) Into a Holder of 323,394 Zcash? - kalkine.ca",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWNacW1UdThpRmZqODUxTm1qTkNkSXBOLVJ4eVhnLWp0cXFvTGhrbXhxTzdTa3p0TTVOUGFEbmZjeXZQcEM0TFpCUzd4MFlrZm9yVEJlY25CdktVVkJHbVR5Ym02cURpT2I3ekFGMDV5aC00NnNBRDRQdjA5QUdxZzRjZUtPeHNCbjFBYjRSUFBkM09kcGdVMnIzVlVCVVdYUzBhMzFwTGsxYlJxNFl1YQ?oc=5",
-      "source": "kalkine.ca",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T17:32:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
