@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-05T13:08:34.950132+00:00",
-  "last_success_at": "2026-11-05T13:08:34.950132+00:00",
+  "checked_at": "2026-11-05T14:24:09.984691+00:00",
+  "last_success_at": "2026-11-05T14:24:09.984691+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,21 +32,47 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 23
+      "matched": 22
     }
   ],
   "items": [
     {
-      "id": "5a6db3eb1d4c89e3b705",
-      "title": "Zcash Network Upgrade to Freeze $16 Million in Sprout Pool Assets - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHkzbWxESkw3elVpTnUxSGMwajRLOU5FSVNHejZqVVBGWHRCYUxhOXE5UTRSbTF6WE15RTU5Z3BWMTBWQnhiekhkbGw0aDFsXzh6ODFVaWlqZWloSzFYdml6MkZuaW5ZLUlYZEZnRHUyLXZ4Zmd1blVUX2xzejZqMDFWZFZKVnkxRXl2d1ZOdU5ZaC1uQ2c?oc=5",
-      "source": "KuCoin",
+      "id": "41e1a98d3c1cdb2e3ad6",
+      "title": "Zcash Rises 2.12% in One Hour to $1,321 on Binance Spot - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GcFhnWDh3SUZwT3RWQlRqTFQ2TzA3SHYwQVpVRld3M3EtRXFUblVCUDZzWHhtNDlVVy1nTE41RDZqclNNeUtCbElZVy1Qc0pHZjV4dzFEY3Izdw?oc=5",
+      "source": "www.tokenpost.com",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-05T11:05:57+00:00",
+      "published_at": "2026-11-05T13:55:05+00:00",
       "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "17bd8188e954067236f9",
+      "title": "Zcash Falls 2.06% in an Hour to $1,295 on Binance Spot - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wR2FmRDgyWFJSNWVXMmNUS1M4a2R1bWI5dFJDellkZk94WU14cVc4LXZDZURWd1ZialdCeHc5Z1RsUW1NVmhBclZPQTF6azg1LVZwenNrNWRxQQ?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T13:01:51+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "ba0c7bfc19f9d8d2ac0a",
+      "title": "Zcash targets 67% shorter block times – Can ZEC overcome funding uncertainty? - AMBCrypto",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2RvVThwWUFOclNqWG9BMHlSbHNVYWR1ZTB0eDE3b1lkMDJqa2pkV1RCS0tZZ28yQkVXNzRPOFBfSTlTb1llVE1HcERlSWh4UTVOWEhxU2ZTUV9WWXV1WXF1ZTRlQXllOHNQeGNzSnFPci05VFgzbjRzRHRZY0FjOE02NTZqNXdqZHN0WEhERGx1TVp0RzZkQzI5NGU?oc=5",
+      "source": "AMBCrypto",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T13:00:15+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -93,19 +119,6 @@
       "title": "Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd0dNaXIxTUVsX0p4VlNtalpRY25jWVVVd1EtZEJVYU5oS29kd29mUjZyaXNKY0szQTBkNm9La1BxME9val9DXzQ1Y21kdGNBWkQ1NWhLQ0dfZ2dJd1BkOW13ZE52WWwzWHI4RGhqdHBKTEx4LVdMLVpuNnYwZm9BM0FiUWVRbHljd3ppck90bkJ3VmVkUHJfSkhn?oc=5",
       "source": "Yahoo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T10:05:00+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b72a78bdaf0bbad22429",
-      "title": "Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027. - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTX3dCN0g5TWV1OWNoMTF3SlZMek5ZUkhSQ3ZTYnlIcmw4SUIwT19xVEFqNmhlVks4RGNLRGI1X2Z3LWhxSFl5TFgtZEIzMUVKV2c0Ym10UFlmSlFhbWZsUTBMWThsR0ZSbWlDSng4cjdJOG9hWm56b3hWUFAwdw?oc=5",
-      "source": "AOL.com",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-05T10:05:00+00:00",
@@ -186,7 +199,7 @@
       "source": "深潮TechFlow",
       "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-11-05T08:00:15+00:00",
+      "published_at": "2026-11-05T08:00:53+00:00",
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
@@ -382,19 +395,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T21:02:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "3e656f9c3befb3e79069",
-      "title": "数据：美国 HYPE 现货 ETF 单日净流入 60.51 万美元，ZEC、NEAR 合计净流出 717.93 万美元 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xbllxQ1pBX1QzZTFCY2Y1Z2I1Mko3b3czWXpGQ2IyTDFOWVNHTlpmVzM5X0VoOHZZUF9aQjhlMW5IX3JhcXM1V1Jremx5NGpiYWc2ZlpoY0JrcFJk?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T20:51:29+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
