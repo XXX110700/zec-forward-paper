@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-05T07:17:03.764975+00:00",
-  "last_success_at": "2026-11-05T07:17:03.764975+00:00",
+  "checked_at": "2026-11-05T08:59:33.420553+00:00",
+  "last_success_at": "2026-11-05T08:59:33.420553+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,49 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 24
+      "matched": 23
     }
   ],
   "items": [
+    {
+      "id": "0a4e9279fff9346190a3",
+      "title": "Zcash and Ethena Lead 24-Hour Gains Across 17 Crypto Assets - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2MElOTjJMY3MxeTFObDRmaWE1UkdsV2tsWG12OVNlc3BtMk1RX3dhTjROQ2dGUV9PemxsMk5Kb0E0a21WNFF1YUxmTkZXa0U3UHo3Q0lHeDNXUQ?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T08:13:03+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "1874ab97d5f0a00f8489",
+      "title": "Zcash 升级倒计时：出块速度提升 3 倍，1600 万美元 ZEC 或被永久冻结 - 深潮TechFlow",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wWV9XcVdoNUl0V1owZGYtcWxMeHYwLVVmTWVudFhCUDZKWndlRDVmMFdZaml3Q09pNDQzQ09hMy1QcVIwa2NrNmhKaTdwbllOM21mRQ?oc=5",
+      "source": "深潮TechFlow",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T08:00:15+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "f21021fa9322ad766da2",
+      "title": "Zcash 社区资助委员会撤回约 9.8 万枚 ZEC 转矿工奖励提案 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yU2N2dkNPOVZ2N3dNbndNbnZjZzRia0l2bldiZW03dVZvQ29SbzFuenVRLXR5VWFEYzNDeHR4b3JIcnU0VnZISmRuYm5rZ1FkbXpvQ2JsemtiUk8w?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T07:31:50+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "d36c44a844ed3de3a9d3",
       "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
@@ -173,7 +212,7 @@
       "source": "StreetInsider",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-05T01:57:10+00:00",
+      "published_at": "2026-11-05T01:56:38+00:00",
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
@@ -642,45 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T08:23:23+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "637e236b845cf201e95c",
-      "title": "Zcash Rises 7.41% in Four Hours to $1,294 on Binance Spot - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RNkFqVDdhbGRoVFZfLTRoX3JfLVRuTGh6X1M1M0xleWFGV25qaWdRbzFVbWU2ZVNCYVNXbXBpZ1U3XzduV1hfZmdqVjVMZ1ZSdkwxT19kQ2FFQQ?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T08:16:19+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "2523154f84256f563ce2",
-      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart and Price History - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWUF3VTYyMmFad2tQamthVmVhT3dPWlh5NG01LUtxbm42S0pOU2R0Q2FQZHVlOHBhV29xSzdsTEExX21FTTd2cTNObTc3RlBQVGZLMm5n?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T08:08:03+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "d5db1524be87fb8101dc",
-      "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
-      "url": "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
-      "source": "CoinDesk",
-      "feed": "CoinDesk",
-      "kind": "media",
-      "published_at": "2026-11-04T08:04:04+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
