@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-04T23:43:20.621702+00:00",
-  "last_success_at": "2026-11-04T23:43:20.621702+00:00",
+  "checked_at": "2026-11-05T01:02:01.597256+00:00",
+  "last_success_at": "2026-11-05T01:02:01.597256+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,12 +27,12 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 97
+      "matched": 98
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 21
     }
   ],
   "items": [
@@ -121,7 +121,20 @@
       "source": "The Defiant",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-04T18:27:59+00:00",
+      "published_at": "2026-11-04T19:19:15+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "bb5150e7ce49eae0ddef",
+      "title": "Zcash Grants Committee Hits the Brakes: Plan to Redirect 98,000 ZEC to Miner Rewards Halted - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04VnF5LWVVSjR1X2QwR3lmb0doQldwVHR4dVZvU1FfQ0Rsc3lyT2pRLXlzbktBOUNiZTNFdWtZeklOQXMxdXhZU3JHVHp1dXRuR0lCSFZQUHB1aGk0T08xOEY4QURsYjhlY2hsOVJPRFZxcF90alE?oc=5",
+      "source": "BigGo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T18:16:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -213,19 +226,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T16:44:27+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "21bf4455cc4633d4ce6a",
-      "title": "Top Zcash Price Predictions as ZEC Surges 14% Daily - CryptoPotato",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb281dTNZbWZSM3VjY3ctNk85Qy1XeWxmQ24xd3FwT1M2UTV5cURiS081WWhWa1NuQTBCUmdrUEhwVG5vMThrZmtUQlBIU3VrV0JBRmxNVzNob0Z1OVYxVGN2U3Y5OUxxaEIzeVZBVzBjd2NaTUlZWW9nRTdYVmlWQ1J3?oc=5",
-      "source": "CryptoPotato",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T16:34:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -479,6 +479,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "b4847862dd9a6d2221c8",
+      "title": "Zcash price jumps 14.13% in 24 hours, hitting $1,294 on Binance with significant short liquidations. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNW9BbVJSTDRvbnpHU255Y3ZmX2NFc08yeDVRTHVqUnNxMjFUcFE3YVdiQnlWNUFic0lRN2t6aUtMVVpPeGJ2ZXBXSktNRTZyY2hpdWZLSTUtTHN3UndXenVPMVVpY2VKdjR2QkZMRERIb3llZXlzNFNFbnZsY05IWFhaQWt1Rk1ta09KOHZ0OA?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T08:34:30+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "1d391c41aee8b99169ed",
       "title": "Why is Zcash price rallying today? - FXStreet",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRFBaVlVaVV80b1A2WS1fbFEyaXV5TFV6T25BWDZ6M29QTHJDOVlxcFN5SzFzNnZyQ0JpZ2xjWFR6NWdHTDZ2VFJ4UnoyaW0zdm1maG43YU80TmQzbW1ZN05qYXJ0S25VbDhzNTlMLVFlYmhGb3FsQ1p6d0RtVXhTRlBzVEZ2MVZDQzVOemhkRDloS3ZQM29BcEJ4ZzdHQnN2c0VVX3NNOTNEU0dQM2JMMzVfVXB5aDhENllZMkExMW5ENjNKTDdDbHUwODNBLVRxc2c?oc=5",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T02:22:21+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "756ed3596075786c23c1",
-      "title": "Zcash Foundation Details Seven Zebra Security Fixes Ahead of NU7 - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FTHcyaXF6Ml9pSFhKRXA2OVY3UWYwd3dOa1Z3TnpQZkZCYTVwNGtiTGt3S242WkNEZGRmenpJYUJPeXVSeHdaZHVISnVUVjk3X3dRVUl2dFNkQk0?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T02:12:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
