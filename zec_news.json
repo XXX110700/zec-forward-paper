@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-05T14:24:09.984691+00:00",
-  "last_success_at": "2026-11-05T14:24:09.984691+00:00",
+  "checked_at": "2026-11-05T15:59:57.731094+00:00",
+  "last_success_at": "2026-11-05T15:59:57.731094+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 23
     }
   ],
   "items": [
@@ -216,6 +216,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "bbb62a85a1bb8c313ee6",
+      "title": "BTC 站稳 8 万美元，Zcash 因 NU7 升级暴涨 12% 提供者 智通财经 - 英为财情 Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iYUZHclBPMUlRYXpFM2VFS1M1cWJzcGI3S3d5N3ZDWjBzRFlhQm54U1Z6Q0ZHdkl4NVktNThQemlxaUg0VzB3YjNuX3FKM1FKa3BXS2VMSVFkcndoLWZhZzRYN1NEYVR4dU5KeWNWa3c?oc=5",
+      "source": "英为财情 Investing.com",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T07:20:00+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：升级",
       "verification": "未独立核实"
     },
     {
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T11:24:49+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "8430edcbbb22d4e30cd4",
-      "title": "ZEC Explodes by 13% Daily as BTC Price Reclaims $78K After Midterm Elections: Market Watch - CryptoPotato",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1VpSW5rTUZsZjBKc2FqRko5RWFLd1liUGNVYmVaYUNfeHpUWHNPTGRLUHhUX1J6ZWlMNk00QTczV1VvTjlVRlJZMzY4c2d6YXBqRDFuOGF4VmJDMFFWQWdYWTBLTU4xTzY2WlZsbHlXVGxwdTBBV0RlbXo4YktTZldiZHE2Tm15WDlfVTlkNnduMVZSSXB3cVRoTTBUOEg0aTRkME5DVVlBNzZiLUNSSTZQQQ?oc=5",
-      "source": "CryptoPotato",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T11:09:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
