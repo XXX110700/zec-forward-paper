@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-05T06:00:20.234912+00:00",
-  "last_success_at": "2026-11-05T06:00:20.234912+00:00",
-  "status": "partial",
+  "checked_at": "2026-11-05T07:17:03.764975+00:00",
+  "last_success_at": "2026-11-05T07:17:03.764975+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 1
     },
     {
       "name": "Cointelegraph",
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 23
+      "matched": 24
     }
   ],
   "items": [
@@ -63,6 +63,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "51d698ade40ec7ff5c19",
+      "title": "Zcash 即将冻结其最古老隐私池中的 1,600 万美元 - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFVvWDFBQllHclNzbVNZMlRhQms2cERvd0wweER4UXJndzlMSVMtRUJkODJrbDBNQ1NOLURYaERlLTVoTUtydElBdjFQZEVpSHMzdnByTTlHeXViNERFNXZfRkpmWk9YRjdQSXkxNEQ5dmc3YUltQWNOT3gwWTFwVDJrLW1tMXdjRjUxUU9ZUVZsYklQbGVxX1pGVHlwOVRPTnN5ZWlPRHh4ajB1Umc?oc=5",
+      "source": "CoinDesk",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T05:47:01+00:00",
+      "event_time": null,
+      "sentiment": "偏利空",
+      "basis": "标题关键词：冻结",
+      "verification": "未独立核实"
+    },
+    {
       "id": "c4563be4b7da3c7a706e",
       "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
       "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
@@ -83,6 +96,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-05T05:13:45+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "cb3f7ce06a9694923adc",
+      "title": "Zcash (ZEC) News Flow - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNV0p3b2VkVi1sblo1WmdEc2lJNG9kdTBDanBoaHJmRFhZcEZDWWk0WkNVVHhfbUV6SFVwWEpPSHFGWHBpRHN0NEkxVlFaYUF2Z0FXdHBVTXNsQ2pCaUJLZnRVaU1kV2c0UDF0UWphODJibWVqUnc5REd0UlRoejZCYlRxWEh5R3VhZG1RNHg3cXdHTDE5S0VUVXBTcjlDbmI5cjZWcVNDTHVLSHZfNy1YdUtBY0c1eTNNME1YcmRYT25HWnktSlBnMmpicV9YdmNhZDBDSVBMM1hIRDZoNmZOelpoV2ozRUV4dXk5Nkp6WlRiWUpfdHQ3X3RQd0F5NmMtNFhPaGU0b2k1ZjdzN3VtOE5jV0dTWDFaWnRRTHNNMnVSUTRYMjQzVTRoWldyQndQdjRlc3hlcktUbTg?oc=5",
+      "source": "Moomoo",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T04:58:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -654,32 +680,6 @@
       "source": "CoinDesk",
       "feed": "CoinDesk",
       "kind": "media",
-      "published_at": "2026-11-04T08:04:04+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "d69671ae06446aedfcdc",
-      "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQy1WU1lUWVM5dHpKMXV1bG9SRkJkc3AzMG5UT3poN1FQY3BjNFVxNDBEUTYwdmFfUmtfTHA4TTc4MTRkQWViN2dub1ZLb2lLV2ZZR3VxYzlxN1BpVmliVnBpUWdmcGM4aG9NQ3k5WjREd0I3UVJ4aFZBYUxoMWJIZmk2bUFqVDdFZXFIaTdKbm1CaTN0UGpzS212NVdKc1VSaFd0RUdnQldzaWozSi1LeGs5czJLVWJvUTdfY2drYm1NS00?oc=5",
-      "source": "CoinDesk",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T08:04:04+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "60a262531e31818c0023",
-      "title": "Zcash 资助委员会放弃将 98,000 ZEC 转向未来挖矿奖励的计划 - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNclJJNUF5N1ZFUVd1Wkg2QWVQQ2NlSW9lOS1xa0pjUmtkdTVhV0tnZ0o3d1d2X0RsODdiTzVOZVlIM0RjT0g2MTdndTdvSEZGLWhwTldaTkJKT0dWenBta3RiOVEyRGQyUzBTMEFhblNMdzdvMTlwSWJYbk44clRfRms1SUdobGEwSkRMS3AwSEdBWGR1bzNxUXYtaklHamJMRkVVWlhZdkZHWE9Jb25WRTBqQi0zRmxUdHJqYXZhYXlGa0cya1Vr?oc=5",
-      "source": "CoinDesk",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
       "published_at": "2026-11-04T08:04:04+00:00",
       "event_time": null,
       "sentiment": "中性",
