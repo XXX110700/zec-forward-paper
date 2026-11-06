@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-05T23:45:15.202433+00:00",
-  "last_success_at": "2026-11-05T23:45:15.202433+00:00",
+  "checked_at": "2026-11-06T01:04:25.849042+00:00",
+  "last_success_at": "2026-11-06T01:04:25.849042+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "9b94735af082f93575d8",
+      "title": "Zcash ETF : Quarterly Report for Quarter Ending September 30, 2026 (Form 10-Q) - www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNczZEX2x4YXR5U1FKaU93VHN4TURaUGQ4WVFWdG5kVm04X0tFemVPemdwRjVJMmpXeWwzcnlMMHNWTnZNR1BzTEd4LXlpN0JiLUJrYzduQ0lILVBFbnF3R3lUTm5YOGRwZGM0dWNiVWJ0X25KMnJOa0dCZmZBTnNKN21EcFZvZ2RnaDE5cWUweUtTeUFWRll0elk1a0JSWmY0RW4zb3A1UV9tZ2FLcjA2VmZ2bTBna3h2MVZ1Ykg2cFFWZ1lq?oc=5",
+      "source": "www.marketscreener.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T00:58:17+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "8019b12bf3b4a0bcd644",
       "title": "Zcash Draft Would Send 50,000 ZEC to Future Miner Rewards - www.tokenpost.com",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-04T16:44:27+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "21bf4455cc4633d4ce6a",
-      "title": "Top Zcash Price Predictions as ZEC Surges 14% Daily - CryptoPotato",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb281dTNZbWZSM3VjY3ctNk85Qy1XeWxmQ24xd3FwT1M2UTV5cURiS081WWhWa1NuQTBCUmdrUEhwVG5vMThrZmtUQlBIU3VrV0JBRmxNVzNob0Z1OVYxVGN2U3Y5OUxxaEIzeVZBVzBjd2NaTUlZWW9nRTdYVmlWQ1J3?oc=5",
-      "source": "CryptoPotato",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T16:34:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
