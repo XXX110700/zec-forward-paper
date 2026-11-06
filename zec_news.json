@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-06T13:01:36.351232+00:00",
-  "last_success_at": "2026-11-06T13:01:36.351232+00:00",
+  "checked_at": "2026-11-06T14:17:30.212254+00:00",
+  "last_success_at": "2026-11-06T14:17:30.212254+00:00",
   "status": "ok",
   "sources": [
     {
@@ -141,32 +141,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "664ac6ed855a33278074",
-      "title": "Zcash Activates NU7 Upgrade, Locking About $16 Million in Sprout - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtSUg0S2dTbE1qZXlsNHlHdEZoUmNMSnBBOVpmQkJ6aUxrRTY2b3VoN09RRnVRNGF2UGYwQTNrSF92ZUpCX0FTZDIxWEZsWlZvZHRTS1BuMEJkcGM?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T08:19:05+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "0414608f747f9ed88f46",
-      "title": "Zcash could freeze $16M in ZEC - even with valid private ke - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mV2RZeWt5Y1U0Y041Rl85dE0zazhSZmdFUTd0Z2FFeElXS2RpN1VRNFRxWnpsWWhFZnBtSWZmSDNCeG9WVzkweS1hY29Jbi1jWDZRSGdTZTdsX3gtR1Y4RmZaMlFzZlhhczdja1BMLTFyUQ?oc=5",
-      "source": "KuCoin",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T08:10:38+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
       "id": "8adf55af012a72fa9c32",
       "title": "Zcash's major network upgrade NU7 goes live on mainnet, cutting block time by threefold - The Block",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3Nld2TGVkZk5US0lEQzFfaHVTVWt0cTBEbTBLUWRRZmdyaF8tZ0VaNV9kMUFVaVdxU2hOYWo5VTRybU0yaG5xX3pNbGs1RENTcWNtVW04V2l5NW5fWWRXNE5xQmE0eWlMNFRTSEw3UGl4T19YY2FpWXhISG8?oc=5",
@@ -174,6 +148,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T07:36:00+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "27d7718e389503bdbcea",
+      "title": "Zcash Activates NU7 Upgrade, Tripling Speed of Privacy Payment Confirmations - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NM2F0X0psNkdOejJVMDdZak14Y3pBbEZmb3lQT0MxamhVdTNhQ3I2Ukdrdk16ZXlqUEJZbTAwNmVqWklSZjFPSW1vTUUtSl92MEEwdTZrbVlhYVo5OHI4bmZYS1d0bjN5WkIzVDUyZmJkMzgtY0E?oc=5",
+      "source": "BigGo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T07:35:00+00:00",
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
@@ -193,8 +180,8 @@
       "verification": "未独立核实"
     },
     {
-      "id": "eecb42a314300575d509",
-      "title": "Zcash Activates NU7 Upgrade, Cutting Block Time to 25 Seconds and Tripling Confirmation Speed - bloomingbit",
+      "id": "081faeea268de1cfe9e5",
+      "title": "Zcash Activates NU7 Upgrade, Tripling Block Generation Speed - bloomingbit",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PU2o4WHFkT0xGRDVRNVhwTTZmazF6ODVLaFFIV2FQU0paSms5dlVFMUhkOTVRWXpXUTZsZjNQSHUwOWtZVGRENDFPLW9GNkZUNjhISg?oc=5",
       "source": "bloomingbit",
       "feed": "Google News EN",
@@ -284,6 +271,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "aebf7cc3fd184f3f12ca",
+      "title": "Zcash NU7 upgrade goes live and shifts to faster blocks, Laura Shin notes - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUo4VkVIZ2tZUnUtUFphcWJwdlBkUGFheER5bHd0b2dkZnQ4VkFNdjZSZm1oWktkT21fcDA3bWlzSS1aUDJBUkpTbU9Yd2xza015QnpLU0xZQklpYlNuWmw5ZFlzRGtYdGhFTWNYdXNGRy1ZUFRCdzJYelktLWlkbXd5U2VBc28?oc=5",
+      "source": "Traders Union",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T02:55:12+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
       "id": "ac46766e292a08834b92",
       "title": "Zcash Activates NU7, Taking 60% of Transaction Fees Out of Circulation - unchainedcrypto.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaEhVTy1XZWIyOU9ZVWtOV0VWU2RhWXZNVVpDOVozUE92MEJQVkdDa3o0eVZqWG95U0h4MGhOMXZXa1U0Ym41MlFJaEd1blMwZEVVOVBSTUZ0aWJyTVl5Zy1zblFaMjNrUnh5YjlnR21GSWNFd1dhZFItVTBIaFBCTEVtRW44ejRDZHQtUUpoQ2dHcm9KWFZleDRfN0hDUQ?oc=5",
@@ -349,10 +349,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "18543d63750a75890209",
-      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFNXSi03ODFQOFdCaUVLWXY0YmFwZGJxYkI5UloxS3F1M1VkVmM0YXlXMFhNUVlFSjF6d0xnMGNDRkVMbFE2NWp5QnlVbVBZVFZjWUp5WW1leUNSUkxKUmpHVk9jNDRmUjRCb2VWUGo4X0NiNDhJVFZHOFliUDYzQ0J5TERpVEJuc1pWNVJCZnB5ME9TVzBr?oc=5",
-      "source": "Yahoo Finance",
+      "id": "ec90525f13d9e32dd34c",
+      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11ZDlHMEdwNUdwdFl2c0U4dWl2b2V0Y20zaWl1U05hMzFWMFR3VnpJR2NDR2FZc1BFVWZPLU1xMzFkbHpFUHltS1JRaFA5U0Q4dTR1azVocEl3THlBc3ZrRlMzS01kbUJBZWxtUTQ1WWt6dG9UTXVj?oc=5",
+      "source": "Decrypt",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-05T19:46:03+00:00",
@@ -362,10 +362,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "ec90525f13d9e32dd34c",
-      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11ZDlHMEdwNUdwdFl2c0U4dWl2b2V0Y20zaWl1U05hMzFWMFR3VnpJR2NDR2FZc1BFVWZPLU1xMzFkbHpFUHltS1JRaFA5U0Q4dTR1azVocEl3THlBc3ZrRlMzS01kbUJBZWxtUTQ1WWt6dG9UTXVj?oc=5",
-      "source": "Decrypt",
+      "id": "18543d63750a75890209",
+      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFNXSi03ODFQOFdCaUVLWXY0YmFwZGJxYkI5UloxS3F1M1VkVmM0YXlXMFhNUVlFSjF6d0xnMGNDRkVMbFE2NWp5QnlVbVBZVFZjWUp5WW1leUNSUkxKUmpHVk9jNDRmUjRCb2VWUGo4X0NiNDhJVFZHOFliUDYzQ0J5TERpVEJuc1pWNVJCZnB5ME9TVzBr?oc=5",
+      "source": "Yahoo Finance",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-05T19:46:03+00:00",
@@ -450,6 +450,19 @@
       "event_time": null,
       "sentiment": "偏利空",
       "basis": "标题关键词：freeze",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "11ff65bacd5ec3ff09e0",
+      "title": "ZEC 兑 SVC：将 Zcash 转换为 萨尔瓦多科朗 | 实时 ZEC 兑 SVC 价格 | MEXC - MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aRkxpN2NNYnIxMlJRaUF1c05rUzZXaE1zVXpmMnZPRnplaXdQV0JmS2dmZTNXdkoxdFllWmN0R01YWWc0cWZUMFhMSHQ4UUNRd0FzaQ?oc=5",
+      "source": "MEXC",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T15:34:39+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -544,6 +557,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "b72a78bdaf0bbad22429",
+      "title": "Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027. - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTX3dCN0g5TWV1OWNoMTF3SlZMek5ZUkhSQ3ZTYnlIcmw4SUIwT19xVEFqNmhlVks4RGNLRGI1X2Z3LWhxSFl5TFgtZEIzMUVKV2c0Ym10UFlmSlFhbWZsUTBMWThsR0ZSbWlDSng4cjdJOG9hWm56b3hWUFAwdw?oc=5",
+      "source": "AOL.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T10:05:00+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
       "id": "a79bdc80f45c276868fe",
       "title": "NU7 Update to Change Zcash Rules and Make Some Older Coins Inaccessible - Incrypted",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX0x1WVJYdlZtVlV1b2NZVWpKVGVFMUtUZThXMmFvdUxqZGZUMUV1QWllRW14RnIyZmNyNENuMWVyNVdqa1VSYnlydmtUa1lyRXFQdXVJNEhwZXdkdEdYTUpXS2FiaEdkZFp0djNwekc1Xy1tSFljalNxTXNQd1NtaGNReFpVOXpFWWdwNUJXVEJmdGNOVVg4LUFFRzJMdw?oc=5",
@@ -580,19 +606,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "bda803f18fafd139c292",
-      "title": "Zcash Network Upgrade NU7 Activates, 16M USD in ZEC at Risk of Permanent Freeze - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3FfZjlnV3ZCR0NQMEstQWd6UV9GekpHX2paNWNOd2tHeWhaLWNCRVM0U1hrcmxnSERhVDlfTjFWbjRBYlA3M1htcHBDaHFGc2I3Y1JjZHN3bEJHUllzbm41N0V3UDVXT1A2cXBad0J2Z1hNMU1jUmRHSmdqYnJIRmxKY1doZHo0cXNPeHl4WFl3QnFFOFBVaGoxek5RazQteE5hU0YzcVBCYzZMN1Y0?oc=5",
-      "source": "KuCoin",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T08:23:08+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     },
     {
@@ -648,6 +661,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "7a2885f7c54364bf82d1",
+      "title": "Zcash upgrade set to freeze Sprout funds in legacy privacy pool - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQblZzY2dzVlVfbjlzbFNhLTNHZklRbW1PZVk3WU1NMVpOZ2J2Mk9xR2pwc2dpbllkOEIxQmNuQUxhSkx5d2p6enN3Um1rS0tXcmVGaDFvU0Q3LTR1SFZaM0h2bFlUN1lIMHc4djFXaHl1ZGdNTE8xRW1wUjlrT0FjRUxsc05wdTRZeGc1c1c0VnhycWUtSzF5Wml5c2dOZw?oc=5",
+      "source": "Traders Union",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T06:10:30+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
       "id": "51d698ade40ec7ff5c19",
       "title": "Zcash 即将冻结其最古老隐私池中的 1,600 万美元 - CoinDesk",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFVvWDFBQllHclNzbVNZMlRhQms2cERvd0wweER4UXJndzlMSVMtRUJkODJrbDBNQ1NOLURYaERlLTVoTUtydElBdjFQZEVpSHMzdnByTTlHeXViNERFNXZfRkpmWk9YRjdQSXkxNEQ5dmc3YUltQWNOT3gwWTFwVDJrLW1tMXdjRjUxUU9ZUVZsYklQbGVxX1pGVHlwOVRPTnN5ZWlPRHh4ajB1Umc?oc=5",
@@ -658,32 +684,6 @@
       "event_time": null,
       "sentiment": "偏利空",
       "basis": "标题关键词：冻结",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "dcb279144a9dc974b91e",
-      "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT1JhU0FPb0dEcVY0VmNFZWFnOGVDX0pIdndjNUQ0ZzB5WG04bVBUSUtNdWI2REs0R1ZRMGFLWks0dDRxRlRYbkJqVUdkcE9kNW95ZEZXbHdzNl9nS2tZTEhGX3VoSmFrTjZOWHBfbnFjTTByTUllM1FFa09ETU5yUWJwaUF0anA3RTU5VXc3LXpCMENFT1lSUi10NGlfZmJyclZFNE9xM2IzWDBaNllKNGljQnNMc3M3S1VyVmt3NjQ?oc=5",
-      "source": "CoinDesk",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T05:13:45+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "da0c2b1bed3248c659e5",
-      "title": "Zcash's NU7 Upgrade Goes Live as ZEC Holds Gains From Its 1,500% Rally - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVEl6eDRwYXdlakFSaGwxOUN2Q0tBZlMyb0I0eVpEWFVPdzZKbnVCU0w4Y2szVWI0bFkwLVlZQ0pfaFh1ekhwQi1zeU5OZUJGTWNpWEJTUHhJdmJqelp4cnY2d2I1Vl9ZeVNNN1NKOTRVcjROUmZKUThFMHdja3VDazIxM1hpd1hBNU1ZM2pjN0VNOWNyV3dZT09waw?oc=5",
-      "source": "Startup Fortune",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T04:20:46+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
