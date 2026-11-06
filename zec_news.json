@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-06T11:02:46.418837+00:00",
-  "last_success_at": "2026-11-06T11:02:46.418837+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-06T11:53:47.744616+00:00",
+  "last_success_at": "2026-11-06T11:53:47.744616+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 1
+      "status": "error",
+      "error": "ReadTimeout"
     },
     {
       "name": "Cointelegraph",
@@ -32,10 +32,36 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 20
     }
   ],
   "items": [
+    {
+      "id": "f9634c1436eeab152370",
+      "title": "Zcash resists crypto market selloff as network upgrade goes live. What's next? - investingLive",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQl9IWGVsM2VZbUp0SWI4TXpRb1BVcHFPR3ZSRFRlQjhtM1pfTVdXT3R2RWtOVnpWeEtoZFE0UndtdllOVDY2WHNmakx5NjhEV25wVHdiWGFkS3ZFbFBQSHJnVDBtVnJSYk53U1pMSGc3RFpuQnE0SkpZN2lrMF9GZ0E0VVkyQ3VzV19NRXB1ODFTOFZzNXU5V3hOdXNnOThlcGNadnNiVDhWempfc3pNb1lfV3o3Vk54cGc?oc=5",
+      "source": "investingLive",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T11:46:58+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "ae61f75f2b4d0d1c3c94",
+      "title": "Zcash NU7 Upgrade Makes Sprout Funds Unspendable Under Current Rules - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjQWxZZlVHUW9LZEVySFBIaG9SeEpWWGtWalIycjRRV0FSeVQ4aU50UzYyT2w0V0VSQk9IVkFQdVZINGJnSk9ZQ0o1elM0SDVvVmxWQU1ycU4yaFE?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T11:13:04+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
     {
       "id": "bf913404509db4bc7087",
       "title": "Zcash NU7 Upgrade Goes Live With 60% Fee Recycling - Bitcoin Foundation",
@@ -50,10 +76,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "207323c14439eb47e62e",
-      "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaU9OaXhXTGV6TWwxSk93UUJpV0M0cGVNVHJuenZnQXg2QnRFNUZHV1daQjRtWjh5ek5EUElIdGdJNjlpRmJpSGp1VUpZS3NQUHI1SEJoTWF4Q3BUY2FFWnJqQ19sNkJVTGRFSTJNbVFGN25JcE44RUpMUUVWRWFsYXFGQ0U2VnZ2THNCVklHZjIyMHVNYW5wVkt1NUludVM1Qll1YzB3MA?oc=5",
-      "source": "Decrypt",
+      "id": "1484014d45367a078b7c",
+      "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOXV0UW94dVZiRGhIMUtiV2EzMHhzUGNpVHRHNEtWZVBHU2YxR21IM3lBaHltNzhZVW41MXNSaHpMeGdfa2Q0eFBadXFiVjJXVnVZdGZTZzhsSTRBNVgtZkNUYjRMemtYZjB0a0RaMVg1b1pzUGhMRnZ1QVhYZk9HSHpleXNYQzItWDh0al9jUVVRaWdQV2UwMg?oc=5",
+      "source": "Yahoo Finance",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T10:13:27+00:00",
@@ -414,19 +440,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "11ff65bacd5ec3ff09e0",
-      "title": "ZEC 兑 SVC：将 Zcash 转换为 萨尔瓦多科朗 | 实时 ZEC 兑 SVC 价格 | MEXC - MEXC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aRkxpN2NNYnIxMlJRaUF1c05rUzZXaE1zVXpmMnZPRnplaXdQV0JmS2dmZTNXdkoxdFllWmN0R01YWWc0cWZUMFhMSHQ4UUNRd0FzaQ?oc=5",
-      "source": "MEXC",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T15:34:39+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "860989ca9624f86be911",
       "title": "Grayscale ZCSH 发布 $11M Zcash ETF 净流出 - blockchain.news",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa2dieUZKVVY2OGV0RllGTXBRZUZ3Nk1oellYRUxXUWc2MGJRU1E5SzRXbFBtN2NpTEkyNDBGSkRiWEtTR1NQSjRKa3JDdE0xYUpLWi1IOVRfZU9QWWhzNEZIaEZtaUFXQzNqQU5rUmx5Z01OSHViOXBGb1JnaE5YamZmZFFCS1hsbnc?oc=5",
@@ -509,6 +522,19 @@
       "title": "Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd0dNaXIxTUVsX0p4VlNtalpRY25jWVVVd1EtZEJVYU5oS29kd29mUjZyaXNKY0szQTBkNm9La1BxME9val9DXzQ1Y21kdGNBWkQ1NWhLQ0dfZ2dJd1BkOW13ZE52WWwzWHI4RGhqdHBKTEx4LVdMLVpuNnYwZm9BM0FiUWVRbHljd3ppck90bkJ3VmVkUHJfSkhn?oc=5",
       "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T10:05:00+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "b72a78bdaf0bbad22429",
+      "title": "Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027. - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTX3dCN0g5TWV1OWNoMTF3SlZMek5ZUkhSQ3ZTYnlIcmw4SUIwT19xVEFqNmhlVks4RGNLRGI1X2Z3LWhxSFl5TFgtZEIzMUVKV2c0Ym10UFlmSlFhbWZsUTBMWThsR0ZSbWlDSng4cjdJOG9hWm56b3hWUFAwdw?oc=5",
+      "source": "AOL.com",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-05T10:05:00+00:00",
@@ -658,32 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "6bd929d2cf61fad040e5",
-      "title": "[Altcoin spot ETFs] HBAR and ZEC draw inflows as Litecoin and HYPE post outflows - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rMjF1LWhyWnNTTkRIQmwzdFAzUmlfa0VJS2F6VHl1YWd1UTVZWU9BX0lOdjBIM1hhaVB3ZlFMWkx1WnR6eHh4VTNseEJiZnhscjE0cFNtY2Mwdw?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T03:41:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "37d7af856590a12fd0f1",
-      "title": "美国 ZEC 现货 ETF 单日总净流入 342.95 万美元 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3ZTBrbHFHb0pzblBkZ29JMjN3ZlJ1eDFDc3o1eXRTUmpvTnJlbGYxb2FmY1lBYmVHT0dSZG5mcVVnemdoUktTenFnMUpvX2hORG9iVGhtSmVnMEZBNlNaTHlvTzNHdw?oc=5",
-      "source": "TradingView",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T02:50:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
