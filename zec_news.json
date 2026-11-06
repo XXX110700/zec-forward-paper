@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-06T18:52:57.570180+00:00",
-  "last_success_at": "2026-11-06T18:52:57.570180+00:00",
-  "status": "partial",
+  "checked_at": "2026-11-06T19:52:49.451866+00:00",
+  "last_success_at": "2026-11-06T19:52:49.451866+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 1
     },
     {
       "name": "Cointelegraph",
@@ -27,15 +27,41 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 99
+      "matched": 100
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 20
     }
   ],
   "items": [
+    {
+      "id": "9a95cff1cea1c517d210",
+      "title": "Zcash NU7 Is Live. Where Could ZEC Be by 2030? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTZuTExISGNzTWFrVXFRVzEzVHhudF9LNzJQZGt0OUNNakRXWU1idnhpRDVJcF9RUUR3dmx3SVhPVG44QklVRUZTOF9fQlh0YldNeDhHb19jRFctYXpqXzJRMWpEWmtuNUprZHlLNFR6YUF6QW1CcGN6Y28xWFl5clhmOGlHOUFBTFRqbEptcEdPcTJHQjVGNEtXVmZZa2pJQk5ZYnhR?oc=5",
+      "source": "24/7 Wall St.",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T19:31:00+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "b65a9ee5e05240bbbf89",
+      "title": "Zcash’s NU7 Upgrade Goes Live as Developers Launch Quantum-Resistance Effort - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFZ2ZTV2dk96UHg0UC1yb1JMazBLOTVLdE44bEtEc003Y19PVGZjZ2ZPZndIRzVNRXEwQzQzdEFXNzZOd2xtNlI0cmxLdWZsa0E4QWdyWGMzaGVjTTlPZ0VyUWdLbG9FeEhGWGhnREdWcXpVamdfSmhMVTlibVdlNjU4M3ZLTnVHZVZoNjdDeHI5SFNTWnkxaURn?oc=5",
+      "source": "CoinDesk",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T19:09:59+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：launch、upgrade",
+      "verification": "未独立核实"
+    },
     {
       "id": "d5d85bafccafc6ffcfcc",
       "title": "AI 也要“验明正身”：Anthropic 开源 FlashProve，用 Zcash 同款零知识证明核验模型输出，算力开销高达95 倍 - 区块周刊BlockWeeks",
@@ -655,32 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-05T10:05:00+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "a79bdc80f45c276868fe",
-      "title": "NU7 Update to Change Zcash Rules and Make Some Older Coins Inaccessible - Incrypted",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX0x1WVJYdlZtVlV1b2NZVWpKVGVFMUtUZThXMmFvdUxqZGZUMUV1QWllRW14RnIyZmNyNENuMWVyNVdqa1VSYnlydmtUa1lyRXFQdXVJNEhwZXdkdEdYTUpXS2FiaEdkZFp0djNwekc1Xy1tSFljalNxTXNQd1NtaGNReFpVOXpFWWdwNUJXVEJmdGNOVVg4LUFFRzJMdw?oc=5",
-      "source": "Incrypted",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T09:45:46+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "5889f52233776ad9a85f",
-      "title": "Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGs1VUVmTGVkbm1nam9SY3VFSU9NWlBYY3VfUlcySlJKZi1kYnRrRzZjSHExWmZTYlZ5Smo3ZlZFOUhwaV9GNW1KeFlUalZZeTY5UjFac0xrLUZvUXlmU0M0ZjBCU1FjU1hQcmI2bENWS2ZlS2w2aWRvREFFQUpKY3VzZ1ZsUWJSZEtYZnRSOUJMYUZwZUsxcw?oc=5",
-      "source": "The Motley Fool",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T09:45:00+00:00",
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
