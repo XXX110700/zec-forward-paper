@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-06T16:53:03.359639+00:00",
-  "last_success_at": "2026-11-06T16:53:03.359639+00:00",
+  "checked_at": "2026-11-06T17:49:36.400553+00:00",
+  "last_success_at": "2026-11-06T17:49:36.400553+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 21
     }
   ],
   "items": [
+    {
+      "id": "e206c61facc9ebeeb76c",
+      "title": "Zcash NU7 is live: why ZEC is rising against the market - CryptoTicker.io",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95TmhVaUpNSVl2NE9uNmM0TzZ3UExCYUs1UWZib3lwdDJmeXVrSWsyYS1zck1RTkVxMFdxLV81OHRYWUVuU0JWUEJGcGg5RHpzbHdWeGF4V2hEVmdBcUIyVXQ2NnM2eThnRDRhMWVB?oc=5",
+      "source": "CryptoTicker.io",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T17:11:48+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "34e5bca16f9470a0bd5c",
       "title": "Zcash Activates NU7 Mainnet Upgrade, Cuts Block Time to 25 Seconds - CryptoRank",
@@ -613,19 +626,6 @@
       "title": "Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd0dNaXIxTUVsX0p4VlNtalpRY25jWVVVd1EtZEJVYU5oS29kd29mUjZyaXNKY0szQTBkNm9La1BxME9val9DXzQ1Y21kdGNBWkQ1NWhLQ0dfZ2dJd1BkOW13ZE52WWwzWHI4RGhqdHBKTEx4LVdMLVpuNnYwZm9BM0FiUWVRbHljd3ppck90bkJ3VmVkUHJfSkhn?oc=5",
       "source": "Yahoo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T10:05:00+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b72a78bdaf0bbad22429",
-      "title": "Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027. - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTX3dCN0g5TWV1OWNoMTF3SlZMek5ZUkhSQ3ZTYnlIcmw4SUIwT19xVEFqNmhlVks4RGNLRGI1X2Z3LWhxSFl5TFgtZEIzMUVKV2c0Ym10UFlmSlFhbWZsUTBMWThsR0ZSbWlDSng4cjdJOG9hWm56b3hWUFAwdw?oc=5",
-      "source": "AOL.com",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-05T10:05:00+00:00",
