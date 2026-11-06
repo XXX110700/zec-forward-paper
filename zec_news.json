@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-06T22:42:01.535287+00:00",
-  "last_success_at": "2026-11-06T22:42:01.535287+00:00",
+  "checked_at": "2026-11-06T23:39:35.404800+00:00",
+  "last_success_at": "2026-11-06T23:39:35.404800+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,62 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 21
+      "matched": 20
     }
   ],
   "items": [
+    {
+      "id": "c8599d841e522b2680df",
+      "title": "Zcash NU7 Upgrade Goes Live, Slashing Block Times From 75 Seconds to Just 25 Seconds - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejFZSEQ4Z0hqb3dVVVV4ZWpXS083dmRlQnB5VFV0YXVkYU5UV3JOb0tjZDVldzFfNmc3V0dybDE3aG05YTIyUGlzTmxyZHFmOEdqamZXNFJpX2NLSTl2M1Z5VllDSVFQUUFSUmJjbTdXaGdBUFl3ZU9iX2VDcGxYSzdMTFdiV2M5YnJEaGFxUm1hVVN3QkZhckl2MVpWMnlPajZnSk5IVnZOWnRtYllBd1JCNTF4YXRPSTJjUUFR?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T23:26:32+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "3f0650cc03e17b889e52",
+      "title": "Zcash (ZEC) OI Down 7.8% as NU7 Upgrade Goes Live - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QaVhpNWJXb0V2eEYxT1loaTRwN1dxZ25lbXRfT2Rhc3Y3dUVTOUtVLUdfNWZETzZDYnoxcVI3bUczbWlubER3bUEzRGFRMU55OWFBMVZoeHBMRzQ?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T22:53:35+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "da9ddc541d6b81975738",
+      "title": "Zcash NU7 Upgrade Goes Live, Slashing Block Times From 75 Seconds to Just 25 Seconds - CryptoPotato",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYjZ2YWg1NU9OWEpwTDdubEpPaE5LOWZFUXNZZjdRNXNGOWpmMFFuNDN1SXdJVXVQUUdVeEJ4WkxXX2JUT01vX3plZkVKZWd5RVVqVVV0Q2pyaTVHbFdCTGJKSUNNR3c2dWI0UUdsZ0Z3Mm5ZbXVDOFZxd3laNklzU184d1JLLVNnQk40RmIzejBfWHd1M2dKUmlNcDZiYWRBU2p3dGMtVHpLaW50VGc?oc=5",
+      "source": "CryptoPotato",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T22:52:00+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "09de26d465443a5a3498",
+      "title": "Zcash Price Prediction After NU7 Goes Live — Can ZEC Rally? - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FeXdBZWJHV05SUm84TXRKVVVWUG5rdi14ZmVrNkk5M21wZTdKSm13Q0VBRFVrS2duTkdFMUNrUnlsdmZEWjZGeGkyOGRCX1RQbEZKVm1OQ2k5eG8?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T22:39:45+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "2b726888b0eac3539dbf",
       "title": "Zcash’s Game-Changing NU7 Upgrade Goes Live, Slashing Block Times 3X as $5,000 ZEC Rally Comes Into Focus - CryptoRank",
@@ -216,19 +268,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "ae61f75f2b4d0d1c3c94",
-      "title": "Zcash NU7 Upgrade Makes Sprout Funds Unspendable Under Current Rules - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjQWxZZlVHUW9LZEVySFBIaG9SeEpWWGtWalIycjRRV0FSeVQ4aU50UzYyT2w0V0VSQk9IVkFQdVZINGJnSk9ZQ0o1elM0SDVvVmxWQU1ycU4yaFE?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T11:13:04+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -642,45 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-05T14:31:02+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "41e1a98d3c1cdb2e3ad6",
-      "title": "Zcash Rises 2.12% in One Hour to $1,321 on Binance Spot - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GcFhnWDh3SUZwT3RWQlRqTFQ2TzA3SHYwQVpVRld3M3EtRXFUblVCUDZzWHhtNDlVVy1nTE41RDZqclNNeUtCbElZVy1Qc0pHZjV4dzFEY3Izdw?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T13:55:05+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "17bd8188e954067236f9",
-      "title": "Zcash Falls 2.06% in an Hour to $1,295 on Binance Spot - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wR2FmRDgyWFJSNWVXMmNUS1M4a2R1bWI5dFJDellkZk94WU14cVc4LXZDZURWd1ZialdCeHc5Z1RsUW1NVmhBclZPQTF6azg1LVZwenNrNWRxQQ?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T13:01:51+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "ba0c7bfc19f9d8d2ac0a",
-      "title": "Zcash targets 67% shorter block times – Can ZEC overcome funding uncertainty? - AMBCrypto",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2RvVThwWUFOclNqWG9BMHlSbHNVYWR1ZTB0eDE3b1lkMDJqa2pkV1RCS0tZZ28yQkVXNzRPOFBfSTlTb1llVE1HcERlSWh4UTVOWEhxU2ZTUV9WWXV1WXF1ZTRlQXllOHNQeGNzSnFPci05VFgzbjRzRHRZY0FjOE02NTZqNXdqZHN0WEhERGx1TVp0RzZkQzI5NGU?oc=5",
-      "source": "AMBCrypto",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T13:00:15+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
