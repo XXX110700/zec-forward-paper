@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-06T10:02:08.870294+00:00",
-  "last_success_at": "2026-11-06T10:02:08.870294+00:00",
+  "checked_at": "2026-11-06T11:02:46.418837+00:00",
+  "last_success_at": "2026-11-06T11:02:46.418837+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,49 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 21
+      "matched": 22
     }
   ],
   "items": [
+    {
+      "id": "bf913404509db4bc7087",
+      "title": "Zcash NU7 Upgrade Goes Live With 60% Fee Recycling - Bitcoin Foundation",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnZUSFZVb1praWEwVVlyQVI2YnE0T2ZXaTRobnNQQlYxdmlnb0xTdlpsQU0zOTRtMlZDbWMxVHJZaW1pMWRaUm04V1NpY3NrbjFWN0lIUnVsdm1BdVQ4SEpNdmZ0VHZRRFlYWjZCN3lWRTZIdTMwcTA0dGNheG1MRjVDYzl4VUJvSXZ3dEdTUVVsNWdJY21qS28zU3NIemZZSElj?oc=5",
+      "source": "Bitcoin Foundation",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T10:53:46+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "207323c14439eb47e62e",
+      "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaU9OaXhXTGV6TWwxSk93UUJpV0M0cGVNVHJuenZnQXg2QnRFNUZHV1daQjRtWjh5ek5EUElIdGdJNjlpRmJpSGp1VUpZS3NQUHI1SEJoTWF4Q3BUY2FFWnJqQ19sNkJVTGRFSTJNbVFGN25JcE44RUpMUUVWRWFsYXFGQ0U2VnZ2THNCVklHZjIyMHVNYW5wVkt1NUludVM1Qll1YzB3MA?oc=5",
+      "source": "Decrypt",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T10:13:27+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "90ea9dfdf069a0d50fbd",
+      "title": "Zcash Activated the NU7 Upgrade: Block Time Cut by Threefold - Incrypted",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTlJYdEM5NXlxZWJPX2VpRTQtSVI4aEVRbEF6UjZ4UU5ENjFWOXpnX1Y4VHh1UXZDeUtHNHU0YjlsV0ZjcHNteEIyZGk0SGFYZnpIb1lxV0tRT25XYVpvcHNmaWU3MWluOWlTQ2FqeGhNMmxtRWJhSG1Tck1qTzR3NFFiRDJVa0RvQ0pZdHZB?oc=5",
+      "source": "Incrypted",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T09:39:23+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
     {
       "id": "86063d08f01046e90e35",
       "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
@@ -43,6 +82,19 @@
       "source": "Cointelegraph",
       "feed": "Cointelegraph",
       "kind": "media",
+      "published_at": "2026-11-06T09:00:36+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "9a1e20ebb2569b923a4a",
+      "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmRQdkl5bjh3M2I0djYtemd3X252bnFOYUE3QkIyX1Y3amRFSnJZc19SVGtrR3NHVHR2OEROS3V2cVRJQzQ3enlUMnR3LU41T2dKdnJibncwS3RnNVJEcDRFMkJwZzJKblAyQ3N2Nm5DSzNwdnVJcE91UjhBZFRQUmlBdDVmN2pIU0xnelZpYmdQM1AtVEREOTNoSENfbDIyb2JFWWJ2RW84NGtZaGdrdTBJaTJxNm5kN01mamt4ZlU0WlBCS0hMN1lkSkRwQQ?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
       "published_at": "2026-11-06T09:00:36+00:00",
       "event_time": null,
       "sentiment": "偏利好",
@@ -193,19 +245,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "176e143869f39633c117",
-      "title": "[Altcoin spot ETFs] HBAR alone draws inflows as SOL, AVAX, HYPE, ZEC and NEAR lose funds - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzSHphallPRzNrbkM2NS15dm5neFUwaDAzdWZ3SE1FTE42WWtlU094RVFiZ1NTUDVTX3FpSTNzNG5jeU9abjJ0TURpejRHazVFcjVrdlFaZ2NKQQ?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T03:45:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "ac46766e292a08834b92",
       "title": "Zcash Activates NU7, Taking 60% of Transaction Fees Out of Circulation - unchainedcrypto.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaEhVTy1XZWIyOU9ZVWtOV0VWU2RhWXZNVVpDOVozUE92MEJQVkdDa3o0eVZqWG95U0h4MGhOMXZXa1U0Ym41MlFJaEd1blMwZEVVOVBSTUZ0aWJyTVl5Zy1zblFaMjNrUnh5YjlnR21GSWNFd1dhZFItVTBIaFBCTEVtRW44ejRDZHQtUUpoQ2dHcm9KWFZleDRfN0hDUQ?oc=5",
@@ -336,19 +375,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "f4df8dc85da985b943fb",
-      "title": "Crypto Price Analysis, BTC, ETH, NEAR, ENA and ZEC, Nov. 5: Bitcoin Reclaims Daily Averages as Ethereum Confirms MACD Crossover - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LenhteG1fM25PWHA2MGtnd3ZucVFIaXJsb2xSM1JrMkhta3VvbWNLdTE5N1lDUkVUOGNqdlB4bEN5OFV5aHV4U3lrWmdyTGlwa00zUWdnWVB2SlE?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T18:17:01+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "0f59fc3df4469cb5e3bd",
       "title": "Zcash Climbs 2.23% in One Hour to $1,260 on Binance Spot - TOKENPOST",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QamJEQk01QXBURTZGbUxNaEpXRDYzN2VURUNiSi1LaWxFaXc3ZjZYRVJPUDRGTllTYzRPTzBaSWJHVWFCZGtXSkJlTmtzYndlUGRNbDFhX1d5UQ?oc=5",
@@ -385,6 +411,32 @@
       "event_time": null,
       "sentiment": "偏利空",
       "basis": "标题关键词：freeze",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "11ff65bacd5ec3ff09e0",
+      "title": "ZEC 兑 SVC：将 Zcash 转换为 萨尔瓦多科朗 | 实时 ZEC 兑 SVC 价格 | MEXC - MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aRkxpN2NNYnIxMlJRaUF1c05rUzZXaE1zVXpmMnZPRnplaXdQV0JmS2dmZTNXdkoxdFllWmN0R01YWWc0cWZUMFhMSHQ4UUNRd0FzaQ?oc=5",
+      "source": "MEXC",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T15:34:39+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "860989ca9624f86be911",
+      "title": "Grayscale ZCSH 发布 $11M Zcash ETF 净流出 - blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa2dieUZKVVY2OGV0RllGTXBRZUZ3Nk1oellYRUxXUWc2MGJRU1E5SzRXbFBtN2NpTEkyNDBGSkRiWEtTR1NQSjRKa3JDdE0xYUpLWi1IOVRfZU9QWWhzNEZIaEZtaUFXQzNqQU5rUmx5Z01OSHViOXBGb1JnaE5YamZmZFFCS1hsbnc?oc=5",
+      "source": "blockchain.news",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T15:09:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -629,58 +681,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-05T02:50:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "cf909fde7beef4458657",
-      "title": "Zcash Rises 2.04% in One Hour to $1,315 on Binance Spot - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RWWU4M1JRNlJRUDQ0V1BMYWdBQl92ZHBjR1ZkXzRIUUVYQzBUX1ZEUVN4ejlpMlZoY21LWm82b0g4STBWSkpEZnBxcmk1V05SVTdvcHpBbU50dw?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T02:18:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "28de99be77a42f2f463e",
-      "title": "ZEC Wallet Adds 8,398 Tokens to Short With $142M in Cumulative Profit - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3dnJrODd6bmN4MzB4TVEwWTNnUDV1Z0NZbkRoNUxEczFReTN0SWJrdHpyVGhXaGQ5YkRMd0pRaXhva1dOYlNBYU9SOTdrbGRvLUlGVHc5aWpDdw?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T22:35:31+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "a3ca097de2ee526bd30c",
-      "title": "Zcash Grants Committee Drops 98,000 ZEC Plan Before NU7 - CryptoTicker.io",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmVnlRa1lMbjFXUUNkMlpzcjZmdTJUaUxJZE9NRnRzVGhtOVZvem9OVE9pS09KQk1QMl81dEdlS2ZCRzZldXhrWG1fRUxlWUN1N2JRel96Tm5FbGlyWXdaSXkyUlJna3ZSa0E?oc=5",
-      "source": "CryptoTicker.io",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T21:13:15+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "75d10548fe25b8912620",
-      "title": "Zcash Grants Committee Withdraws Plan to Redirect 98,000 ZEC - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pckJwejM2blpkRXJlV1JRNE5KbGl0NEhERHpvY3lGWXVsT2pzenJyUllnUWxrUU9yTmg5SmlQd2gwZUF0QnRUV200OTVyMXdkcG90SExidmRZYnM?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T21:02:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
