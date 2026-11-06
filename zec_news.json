@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-06T17:49:36.400553+00:00",
-  "last_success_at": "2026-11-06T17:49:36.400553+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-06T18:52:57.570180+00:00",
+  "last_success_at": "2026-11-06T18:52:57.570180+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 1
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -27,15 +27,41 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 100
+      "matched": 99
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 21
+      "matched": 22
     }
   ],
   "items": [
+    {
+      "id": "d5d85bafccafc6ffcfcc",
+      "title": "AI 也要“验明正身”：Anthropic 开源 FlashProve，用 Zcash 同款零知识证明核验模型输出，算力开销高达95 倍 - 区块周刊BlockWeeks",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ud2haaWRlOU9xUkgwbEo5cTJKWmwyX2c5UEdzV3lHWldQSjFrdERiN1BLRGRocVJidGpNUDBld0liYWJXcldTU2E3UFBPQQ?oc=5",
+      "source": "区块周刊BlockWeeks",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T18:34:28+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "2bca545a6f9ce3591b5c",
+      "title": "Zcash Climbs 3.91% in Four Hours to $1,354 on Binance Spot - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Yd1pScmNCMjNGamxLUUFRX0NVVTA3ZldVSUc5NHRBeGdaTXBTTTFBemNlc21KQlFMNnNGZG54U09kWWpSQ2FHUEpNRFFiTmh5RUlscGhveFAyUQ?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T18:11:04+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "e206c61facc9ebeeb76c",
       "title": "Zcash NU7 is live: why ZEC is rising against the market - CryptoTicker.io",
@@ -96,6 +122,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T14:47:03+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "405881c4a13a19c59cfc",
+      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CeEl3cUcxS011QkY4S3NCVlFyMDJQQi0wVl9OWHlvVlpVQkdydFk0OTR1U21sdkw3eEZwWDMtN2FBcW9mZXlBUjVnUlhtRWd1ZW94dnJn?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T12:41:57+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -401,19 +440,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "9b94735af082f93575d8",
-      "title": "Zcash ETF : Quarterly Report for Quarter Ending September 30, 2026 (Form 10-Q) - www.marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNczZEX2x4YXR5U1FKaU93VHN4TURaUGQ4WVFWdG5kVm04X0tFemVPemdwRjVJMmpXeWwzcnlMMHNWTnZNR1BzTEd4LXlpN0JiLUJrYzduQ0lILVBFbnF3R3lUTm5YOGRwZGM0dWNiVWJ0X25KMnJOa0dCZmZBTnNKN21EcFZvZ2RnaDE5cWUweUtTeUFWRll0elk1a0JSWmY0RW4zb3A1UV9tZ2FLcjA2VmZ2bTBna3h2MVZ1Ykg2cFFWZ1lq?oc=5",
-      "source": "www.marketscreener.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T00:58:17+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "8019b12bf3b4a0bcd644",
       "title": "Zcash Draft Would Send 50,000 ZEC to Future Miner Rewards - www.tokenpost.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sVmNBRVR3clJQRXpjYW5Jel9DbFdJelMwcHNrZ3VkTzdaVVl1X2FVOXZsTHBOWUsyM0V3RkJCVXF4OFFkb2N0U1VaeWVnTVEza3MzMmVDaWc3ZXM?oc=5",
@@ -655,32 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-05T09:45:00+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "fb70da49325198b6b43a",
-      "title": "Zcash Price Bullish Outlook with Key Resistance - The Cryptonomist",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjE3MTA2TFRYSjlVNFQ0ZDUzbnJRT241X3hqWmstNzJ6aTFhQW5fNmNaQlNHRFJiTXdzWUFKM2cxSTlRRTZKRDU1a1hHNlkyVXhlZDIzYW9CVS1ZZ1JxeHBQdmt2cWVoR1c2UHZ4TlF6X0V1ekROR3B4UVJleE5WbDFzY0FDTS1FSjF3RWdmcHRaZDhBMUpMbkk0OHpWVEJVRl9F?oc=5",
-      "source": "The Cryptonomist",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T09:34:30+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1874ab97d5f0a00f8489",
-      "title": "Zcash 升级倒计时：出块速度提升 3 倍，1600 万美元 ZEC 或被永久冻结 - 深潮TechFlow",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wWV9XcVdoNUl0V1owZGYtcWxMeHYwLVVmTWVudFhCUDZKWndlRDVmMFdZaml3Q09pNDQzQ09hMy1QcVIwa2NrNmhKaTdwbllOM21mRQ?oc=5",
-      "source": "深潮TechFlow",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T08:00:53+00:00",
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
