@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-06T21:41:20.826987+00:00",
-  "last_success_at": "2026-11-06T21:41:20.826987+00:00",
+  "checked_at": "2026-11-06T22:42:01.535287+00:00",
+  "last_success_at": "2026-11-06T22:42:01.535287+00:00",
   "status": "ok",
   "sources": [
     {
@@ -216,6 +216,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "ae61f75f2b4d0d1c3c94",
+      "title": "Zcash NU7 Upgrade Makes Sprout Funds Unspendable Under Current Rules - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjQWxZZlVHUW9LZEVySFBIaG9SeEpWWGtWalIycjRRV0FSeVQ4aU50UzYyT2w0V0VSQk9IVkFQdVZINGJnSk9ZQ0o1elM0SDVvVmxWQU1ycU4yaFE?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T11:13:04+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-05T13:00:15+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "c2b6da02eacaddbf6752",
-      "title": "Injective (INJ), PEARL and Zcash (ZEC) Surge as Crypto Traders Return to Altcoins - Cryptonews",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWjJsWlNOaXY0NmtNTWNyRDEwVHpEOTcxbm5yTlVrZmhFUTdsb053MTZJazRUaTJGUXJrUTM5b0UyNzlRY1JBLUJFRjEzNTNXR3Y5bWs3OWEwV3lhTjRkZGdMeVBqTFJCQ2F1MF8ybjh3Xzl3VlBqOFI3eF9HMkVnbnNxMkJjUQ?oc=5",
-      "source": "Cryptonews",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T10:36:49+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
