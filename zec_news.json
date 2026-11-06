@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-06T19:52:49.451866+00:00",
-  "last_success_at": "2026-11-06T19:52:49.451866+00:00",
+  "checked_at": "2026-11-06T20:47:31.830211+00:00",
+  "last_success_at": "2026-11-06T20:47:31.830211+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,36 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 20
+      "matched": 21
     }
   ],
   "items": [
+    {
+      "id": "2b726888b0eac3539dbf",
+      "title": "Zcash’s Game-Changing NU7 Upgrade Goes Live, Slashing Block Times 3X as $5,000 ZEC Rally Comes Into Focus - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONUhOTzNzX01jcUN2X3NMMlZpME9aUC1Oc0NGbG5FeXlPVXhMZng1NW50bXA0NHNzb3h1RXVBUEUzOFZIMWpfNDNnQU9BT2hadjhxVEdxS0ZqX1RUeFNCZ1NDV2ZXVzlnZWctUkhQYTZTZTRQaGEtV1dZZmxiM2dIaDdqSlhuRmFZYkFyYmE5Y2V0ZUpOcWgxbzB3X09fdkNlcGpBek9OY182QUx5LWdVYjkxQ3VtYlBkMnJoR3k0dUhJcnlNRFc4R3plRUs0UmU4VGQyZk5R?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T20:14:03+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "06565f3fb0bbdd49b175",
+      "title": "Grayscale Zcash ETF Bleeds $11M as Altcoin Funds Shed $16.8M; Hedera Draws Buyers - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MQjIwcW9yQjBqem5Sd0pHRnl5Sk1UcE82QWpQWm1kcmpXRzNtdk1NeDBZclRMTHRLWGlqODBNdFMtaURHU1MxaGJDNXZ2R0ZZN2dqa2pqeERUYjU0b3JNYmhDNHBPZTRnN0Fobnc2WG0tbnFLLVE?oc=5",
+      "source": "BigGo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T19:55:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "9a95cff1cea1c517d210",
       "title": "Zcash NU7 Is Live. Where Could ZEC Be by 2030? - 24/7 Wall St.",
@@ -216,6 +242,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "bb89fed2d192f3463d22",
+      "title": "Zcash 迎来 NU7 升级：新机制如何解决比特币的长期难题 - 币界网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQR2tCWXRST3JTMDBjV08taWV4cm5BU0hpZ0xvbWdPY291QlBpNTllTE1lSVVVSU1GX0M1NDg2emdTb05hZk5TSnNyeWJPOGwwNWc?oc=5",
+      "source": "币界网",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T10:41:00+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：升级",
       "verification": "未独立核实"
     },
     {
@@ -518,19 +557,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "d860fd959615647adbd7",
-      "title": "Zcash Falls 3.83% in Four Hours to $1,238 on Binance Spot - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ob0tsZlZ3Mms4QjlfOGc1cFpYdmY1ZGhUUnJPdmhyc0EtTjJwZmZjSGE5eWVRVzVFdzczVlJaWHJ1V3hzUURCTlN1TkJySjBSN2p6YnRReFpwdw?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T18:51:13+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "0af850e6cf319493bf54",
       "title": "Zcash's Next Upgrade Arrives - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNmc1bzZyRlFUb3lUazB0aTR5M1d0MGh3eDFuM2hnOVpfQjlzSjVIMWZxVUYzeERUNTZhQU1MM3dNdlJmdlRuTHoxTHlJdTdrVmI3b1p1MlY1UkZ6Zm1ha1ZaY2NHcWJMMy1kdzVYTDIxZXVyZkxwUVVNLVlqMF9LZDI3ck5kY2N2bkN4Y3VaczU2VV8tSEo4?oc=5",
@@ -658,32 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "c2b6da02eacaddbf6752",
-      "title": "Injective (INJ), PEARL and Zcash (ZEC) Surge as Crypto Traders Return to Altcoins - Cryptonews",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWjJsWlNOaXY0NmtNTWNyRDEwVHpEOTcxbm5yTlVrZmhFUTdsb053MTZJazRUaTJGUXJrUTM5b0UyNzlRY1JBLUJFRjEzNTNXR3Y5bWs3OWEwV3lhTjRkZGdMeVBqTFJCQ2F1MF8ybjh3Xzl3VlBqOFI3eF9HMkVnbnNxMkJjUQ?oc=5",
-      "source": "Cryptonews",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T10:36:49+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "5d46fcb80168f003d44c",
-      "title": "Not Hyperliquid. Not Zcash. This Will Be the Top-Performing Cryptocurrency of 2027. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd0dNaXIxTUVsX0p4VlNtalpRY25jWVVVd1EtZEJVYU5oS29kd29mUjZyaXNKY0szQTBkNm9La1BxME9val9DXzQ1Y21kdGNBWkQ1NWhLQ0dfZ2dJd1BkOW13ZE52WWwzWHI4RGhqdHBKTEx4LVdMLVpuNnYwZm9BM0FiUWVRbHljd3ppck90bkJ3VmVkUHJfSkhn?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T10:05:00+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     }
   ]
