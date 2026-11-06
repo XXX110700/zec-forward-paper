@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-06T05:58:45.864607+00:00",
-  "last_success_at": "2026-11-06T05:58:45.864607+00:00",
+  "checked_at": "2026-11-06T07:14:19.432969+00:00",
+  "last_success_at": "2026-11-06T07:14:19.432969+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 20
+      "matched": 22
     }
   ],
   "items": [
+    {
+      "id": "facce95dedbb615d0011",
+      "title": "Cryptocurrencies Price Prediction: Hyperliquid, Bitcoin & Zcash – Asian Wrap 06 November - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNm1Ha0NqQjlDZU00VmJlSlR6dXR6U0QyTGpGaFA3c3VPNHBSNnlGZGlNeXJOdHBPQUhQT014ek1mN2ZZU1ZwQXFBeVB4YkFPQjZMaGs0RXBkUWt4MHRmUWdkMm5OMGhBR2xiTTVjaDhOd055UUVpOEZ0b0o3UHdPSVJYRnFmXzhnc3pTLU1KUGtOMElFNU9RT0JDODJmX1FCTVJjM1hwZVRheUhHb2g2NWJVSERVbUVQTmRNcVI3MDNaVVJQUjZrUm5WRENBSEJNTW9aVlM1QjduZw?oc=5",
+      "source": "FXStreet",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T06:00:26+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "65f50a276f0988ae74b5",
       "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
@@ -109,6 +122,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T02:31:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "c4ceaa5499cab2c19971",
+      "title": "美国 ZEC、NEAR 现货 ETF 单日合计净流出 1176.79 万美元 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9icG5zTmRaVmFHZDl3Z3UyRTBIOGg0WE1KTmZnSUFrSmVsWnVwaTlyc1N3ZjZEUTB5R0xmWjNCU0xLUER2eHpJTks4N1VuRUMxS1ptUXBUU3FnVTBXMXpLN2NOcF9ZYUE?oc=5",
+      "source": "TradingView",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T01:15:35+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -245,19 +271,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "11ff65bacd5ec3ff09e0",
-      "title": "ZEC 兑 SVC：将 Zcash 转换为 萨尔瓦多科朗 | 实时 ZEC 兑 SVC 价格 | MEXC - MEXC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aRkxpN2NNYnIxMlJRaUF1c05rUzZXaE1zVXpmMnZPRnplaXdQV0JmS2dmZTNXdkoxdFllWmN0R01YWWc0cWZUMFhMSHQ4UUNRd0FzaQ?oc=5",
-      "source": "MEXC",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T15:34:39+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "6ec85c09bddb27cca6c6",
       "title": "Crypto Price Analysis, BTC, ETH, NEAR, ENA and ZEC, Nov. 5: Bitcoin Reclaims Daily Averages as Ethereum Confirms MACD Crossover - CryptoRank",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOLUVneUFOYUxYOE14eTdSdkhSTEE5NnczNDVCdzMyLU9CYVZ5cGtaOHVDeEhITGwwcnF1LXVRdmV5UUl4VDZRUlNXUVY3S3Zkd1pWalNVVVkzb0pYTXoyOXV0bHJvSFlfTE93TC03bmNRNUNnQVU0Wi14Z1VIQnBPNnZtdnI2NDhyekZBQWpUcWprOW1DbUQ4TVZKMHNYcEQxa2puSTNzTHVUQnI4Qjk3bXpwTDVDYU1DVVg5NUIwR3hlU2l6NDNVeGxQcllUaENMVzRzelR4eVp1Wi1BR1NtQndEOUtPUGlhX0ppd1dyZw?oc=5",
@@ -317,19 +330,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-05T10:36:49+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "199f18efb6072d4223c5",
-      "title": "Zcash Leads Top Crypto Gainers With an 8.23% Rise to $1,305 - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVa0FCSnlnbHM1dG11cnBFTmRZZVpuSzU1dnlVOGZwN3lqUzlpa0J5N2pZRm14NXhGNF9qODAxZGZrRE1zRkRwaHROVl9JZFNvWWM1VDZyMzMyQQ?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T10:19:32+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -398,19 +398,6 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "0a4e9279fff9346190a3",
-      "title": "Zcash and Ethena Lead 24-Hour Gains Across 17 Crypto Assets - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2MElOTjJMY3MxeTFObDRmaWE1UkdsV2tsWG12OVNlc3BtMk1RX3dhTjROQ2dGUV9PemxsMk5Kb0E0a21WNFF1YUxmTkZXa0U3UHo3Q0lHeDNXUQ?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T08:13:03+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -622,19 +609,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "6e593a393fdff1cdfb45",
-      "title": "Top 10 Crypto Gainers Today: VVV, ZEC, and PUMP Lead the Rally - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLVpBQ2Rld1VtZXZBSmhreHdqc3BHNXg2Z1VVV3piSE0yWVRmaks1dU5iOXpROG5LSmVqR3loSU0wNVF4QVZONl9jTjd3R3ZQamQ4Z0J4d1JxbTFaYmFXYUt2VEFWVy1jYUJnUVFkUjhvc1VmRkk1UktUMnJES1pVdzhtMWxCTGYzaGltdFFyWkVRcmdLczR0Q1UwNlhsZw?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T19:22:05+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "935c9332ece3073334aa",
       "title": "What Are Privacy Coins? Bitcoin, Monero and Zcash Compared - The Defiant",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ1NXRS1sRWJGajl5LTZEUnVwNXdLZmp5RUM5SW5EdkdBbmVsRkZSSmhfVVRmTXNZQmNtY25tYnc5Mlh5R1hXcWFDWGhkZDZFWU5HaUVjZGlwdFhxelJ6Q0I0ZDlHSXJYQlVMaU9aTmZaQ0hZTndrVThNdUtGVFBWNHJNZ0w4U3RaX3N6ZndpbU85Y25O?oc=5",
@@ -684,6 +658,32 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "6cf048adbe90b592ea14",
+      "title": "Top Zcash Price Predictions as ZEC Surges 14% Daily - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTE3Y1ZZUVNwRUY3Wi1qY2c4R3dDVy1hTGh5MWQ5RGVadG1JYnZrLWlGOGZNRE9wVUtrOV90bjVpSFpObEFha1hYcnZyeHd3Ymg0VVNzcnhuNlliSHlzNWdkMW5JblVHRjFfM0l2aG9uRG5iQzRaRGFRUUNITDBTQ3FNeFVxR0ltdVN3cTEwc1NWQQ?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T16:47:58+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "80ffbef51fbb14ea6447",
+      "title": "Zcash price rebounds 9% ahead of NU7 as traders eye $1,370 - Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zWkxCQ0RkckVWSy1TTVdUNkNYUF9jWTJ0Q3pzZVdQUFVUMUJ6R3RaSkNVenUzeWc0OGg3aE5KNUpjOXlkVkd1OHhXMk4wUTUtallpZmpXVnBJNEs5bzRhNU4tWUVQRzd4YUJaYlRXY0RfdXJaOUE?oc=5",
+      "source": "Crypto News",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-04T16:45:21+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
