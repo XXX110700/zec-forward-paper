@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-06T01:04:25.849042+00:00",
-  "last_success_at": "2026-11-06T01:04:25.849042+00:00",
+  "checked_at": "2026-11-06T02:12:57.375041+00:00",
+  "last_success_at": "2026-11-06T02:12:57.375041+00:00",
   "status": "ok",
   "sources": [
     {
@@ -193,6 +193,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "11ff65bacd5ec3ff09e0",
+      "title": "ZEC 兑 SVC：将 Zcash 转换为 萨尔瓦多科朗 | 实时 ZEC 兑 SVC 价格 | MEXC - MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aRkxpN2NNYnIxMlJRaUF1c05rUzZXaE1zVXpmMnZPRnplaXdQV0JmS2dmZTNXdkoxdFllWmN0R01YWWc0cWZUMFhMSHQ4UUNRd0FzaQ?oc=5",
+      "source": "MEXC",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T15:34:39+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "6ec85c09bddb27cca6c6",
       "title": "Crypto Price Analysis, BTC, ETH, NEAR, ENA and ZEC, Nov. 5: Bitcoin Reclaims Daily Averages as Ethereum Confirms MACD Crossover - CryptoRank",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOLUVneUFOYUxYOE14eTdSdkhSTEE5NnczNDVCdzMyLU9CYVZ5cGtaOHVDeEhITGwwcnF1LXVRdmV5UUl4VDZRUlNXUVY3S3Zkd1pWalNVVVkzb0pYTXoyOXV0bHJvSFlfTE93TC03bmNRNUNnQVU0Wi14Z1VIQnBPNnZtdnI2NDhyekZBQWpUcWprOW1DbUQ4TVZKMHNYcEQxa2puSTNzTHVUQnI4Qjk3bXpwTDVDYU1DVVg5NUIwR3hlU2l6NDNVeGxQcllUaENMVzRzelR4eVp1Wi1BR1NtQndEOUtPUGlhX0ppd1dyZw?oc=5",
@@ -239,19 +252,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-05T13:00:15+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "2523154f84256f563ce2",
-      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart and Price History - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWUF3VTYyMmFad2tQamthVmVhT3dPWlh5NG01LUtxbm42S0pOU2R0Q2FQZHVlOHBhV29xSzdsTEExX21FTTd2cTNObTc3RlBQVGZLMm5n?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T10:43:30+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
