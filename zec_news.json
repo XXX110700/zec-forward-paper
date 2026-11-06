@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-06T02:12:57.375041+00:00",
-  "last_success_at": "2026-11-06T02:12:57.375041+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-06T03:54:03.323360+00:00",
+  "last_success_at": "2026-11-06T03:54:03.323360+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 1
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 97
+      "matched": 98
     },
     {
       "name": "Google News 中文",
@@ -36,6 +36,45 @@
     }
   ],
   "items": [
+    {
+      "id": "78c2e93ee0dd406349f6",
+      "title": "Zcash Price Forecast: ZEC defies crypto market sell-off as NU7 upgrade fuels breakout hopes - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWXZxMXZELVpJRkFuZ2dZekxIV01ONVhkTmVadWdtcWRXdDJwQ3ByWXNUajZaQ0dnYnlpZDlxUjFJOWFrUE9PZVlnQUpuYzZFblc2RFRLN0xJVzNNWFVXczRPQWhKM0dHTG9SR1p4TnkydUg3N2lkT3ctZlp0LXRadl9xWkdBdDJmQ0RNbWlycHdDWXVnejE2MFZaUEJLWUpFczNzeHBHWlhnbm9Pb2ZVZU5NaHhMZER5QzNYR09pT2Nqd0NCekYtR1doMlA5RGozVUR2cS1VZGxORGtLeHQtZHk3Rlg?oc=5",
+      "source": "FXStreet",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T03:46:00+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "ac46766e292a08834b92",
+      "title": "Zcash Activates NU7, Taking 60% of Transaction Fees Out of Circulation - unchainedcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaEhVTy1XZWIyOU9ZVWtOV0VWU2RhWXZNVVpDOVozUE92MEJQVkdDa3o0eVZqWG95U0h4MGhOMXZXa1U0Ym41MlFJaEd1blMwZEVVOVBSTUZ0aWJyTVl5Zy1zblFaMjNrUnh5YjlnR21GSWNFd1dhZFItVTBIaFBCTEVtRW44ejRDZHQtUUpoQ2dHcm9KWFZleDRfN0hDUQ?oc=5",
+      "source": "unchainedcrypto.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T02:46:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "c7cefefe81286fc43f96",
+      "title": "Zcash Rises 3.60% in Four Hours to $1,313 on Binance Spot - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40endLZXF4R3B4QmVYWFZvX0hZVHVjNkN0ajJKS0ZWQjQ2cWVqQ1NEY05xcDFnRHdQX3dndG5kQl9sNGJxZW9mT0U5SjVjcWlpcHdObnZFM2JmZw?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T02:31:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "9b94735af082f93575d8",
       "title": "Zcash ETF : Quarterly Report for Quarter Ending September 30, 2026 (Form 10-Q) - www.marketscreener.com",
@@ -154,10 +193,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "4b4492b74c46e561fdee",
-      "title": "Zcash Climbs 2.23% in One Hour to $1,260 on Binance Spot - www.tokenpost.com",
+      "id": "0f59fc3df4469cb5e3bd",
+      "title": "Zcash Climbs 2.23% in One Hour to $1,260 on Binance Spot - TOKENPOST",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QamJEQk01QXBURTZGbUxNaEpXRDYzN2VURUNiSi1LaWxFaXc3ZjZYRVJPUDRGTllTYzRPTzBaSWJHVWFCZGtXSkJlTmtzYndlUGRNbDFhX1d5UQ?oc=5",
-      "source": "www.tokenpost.com",
+      "source": "TOKENPOST",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-05T16:58:25+00:00",
@@ -645,45 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "6cf048adbe90b592ea14",
-      "title": "Top Zcash Price Predictions as ZEC Surges 14% Daily - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTE3Y1ZZUVNwRUY3Wi1qY2c4R3dDVy1hTGh5MWQ5RGVadG1JYnZrLWlGOGZNRE9wVUtrOV90bjVpSFpObEFha1hYcnZyeHd3Ymg0VVNzcnhuNlliSHlzNWdkMW5JblVHRjFfM0l2aG9uRG5iQzRaRGFRUUNITDBTQ3FNeFVxR0ltdVN3cTEwc1NWQQ?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T16:47:58+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "80ffbef51fbb14ea6447",
-      "title": "Zcash price rebounds 9% ahead of NU7 as traders eye $1,370 - Crypto News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zWkxCQ0RkckVWSy1TTVdUNkNYUF9jWTJ0Q3pzZVdQUFVUMUJ6R3RaSkNVenUzeWc0OGg3aE5KNUpjOXlkVkd1OHhXMk4wUTUtallpZmpXVnBJNEs5bzRhNU4tWUVQRzd4YUJaYlRXY0RfdXJaOUE?oc=5",
-      "source": "Crypto News",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T16:45:21+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "a471fd71d7f787919323",
-      "title": "Zcash (ZEC) Rises 9.9% in 24 Hours to $1,317.26 in Wednesday Snapshot - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMTHh3WUlGXzJzWjF0MWJPTVlCLXNQOExCSGJfcE9oTkFoTEw1blE3b3VXME1BN3c3RDNzOUFrSDhwdVMzeWNJZnFuUDR4NmNpNmoyZVdXNzA5QQ?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-04T16:44:27+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
