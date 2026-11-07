@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-07T12:49:49.142782+00:00",
-  "last_success_at": "2026-11-07T12:49:49.142782+00:00",
+  "checked_at": "2026-11-07T13:51:42.322723+00:00",
+  "last_success_at": "2026-11-07T13:51:42.322723+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,49 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 18
+      "matched": 20
     }
   ],
   "items": [
+    {
+      "id": "25c693c11e3268ef44cc",
+      "title": "Zcash Activates NU7, Targets 25-Second Block Time - IDNFinancials",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXROeTRkbmtmTGs5b2lxODJwQUpCVDA5U3JCNU9vQ1cteF92SkZRVUltZ3dpN1laLWM2LVRjVlN2NXpoOERGUW0xNHJpWGpNajRxWExnVDh2bEpNN0h1YjFIRTc0dklXeFctSW5DWW12bTh3TnFFRm9QT213M2lUNWpueWRubHVERDZTQk1SR2g0d0pMRW1oQTFidUJMNGM?oc=5",
+      "source": "IDNFinancials",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T13:00:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "eeebadd2fd44face284c",
+      "title": "Zcash 激活 NU7，目标区块时间降至 25 秒 - IDNFinancials",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNmZ3VTQwRVZva01NX0JrR0E1MUJDRXh6YUlPdjVwTjNlZEN3U3lDaVR3Tmkzb3M1MHZ5Snp1c0E2OGFXQTV4dWktT25QMEhiZ3E5bWdPSFdaZjFKY0RZSkg5YkN2Nlo0bTV6TGkxQy13SDhlS29hRjRvZ1h1LUZxR0NIS2ZhMno4YmZScXh2NHktMHkzZnJEMEVINjc2RnEzZnNaMHEtazZlWXlvSjNmdHlrRHRtQmxlandXODNTbFFSWWFsN3NvLVRPMkVLX3pJQlFqT1pteG10UVNLRGozSVpNMTJaWmlXRlhEczZtNDlvaHYxOFhHUHhB?oc=5",
+      "source": "IDNFinancials",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T13:00:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "fe440871d93d19d14651",
+      "title": "Zcash Price Prediction: Can Zcash Break Above $1,360 and Rally Towards $1,650? - Coinpedia",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkVOLVM4Y0JVUlA1UzFpM2Voc2pRaGVRMVlQYzVELUYzNXpnMWpjNk9yMkFVSHVHR0FERGV5cm5hYVo2b29rdE5WZzJIVEd1NVIyckRJblRWN013VVpxNU84eHBsdEJObFBxeW43RjF4dTRHZkU5ZUIzcjFiY21UYlEzYXI5bmVtNktHS3pDUFl3YzdqaGtaWEdkcWNtQ3h5OEdyMjNwRENreGoySU1J0gG0AUFVX3lxTE05MGlWNTBDT3FOc1RLZ3ZWT09VNDRoeGxianJ3TmhSbUd3UldGdnBUa3JvVkFtWmU5YmVPcWl2QlhVSDhtU1o3enJVWWpzazdmcmdGQ0ROT2VraUxxbV84ejY4VzNocjY3bkRPZDRJX3kzZTVnSzdWT1luSGF2QUpDZUtxdTJSTDh2TENLSUxCd210ckJMLWNUMmxaTW04OFg0d0IwVE9xNDJST1ZCYnFIcm5vbg?oc=5",
+      "source": "Coinpedia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T12:10:32+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "8f148c4b7ba7688429fc",
       "title": "ZEC and CC Lead Altcoin Swings as BTC Settles at $76K Despite US-Iran Attacks: Weekend Watch - CryptoPotato",
@@ -60,6 +99,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "030df5adb7aad4b2fc03",
+      "title": "Zcash 价格上涨，升级冻结 1600 万美元 ZEC 并建立安全储备金 - Bitcoin News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWkVhNzNwZ21tS2FjQUtQdVo0WGdNSThNZFJENy1heHRBTW9HZWhhT3dCcHZIUkFpUkxYSFZLZEhlZWZjMDdhdHp4UDdVa1pzUW9rX1VNMVZ6RmhWR2dRaC1LNTl3Nkw0RHBjd0FZOTF6MFJUclVVcFpfVEF3cWM5TURCWVJlclpKRktXNXdjYzNKSHNBcG01SUpzRjFrTzF3Z0dJaXk0clc2QTNrRUgtaWVKY0ZlSzI2SVNrSlNlZlVDTkNHT29sTFIzaGgwVG9kamxj?oc=5",
+      "source": "Bitcoin News",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T01:20:11+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     },
     {
@@ -229,19 +281,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "cc3c371fdd7bd7f660e3",
-      "title": "Zcash USD (ZEC-USD) interactive price chart - Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSa3RtVVViOWRXd2FYMl9GLUt5RVdTYzRTRi1oTm1VN0N6VDh5SGIxX0dDczQ2eG90Tk1IVUVMREtVLU5OWkRXU20xdlZNT3VDOFpKbW9ZMjR3U1ZEbEE?oc=5",
-      "source": "Yahoo Finance Australia",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T16:29:23+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -440,19 +479,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "27d7718e389503bdbcea",
-      "title": "Zcash Activates NU7 Upgrade, Tripling Speed of Privacy Payment Confirmations - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NM2F0X0psNkdOejJVMDdZak14Y3pBbEZmb3lQT0MxamhVdTNhQ3I2Ukdrdk16ZXlqUEJZbTAwNmVqWklSZjFPSW1vTUUtSl92MEEwdTZrbVlhYVo5OHI4bmZYS1d0bjN5WkIzVDUyZmJkMzgtY0E?oc=5",
-      "source": "BigGo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T07:35:00+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
       "id": "081faeea268de1cfe9e5",
       "title": "Zcash Activates NU7 Upgrade, Tripling Block Generation Speed - bloomingbit",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PU2o4WHFkT0xGRDVRNVhwTTZmazF6ODVLaFFIV2FQU0paSms5dlVFMUhkOTVRWXpXUTZsZjNQSHUwOWtZVGRENDFPLW9GNkZUNjhISg?oc=5",
@@ -596,19 +622,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "8019b12bf3b4a0bcd644",
-      "title": "Zcash Draft Would Send 50,000 ZEC to Future Miner Rewards - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sVmNBRVR3clJQRXpjYW5Jel9DbFdJelMwcHNrZ3VkTzdaVVl1X2FVOXZsTHBOWUsyM0V3RkJCVXF4OFFkb2N0U1VaeWVnTVEza3MzMmVDaWc3ZXM?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T20:55:19+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "18543d63750a75890209",
       "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFNXSi03ODFQOFdCaUVLWXY0YmFwZGJxYkI5UloxS3F1M1VkVmM0YXlXMFhNUVlFSjF6d0xnMGNDRkVMbFE2NWp5QnlVbVBZVFZjWUp5WW1leUNSUkxKUmpHVk9jNDRmUjRCb2VWUGo4X0NiNDhJVFZHOFliUDYzQ0J5TERpVEJuc1pWNVJCZnB5ME9TVzBr?oc=5",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "0f59fc3df4469cb5e3bd",
-      "title": "Zcash Climbs 2.23% in One Hour to $1,260 on Binance Spot - TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QamJEQk01QXBURTZGbUxNaEpXRDYzN2VURUNiSi1LaWxFaXc3ZjZYRVJPUDRGTllTYzRPTzBaSWJHVWFCZGtXSkJlTmtzYndlUGRNbDFhX1d5UQ?oc=5",
-      "source": "TOKENPOST",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T16:58:25+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
