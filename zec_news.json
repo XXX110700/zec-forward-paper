@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-07T02:49:53.298612+00:00",
-  "last_success_at": "2026-11-07T02:49:53.298612+00:00",
+  "checked_at": "2026-11-07T03:50:41.885156+00:00",
+  "last_success_at": "2026-11-07T03:50:41.885156+00:00",
   "status": "ok",
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Zcash Foundation",
       "status": "ok",
-      "matched": 1
+      "matched": 0
     },
     {
       "name": "Cointelegraph",
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "9781cbf130c3e1565ff3",
+      "title": "Zcash Falls 2.01% in One Hour to $1,330 on Binance Spot Market - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEZjMxYjBBMXl0eUI0dHhmZU53TUtHZEF2RFJQcWpFcWJYcW1tYy10UmhTTHZHRmpnVEpmU3pjUmNiQThJVDdIYXptM2I4S203Q1hBS2xnM3M3QQ?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T03:25:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "0c2fe005e4735037f1f4",
       "title": "Monero vs Zcash: Which Wins by 2028? - 24/7 Wall St.",
@@ -668,19 +681,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-05T15:34:39+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "860989ca9624f86be911",
-      "title": "Grayscale ZCSH 发布 $11M Zcash ETF 净流出 - blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa2dieUZKVVY2OGV0RllGTXBRZUZ3Nk1oellYRUxXUWc2MGJRU1E5SzRXbFBtN2NpTEkyNDBGSkRiWEtTR1NQSjRKa3JDdE0xYUpLWi1IOVRfZU9QWWhzNEZIaEZtaUFXQzNqQU5rUmx5Z01OSHViOXBGb1JnaE5YamZmZFFCS1hsbnc?oc=5",
-      "source": "blockchain.news",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T15:09:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
