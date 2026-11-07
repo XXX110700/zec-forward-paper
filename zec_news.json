@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-07T18:43:44.948297+00:00",
-  "last_success_at": "2026-11-07T18:43:44.948297+00:00",
+  "checked_at": "2026-11-07T19:42:33.586023+00:00",
+  "last_success_at": "2026-11-07T19:42:33.586023+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,18 +32,18 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 21
     }
   ],
   "items": [
     {
-      "id": "25c693c11e3268ef44cc",
-      "title": "Zcash Activates NU7, Targets 25-Second Block Time - IDNFinancials",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXROeTRkbmtmTGs5b2lxODJwQUpCVDA5U3JCNU9vQ1cteF92SkZRVUltZ3dpN1laLWM2LVRjVlN2NXpoOERGUW0xNHJpWGpNajRxWExnVDh2bEpNN0h1YjFIRTc0dklXeFctSW5DWW12bTh3TnFFRm9QT213M2lUNWpueWRubHVERDZTQk1SR2g0d0pMRW1oQTFidUJMNGM?oc=5",
-      "source": "IDNFinancials",
+      "id": "97188b9d50571d6911d2",
+      "title": "Zcash’s new security fund is 99.7% old money - CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13NUM2bnhfTjhBOFFDbTcxSkRQU3ozNkMydFl0T2o2Wm51XzU3d2t4ZFJTcnlRTXZMUnloSV83TnBSTjZ2bzRLbWpINk9GQldGaFhVdEdLR3NzU1JzVWRjdTBSV3pJaDBOZDJCb0dqYzVITXlTSkE?oc=5",
+      "source": "CryptoSlate",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-07T13:00:00+00:00",
+      "published_at": "2026-11-07T19:24:41+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -307,6 +307,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "cc3c371fdd7bd7f660e3",
+      "title": "Zcash USD (ZEC-USD) interactive price chart - Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSa3RtVVViOWRXd2FYMl9GLUt5RVdTYzRTRi1oTm1VN0N6VDh5SGIxX0dDczQ2eG90Tk1IVUVMREtVLU5OWkRXU20xdlZNT3VDOFpKbW9ZMjR3U1ZEbEE?oc=5",
+      "source": "Yahoo Finance Australia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T16:29:23+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "18543d63750a75890209",
-      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFNXSi03ODFQOFdCaUVLWXY0YmFwZGJxYkI5UloxS3F1M1VkVmM0YXlXMFhNUVlFSjF6d0xnMGNDRkVMbFE2NWp5QnlVbVBZVFZjWUp5WW1leUNSUkxKUmpHVk9jNDRmUjRCb2VWUGo4X0NiNDhJVFZHOFliUDYzQ0J5TERpVEJuc1pWNVJCZnB5ME9TVzBr?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T19:46:03+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     }
   ]
