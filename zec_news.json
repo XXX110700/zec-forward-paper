@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-07T04:52:57.254975+00:00",
-  "last_success_at": "2026-11-07T04:52:57.254975+00:00",
+  "checked_at": "2026-11-07T05:48:49.624739+00:00",
+  "last_success_at": "2026-11-07T05:48:49.624739+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 18
+      "matched": 19
     }
   ],
   "items": [
@@ -108,7 +108,7 @@
       "source": "Cryptonews.net",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-06T22:39:45+00:00",
+      "published_at": "2026-11-06T22:40:19+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -297,19 +297,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "ae61f75f2b4d0d1c3c94",
-      "title": "Zcash NU7 Upgrade Makes Sprout Funds Unspendable Under Current Rules - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjQWxZZlVHUW9LZEVySFBIaG9SeEpWWGtWalIycjRRV0FSeVQ4aU50UzYyT2w0V0VSQk9IVkFQdVZINGJnSk9ZQ0o1elM0SDVvVmxWQU1ycU4yaFE?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T11:13:04+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
       "id": "e53ee4cf6ce2c7f8c263",
       "title": "What Is the Zcash NU7 Upgrade? 60% Fee Recycling Goes Live - Bitcoin Foundation",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnZUSFZVb1praWEwVVlyQVI2YnE0T2ZXaTRobnNQQlYxdmlnb0xTdlpsQU0zOTRtMlZDbWMxVHJZaW1pMWRaUm04V1NpY3NrbjFWN0lIUnVsdm1BdVQ4SEpNdmZ0VHZRRFlYWjZCN3lWRTZIdTMwcTA0dGNheG1MRjVDYzl4VUJvSXZ3dEdTUVVsNWdJY21qS28zU3NIemZZSElj?oc=5",
@@ -333,6 +320,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：升级",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "1484014d45367a078b7c",
+      "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOXV0UW94dVZiRGhIMUtiV2EzMHhzUGNpVHRHNEtWZVBHU2YxR21IM3lBaHltNzhZVW41MXNSaHpMeGdfa2Q0eFBadXFiVjJXVnVZdGZTZzhsSTRBNVgtZkNUYjRMemtYZjB0a0RaMVg1b1pzUGhMRnZ1QVhYZk9HSHpleXNYQzItWDh0al9jUVVRaWdQV2UwMg?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T10:13:27+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
