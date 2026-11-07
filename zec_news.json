@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-06T23:39:35.404800+00:00",
-  "last_success_at": "2026-11-06T23:39:35.404800+00:00",
+  "checked_at": "2026-11-07T00:57:33.146855+00:00",
+  "last_success_at": "2026-11-07T00:57:33.146855+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "0c2fe005e4735037f1f4",
+      "title": "Monero vs Zcash: Which Wins by 2028? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYi1na2ZqbTAwa1gyNkd5NVI4OUdweFlOb2ZJb0k0RF91S3NkMU1tOGZVb1dtLUxHNlBYdFhNMzF2ZWJtdmxDOWRwckVnYzNYQm5CS3RkM1JodmxHdThJeHAyczQwcjVpd1E4UUJMTFY1eHlVSzJEb2ZhM3l0RUo0LVJQdmNlU2ZTbWJ3VnhHV2hDQzZtQldobw?oc=5",
+      "source": "24/7 Wall St.",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T00:01:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "c8599d841e522b2680df",
       "title": "Zcash NU7 Upgrade Goes Live, Slashing Block Times From 75 Seconds to Just 25 Seconds - CryptoRank",
@@ -668,19 +681,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-05T15:09:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "6ec85c09bddb27cca6c6",
-      "title": "Crypto Price Analysis, BTC, ETH, NEAR, ENA and ZEC, Nov. 5: Bitcoin Reclaims Daily Averages as Ethereum Confirms MACD Crossover - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOLUVneUFOYUxYOE14eTdSdkhSTEE5NnczNDVCdzMyLU9CYVZ5cGtaOHVDeEhITGwwcnF1LXVRdmV5UUl4VDZRUlNXUVY3S3Zkd1pWalNVVVkzb0pYTXoyOXV0bHJvSFlfTE93TC03bmNRNUNnQVU0Wi14Z1VIQnBPNnZtdnI2NDhyekZBQWpUcWprOW1DbUQ4TVZKMHNYcEQxa2puSTNzTHVUQnI4Qjk3bXpwTDVDYU1DVVg5NUIwR3hlU2l6NDNVeGxQcllUaENMVzRzelR4eVp1Wi1BR1NtQndEOUtPUGlhX0ppd1dyZw?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T14:31:02+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
