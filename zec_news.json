@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-07T06:55:37.350384+00:00",
-  "last_success_at": "2026-11-07T06:55:37.350384+00:00",
+  "checked_at": "2026-11-07T07:59:52.185603+00:00",
+  "last_success_at": "2026-11-07T07:59:52.185603+00:00",
   "status": "ok",
   "sources": [
     {
@@ -264,7 +264,7 @@
       "source": "Yahoo! Finance Canada",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-06T12:41:57+00:00",
+      "published_at": "2026-11-06T13:01:26+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
