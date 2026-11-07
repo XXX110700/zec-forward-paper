@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-07T11:40:13.001845+00:00",
-  "last_success_at": "2026-11-07T11:40:13.001845+00:00",
+  "checked_at": "2026-11-07T12:49:49.142782+00:00",
+  "last_success_at": "2026-11-07T12:49:49.142782+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 99
+      "matched": 100
     },
     {
       "name": "Google News 中文",
@@ -320,6 +320,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "ae61f75f2b4d0d1c3c94",
+      "title": "Zcash NU7 Upgrade Makes Sprout Funds Unspendable Under Current Rules - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjQWxZZlVHUW9LZEVySFBIaG9SeEpWWGtWalIycjRRV0FSeVQ4aU50UzYyT2w0V0VSQk9IVkFQdVZINGJnSk9ZQ0o1elM0SDVvVmxWQU1ycU4yaFE?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T11:13:04+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -635,6 +648,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "d860fd959615647adbd7",
+      "title": "Zcash Falls 3.83% in Four Hours to $1,238 on Binance Spot - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ob0tsZlZ3Mms4QjlfOGc1cFpYdmY1ZGhUUnJPdmhyc0EtTjJwZmZjSGE5eWVRVzVFdzczVlJaWHJ1V3hzUURCTlN1TkJySjBSN2p6YnRReFpwdw?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T18:51:13+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "0af850e6cf319493bf54",
       "title": "Zcash's Next Upgrade Arrives - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNmc1bzZyRlFUb3lUazB0aTR5M1d0MGh3eDFuM2hnOVpfQjlzSjVIMWZxVUYzeERUNTZhQU1MM3dNdlJmdlRuTHoxTHlJdTdrVmI3b1p1MlY1UkZ6Zm1ha1ZaY2NHcWJMMy1kdzVYTDIxZXVyZkxwUVVNLVlqMF9LZDI3ck5kY2N2bkN4Y3VaczU2VV8tSEo4?oc=5",
@@ -658,32 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "8d1d5fb44d4e74a10fd1",
-      "title": "Zcash Drops 3.61% in One Hour to $1,241 on Binance Spot - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TTl9GVFdqT0V6SjBtbUlTZENvdF8tTWFSWGhTS0o0ZzdVM1Y3U1A2eTNpOFJ1dzFkblpCT1lYVjZ0TGcwREVTbTdPNk5PZ1BONjN6RmpuaENBZw?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T15:51:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "9687d00f21cfa79760ff",
-      "title": "Zcash is about to freeze $16 million in its oldest privacy pool, but developers have a recovery plan - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTVpYLVNqVzJYTUtaOWZxT3dqR3pvRlNRRXQ1NW1PWjJJd2U3SHRsenFjc01GdGpZSjdOMENZS1ZYV0xSLV9iOFVFQmV6ODMwb1lIdUJMNHVEek00WEl4WWIzc0hnOWR2M3JlTW11dVZkaDAxRmYybEhLWm5tY0x4a2EzV2V5UHRidUNrQk11Rmt3Ui1meWY1NlpDbW5VWFEyUVF2OHdfUEdUdw?oc=5",
-      "source": "CoinDesk",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T15:35:45+00:00",
-      "event_time": null,
-      "sentiment": "偏利空",
-      "basis": "标题关键词：freeze",
       "verification": "未独立核实"
     }
   ]
