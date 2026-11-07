@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-07T20:38:44.366201+00:00",
-  "last_success_at": "2026-11-07T20:38:44.366201+00:00",
+  "checked_at": "2026-11-07T21:38:18.986117+00:00",
+  "last_success_at": "2026-11-07T21:38:18.986117+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "87ad633465f4b50827ad",
+      "title": "Zcash Dropped 6% in a Day, the Most in the Top 50. Does Its $1,030 Support Hold? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVHUxek9rRkZaSHp6SXp6Zncwa1JGdFJYbHlTOWlmTWJtVTgzVmFwLTNvWG1vcFNNVkUtemREYnRGQlVhZTdKbVp4UXhpYVF3U0NsMVBfNldzLUF3amMyZkRLMy1WYUk2QUdWU1ExTVNJSW5uZTlTVnZYMkdZZlhVLWJ6LVd5TWFyYkFtVGNzbVlkMzFxeVBpdjVENmFPckl0aFM4X2QwNWNEWDRQMFpzUHRTLWxxTWVyZlZmZDBNN2JmUk1SQlJGZVBYYms1dw?oc=5",
+      "source": "24/7 Wall St.",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T21:07:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "97188b9d50571d6911d2",
       "title": "Zcash’s new security fund is 99.7% old money - CryptoSlate",
@@ -453,10 +466,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "1484014d45367a078b7c",
-      "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOXV0UW94dVZiRGhIMUtiV2EzMHhzUGNpVHRHNEtWZVBHU2YxR21IM3lBaHltNzhZVW41MXNSaHpMeGdfa2Q0eFBadXFiVjJXVnVZdGZTZzhsSTRBNVgtZkNUYjRMemtYZjB0a0RaMVg1b1pzUGhMRnZ1QVhYZk9HSHpleXNYQzItWDh0al9jUVVRaWdQV2UwMg?oc=5",
-      "source": "Yahoo Finance",
+      "id": "207323c14439eb47e62e",
+      "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaU9OaXhXTGV6TWwxSk93UUJpV0M0cGVNVHJuenZnQXg2QnRFNUZHV1daQjRtWjh5ek5EUElIdGdJNjlpRmJpSGp1VUpZS3NQUHI1SEJoTWF4Q3BUY2FFWnJqQ19sNkJVTGRFSTJNbVFGN25JcE44RUpMUUVWRWFsYXFGQ0U2VnZ2THNCVklHZjIyMHVNYW5wVkt1NUludVM1Qll1YzB3MA?oc=5",
+      "source": "Decrypt",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T10:13:27+00:00",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T02:31:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "c4ceaa5499cab2c19971",
-      "title": "美国 ZEC、NEAR 现货 ETF 单日合计净流出 1176.79 万美元 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iSmRXTkc4Zy1pMDYxalpJa1AzbzljQ1o5alAzdHhxblRqNHpFUkctaFZNQVVqaVQ2clcwMVNNeGJ6U1pfNEJHdUJlM0NpcW5sejRoOVZZQ0lJekNQaG51bDMyUllWdw?oc=5",
-      "source": "TradingView",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T01:15:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
