@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-07T16:40:31.473709+00:00",
-  "last_success_at": "2026-11-07T16:40:31.473709+00:00",
+  "checked_at": "2026-11-07T17:37:17.407249+00:00",
+  "last_success_at": "2026-11-07T17:37:17.407249+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 21
     }
   ],
   "items": [
@@ -76,6 +76,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "405881c4a13a19c59cfc",
+      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CeEl3cUcxS011QkY4S3NCVlFyMDJQQi0wVl9OWHlvVlpVQkdydFk0OTR1U21sdkw3eEZwWDMtN2FBcW9mZXlBUjVnUlhtRWd1ZW94dnJn?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T05:13:31+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "9781cbf130c3e1565ff3",
       "title": "Zcash Falls 2.01% in One Hour to $1,330 on Binance Spot Market - www.tokenpost.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEZjMxYjBBMXl0eUI0dHhmZU53TUtHZEF2RFJQcWpFcWJYcW1tYy10UmhTTHZHRmpnVEpmU3pjUmNiQThJVDdIYXptM2I4S203Q1hBS2xnM3M3QQ?oc=5",
@@ -83,19 +96,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-07T03:25:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "405881c4a13a19c59cfc",
-      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CeEl3cUcxS011QkY4S3NCVlFyMDJQQi0wVl9OWHlvVlpVQkdydFk0OTR1U21sdkw3eEZwWDMtN2FBcW9mZXlBUjVnUlhtRWd1ZW94dnJn?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T02:00:38+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -174,6 +174,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T22:39:45+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "2523154f84256f563ce2",
+      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart and Price History - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWUF3VTYyMmFad2tQamthVmVhT3dPWlh5NG01LUtxbm42S0pOU2R0Q2FQZHVlOHBhV29xSzdsTEExX21FTTd2cTNObTc3RlBQVGZLMm5n?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T21:53:02+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -297,6 +310,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "f317995296cd663b7a39",
+      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdjQ1OUo2OEIzZFVqRXIwaGNTbUdIb19jRkEtWGlqQTk5SEc5UUxiNmt1X3V0SFZtRnNzOGJKWFktZVBRSVJPT1VlZnN4RmpuY0d4RkVYMzlvUQ?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T15:57:29+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "55541321565388560843",
       "title": "Zcash Falls 2.74% to $1,337 in One Hour as Long Liquidations Reach $1.28 Million - TOKENPOST",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fbVlfXzhfdnJjMTZ5S3ZwM0dMbWE1alFKb0pYTnNpVnRRdV83dGIyS1F5QXRwbGRzLVZ2SDZab3lFUnotWWZ5ZnlKY2p4blU3YUVnVE1TbjRzdw?oc=5",
@@ -330,19 +356,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T14:47:03+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f317995296cd663b7a39",
-      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KUFVXcWNqYkZNd25PVnFSc0pGQ3h4ZXpYU2FpSVYzRGJicjduWmZVMDh3bjVCcm0zQUdEUVE4LUZTWG5FdFNNazNSeUFxWC1YWUh3VW00YlUyWFlMQkRSNml6dThQaHlkd29EaEQ5dTgzN3ljaWYxd3J3?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T14:23:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -665,19 +678,6 @@
       "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFNXSi03ODFQOFdCaUVLWXY0YmFwZGJxYkI5UloxS3F1M1VkVmM0YXlXMFhNUVlFSjF6d0xnMGNDRkVMbFE2NWp5QnlVbVBZVFZjWUp5WW1leUNSUkxKUmpHVk9jNDRmUjRCb2VWUGo4X0NiNDhJVFZHOFliUDYzQ0J5TERpVEJuc1pWNVJCZnB5ME9TVzBr?oc=5",
       "source": "Yahoo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T19:46:03+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "ec90525f13d9e32dd34c",
-      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11ZDlHMEdwNUdwdFl2c0U4dWl2b2V0Y20zaWl1U05hMzFWMFR3VnpJR2NDR2FZc1BFVWZPLU1xMzFkbHpFUHltS1JRaFA5U0Q4dTR1azVocEl3THlBc3ZrRlMzS01kbUJBZWxtUTQ1WWt6dG9UTXVj?oc=5",
-      "source": "Decrypt",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-05T19:46:03+00:00",
