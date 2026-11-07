@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-07T08:52:17.587035+00:00",
-  "last_success_at": "2026-11-07T08:52:17.587035+00:00",
+  "checked_at": "2026-11-07T09:47:33.670351+00:00",
+  "last_success_at": "2026-11-07T09:47:33.670351+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 19
+      "matched": 18
     }
   ],
   "items": [
@@ -216,6 +216,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "cc3c371fdd7bd7f660e3",
+      "title": "Zcash USD (ZEC-USD) interactive price chart - Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSa3RtVVViOWRXd2FYMl9GLUt5RVdTYzRTRi1oTm1VN0N6VDh5SGIxX0dDczQ2eG90Tk1IVUVMREtVLU5OWkRXU20xdlZNT3VDOFpKbW9ZMjR3U1ZEbEE?oc=5",
+      "source": "Yahoo Finance Australia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T16:29:23+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -551,19 +564,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-06T01:15:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f317995296cd663b7a39",
-      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdjQ1OUo2OEIzZFVqRXIwaGNTbUdIb19jRkEtWGlqQTk5SEc5UUxiNmt1X3V0SFZtRnNzOGJKWFktZVBRSVJPT1VlZnN4RmpuY0d4RkVYMzlvUQ?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T00:21:09+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
