@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-07T15:39:05.341995+00:00",
-  "last_success_at": "2026-11-07T15:39:05.341995+00:00",
+  "checked_at": "2026-11-07T16:40:31.473709+00:00",
+  "last_success_at": "2026-11-07T16:40:31.473709+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 21
+      "matched": 22
     }
   ],
   "items": [
@@ -281,6 +281,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "cc3c371fdd7bd7f660e3",
+      "title": "Zcash USD (ZEC-USD) interactive price chart - Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSa3RtVVViOWRXd2FYMl9GLUt5RVdTYzRTRi1oTm1VN0N6VDh5SGIxX0dDczQ2eG90Tk1IVUVMREtVLU5OWkRXU20xdlZNT3VDOFpKbW9ZMjR3U1ZEbEE?oc=5",
+      "source": "Yahoo Finance Australia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T16:29:23+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f72b162f51888b601392",
-      "title": "Zcash Upgrades Tonight. Bitcoin or Zcash: Which Is the Better Buy for 2027? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPckJzdm9QVG10SEt3U3BnTWhVSVJJdXJtNDZuZXJpLTRzdFNLcHZ4eENCeGJ4UkRvZ3VlTXY3MG93YzZLQkhVbVpmN2JBM250SWNnZW5YY2ZyMGlkbE5rTXZVbVUtbWpmUWR4RElHUTNYLWFqMUlBaE5mNzNRckpJaHA4X25NYTlXRUt0RnhTSkZFWHFLNUZkUmRhYnZPN3BRT2V4b0Y1dTlBZ1c3c3ZSMWpCa3FrM3dJQ0lhajY5dUg3R2w0TE5aNncxaw?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T18:57:00+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
