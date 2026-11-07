@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-07T21:38:18.986117+00:00",
-  "last_success_at": "2026-11-07T21:38:18.986117+00:00",
+  "checked_at": "2026-11-07T22:38:38.137900+00:00",
+  "last_success_at": "2026-11-07T22:38:38.137900+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 21
+      "matched": 20
     }
   ],
   "items": [
@@ -271,19 +271,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "d5d85bafccafc6ffcfcc",
-      "title": "AI 也要“验明正身”：Anthropic 开源 FlashProve，用 Zcash 同款零知识证明核验模型输出，算力开销高达95 倍 - 区块周刊BlockWeeks",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ud2haaWRlOU9xUkgwbEo5cTJKWmwyX2c5UEdzV3lHWldQSjFrdERiN1BLRGRocVJidGpNUDBld0liYWJXcldTU2E3UFBPQQ?oc=5",
-      "source": "区块周刊BlockWeeks",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T18:34:28+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "2bca545a6f9ce3591b5c",
       "title": "Zcash Climbs 3.91% in Four Hours to $1,354 on Binance Spot - www.tokenpost.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Yd1pScmNCMjNGamxLUUFRX0NVVTA3ZldVSUc5NHRBeGdaTXBTTTFBemNlc21KQlFMNnNGZG54U09kWWpSQ2FHUEpNRFFiTmh5RUlscGhveFAyUQ?oc=5",
@@ -463,19 +450,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：升级",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "207323c14439eb47e62e",
-      "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaU9OaXhXTGV6TWwxSk93UUJpV0M0cGVNVHJuenZnQXg2QnRFNUZHV1daQjRtWjh5ek5EUElIdGdJNjlpRmJpSGp1VUpZS3NQUHI1SEJoTWF4Q3BUY2FFWnJqQ19sNkJVTGRFSTJNbVFGN25JcE44RUpMUUVWRWFsYXFGQ0U2VnZ2THNCVklHZjIyMHVNYW5wVkt1NUludVM1Qll1YzB3MA?oc=5",
-      "source": "Decrypt",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T10:13:27+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -684,6 +658,32 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "c4ceaa5499cab2c19971",
+      "title": "美国 ZEC、NEAR 现货 ETF 单日合计净流出 1176.79 万美元 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iSmRXTkc4Zy1pMDYxalpJa1AzbzljQ1o5alAzdHhxblRqNHpFUkctaFZNQVVqaVQ2clcwMVNNeGJ6U1pfNEJHdUJlM0NpcW5sejRoOVZZQ0lJekNQaG51bDMyUllWdw?oc=5",
+      "source": "TradingView",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T01:15:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "18543d63750a75890209",
+      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFNXSi03ODFQOFdCaUVLWXY0YmFwZGJxYkI5UloxS3F1M1VkVmM0YXlXMFhNUVlFSjF6d0xnMGNDRkVMbFE2NWp5QnlVbVBZVFZjWUp5WW1leUNSUkxKUmpHVk9jNDRmUjRCb2VWUGo4X0NiNDhJVFZHOFliUDYzQ0J5TERpVEJuc1pWNVJCZnB5ME9TVzBr?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T19:46:03+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     }
   ]
