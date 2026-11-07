@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-07T19:42:33.586023+00:00",
-  "last_success_at": "2026-11-07T19:42:33.586023+00:00",
+  "checked_at": "2026-11-07T20:38:44.366201+00:00",
+  "last_success_at": "2026-11-07T20:38:44.366201+00:00",
   "status": "ok",
   "sources": [
     {
@@ -453,10 +453,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "207323c14439eb47e62e",
-      "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaU9OaXhXTGV6TWwxSk93UUJpV0M0cGVNVHJuenZnQXg2QnRFNUZHV1daQjRtWjh5ek5EUElIdGdJNjlpRmJpSGp1VUpZS3NQUHI1SEJoTWF4Q3BUY2FFWnJqQ19sNkJVTGRFSTJNbVFGN25JcE44RUpMUUVWRWFsYXFGQ0U2VnZ2THNCVklHZjIyMHVNYW5wVkt1NUludVM1Qll1YzB3MA?oc=5",
-      "source": "Decrypt",
+      "id": "1484014d45367a078b7c",
+      "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOXV0UW94dVZiRGhIMUtiV2EzMHhzUGNpVHRHNEtWZVBHU2YxR21IM3lBaHltNzhZVW41MXNSaHpMeGdfa2Q0eFBadXFiVjJXVnVZdGZTZzhsSTRBNVgtZkNUYjRMemtYZjB0a0RaMVg1b1pzUGhMRnZ1QVhYZk9HSHpleXNYQzItWDh0al9jUVVRaWdQV2UwMg?oc=5",
+      "source": "Yahoo Finance",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T10:13:27+00:00",
