@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-07T10:42:47.022107+00:00",
-  "last_success_at": "2026-11-07T10:42:47.022107+00:00",
+  "checked_at": "2026-11-07T11:40:13.001845+00:00",
+  "last_success_at": "2026-11-07T11:40:13.001845+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 100
+      "matched": 99
     },
     {
       "name": "Google News 中文",
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "8f148c4b7ba7688429fc",
+      "title": "ZEC and CC Lead Altcoin Swings as BTC Settles at $76K Despite US-Iran Attacks: Weekend Watch - CryptoPotato",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdktwLTltQnJGVk9ZZVoyTkN2Z3JrUFZfYThJb3NTV1huNTRiU2tXbHU4cVhlUm1QVEl3UHhla3JESU1mby0xb1ZYMXd5UFVzbmFwdHhjazVKeXBqc0VoZzlFYTNscUF6UzZtb0NweEtYaG9XcXNKSXJkcU1qRzJuN2pwV19SN2U2T1hGbmdnMzJTVXZMZHU4Y1p5ZGktMXRDZ1BnZUFqUTRxQVNpcHgzMXA5SEd3UkU?oc=5",
+      "source": "CryptoPotato",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T09:30:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "9781cbf130c3e1565ff3",
       "title": "Zcash Falls 2.01% in One Hour to $1,330 on Binance Spot Market - www.tokenpost.com",
@@ -108,7 +121,7 @@
       "source": "Cryptonews.net",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-06T22:40:19+00:00",
+      "published_at": "2026-11-06T22:39:45+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -216,6 +229,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "cc3c371fdd7bd7f660e3",
+      "title": "Zcash USD (ZEC-USD) interactive price chart - Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSa3RtVVViOWRXd2FYMl9GLUt5RVdTYzRTRi1oTm1VN0N6VDh5SGIxX0dDczQ2eG90Tk1IVUVMREtVLU5OWkRXU20xdlZNT3VDOFpKbW9ZMjR3U1ZEbEE?oc=5",
+      "source": "Yahoo Finance Australia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T16:29:23+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -658,32 +684,6 @@
       "event_time": null,
       "sentiment": "偏利空",
       "basis": "标题关键词：freeze",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "11ff65bacd5ec3ff09e0",
-      "title": "ZEC 兑 SVC：将 Zcash 转换为 萨尔瓦多科朗 | 实时 ZEC 兑 SVC 价格 | MEXC - MEXC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aRkxpN2NNYnIxMlJRaUF1c05rUzZXaE1zVXpmMnZPRnplaXdQV0JmS2dmZTNXdkoxdFllWmN0R01YWWc0cWZUMFhMSHQ4UUNRd0FzaQ?oc=5",
-      "source": "MEXC",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T15:34:39+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "860989ca9624f86be911",
-      "title": "Grayscale ZCSH 发布 $11M Zcash ETF 净流出 - blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa2dieUZKVVY2OGV0RllGTXBRZUZ3Nk1oellYRUxXUWc2MGJRU1E5SzRXbFBtN2NpTEkyNDBGSkRiWEtTR1NQSjRKa3JDdE0xYUpLWi1IOVRfZU9QWWhzNEZIaEZtaUFXQzNqQU5rUmx5Z01OSHViOXBGb1JnaE5YamZmZFFCS1hsbnc?oc=5",
-      "source": "blockchain.news",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-05T15:09:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
