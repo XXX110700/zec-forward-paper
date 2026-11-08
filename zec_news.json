@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-08T04:53:37.057584+00:00",
-  "last_success_at": "2026-11-08T04:53:37.057584+00:00",
+  "checked_at": "2026-11-08T05:50:30.071636+00:00",
+  "last_success_at": "2026-11-08T05:50:30.071636+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 19
+      "matched": 20
     }
   ],
   "items": [
+    {
+      "id": "8db02792591c99320c44",
+      "title": "Remittix Earn, Zcash or Solana? $1.3M TVL in Four Days Makes a New Yield Story Hard to Ignore - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa0RrSDBsSFRMYTllcEw3UjU1VjJZdzYzMEFoaWFvQS1yUnZKaE03SHpIdENiVWYyZnNmdHdxdXc5YU1UOWFNc0ZGOGd6dzZndElDSWlBV3UxQmZrSVFScmRwdDBCUm5IMGpNbjFITkxXVUpxblM3d0I3YXpUTWNkOS1PX0ZFdmNYUE9Zem0yV0dIaG11cXlsTTRRMmxIdzBUSndvX3UwUnFqRUQxMlFzc3hHOHUxNG9Lc1ltRHlfX01DTkJJUmlIVndJaHpwVGpJV0p4Mm4zMkVpTDJBUnEwVWpXT2JKQlBXcWN2Tw?oc=5",
+      "source": "StreetInsider",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-08T05:31:08+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "c10581413922825c24a0",
       "title": "Zcash drops 7.4%: liquidations and Grayscale ETF outflow - CryptoTicker.io",
@@ -622,6 +635,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "03042a0ad755fd7f18f1",
+      "title": "Zcash 的里程碑式 NU7 升级正式上线，加速私密支付 - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2pRdjk3N0hUMklkcW9JZ1Jla1N1eVV6RTdCYkNDdExCVVFreFNWS3Z1cURkUk1qc3Z6aS1UbllzbTNTcElMckp6UWp0RU96MjNSNTNDS0ZGc3NfUXBqOURQSUFXcWZ2dUttUXlWQzlwaDEzZXlDOHVwSmVxYnhqVkVseW1uSTZDNGtkRS1VNXRWQm1XcnNTaTZqbkh4UGFTYlpoRHliYUFmMFV3Uld2Mg?oc=5",
+      "source": "CoinDesk",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T05:14:48+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：上线、升级",
+      "verification": "未独立核实"
+    },
+    {
       "id": "f6ff953658542c1fe455",
       "title": "Zcash Spot ETFs Reverse Course With $3.43 Million Nov. 4 Inflow - www.tokenpost.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81RmctT0lBeG9LQlIxVkFJRHR5ak9IVEk2TFN1RzNHdkxhZ1N5RnBjR0pyaDFGbng0aUx3LUd1MllxWUdFTElkbURFOENQeHV0X1ZUSTYxRmw5QQ?oc=5",
@@ -655,32 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T02:46:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "4932fc387ff501412815",
-      "title": "Chainlink, XRP, Monero, and Zcash Price Analysis on November 6: Bullish Sentiment Returns - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTVRQaG9aWEZ5N3ZsMzRVMThST2NHR1dxOGgyclN2V2FQaGJ6bEplNENmVm1EWmJoNS04YVlxSnd1TzgxWkl1Zmc4dTJtSVlvR1RwYVBJWDh3aG9VSFpWVlNfT3BnX2tFZ3lZbEdDUU1raHNWNmdLT2l3SEtrdkJlenFFbDNxYUI2cnlwSUlGSmlfZG9TUTFrODI5UnlJZFJSTmJKOHROSEZsUkNhTVVPOS1YbHVPVXk2aEVz?oc=5",
-      "source": "KuCoin",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T02:43:23+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "c7cefefe81286fc43f96",
-      "title": "Zcash Rises 3.60% in Four Hours to $1,313 on Binance Spot - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40endLZXF4R3B4QmVYWFZvX0hZVHVjNkN0ajJKS0ZWQjQ2cWVqQ1NEY05xcDFnRHdQX3dndG5kQl9sNGJxZW9mT0U5SjVjcWlpcHdObnZFM2JmZw?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T02:31:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
