@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-08T06:57:17.230071+00:00",
-  "last_success_at": "2026-11-08T06:57:17.230071+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-08T08:01:36.022798+00:00",
+  "last_success_at": "2026-11-08T08:01:36.022798+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 0
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 20
+      "matched": 21
     }
   ],
   "items": [
@@ -320,6 +320,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：launch、upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "d5d85bafccafc6ffcfcc",
+      "title": "AI 也要“验明正身”：Anthropic 开源 FlashProve，用 Zcash 同款零知识证明核验模型输出，算力开销高达95 倍 - 区块周刊BlockWeeks",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ud2haaWRlOU9xUkgwbEo5cTJKWmwyX2c5UEdzV3lHWldQSjFrdERiN1BLRGRocVJidGpNUDBld0liYWJXcldTU2E3UFBPQQ?oc=5",
+      "source": "区块周刊BlockWeeks",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T18:34:28+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "78c2e93ee0dd406349f6",
-      "title": "Zcash Price Forecast: ZEC defies crypto market sell-off as NU7 upgrade fuels breakout hopes - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWXZxMXZELVpJRkFuZ2dZekxIV01ONVhkTmVadWdtcWRXdDJwQ3ByWXNUajZaQ0dnYnlpZDlxUjFJOWFrUE9PZVlnQUpuYzZFblc2RFRLN0xJVzNNWFVXczRPQWhKM0dHTG9SR1p4TnkydUg3N2lkT3ctZlp0LXRadl9xWkdBdDJmQ0RNbWlycHdDWXVnejE2MFZaUEJLWUpFczNzeHBHWlhnbm9Pb2ZVZU5NaHhMZER5QzNYR09pT2Nqd0NCekYtR1doMlA5RGozVUR2cS1VZGxORGtLeHQtZHk3Rlg?oc=5",
-      "source": "FXStreet",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T03:46:00+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
