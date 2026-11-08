@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-08T11:40:09.066088+00:00",
-  "last_success_at": "2026-11-08T11:40:09.066088+00:00",
+  "checked_at": "2026-11-08T12:50:05.579338+00:00",
+  "last_success_at": "2026-11-08T12:50:05.579338+00:00",
   "status": "ok",
   "sources": [
     {
@@ -479,6 +479,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "ae61f75f2b4d0d1c3c94",
+      "title": "Zcash NU7 Upgrade Makes Sprout Funds Unspendable Under Current Rules - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjQWxZZlVHUW9LZEVySFBIaG9SeEpWWGtWalIycjRRV0FSeVQ4aU50UzYyT2w0V0VSQk9IVkFQdVZINGJnSk9ZQ0o1elM0SDVvVmxWQU1ycU4yaFE?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T11:13:04+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
       "id": "e53ee4cf6ce2c7f8c263",
       "title": "What Is the Zcash NU7 Upgrade? 60% Fee Recycling Goes Live - Bitcoin Foundation",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnZUSFZVb1praWEwVVlyQVI2YnE0T2ZXaTRobnNQQlYxdmlnb0xTdlpsQU0zOTRtMlZDbWMxVHJZaW1pMWRaUm04V1NpY3NrbjFWN0lIUnVsdm1BdVQ4SEpNdmZ0VHZRRFlYWjZCN3lWRTZIdTMwcTA0dGNheG1MRjVDYzl4VUJvSXZ3dEdTUVVsNWdJY21qS28zU3NIemZZSElj?oc=5",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：上线、升级",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f6ff953658542c1fe455",
-      "title": "Zcash Spot ETFs Reverse Course With $3.43 Million Nov. 4 Inflow - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81RmctT0lBeG9LQlIxVkFJRHR5ak9IVEk2TFN1RzNHdkxhZ1N5RnBjR0pyaDFGbng0aUx3LUd1MllxWUdFTElkbURFOENQeHV0X1ZUSTYxRmw5QQ?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T04:25:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
