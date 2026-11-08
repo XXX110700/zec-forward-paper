@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-08T01:00:31.175987+00:00",
-  "last_success_at": "2026-11-08T01:00:31.175987+00:00",
+  "checked_at": "2026-11-08T02:03:55.434208+00:00",
+  "last_success_at": "2026-11-08T02:03:55.434208+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 100
+      "matched": 99
     },
     {
       "name": "Google News 中文",
@@ -161,6 +161,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-07T00:01:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "f317995296cd663b7a39",
+      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdjQ1OUo2OEIzZFVqRXIwaGNTbUdIb19jRkEtWGlqQTk5SEc5UUxiNmt1X3V0SFZtRnNzOGJKWFktZVBRSVJPT1VlZnN4RmpuY0d4RkVYMzlvUQ?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T23:55:45+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -323,19 +336,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "f317995296cd663b7a39",
-      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdjQ1OUo2OEIzZFVqRXIwaGNTbUdIb19jRkEtWGlqQTk5SEc5UUxiNmt1X3V0SFZtRnNzOGJKWFktZVBRSVJPT1VlZnN4RmpuY0d4RkVYMzlvUQ?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T15:57:29+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "55541321565388560843",
       "title": "Zcash Falls 2.74% to $1,337 in One Hour as Long Liquidations Reach $1.28 Million - TOKENPOST",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fbVlfXzhfdnJjMTZ5S3ZwM0dMbWE1alFKb0pYTnNpVnRRdV83dGIyS1F5QXRwbGRzLVZ2SDZab3lFUnotWWZ5ZnlKY2p4blU3YUVnVE1TbjRzdw?oc=5",
@@ -450,19 +450,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：升级",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1484014d45367a078b7c",
-      "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOXV0UW94dVZiRGhIMUtiV2EzMHhzUGNpVHRHNEtWZVBHU2YxR21IM3lBaHltNzhZVW41MXNSaHpMeGdfa2Q0eFBadXFiVjJXVnVZdGZTZzhsSTRBNVgtZkNUYjRMemtYZjB0a0RaMVg1b1pzUGhMRnZ1QVhYZk9HSHpleXNYQzItWDh0al9jUVVRaWdQV2UwMg?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T10:13:27+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -684,6 +671,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "18543d63750a75890209",
+      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFNXSi03ODFQOFdCaUVLWXY0YmFwZGJxYkI5UloxS3F1M1VkVmM0YXlXMFhNUVlFSjF6d0xnMGNDRkVMbFE2NWp5QnlVbVBZVFZjWUp5WW1leUNSUkxKUmpHVk9jNDRmUjRCb2VWUGo4X0NiNDhJVFZHOFliUDYzQ0J5TERpVEJuc1pWNVJCZnB5ME9TVzBr?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-05T19:46:03+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     }
   ]
