@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-08T21:37:52.805086+00:00",
-  "last_success_at": "2026-11-08T21:37:52.805086+00:00",
+  "checked_at": "2026-11-08T22:39:29.406056+00:00",
+  "last_success_at": "2026-11-08T22:39:29.406056+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 21
     }
   ],
   "items": [
@@ -47,19 +47,6 @@
       "event_time": null,
       "sentiment": "偏利空",
       "basis": "标题关键词：hack",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "6e48835c3f26e880f081",
-      "title": "Zcash needs a daily close above $1,287.45 to confirm recovery - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NX2cyeFNDcWxkRUNRV2V5aldMT3NRV0dJV2xmckVobjVldlUzNlFoSDlxV3VkMFRCQ3htY1hzVlR6VTBSaUlnT1lXci1BeXVZQ3dUWTQ3SGxudGc?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-08T20:56:13+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -200,6 +187,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-07T09:33:53+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "8972c6ba75e043d34177",
+      "title": "ZEC 兑 RSD：将 Zcash 转换为 塞尔维亚第纳尔 | 实时 ZEC 兑 RSD 价格 | MEXC - MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBERkplY2tkZS1udDA2NldnTkxJTHFReWlpY0lsUjVhNWdwOElPZUNpNVFSQ1E0VFBVei1iRWtGWEI5X1dNUHlpOXdCa0dYMGxuVUVWYQ?oc=5",
+      "source": "MEXC",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T07:21:55+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
