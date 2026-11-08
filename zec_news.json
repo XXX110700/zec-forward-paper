@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-08T05:50:30.071636+00:00",
-  "last_success_at": "2026-11-08T05:50:30.071636+00:00",
+  "checked_at": "2026-11-08T06:57:17.230071+00:00",
+  "last_success_at": "2026-11-08T06:57:17.230071+00:00",
   "status": "ok",
   "sources": [
     {
@@ -154,6 +154,32 @@
       "verification": "未独立核实"
     },
     {
+      "id": "56331bf144d6426f00c2",
+      "title": "Zcash Surges 3% on NU7 Upgrade Amid Flat Crypto Market - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02WFNCZ0FOUWJRRU95eFRubi1OQmxLV2V4clJWdzVJRzdGZFVZUU9DV3dyczRJai1qQUx0aWFVRHp3YTBpaXhxeUZ5QnY5cm8zQ3E3WlpsdnRiYzg4allxTF93eEVWaFV4YkVYY0RHeEY?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T05:04:00+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "2523154f84256f563ce2",
+      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart and Price History - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWUF3VTYyMmFad2tQamthVmVhT3dPWlh5NG01LUtxbm42S0pOU2R0Q2FQZHVlOHBhV29xSzdsTEExX21FTTd2cTNObTc3RlBQVGZLMm5n?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T04:56:44+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "9781cbf130c3e1565ff3",
       "title": "Zcash Falls 2.01% in One Hour to $1,330 on Binance Spot Market - www.tokenpost.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEZjMxYjBBMXl0eUI0dHhmZU53TUtHZEF2RFJQcWpFcWJYcW1tYy10UmhTTHZHRmpnVEpmU3pjUmNiQThJVDdIYXptM2I4S203Q1hBS2xnM3M3QQ?oc=5",
@@ -187,19 +213,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-07T00:01:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f317995296cd663b7a39",
-      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdjQ1OUo2OEIzZFVqRXIwaGNTbUdIb19jRkEtWGlqQTk5SEc5UUxiNmt1X3V0SFZtRnNzOGJKWFktZVBRSVJPT1VlZnN4RmpuY0d4RkVYMzlvUQ?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T23:55:45+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -252,19 +265,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T22:39:45+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "2523154f84256f563ce2",
-      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart and Price History - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWUF3VTYyMmFad2tQamthVmVhT3dPWlh5NG01LUtxbm42S0pOU2R0Q2FQZHVlOHBhV29xSzdsTEExX21FTTd2cTNObTc3RlBQVGZLMm5n?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T21:53:02+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -408,6 +408,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T14:47:03+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "f317995296cd663b7a39",
+      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KUFVXcWNqYkZNd25PVnFSc0pGQ3h4ZXpYU2FpSVYzRGJicjduWmZVMDh3bjVCcm0zQUdEUVE4LUZTWG5FdFNNazNSeUFxWC1YWUh3VW00YlUyWFlMQkRSNml6dThQaHlkd29EaEQ5dTgzN3ljaWYxd3J3?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T14:23:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "ac46766e292a08834b92",
-      "title": "Zcash Activates NU7, Taking 60% of Transaction Fees Out of Circulation - unchainedcrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaEhVTy1XZWIyOU9ZVWtOV0VWU2RhWXZNVVpDOVozUE92MEJQVkdDa3o0eVZqWG95U0h4MGhOMXZXa1U0Ym41MlFJaEd1blMwZEVVOVBSTUZ0aWJyTVl5Zy1zblFaMjNrUnh5YjlnR21GSWNFd1dhZFItVTBIaFBCTEVtRW44ejRDZHQtUUpoQ2dHcm9KWFZleDRfN0hDUQ?oc=5",
-      "source": "unchainedcrypto.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T02:46:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
