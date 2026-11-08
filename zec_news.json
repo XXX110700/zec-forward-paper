@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-08T14:41:19.641886+00:00",
-  "last_success_at": "2026-11-08T14:41:19.641886+00:00",
+  "checked_at": "2026-11-08T15:38:27.099062+00:00",
+  "last_success_at": "2026-11-08T15:38:27.099062+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 20
+      "matched": 22
     }
   ],
   "items": [
@@ -57,6 +57,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-08T03:12:56+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "4a4add66c5957f8ecccd",
+      "title": "Lookonchain: TornadoCash 黑客将 ETH 交换为 ZEC - blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNkF0blpwU3dYdXk1ZGJQaHN6bFVwZ205RmdLVWJMaV96QVBNWXJDd2htNjZMRThvalhzQTIwZlExay1QS3Q1bG9TQlpLMVREbm5yLUYzclFDeFhUV1NVNDJTODU1QmNfT0x2TWpNb3BJaG1XYWZoeEljUC1PalNCeW00TThhRHMzakwyWQ?oc=5",
+      "source": "blockchain.news",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-08T02:00:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -161,6 +174,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-07T09:33:53+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "8972c6ba75e043d34177",
+      "title": "ZEC 兑 RSD：将 Zcash 转换为 塞尔维亚第纳尔 | 实时 ZEC 兑 RSD 价格 | MEXC - MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBERkplY2tkZS1udDA2NldnTkxJTHFReWlpY0lsUjVhNWdwOElPZUNpNVFSQ1E0VFBVei1iRWtGWEI5X1dNUHlpOXdCa0dYMGxuVUVWYQ?oc=5",
+      "source": "MEXC",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T07:21:55+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -658,32 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "67f5da53fb5285bfab5e",
-      "title": "ZEC news: Zcash’s landmark NU7 upgrade goes live, speeding up private payments - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUEJVQWZIR3R5SVdwU1Jxa0Y5Ym9HUFM5QXB5Y3dGd1RkQUxKWWtnTC1kN01KNzZJLTFaUElNQkJxajMwMUFNeGNTSE5kcTdNTk9DaTBWWjh0RXN0UFBnamREUGNNQ3FQZkVON3JJRW1hMnJha0Fpa2JwM1Q4Y2JzbWZvWXdSQ25xTEZXNTBneWI2VWpDQUJ5ZEVMLTlwUW44LTFKcmFGRWk4M0dZ?oc=5",
-      "source": "CoinDesk",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T05:14:48+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "03042a0ad755fd7f18f1",
-      "title": "Zcash 的里程碑式 NU7 升级正式上线，加速私密支付 - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2pRdjk3N0hUMklkcW9JZ1Jla1N1eVV6RTdCYkNDdExCVVFreFNWS3Z1cURkUk1qc3Z6aS1UbllzbTNTcElMckp6UWp0RU96MjNSNTNDS0ZGc3NfUXBqOURQSUFXcWZ2dUttUXlWQzlwaDEzZXlDOHVwSmVxYnhqVkVseW1uSTZDNGtkRS1VNXRWQm1XcnNTaTZqbkh4UGFTYlpoRHliYUFmMFV3Uld2Mg?oc=5",
-      "source": "CoinDesk",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T05:14:48+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：上线、升级",
       "verification": "未独立核实"
     }
   ]
