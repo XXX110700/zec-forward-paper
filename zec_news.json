@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-08T22:39:29.406056+00:00",
-  "last_success_at": "2026-11-08T22:39:29.406056+00:00",
+  "checked_at": "2026-11-08T23:37:56.569404+00:00",
+  "last_success_at": "2026-11-08T23:37:56.569404+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "c2ef7fdc5bccb55321fd",
+      "title": "Zcash and Monero hold up as Bitcoin slides toward $75,000 - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa3VRM0djSE8zdE1CYm9VVS13RVdRbVhadV82ZHNTR2x3NDI1SWNtRVVIMGl0SXRQSnVuQzloVlhORU10YnZqVmZ5bFgtbzNmN180UFQwWGRlbzAzeGdWWGJ2a2Z0TDFqb2Z4ZFc0ZU9CeGNaaUZrcmF1ZzNtUnVULThWR1dRbWp0SExj?oc=5",
+      "source": "Startup Fortune",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-08T22:50:15+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "b2818a995d112d33a9e6",
       "title": "A Hacker Swapped $3.7 Million of Ethereum Into Zcash on Hyperliquid. Is Privacy Demand Holding ZEC Above $1,200? - 24/7 Wall St.",
@@ -187,19 +200,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-07T09:33:53+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "8972c6ba75e043d34177",
-      "title": "ZEC 兑 RSD：将 Zcash 转换为 塞尔维亚第纳尔 | 实时 ZEC 兑 RSD 价格 | MEXC - MEXC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBERkplY2tkZS1udDA2NldnTkxJTHFReWlpY0lsUjVhNWdwOElPZUNpNVFSQ1E0VFBVei1iRWtGWEI5X1dNUHlpOXdCa0dYMGxuVUVWYQ?oc=5",
-      "source": "MEXC",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T07:21:55+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
