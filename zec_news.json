@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-08T10:44:30.368848+00:00",
-  "last_success_at": "2026-11-08T10:44:30.368848+00:00",
+  "checked_at": "2026-11-08T11:40:09.066088+00:00",
+  "last_success_at": "2026-11-08T11:40:09.066088+00:00",
   "status": "ok",
   "sources": [
     {
@@ -43,7 +43,7 @@
       "source": "StreetInsider",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-08T05:31:08+00:00",
+      "published_at": "2026-11-08T06:52:36+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
