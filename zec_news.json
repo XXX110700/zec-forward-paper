@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-09T20:53:51.725702+00:00",
-  "last_success_at": "2026-11-09T20:53:51.725702+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-09T21:50:27.575417+00:00",
+  "last_success_at": "2026-11-09T21:50:27.575417+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 0
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -37,13 +37,39 @@
   ],
   "items": [
     {
+      "id": "d6d395abb35c4439f5c8",
+      "title": "Zcash falls 8%: developers propose 20-second blocks - CryptoTicker.io",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTUZrWFNtZ0VsaEhOTmVyQnBDZGJzdGpieDlWRTBaaWNEZ1NyNWxVS3hKZDJ2QUk2SXRTU0t2d1pKXzJRVjBncXIxNXFYOGNEWXZ6emNZNDVXdGRNaVZMTmNwSURzZEx3aTFIcXl1X3hLd0tIZDRQYnUxM1dwbmJuNGluNnZOQld4VnlIbXh3?oc=5",
+      "source": "CryptoTicker.io",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T21:20:05+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "08e5a65c920e2e1b77d9",
+      "title": "Zcash Is Flat Over 30 Days While Bitcoin, Ethereum and Solana Fell 10% to 21%. Which of the Four Is the Best Buy Now? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOM0ZGLWFMVzFrNG1Tb2JBWjN5Z1pHTmRDaUVPeGo5dmlJS0J3cjMzSTM3MFVSVmNPb1ZPMmxXVHpnZWVfc3paaDdGQXdtSDB2bDJWUWYxcElsZ09sM2JSOVJZT3kwZ2hkVXFQWFlqRDYtX1cycXJESExkanF1UWRVNzRFQU5ZTHpMRlZZVGFkZldWR0VfSUVXMVBGaF91dFJTR0lVSkdJRTJrNHZBQ0lhWmVIYjhaX0NlSktYUzhPMXpVX3Y3Q1ppX0FrLTlIM2pMenk4RG51MlVrRE1KLTcxVEdNZjVtQzNtd1NzN25IajYtRkIwQWpNbTZiX3NWc0NV?oc=5",
+      "source": "24/7 Wall St.",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T20:53:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "adefd52811270ee9416e",
       "title": "Can Zcash reclaim $1,208.74 before $1,191.26 support breaks? - Cryptonews.net",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lVkpqeXczbEhGUC02eVlJN19TeUZnQUJaZER6cnl3T25aQ3RyZ0Z4RC03VkJ1ek9WUkpHUDlaYWJMSktqYjZQMG5GRUd4V2FGUUFTSmZ3Q0x6cFE?oc=5",
       "source": "Cryptonews.net",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-09T20:38:08+00:00",
+      "published_at": "2026-11-09T20:47:23+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -518,19 +544,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "405881c4a13a19c59cfc",
-      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CeEl3cUcxS011QkY4S3NCVlFyMDJQQi0wVl9OWHlvVlpVQkdydFk0OTR1U21sdkw3eEZwWDMtN2FBcW9mZXlBUjVnUlhtRWd1ZW94dnJn?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T12:01:47+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "8972c6ba75e043d34177",
       "title": "ZEC 兑 RSD：将 Zcash 转换为 塞尔维亚第纳尔 | 实时 ZEC 兑 RSD 价格 | MEXC - MEXC",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBERkplY2tkZS1udDA2NldnTkxJTHFReWlpY0lsUjVhNWdwOElPZUNpNVFSQ1E0VFBVei1iRWtGWEI5X1dNUHlpOXdCa0dYMGxuVUVWYQ?oc=5",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b65a9ee5e05240bbbf89",
-      "title": "Zcash’s NU7 Upgrade Goes Live as Developers Launch Quantum-Resistance Effort - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFZ2ZTV2dk96UHg0UC1yb1JMazBLOTVLdE44bEtEc003Y19PVGZjZ2ZPZndIRzVNRXEwQzQzdEFXNzZOd2xtNlI0cmxLdWZsa0E4QWdyWGMzaGVjTTlPZ0VyUWdLbG9FeEhGWGhnREdWcXpVamdfSmhMVTlibVdlNjU4M3ZLTnVHZVZoNjdDeHI5SFNTWnkxaURn?oc=5",
-      "source": "CoinDesk",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T19:09:59+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：launch、upgrade",
       "verification": "未独立核实"
     }
   ]
