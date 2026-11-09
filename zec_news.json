@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-09T01:04:30.098808+00:00",
-  "last_success_at": "2026-11-09T01:04:30.098808+00:00",
+  "checked_at": "2026-11-09T02:10:50.387752+00:00",
+  "last_success_at": "2026-11-09T02:10:50.387752+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 23
     }
   ],
   "items": [
@@ -109,19 +109,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-08T01:07:01+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "aff47163b979b5eb5b56",
-      "title": "Zcash Activates NU7 With 25-Second Block Target and New Fee Reserve - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU1VDeEhfTTV0REpBczZLYUtVSjZUR3NOVkdiaHFhV2pUVlQxbWZMZWV1RTM3aERTTDN3ZU4tU1R5dUMzWTU2TmZyQUVNaVN6ZWpyYS1EclNSbndMbEFkbHFTU1RULTdVSkxaUmZBU3ExU01kM1hJenIwWUZ2U0wzYnZYbDRacEszbzJ4ZUloV2JZUk9FeHF6SXp0eUJXOFFLdC1pV01QRGtRMGRxOUdVdVJ1RHBnNnhQd3ZFVVlaZE5ZbEE?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T23:00:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -255,6 +242,19 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "405881c4a13a19c59cfc",
+      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CeEl3cUcxS011QkY4S3NCVlFyMDJQQi0wVl9OWHlvVlpVQkdydFk0OTR1U21sdkw3eEZwWDMtN2FBcW9mZXlBUjVnUlhtRWd1ZW94dnJn?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T00:04:04+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
