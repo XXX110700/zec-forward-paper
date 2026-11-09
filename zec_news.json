@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-09T11:57:29.833781+00:00",
-  "last_success_at": "2026-11-09T11:57:29.833781+00:00",
+  "checked_at": "2026-11-09T13:11:29.042480+00:00",
+  "last_success_at": "2026-11-09T13:11:29.042480+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 21
+      "matched": 22
     }
   ],
   "items": [
+    {
+      "id": "1d528bd764e6421ff305",
+      "title": "Zcash Price Forecast: ZEC recovery falters under ETF selling pressure - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPODZFMlVEcGVzeS1Sc3JObnU5SUptQjNJWGtrdUNNamZlMkU1U2NwUmFEU3psWkZsX005ektpd0ZKQ0I2cmJLMjRlRVh4S0xVb1hqdmFITGNDUlV1cFhhallURThmTlNxRnJ3SEpWSzk5Nnc5NlBDa2FfQzFCTkY5UmdlSHZzOEFpdzVUM3pCUHNkQUZubXZCX0NPcDgwNXRKUENRaEpEVkVTWDl0bUcwS3A0RmgyeUJfQVp4Wk5oSl9MU3hSbS1FeGZ0eXhsNDZaSlAwb3hB?oc=5",
+      "source": "www.tmgm.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T12:38:12+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "2cbb5cc5ae835f3da2ea",
       "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
@@ -60,6 +73,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "2feade859e2a410a5a8f",
+      "title": "Zcash 开发者在重大速度升级仅数天后即寻求实现 20 秒区块 - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSTlvMjU5QkRUTzlTU3FqR3I4UG5TakpBdlhaOFVrVWJjdDFCZ0t1MnNKcmNUdVpvQmdTZlZRb3JXdnJPNVRLdHczdVlZS0RodUh0WTVvRG9GbFlNellvV0V6WHJ2SGhTTXRkWW9OR2RRRVZFNGZ6RWk5bUw1cEFaeFZuUDRIa3RTRDUzemhmc1JVZ2NfQWtvVE04S3dDNnU4NEVIbFl0cENXRmRsWXlNenI3NVlkTFk5U1E?oc=5",
+      "source": "CoinDesk",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T10:52:49+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：升级",
       "verification": "未独立核实"
     },
     {
@@ -655,32 +681,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-06T14:23:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f9634c1436eeab152370",
-      "title": "Zcash resists crypto market selloff as network upgrade goes live. What's next? - investingLive",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQl9IWGVsM2VZbUp0SWI4TXpRb1BVcHFPR3ZSRFRlQjhtM1pfTVdXT3R2RWtOVnpWeEtoZFE0UndtdllOVDY2WHNmakx5NjhEV25wVHdiWGFkS3ZFbFBQSHJnVDBtVnJSYk53U1pMSGc3RFpuQnE0SkpZN2lrMF9GZ0E0VVkyQ3VzV19NRXB1ODFTOFZzNXU5V3hOdXNnOThlcGNadnNiVDhWempfc3pNb1lfV3o3Vk54cGc?oc=5",
-      "source": "investingLive",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T11:46:58+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "cac48eb648b54a3cb3c0",
-      "title": "Zcash Price Prediction After NU7 Goes Live — Can ZEC Rally? - CoinGape",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZllVVm8yd3dsVlpYMUtOMG93YnBwWmZjWU1GRi1wcFVsMXFmWC10QnkteWo2YS1Damkxc0EzNWFmR1E1ZnZNb0lHZ05OMm0zYlBENnhFT3NLdWFvcVhhNnhHUTJyVTdZcFBzdHB3czlPbUFDbktYTEUwUzZ6eUZfZE03Y0dwV0VJZ2VwWDdWdw?oc=5",
-      "source": "CoinGape",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T11:46:06+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
