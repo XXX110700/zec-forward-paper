@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-09T10:04:20.162847+00:00",
-  "last_success_at": "2026-11-09T10:04:20.162847+00:00",
+  "checked_at": "2026-11-09T10:58:34.281038+00:00",
+  "last_success_at": "2026-11-09T10:58:34.281038+00:00",
   "status": "ok",
   "sources": [
     {
@@ -22,7 +22,7 @@
     {
       "name": "CoinDesk",
       "status": "ok",
-      "matched": 1
+      "matched": 0
     },
     {
       "name": "Google News EN",
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 21
     }
   ],
   "items": [
@@ -180,6 +180,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "8f148c4b7ba7688429fc",
+      "title": "ZEC and CC Lead Altcoin Swings as BTC Settles at $76K Despite US-Iran Attacks: Weekend Watch - CryptoPotato",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdktwLTltQnJGVk9ZZVoyTkN2Z3JrUFZfYThJb3NTV1huNTRiU2tXbHU4cVhlUm1QVEl3UHhla3JESU1mby0xb1ZYMXd5UFVzbmFwdHhjazVKeXBqc0VoZzlFYTNscUF6UzZtb0NweEtYaG9XcXNKSXJkcU1qRzJuN2pwV19SN2U2T1hGbmdnMzJTVXZMZHU4Y1p5ZGktMXRDZ1BnZUFqUTRxQVNpcHgzMXA5SEd3UkU?oc=5",
+      "source": "CryptoPotato",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-08T11:42:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "8db02792591c99320c44",
       "title": "Remittix Earn, Zcash or Solana? $1.3M TVL in Four Days Makes a New Yield Story Hard to Ignore - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa0RrSDBsSFRMYTllcEw3UjU1VjJZdzYzMEFoaWFvQS1yUnZKaE03SHpIdENiVWYyZnNmdHdxdXc5YU1UOWFNc0ZGOGd6dzZndElDSWlBV3UxQmZrSVFScmRwdDBCUm5IMGpNbjFITkxXVUpxblM3d0I3YXpUTWNkOS1PX0ZFdmNYUE9Zem0yV0dIaG11cXlsTTRRMmxIdzBUSndvX3UwUnFqRUQxMlFzc3hHOHUxNG9Lc1ltRHlfX01DTkJJUmlIVndJaHpwVGpJV0p4Mm4zMkVpTDJBUnEwVWpXT2JKQlBXcWN2Tw?oc=5",
@@ -291,19 +304,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-07T12:10:32+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "8f148c4b7ba7688429fc",
-      "title": "ZEC and CC Lead Altcoin Swings as BTC Settles at $76K Despite US-Iran Attacks: Weekend Watch - CryptoPotato",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdktwLTltQnJGVk9ZZVoyTkN2Z3JrUFZfYThJb3NTV1huNTRiU2tXbHU4cVhlUm1QVEl3UHhla3JESU1mby0xb1ZYMXd5UFVzbmFwdHhjazVKeXBqc0VoZzlFYTNscUF6UzZtb0NweEtYaG9XcXNKSXJkcU1qRzJuN2pwV19SN2U2T1hGbmdnMzJTVXZMZHU4Y1p5ZGktMXRDZ1BnZUFqUTRxQVNpcHgzMXA5SEd3UkU?oc=5",
-      "source": "CryptoPotato",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T09:33:53+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
