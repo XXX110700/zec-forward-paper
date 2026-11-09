@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-09T22:46:43.460668+00:00",
-  "last_success_at": "2026-11-09T22:46:43.460668+00:00",
+  "checked_at": "2026-11-09T23:41:22.602411+00:00",
+  "last_success_at": "2026-11-09T23:41:22.602411+00:00",
   "status": "ok",
   "sources": [
     {
@@ -596,6 +596,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "00ca3dd49ff1375952fa",
+      "title": "[Altcoin spot ETFs] ZEC draws $1.77 million as SOL, LINK and HYPE post outflows - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MejA5V0NpSkZOSHY0R05Wb0FwUUljOE45NDR3aWl0NHhGTW40WFZ2ZDRuQ0Q5V01nY0lMWmdZenJOdzM2UDkzeDF1SlpuOF9DNXdrWjJtUlJZUQ?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T03:41:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "9781cbf130c3e1565ff3",
       "title": "Zcash Falls 2.01% in One Hour to $1,330 on Binance Spot Market - www.tokenpost.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEZjMxYjBBMXl0eUI0dHhmZU53TUtHZEF2RFJQcWpFcWJYcW1tYy10UmhTTHZHRmpnVEpmU3pjUmNiQThJVDdIYXptM2I4S203Q1hBS2xnM3M3QQ?oc=5",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "2b726888b0eac3539dbf",
-      "title": "Zcash’s Game-Changing NU7 Upgrade Goes Live, Slashing Block Times 3X as $5,000 ZEC Rally Comes Into Focus - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONUhOTzNzX01jcUN2X3NMMlZpME9aUC1Oc0NGbG5FeXlPVXhMZng1NW50bXA0NHNzb3h1RXVBUEUzOFZIMWpfNDNnQU9BT2hadjhxVEdxS0ZqX1RUeFNCZ1NDV2ZXVzlnZWctUkhQYTZTZTRQaGEtV1dZZmxiM2dIaDdqSlhuRmFZYkFyYmE5Y2V0ZUpOcWgxbzB3X09fdkNlcGpBek9OY182QUx5LWdVYjkxQ3VtYlBkMnJoR3k0dUhJcnlNRFc4R3plRUs0UmU4VGQyZk5R?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T20:14:03+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
