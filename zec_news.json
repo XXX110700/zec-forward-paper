@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-08T23:37:56.569404+00:00",
-  "last_success_at": "2026-11-08T23:37:56.569404+00:00",
+  "checked_at": "2026-11-09T01:04:30.098808+00:00",
+  "last_success_at": "2026-11-09T01:04:30.098808+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 21
+      "matched": 22
     }
   ],
   "items": [
@@ -206,6 +206,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "8972c6ba75e043d34177",
+      "title": "ZEC 兑 RSD：将 Zcash 转换为 塞尔维亚第纳尔 | 实时 ZEC 兑 RSD 价格 | MEXC - MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBERkplY2tkZS1udDA2NldnTkxJTHFReWlpY0lsUjVhNWdwOElPZUNpNVFSQ1E0VFBVei1iRWtGWEI5X1dNUHlpOXdCa0dYMGxuVUVWYQ?oc=5",
+      "source": "MEXC",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T07:21:55+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "56331bf144d6426f00c2",
       "title": "Zcash Surges 3% on NU7 Upgrade Amid Flat Crypto Market - CoinMarketCap",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02WFNCZ0FOUWJRRU95eFRubi1OQmxLV2V4clJWdzVJRzdGZFVZUU9DV3dyczRJai1qQUx0aWFVRHp3YTBpaXhxeUZ5QnY5cm8zQ3E3WlpsdnRiYzg4allxTF93eEVWaFV4YkVYY0RHeEY?oc=5",
@@ -216,19 +229,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "2523154f84256f563ce2",
-      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart and Price History - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWUF3VTYyMmFad2tQamthVmVhT3dPWlh5NG01LUtxbm42S0pOU2R0Q2FQZHVlOHBhV29xSzdsTEExX21FTTd2cTNObTc3RlBQVGZLMm5n?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T04:56:44+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -317,6 +317,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T22:39:45+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "2523154f84256f563ce2",
+      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart and Price History - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWUF3VTYyMmFad2tQamthVmVhT3dPWlh5NG01LUtxbm42S0pOU2R0Q2FQZHVlOHBhV29xSzdsTEExX21FTTd2cTNObTc3RlBQVGZLMm5n?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T22:33:31+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：launch",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "facce95dedbb615d0011",
-      "title": "Cryptocurrencies Price Prediction: Hyperliquid, Bitcoin & Zcash – Asian Wrap 06 November - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNm1Ha0NqQjlDZU00VmJlSlR6dXR6U0QyTGpGaFA3c3VPNHBSNnlGZGlNeXJOdHBPQUhQT014ek1mN2ZZU1ZwQXFBeVB4YkFPQjZMaGs0RXBkUWt4MHRmUWdkMm5OMGhBR2xiTTVjaDhOd055UUVpOEZ0b0o3UHdPSVJYRnFmXzhnc3pTLU1KUGtOMElFNU9RT0JDODJmX1FCTVJjM1hwZVRheUhHb2g2NWJVSERVbUVQTmRNcVI3MDNaVVJQUjZrUm5WRENBSEJNTW9aVlM1QjduZw?oc=5",
-      "source": "FXStreet",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T06:00:26+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
