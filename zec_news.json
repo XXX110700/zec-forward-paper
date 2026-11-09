@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-09T02:10:50.387752+00:00",
-  "last_success_at": "2026-11-09T02:10:50.387752+00:00",
+  "checked_at": "2026-11-09T02:54:37.925169+00:00",
+  "last_success_at": "2026-11-09T02:54:37.925169+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 23
+      "matched": 22
     }
   ],
   "items": [
+    {
+      "id": "45e0b340dc37c1a3cafc",
+      "title": "What is Zcash (ZEC)? How shielded transactions work - The Block",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wUkdxcWRRZTNZdDBRckN2MlczQV9EZDlkTmdZOG1PNXRqT0ZNM0tKcmRzdGpwM3E0eHFQcWpzXzE5bS1rU1NjVGhOUU5yREJrYmVmMzI4WGdYR2lTbFBwU0o3dGhTdy1DNkdKTXlweDRRdVk?oc=5",
+      "source": "The Block",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T02:37:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "c2ef7fdc5bccb55321fd",
       "title": "Zcash and Monero hold up as Bitcoin slides toward $75,000 - Startup Fortune",
@@ -148,6 +161,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-07T15:23:55+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "25c693c11e3268ef44cc",
+      "title": "Zcash Activates NU7, Targets 25-Second Block Time - IDNFinancials",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXROeTRkbmtmTGs5b2lxODJwQUpCVDA5U3JCNU9vQ1cteF92SkZRVUltZ3dpN1laLWM2LVRjVlN2NXpoOERGUW0xNHJpWGpNajRxWExnVDh2bEpNN0h1YjFIRTc0dklXeFctSW5DWW12bTh3TnFFRm9QT213M2lUNWpueWRubHVERDZTQk1SR2g0d0pMRW1oQTFidUJMNGM?oc=5",
+      "source": "IDNFinancials",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T13:00:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -635,6 +661,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "359cf8847d97998cdd70",
+      "title": "Zcash Activates NU7 Upgrade, Locking About $16 Million in Sprout - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtSUg0S2dTbE1qZXlsNHlHdEZoUmNMSnBBOVpmQkJ6aUxrRTY2b3VoN09RRnVRNGF2UGYwQTNrSF92ZUpCX0FTZDIxWEZsWlZvZHRTS1BuMEJkcGM?oc=5",
+      "source": "TOKENPOST",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T08:19:05+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
       "id": "8adf55af012a72fa9c32",
       "title": "Zcash's major network upgrade NU7 goes live on mainnet, cutting block time by threefold - The Block",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3Nld2TGVkZk5US0lEQzFfaHVTVWt0cTBEbTBLUWRRZmdyaF8tZ0VaNV9kMUFVaVdxU2hOYWo5VTRybU0yaG5xX3pNbGs1RENTcWNtVW04V2l5NW5fWWRXNE5xQmE0eWlMNFRTSEw3UGl4T19YY2FpWXhISG8?oc=5",
@@ -645,45 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "27d7718e389503bdbcea",
-      "title": "Zcash Activates NU7 Upgrade, Tripling Speed of Privacy Payment Confirmations - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NM2F0X0psNkdOejJVMDdZak14Y3pBbEZmb3lQT0MxamhVdTNhQ3I2Ukdrdk16ZXlqUEJZbTAwNmVqWklSZjFPSW1vTUUtSl92MEEwdTZrbVlhYVo5OHI4bmZYS1d0bjN5WkIzVDUyZmJkMzgtY0E?oc=5",
-      "source": "BigGo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T07:35:00+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "081faeea268de1cfe9e5",
-      "title": "Zcash Activates NU7 Upgrade, Tripling Block Generation Speed - bloomingbit",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PU2o4WHFkT0xGRDVRNVhwTTZmazF6ODVLaFFIV2FQU0paSms5dlVFMUhkOTVRWXpXUTZsZjNQSHUwOWtZVGRENDFPLW9GNkZUNjhISg?oc=5",
-      "source": "bloomingbit",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T07:12:30+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "2f7e3177854318a00272",
-      "title": "Zcash to Launch Mainnet on November 6th - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQand5QnVWbno5QVhhcWdoeURpOXJhWnRRQm9UeFhmWUwwU2NFd0FZZUl4bHh6TnQ1QXpTam94OHJldjdEREx4aS1JbEd4ZmJUaVpBQlZiVG9pMG9wQzlGNlhmSHJxUzdQR1dMMlNKQ3ZLY3hROGZ3RlhZazB2d1NJV2FEbEl4SE9OcXVfdjN3cGl1U20xV1loR2xwenVxQQ?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T06:48:00+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：launch",
       "verification": "未独立核实"
     }
   ]
