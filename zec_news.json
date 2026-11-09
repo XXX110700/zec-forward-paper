@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-09T13:11:29.042480+00:00",
-  "last_success_at": "2026-11-09T13:11:29.042480+00:00",
+  "checked_at": "2026-11-09T14:56:34.519157+00:00",
+  "last_success_at": "2026-11-09T14:56:34.519157+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,36 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 22
+      "matched": 23
     }
   ],
   "items": [
+    {
+      "id": "b66022011c7876341d3c",
+      "title": "Zcash Just Turned 10. Here's What Could Be Coming for ZEC Investors Over the Next 10 Years. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdUkzLTJJZ2plTjRVRnRLVExiVUtxLXFwcTJxSUowaTFDWTB5Z2ttLWdrSEx6VTlpdVBMWGgxZWZDM0ZVZG1TQUJRbnFpMXBwY2ZXd1VEcjJXbWxMQTFObTlJUTRnWGkyTlFXYzF1dmtTSVVCcFJrZkJ0SkRDS2ZDc09SOENSMW4zNS01ZGVEMWdlamU2THJLeQ?oc=5",
+      "source": "The Motley Fool",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T14:26:00+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "16a95a328f840c6d57e4",
+      "title": "Zcash Eyes 20-Second Blocks Three Days After NU7 Cuts Confirmation Time to 25 Seconds - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRM01pS3ZYVWJwRUI1bUJDMTJjdDkzOXk2RTFtUHJxV3BybDdmSGRySXQyaC1iQ1QyOFJxY0k3RUxYcGtoNGRPWkMtdENlN2xSR2lqTkh0QjZuWWtTS2MySnVXdkJHWWpXLVR0c0JQaGtkUGdzYmc?oc=5",
+      "source": "finance.biggo.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T13:05:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "1d528bd764e6421ff305",
       "title": "Zcash Price Forecast: ZEC recovery falters under ETF selling pressure - www.tmgm.com",
@@ -83,6 +109,32 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-09T10:52:49+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：升级",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "7ec821eee1ba7aa01c60",
+      "title": "Zcash Devs Propose Cutting Block Time to 20 Seconds After NU7 - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXZoT0pmWFJkVDFjWUh3YUQzRG9mUUZzVEhETGg1R2VMLWxRR2c4cV96YktWYnBXek44anRzUl9hSXI5Nm83bU1XZ09ibTJuM2Q5bDJUb1NIV1VtMU5XaDE0eDZsdEhUaWRoYlBFd1d6Q045U1VXSVFFck5qV3lIRUZTcUd0aVlTbkJWckloVGJjRWRfVlhKamJ0azFnWm1kVlZhNzJ3?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T10:34:38+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "7079fd9882370ba6f43d",
+      "title": "Zcash 开发者提议在 NU7 升级数日后再次缩短区块时间 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kWE5mVXBfWUpXQW5GVXI2VWNISWJ4MThXSWJBZDdyWXlNTW9MLVJUMDlPbmVTNHBJczdHR0FoNGw0bkt4cU9DaXd3RHcxOGNiZ3RJSi11Mi1uLXJlRmZFTldiMElqYmtyWlpabVMwOA?oc=5",
+      "source": "TradingView",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T10:09:06+00:00",
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：升级",
@@ -381,7 +433,7 @@
       "source": "Yahoo! Finance Canada",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-07T08:41:44+00:00",
+      "published_at": "2026-11-07T12:01:47+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -499,19 +551,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T22:39:45+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "2523154f84256f563ce2",
-      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart and Price History - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWUF3VTYyMmFad2tQamthVmVhT3dPWlh5NG01LUtxbm42S0pOU2R0Q2FQZHVlOHBhV29xSzdsTEExX21FTTd2cTNObTc3RlBQVGZLMm5n?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T22:33:31+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -642,45 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T15:45:40+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f6c1ff1b4e23abee919b",
-      "title": "Zcash price outlook for November: can ZEC break toward $2,000? - Crypto News",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84c0xBLThGaWs4N1RkME1VMFhVZWpiQnV0YTBaZHZVV1dmaHBxWnVna3g3Y2UzQmYyQVB4MDVBQUpFeUUxSTR3LWlxaUJxOVFORm5XcGZBa2M3N2F4MHNYTWY1SEJpbWNOQTFzRmxzY1k?oc=5",
-      "source": "Crypto News",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T15:17:56+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "ff3045908f11af40dff0",
-      "title": "Zcash Rises 4.79% in One Hour to $1,374 on Binance Spot - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oakJtbjR5TURBQWdHbWpoc3J6T0V5MjNxdjI0WmhKZVlkNmo4MU1FbEpER2pZeDJXX2xWUUt6R0V1b1RoV1p5bDNBUHdIYnAwODVmeW9FM0tidw?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T14:47:03+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f317995296cd663b7a39",
-      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KUFVXcWNqYkZNd25PVnFSc0pGQ3h4ZXpYU2FpSVYzRGJicjduWmZVMDh3bjVCcm0zQUdEUVE4LUZTWG5FdFNNazNSeUFxWC1YWUh3VW00YlUyWFlMQkRSNml6dThQaHlkd29EaEQ5dTgzN3ljaWYxd3J3?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T14:23:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
