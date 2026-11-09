@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-09T06:06:11.800476+00:00",
-  "last_success_at": "2026-11-09T06:06:11.800476+00:00",
+  "checked_at": "2026-11-09T07:26:40.203936+00:00",
+  "last_success_at": "2026-11-09T07:26:40.203936+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,36 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 21
+      "matched": 22
     }
   ],
   "items": [
+    {
+      "id": "f49326ede2f4f838fbcf",
+      "title": "Zcash developers propose cutting block times to 20 seconds - grafa.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS0Q2QkpGYTdjbnQ2V21IZDV0N0c2eHB3dDZpdlBXZUJNbFZhMTJCSGw0YWY4MWNFQjlMRWdLaDF2TXZqYXdSbVFjUTN6Y2lxNWhTSkNQVUlHVzMyZmNRV0JmTUl4NmRSeUFEbnVEeEpFWnlGdkVEOUF0MU1RcUE3d0xnNWh4WkU0LVg5VTdKc2c2dw?oc=5",
+      "source": "grafa.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T06:47:24+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "d92f609e924b4dd1ed04",
+      "title": "Zcash (ZEC) Price Prediction 2026, 2027–2030: Privacy Coin Growth Ahead - Coinpedia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoU3dVWkJENVR3LUlKcVlnZnVCbFBSNXJ4NmpVdUhRbk8xYmJVbjRvZzBfdGNNRVdPSXN3LXJlaEotYnhhakI0X25Dd0kzanRUYmkwSlB1cURULTIyT3RaLWdsSzNWRE9vZHR0NWdpVU5LdmNt0gF6QVVfeXFMT1RvVFdPZ25LSC04T25ZSEJyZ3hHUEpHdzhDbkRUQWZ4YWhXX0hGLThKczlNUVZiSHoxUXlfcHN1S2x1YWZVOUcxOTM3YVMtY3pvUlBxNGUzRjZjUnEyRUplX1FuTl9mdU5lT1dQanRybVRCV0RmMk5OdUE?oc=5",
+      "source": "Coinpedia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T05:37:49+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "a1192094d38cd7edbbd7",
       "title": "Zcash devs propose another block time cut days after NU7 upgrade",
@@ -44,6 +70,19 @@
       "feed": "Cointelegraph",
       "kind": "media",
       "published_at": "2026-11-09T05:36:08+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "67c7788c3db20025250e",
+      "title": "Zcash devs propose another block time cut days after NU7 upgrade - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVzZfYXluRHdZNUlFWEM5VFdzanRhNGh0VWZlVXNkUTl2bFByenctXzVNbzVnMjYwZFZYQ2dEd2VZN1JXR3lhVVpNTl9pOUZKVFJ5ZnNzbGdIYkxDYmdrVU9pWXBzUEpJZ1hMdC1Xd2VwbUFNaEJISEJvUGdtcGt6TV9zNk9oNHU1TXl1YTFWZXo4NEMxd2RYLTlZSzVvUTRDazNGSUJQSW81aGFKVEpIY2J3WHctanZuTnRMYWZrdzU3cERJRmkw?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T05:36:00+00:00",
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
@@ -200,19 +239,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-07T15:23:55+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "25c693c11e3268ef44cc",
-      "title": "Zcash Activates NU7, Targets 25-Second Block Time - IDNFinancials",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXROeTRkbmtmTGs5b2lxODJwQUpCVDA5U3JCNU9vQ1cteF92SkZRVUltZ3dpN1laLWM2LVRjVlN2NXpoOERGUW0xNHJpWGpNajRxWExnVDh2bEpNN0h1YjFIRTc0dklXeFctSW5DWW12bTh3TnFFRm9QT213M2lUNWpueWRubHVERDZTQk1SR2g0d0pMRW1oQTFidUJMNGM?oc=5",
-      "source": "IDNFinancials",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T13:00:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -655,32 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T09:39:23+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "d6fdcb97449538c23d5c",
-      "title": "Chainlink, XRP and Zcash Hit Make-or-Break Levels as Monero Breaks Away - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYY3FYUXJmR3NZbnRQdlFGN3hOVHhJcHl4UGFKdjE0bzVFUjIyaUVGdXJVNDdKRWdVenJUeHlzaGJqOWgtVFhEQzEwLWIyUTJHLTRLV3lmZHpXMlM2Z3MwUGRwYTVLaC1xYl9hSHNtU2puMXBEZ2c?oc=5",
-      "source": "BigGo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T09:36:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "86063d08f01046e90e35",
-      "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
-      "url": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "feed": "Cointelegraph",
-      "kind": "media",
-      "published_at": "2026-11-06T09:00:36+00:00",
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
