@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-09T03:56:38.894354+00:00",
-  "last_success_at": "2026-11-09T03:56:38.894354+00:00",
+  "checked_at": "2026-11-09T05:05:19.582885+00:00",
+  "last_success_at": "2026-11-09T05:05:19.582885+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "224e97cd6196a034e487",
+      "title": "Zcash Price Forecast: ZEC loses steam as ETF selling weighs on recovery - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYmZnMnctcGVIYXJUY0UwTC1SZU90QnNCRzhKcEdlcXhZczJ1bHRXYlczNXBpUGlTRTBNREd6N0NQVWEyOEdxaFp0OEJ2MWFKN0EzV09rZEJaWndPbVlNM2hFN3JIdmxHRGtGV2RMVmJxakMtbjhYSlNBN2p3cl9GbXZ4ZEN3M3pTSFVaOXRVZXZRRXZ5V2FsY3BpVk4tc2FwWm5HU2syRC1EYXUzdkdacF8wVmExdEJra19uMTF1cWt2Nl9DT2ZJdndn?oc=5",
+      "source": "FXStreet",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T03:58:01+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "45e0b340dc37c1a3cafc",
       "title": "What is Zcash (ZEC)? How shielded transactions work - The Block",
@@ -655,19 +668,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T09:00:36+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "359cf8847d97998cdd70",
-      "title": "Zcash Activates NU7 Upgrade, Locking About $16 Million in Sprout - TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtSUg0S2dTbE1qZXlsNHlHdEZoUmNMSnBBOVpmQkJ6aUxrRTY2b3VoN09RRnVRNGF2UGYwQTNrSF92ZUpCX0FTZDIxWEZsWlZvZHRTS1BuMEJkcGM?oc=5",
-      "source": "TOKENPOST",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T08:19:05+00:00",
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
