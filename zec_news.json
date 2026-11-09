@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-09T07:26:40.203936+00:00",
-  "last_success_at": "2026-11-09T07:26:40.203936+00:00",
+  "checked_at": "2026-11-09T09:11:09.250499+00:00",
+  "last_success_at": "2026-11-09T09:11:09.250499+00:00",
   "status": "ok",
   "sources": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Cointelegraph",
       "status": "ok",
-      "matched": 2
+      "matched": 1
     },
     {
       "name": "CoinDesk",
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "cafad8d58461ea160912",
+      "title": "Zcash Developers Propose Reducing Block Creation Time to 20 Seconds - ForkLog",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlJ3bWlCbzBOWHhaTGhTeXhYenhEX0dGUWNVS2ljTjNKamo4bmdtcGlsdkhoVElicUlocHRfNFZNbFBrbXVSejFJMndYSXVHR01iSm44cm1RcFZsNk15aER4bE4yTVJDNUtkWm5CeGRKX3hkYWFpazkwczRmRk0zd3hhN1NrRjVvR0lCNGdIN3paTlpUalE?oc=5",
+      "source": "ForkLog",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T08:10:20+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "f49326ede2f4f838fbcf",
       "title": "Zcash developers propose cutting block times to 20 seconds - grafa.com",
@@ -239,6 +252,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-07T15:23:55+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "25c693c11e3268ef44cc",
+      "title": "Zcash Activates NU7, Targets 25-Second Block Time - IDNFinancials",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXROeTRkbmtmTGs5b2lxODJwQUpCVDA5U3JCNU9vQ1cteF92SkZRVUltZ3dpN1laLWM2LVRjVlN2NXpoOERGUW0xNHJpWGpNajRxWExnVDh2bEpNN0h1YjFIRTc0dklXeFctSW5DWW12bTh3TnFFRm9QT213M2lUNWpueWRubHVERDZTQk1SR2g0d0pMRW1oQTFidUJMNGM?oc=5",
+      "source": "IDNFinancials",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T13:00:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -658,32 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：升级",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1484014d45367a078b7c",
-      "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOXV0UW94dVZiRGhIMUtiV2EzMHhzUGNpVHRHNEtWZVBHU2YxR21IM3lBaHltNzhZVW41MXNSaHpMeGdfa2Q0eFBadXFiVjJXVnVZdGZTZzhsSTRBNVgtZkNUYjRMemtYZjB0a0RaMVg1b1pzUGhMRnZ1QVhYZk9HSHpleXNYQzItWDh0al9jUVVRaWdQV2UwMg?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T10:13:27+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "90ea9dfdf069a0d50fbd",
-      "title": "Zcash Activated the NU7 Upgrade: Block Time Cut by Threefold - Incrypted",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTlJYdEM5NXlxZWJPX2VpRTQtSVI4aEVRbEF6UjZ4UU5ENjFWOXpnX1Y4VHh1UXZDeUtHNHU0YjlsV0ZjcHNteEIyZGk0SGFYZnpIb1lxV0tRT25XYVpvcHNmaWU3MWluOWlTQ2FqeGhNMmxtRWJhSG1Tck1qTzR3NFFiRDJVa0RvQ0pZdHZB?oc=5",
-      "source": "Incrypted",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T09:39:23+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
