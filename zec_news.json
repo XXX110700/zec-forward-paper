@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-09T17:09:20.743642+00:00",
-  "last_success_at": "2026-11-09T17:09:20.743642+00:00",
+  "checked_at": "2026-11-09T17:58:50.509034+00:00",
+  "last_success_at": "2026-11-09T17:58:50.509034+00:00",
   "status": "ok",
   "sources": [
     {
@@ -37,6 +37,19 @@
   ],
   "items": [
     {
+      "id": "6c430e7ddf5650e7e69c",
+      "title": "Zcash Developers ValarDragon and Evan Forbes Propose 20-Second Blocks After NU7: 11 outlets compared - NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV21vZEplLUZlQ0R1cTFNQ1oyWmd4ekVFd2lSWUJVYTllTzVjSWJMYkZ0M1ZnYmUyWnhTUE56OVM4SUZCZklsQlZySEVOTUJVdGNOV2stTHRNWEtqa0IwYWNfczVyRXczWEZHOHg5b0hWT0hXLWo5OVM2RWVwZUYxUjFKTzB5SF96ZHNvZW1FcXd5ekMtdkVxUEl1cnBxRzlCYjRxWVdIQ0RCSnZjNnFaeWhHVGZhY0xGSWpiNE9xNmljXzNZbDdnNjBQdjk5WU9qN1dqckdzZWZuNURRVG9lNzZmT2xfVkdo?oc=5",
+      "source": "NewsCord",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T17:19:29+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "c13ebf1ed1c8fed78eb9",
       "title": "Zcash 钱包 Zodl 推出自营服务器，集成 OHTTP 防止 IP 地址与钱包请求关联 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82QnF0ZzhMRWF3N2xIUVFTUlFkdDFVRXVYbFNzNGlLRW52R2wwYXE5QWxfUlFEMTFVV29GckNhYU1IOHdrOFRPb09sdGhWRU82VENMODU3dFBTcW92bjJ6U0ZMMUNYLW8?oc=5",
@@ -63,6 +76,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "7ec821eee1ba7aa01c60",
+      "title": "Zcash Devs Propose Cutting Block Time to 20 Seconds After NU7 - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXZoT0pmWFJkVDFjWUh3YUQzRG9mUUZzVEhETGg1R2VMLWxRR2c4cV96YktWYnBXek44anRzUl9hSXI5Nm83bU1XZ09ibTJuM2Q5bDJUb1NIV1VtMU5XaDE0eDZsdEhUaWRoYlBFd1d6Q045U1VXSVFFck5qV3lIRUZTcUd0aVlTbkJWckloVGJjRWRfVlhKamJ0azFnWm1kVlZhNzJ3?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T14:34:38+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "b66022011c7876341d3c",
       "title": "Zcash Just Turned 10. Here's What Could Be Coming for ZEC Investors Over the Next 10 Years. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdUkzLTJJZ2plTjRVRnRLVExiVUtxLXFwcTJxSUowaTFDWTB5Z2ttLWdrSEx6VTlpdVBMWGgxZWZDM0ZVZG1TQUJRbnFpMXBwY2ZXd1VEcjJXbWxMQTFObTlJUTRnWGkyTlFXYzF1dmtTSVVCcFJrZkJ0SkRDS2ZDc09SOENSMW4zNS01ZGVEMWdlamU2THJLeQ?oc=5",
@@ -83,19 +109,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-09T13:05:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "8bdcbcbf769c44509923",
-      "title": "Zcash coin suffers from negative pressures - Analysis - 09-11-2026 - Economies.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0hxVG5VR2JDbmpkbEx3VzYwaWVFbnE5N2NzbVVVdjNMdjhYWHR3QUt4N2VXUHJyVzZvRldPLVB2cGRadDQtNGRwWThaSlFSZmZDa2s1RmxiTDJpV3VYY3RZSGVBQXJyOFBvZDktejJjZHllc2theXBGQm9EMk4ySnJSVEprbFJPV2ROeGQ5YjFvc0R5RFRDdEZxVXM1MzR3QlZMZ0EtZXJORmptQ2hDX25vUW1sZw?oc=5",
-      "source": "Economies.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T12:48:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -151,19 +164,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：升级",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "7ec821eee1ba7aa01c60",
-      "title": "Zcash Devs Propose Cutting Block Time to 20 Seconds After NU7 - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXZoT0pmWFJkVDFjWUh3YUQzRG9mUUZzVEhETGg1R2VMLWxRR2c4cV96YktWYnBXek44anRzUl9hSXI5Nm83bU1XZ09ibTJuM2Q5bDJUb1NIV1VtMU5XaDE0eDZsdEhUaWRoYlBFd1d6Q045U1VXSVFFck5qV3lIRUZTcUd0aVlTbkJWckloVGJjRWRfVlhKamJ0azFnWm1kVlZhNzJ3?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T10:34:38+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -505,19 +505,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "00ca3dd49ff1375952fa",
-      "title": "[Altcoin spot ETFs] ZEC draws $1.77 million as SOL, LINK and HYPE post outflows - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MejA5V0NpSkZOSHY0R05Wb0FwUUljOE45NDR3aWl0NHhGTW40WFZ2ZDRuQ0Q5V01nY0lMWmdZenJOdzM2UDkzeDF1SlpuOF9DNXdrWjJtUlJZUQ?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T03:41:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "9781cbf130c3e1565ff3",
       "title": "Zcash Falls 2.01% in One Hour to $1,330 on Binance Spot Market - www.tokenpost.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEZjMxYjBBMXl0eUI0dHhmZU53TUtHZEF2RFJQcWpFcWJYcW1tYy10UmhTTHZHRmpnVEpmU3pjUmNiQThJVDdIYXptM2I4S203Q1hBS2xnM3M3QQ?oc=5",
@@ -684,6 +671,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "34e5bca16f9470a0bd5c",
+      "title": "Zcash Activates NU7 Mainnet Upgrade, Cuts Block Time to 25 Seconds - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONEcwMlE5YjltNldqYUE0c1B3NXI4MmdoOTJEV1JOZUVqTFlvU1ItNzFKWUZYTE1YbGxXaW1JV3F4QXFtVmdYdldkTngzU202ZTVvUHZDZUk2aXpCNVZUeHhfaGlPVUsxbjNfcjJSN29LQnNkenZ3M1docjlvRE5EVklYVE8ycXl1cDF4UHA0NXNjUG4tLXRfNklPTkpOX0s2TmVMV0JB?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T16:37:11+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
