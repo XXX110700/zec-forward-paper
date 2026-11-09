@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-09T14:56:34.519157+00:00",
-  "last_success_at": "2026-11-09T14:56:34.519157+00:00",
+  "checked_at": "2026-11-09T16:01:49.422471+00:00",
+  "last_success_at": "2026-11-09T16:01:49.422471+00:00",
   "status": "ok",
   "sources": [
     {
@@ -37,6 +37,19 @@
   ],
   "items": [
     {
+      "id": "e39658319084ca46e39a",
+      "title": "Zcash Just Turned 10. Here's What Could Be Coming for ZEC Investors Over the Next 10 Years. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQjdkdENxUjE0NG9XNjNsNHdHTDVBU2dmSzZLLVhQZ3pmeUtQdFNaVy15bXk2WlhBRWExTFVKTU9DN05NQmMtM2xod2otenlFMG1xZUFyc2FCazV3ck5fQmNUMmVlU1ZfSU5qUkhvdlVmaFJlbWxSbmM5cFFCM2l5VmE0Vy1XUFI0NktuVU9DalZEVE1aVlE?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T14:46:00+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
       "id": "b66022011c7876341d3c",
       "title": "Zcash Just Turned 10. Here's What Could Be Coming for ZEC Investors Over the Next 10 Years. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdUkzLTJJZ2plTjRVRnRLVExiVUtxLXFwcTJxSUowaTFDWTB5Z2ttLWdrSEx6VTlpdVBMWGgxZWZDM0ZVZG1TQUJRbnFpMXBwY2ZXd1VEcjJXbWxMQTFObTlJUTRnWGkyTlFXYzF1dmtTSVVCcFJrZkJ0SkRDS2ZDc09SOENSMW4zNS01ZGVEMWdlamU2THJLeQ?oc=5",
@@ -70,6 +83,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-09T12:38:12+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "25bf460785b83e720e46",
+      "title": "Zcash Price Is Flashing a Warning Sign for Bitcoin and Ethereum - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rcHhZNUhxeGtaOVdGb0NTTHhucFRnaVZvc1VGY3pMN1NuRl9nR3VpUldLWTQwZnNXQXpzbFJOSWM5NmZmRDF0WXQwLTAyOWF3M01NTE1XZGhOZDVnRGgyNXUwbnF1cGoyM2c?oc=5",
+      "source": "BeInCrypto",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T11:13:10+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -330,19 +356,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-08T02:00:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "25bf460785b83e720e46",
-      "title": "Zcash Price Is Flashing a Warning Sign for Bitcoin and Ethereum - BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rcHhZNUhxeGtaOVdGb0NTTHhucFRnaVZvc1VGY3pMN1NuRl9nR3VpUldLWTQwZnNXQXpzbFJOSWM5NmZmRDF0WXQwLTAyOWF3M01NTE1XZGhOZDVnRGgyNXUwbnF1cGoyM2c?oc=5",
-      "source": "BeInCrypto",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-08T01:07:01+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T16:29:23+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "55541321565388560843",
-      "title": "Zcash Falls 2.74% to $1,337 in One Hour as Long Liquidations Reach $1.28 Million - TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fbVlfXzhfdnJjMTZ5S3ZwM0dMbWE1alFKb0pYTnNpVnRRdV83dGIyS1F5QXRwbGRzLVZ2SDZab3lFUnotWWZ5ZnlKY2p4blU3YUVnVE1TbjRzdw?oc=5",
-      "source": "TOKENPOST",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T15:45:40+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
