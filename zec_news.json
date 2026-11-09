@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-09T16:01:49.422471+00:00",
-  "last_success_at": "2026-11-09T16:01:49.422471+00:00",
+  "checked_at": "2026-11-09T17:09:20.743642+00:00",
+  "last_success_at": "2026-11-09T17:09:20.743642+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 23
+      "matched": 24
     }
   ],
   "items": [
+    {
+      "id": "c13ebf1ed1c8fed78eb9",
+      "title": "Zcash 钱包 Zodl 推出自营服务器，集成 OHTTP 防止 IP 地址与钱包请求关联 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82QnF0ZzhMRWF3N2xIUVFTUlFkdDFVRXVYbFNzNGlLRW52R2wwYXE5QWxfUlFEMTFVV29GckNhYU1IOHdrOFRPb09sdGhWRU82VENMODU3dFBTcW92bjJ6U0ZMMUNYLW8?oc=5",
+      "source": "TradingView",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T14:50:24+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "e39658319084ca46e39a",
       "title": "Zcash Just Turned 10. Here's What Could Be Coming for ZEC Investors Over the Next 10 Years. - Yahoo Finance",
@@ -76,6 +89,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "8bdcbcbf769c44509923",
+      "title": "Zcash coin suffers from negative pressures - Analysis - 09-11-2026 - Economies.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0hxVG5VR2JDbmpkbEx3VzYwaWVFbnE5N2NzbVVVdjNMdjhYWHR3QUt4N2VXUHJyVzZvRldPLVB2cGRadDQtNGRwWThaSlFSZmZDa2s1RmxiTDJpV3VYY3RZSGVBQXJyOFBvZDktejJjZHllc2theXBGQm9EMk4ySnJSVEprbFJPV2ROeGQ5YjFvc0R5RFRDdEZxVXM1MzR3QlZMZ0EtZXJORmptQ2hDX25vUW1sZw?oc=5",
+      "source": "Economies.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T12:48:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "1d528bd764e6421ff305",
       "title": "Zcash Price Forecast: ZEC recovery falters under ETF selling pressure - www.tmgm.com",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPODZFMlVEcGVzeS1Sc3JObnU5SUptQjNJWGtrdUNNamZlMkU1U2NwUmFEU3psWkZsX005ektpd0ZKQ0I2cmJLMjRlRVh4S0xVb1hqdmFITGNDUlV1cFhhallURThmTlNxRnJ3SEpWSzk5Nnc5NlBDa2FfQzFCTkY5UmdlSHZzOEFpdzVUM3pCUHNkQUZubXZCX0NPcDgwNXRKUENRaEpEVkVTWDl0bUcwS3A0RmgyeUJfQVp4Wk5oSl9MU3hSbS1FeGZ0eXhsNDZaSlAwb3hB?oc=5",
@@ -89,16 +115,16 @@
       "verification": "未独立核实"
     },
     {
-      "id": "25bf460785b83e720e46",
-      "title": "Zcash Price Is Flashing a Warning Sign for Bitcoin and Ethereum - BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rcHhZNUhxeGtaOVdGb0NTTHhucFRnaVZvc1VGY3pMN1NuRl9nR3VpUldLWTQwZnNXQXpzbFJOSWM5NmZmRDF0WXQwLTAyOWF3M01NTE1XZGhOZDVnRGgyNXUwbnF1cGoyM2c?oc=5",
-      "source": "BeInCrypto",
+      "id": "7c04450e8f93b040a2dc",
+      "title": "Zcash developers want 20-second blocks just days after major speed upgrade - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWhqQk9ScDFrR2xzRkxXNnNzYVgxc3dYRUlkdE5oWUtUQkhzZV9OWW8xSWhSbm1kcjBvY2Q2UzJlQkdmdUNqZ3d0U0JJdlVvOTlqbjdKY3Rla0k3VVJQZGJncTMzUlFmZ2FscnA3OGtWTExqek4xRlRSbGxYcmxXRExnTktaS3hFY3dPQ3hsa0JuZ0xGeE5oLXdXQ0V2Qm9TRW9ScDdRMWlncUxpeFl6cldpeTZWZw?oc=5",
+      "source": "CoinDesk",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-09T11:13:10+00:00",
+      "published_at": "2026-11-09T11:35:45+00:00",
       "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -108,19 +134,6 @@
       "source": "CoinDesk",
       "feed": "CoinDesk",
       "kind": "media",
-      "published_at": "2026-11-09T10:52:49+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "7c04450e8f93b040a2dc",
-      "title": "Zcash developers want 20-second blocks just days after major speed upgrade - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWhqQk9ScDFrR2xzRkxXNnNzYVgxc3dYRUlkdE5oWUtUQkhzZV9OWW8xSWhSbm1kcjBvY2Q2UzJlQkdmdUNqZ3d0U0JJdlVvOTlqbjdKY3Rla0k3VVJQZGJncTMzUlFmZ2FscnA3OGtWTExqek4xRlRSbGxYcmxXRExnTktaS3hFY3dPQ3hsa0JuZ0xGeE5oLXdXQ0V2Qm9TRW9ScDdRMWlncUxpeFl6cldpeTZWZw?oc=5",
-      "source": "CoinDesk",
-      "feed": "Google News EN",
-      "kind": "aggregation",
       "published_at": "2026-11-09T10:52:49+00:00",
       "event_time": null,
       "sentiment": "偏利好",
@@ -388,6 +401,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "d9eba880f15b34b941d8",
+      "title": "Zcash Price Is Flashing a Warning Sign for Bitcoin and Ethereum - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGTmVSTE5qMHdiZUJpOEVDbDBLNWlsaVFoaGFUS193cnJQMUl6SzhfMG5EUUJ3M0dVSE1OYUpZWGExVWY5MDg1R2FRRUJHMXdQMG5FeG5sa3NKWlU?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T16:49:55+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "1e7ebc588790ee86c4b8",
       "title": "Zcash Price Is Flashing a Warning Sign for Bitcoin and Ethereum - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcHhkenlzdGxoSnI0VTlBN3NqNG5DSDZiTWpUQjZ3LUZGNW5vQzRKbGFHN2ZHeXpZREpsc1RYcmdtNGdFakdCZ010NnF0X0wwVV9wLUhrOFhFVnhpME9HZ2FSRjFPLUtONW5YWmFuZFQyTjV3N2ladk9hZUdRdHYxZHJuajhtUnc2M1VRVnlveTAteXhWbVBKcDBrdzM2aGc?oc=5",
@@ -479,6 +505,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "00ca3dd49ff1375952fa",
+      "title": "[Altcoin spot ETFs] ZEC draws $1.77 million as SOL, LINK and HYPE post outflows - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MejA5V0NpSkZOSHY0R05Wb0FwUUljOE45NDR3aWl0NHhGTW40WFZ2ZDRuQ0Q5V01nY0lMWmdZenJOdzM2UDkzeDF1SlpuOF9DNXdrWjJtUlJZUQ?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T03:41:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "9781cbf130c3e1565ff3",
       "title": "Zcash Falls 2.01% in One Hour to $1,330 on Binance Spot Market - www.tokenpost.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEZjMxYjBBMXl0eUI0dHhmZU53TUtHZEF2RFJQcWpFcWJYcW1tYy10UmhTTHZHRmpnVEpmU3pjUmNiQThJVDdIYXptM2I4S203Q1hBS2xnM3M3QQ?oc=5",
@@ -502,19 +541,6 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "0c2fe005e4735037f1f4",
-      "title": "Monero vs Zcash: Which Wins by 2028? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYi1na2ZqbTAwa1gyNkd5NVI4OUdweFlOb2ZJb0k0RF91S3NkMU1tOGZVb1dtLUxHNlBYdFhNMzF2ZWJtdmxDOWRwckVnYzNYQm5CS3RkM1JodmxHdThJeHAyczQwcjVpd1E4UUJMTFY1eHlVSzJEb2ZhM3l0RUo0LVJQdmNlU2ZTbWJ3VnhHV2hDQzZtQldobw?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T00:01:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -655,32 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T17:11:48+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "34e5bca16f9470a0bd5c",
-      "title": "Zcash Activates NU7 Mainnet Upgrade, Cuts Block Time to 25 Seconds - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONEcwMlE5YjltNldqYUE0c1B3NXI4MmdoOTJEV1JOZUVqTFlvU1ItNzFKWUZYTE1YbGxXaW1JV3F4QXFtVmdYdldkTngzU202ZTVvUHZDZUk2aXpCNVZUeHhfaGlPVUsxbjNfcjJSN29LQnNkenZ3M1docjlvRE5EVklYVE8ycXl1cDF4UHA0NXNjUG4tLXRfNklPTkpOX0s2TmVMV0JB?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T16:37:11+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "cc3c371fdd7bd7f660e3",
-      "title": "Zcash USD (ZEC-USD) interactive price chart - Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSa3RtVVViOWRXd2FYMl9GLUt5RVdTYzRTRi1oTm1VN0N6VDh5SGIxX0dDczQ2eG90Tk1IVUVMREtVLU5OWkRXU20xdlZNT3VDOFpKbW9ZMjR3U1ZEbEE?oc=5",
-      "source": "Yahoo Finance Australia",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T16:29:23+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
