@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-09T21:50:27.575417+00:00",
-  "last_success_at": "2026-11-09T21:50:27.575417+00:00",
-  "status": "partial",
+  "checked_at": "2026-11-09T22:46:43.460668+00:00",
+  "last_success_at": "2026-11-09T22:46:43.460668+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 0
     },
     {
       "name": "Cointelegraph",
@@ -32,10 +32,36 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 24
+      "matched": 25
     }
   ],
   "items": [
+    {
+      "id": "109608b0cbacd25f53a8",
+      "title": "数据：某地址通过Hyperunit 向 Hyperliquid 存入1060 枚 ZEC，随后分3 笔卖出换得129 万美元USDC - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0eFRJQm5Mc2NVd0oycXlLcUwxWEVUcG94Tk9JZkFuNW1GcmNkVGdsRHZ2eHkyQWNwbHJlRDd4WGxUbjc4eEpTVUtzS2V5Vi1DV0taTzZ3Z05WeG80?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T22:43:36+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "ad93a2a9522389a7a82b",
+      "title": "Zcash (ZEC) Activates Network Upgrade 7, Shortening Block Intervals and Easing Wallet Sync for Private Transactions - Crowdfund Insider",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdm9hQnlrTGlOZkFtd2ZSS29rRGxJS1MtTUdDX2VjR1FXZjRIcWVzZm1kVTlsTEZkN1Z2UHRJQkNMSE9nR0xWcHV5MEYzOU51Y3pUb3BQR0U0MXhkbDJRQmNpal9ubVN4VHYxTmZLRHdZbjdOVkc2eUJReDg4cTZaNmhQcTZLN2dPa2JKMXhqckxxTUhiX2Njd0hRZFVwMTlfbklYMHhDQ2pOVGhJeXdFaklFbHZaTlFTaDJGSEhsdFZlOG5NUlB2MHFBSGJ1ZnRZRzNvSXlCNnJaQUpaY0FDaGY5YnVTMDQ3aUk1WlhaZlBZOUU?oc=5",
+      "source": "Crowdfund Insider",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T22:36:40+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
     {
       "id": "d6d395abb35c4439f5c8",
       "title": "Zcash falls 8%: developers propose 20-second blocks - CryptoTicker.io",
@@ -658,32 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "06565f3fb0bbdd49b175",
-      "title": "Grayscale Zcash ETF Bleeds $11M as Altcoin Funds Shed $16.8M; Hedera Draws Buyers - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MQjIwcW9yQjBqem5Sd0pHRnl5Sk1UcE82QWpQWm1kcmpXRzNtdk1NeDBZclRMTHRLWGlqODBNdFMtaURHU1MxaGJDNXZ2R0ZZN2dqa2pqeERUYjU0b3JNYmhDNHBPZTRnN0Fobnc2WG0tbnFLLVE?oc=5",
-      "source": "BigGo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T19:55:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "9a95cff1cea1c517d210",
-      "title": "Zcash NU7 Is Live. Where Could ZEC Be by 2030? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTZuTExISGNzTWFrVXFRVzEzVHhudF9LNzJQZGt0OUNNakRXWU1idnhpRDVJcF9RUUR3dmx3SVhPVG44QklVRUZTOF9fQlh0YldNeDhHb19jRFctYXpqXzJRMWpEWmtuNUprZHlLNFR6YUF6QW1CcGN6Y28xWFl5clhmOGlHOUFBTFRqbEptcEdPcTJHQjVGNEtXVmZZa2pJQk5ZYnhR?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T19:31:00+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     }
   ]
