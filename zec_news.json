@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-09T19:57:02.979144+00:00",
-  "last_success_at": "2026-11-09T19:57:02.979144+00:00",
+  "checked_at": "2026-11-09T20:53:51.725702+00:00",
+  "last_success_at": "2026-11-09T20:53:51.725702+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,32 @@
     }
   ],
   "items": [
+    {
+      "id": "adefd52811270ee9416e",
+      "title": "Can Zcash reclaim $1,208.74 before $1,191.26 support breaks? - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lVkpqeXczbEhGUC02eVlJN19TeUZnQUJaZER6cnl3T25aQ3RyZ0Z4RC03VkJ1ek9WUkpHUDlaYWJMSktqYjZQMG5GRUd4V2FGUUFTSmZ3Q0x6cFE?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T20:38:08+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "eab840c2f573904192e6",
+      "title": "Zcash (ZEC) Price Prediction for December 31, 2026 - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOGROR3NaMkhuVU8xNDBsV2ZZYjN3TzUyZ1prWFI0RS11RFBUUVlWdjE4NnY3X281d3RTOUttVXVIUnc2RS0zMDhmZEZPRGI5UkxmUGxJZlVxOUczV3BOWTlyVGJGVnRtazhSMGhWR0NRbEUyWEJlS21DT1N2VFNwSWhYQjVUb2Jr?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T20:34:24+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "de341fe37d9d954aae4a",
       "title": "Zcash (ZEC) price prediction for December 31, 2026 - Coinpedia",
@@ -492,6 +518,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "405881c4a13a19c59cfc",
+      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CeEl3cUcxS011QkY4S3NCVlFyMDJQQi0wVl9OWHlvVlpVQkdydFk0OTR1U21sdkw3eEZwWDMtN2FBcW9mZXlBUjVnUlhtRWd1ZW94dnJn?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T12:01:47+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "8972c6ba75e043d34177",
       "title": "ZEC 兑 RSD：将 Zcash 转换为 塞尔维亚第纳尔 | 实时 ZEC 兑 RSD 价格 | MEXC - MEXC",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBERkplY2tkZS1udDA2NldnTkxJTHFReWlpY0lsUjVhNWdwOElPZUNpNVFSQ1E0VFBVei1iRWtGWEI5X1dNUHlpOXdCa0dYMGxuVUVWYQ?oc=5",
@@ -645,45 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：launch、upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "d5d85bafccafc6ffcfcc",
-      "title": "AI 也要“验明正身”：Anthropic 开源 FlashProve，用 Zcash 同款零知识证明核验模型输出，算力开销高达95 倍 - 区块周刊BlockWeeks",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ud2haaWRlOU9xUkgwbEo5cTJKWmwyX2c5UEdzV3lHWldQSjFrdERiN1BLRGRocVJidGpNUDBld0liYWJXcldTU2E3UFBPQQ?oc=5",
-      "source": "区块周刊BlockWeeks",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T18:34:28+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "2bca545a6f9ce3591b5c",
-      "title": "Zcash Climbs 3.91% in Four Hours to $1,354 on Binance Spot - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Yd1pScmNCMjNGamxLUUFRX0NVVTA3ZldVSUc5NHRBeGdaTXBTTTFBemNlc21KQlFMNnNGZG54U09kWWpSQ2FHUEpNRFFiTmh5RUlscGhveFAyUQ?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T18:11:04+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "e206c61facc9ebeeb76c",
-      "title": "Zcash NU7 is live: why ZEC is rising against the market - CryptoTicker.io",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95TmhVaUpNSVl2NE9uNmM0TzZ3UExCYUs1UWZib3lwdDJmeXVrSWsyYS1zck1RTkVxMFdxLV81OHRYWUVuU0JWUEJGcGg5RHpzbHdWeGF4V2hEVmdBcUIyVXQ2NnM2eThnRDRhMWVB?oc=5",
-      "source": "CryptoTicker.io",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T17:11:48+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
