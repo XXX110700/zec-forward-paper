@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-09T17:58:50.509034+00:00",
-  "last_success_at": "2026-11-09T17:58:50.509034+00:00",
+  "checked_at": "2026-11-09T18:55:43.767775+00:00",
+  "last_success_at": "2026-11-09T18:55:43.767775+00:00",
   "status": "ok",
   "sources": [
     {
@@ -52,7 +52,7 @@
     {
       "id": "c13ebf1ed1c8fed78eb9",
       "title": "Zcash 钱包 Zodl 推出自营服务器，集成 OHTTP 防止 IP 地址与钱包请求关联 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82QnF0ZzhMRWF3N2xIUVFTUlFkdDFVRXVYbFNzNGlLRW52R2wwYXE5QWxfUlFEMTFVV29GckNhYU1IOHdrOFRPb09sdGhWRU82VENMODU3dFBTcW92bjJ6U0ZMMUNYLW8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93REJoWjNId2d3NlYtRHpxZVQ1RG4yZWNoTDhoc0NCczN3Q0pGYUtsRDd4RkZ2Mk5NV1RUUzVvRF9OMFNuLUctVUFMajBocjA3ODM1b2V4RE5nR1RVRnluT3VBX1A0Zw?oc=5",
       "source": "TradingView",
       "feed": "Google News 中文",
       "kind": "aggregation",
@@ -109,6 +109,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-09T13:05:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "8bdcbcbf769c44509923",
+      "title": "Zcash coin suffers from negative pressures - Analysis - 09-11-2026 - Economies.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0hxVG5VR2JDbmpkbEx3VzYwaWVFbnE5N2NzbVVVdjNMdjhYWHR3QUt4N2VXUHJyVzZvRldPLVB2cGRadDQtNGRwWThaSlFSZmZDa2s1RmxiTDJpV3VYY3RZSGVBQXJyOFBvZDktejJjZHllc2theXBGQm9EMk4ySnJSVEprbFJPV2ROeGQ5YjFvc0R5RFRDdEZxVXM1MzR3QlZMZ0EtZXJORmptQ2hDX25vUW1sZw?oc=5",
+      "source": "Economies.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T12:48:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "34e5bca16f9470a0bd5c",
-      "title": "Zcash Activates NU7 Mainnet Upgrade, Cuts Block Time to 25 Seconds - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONEcwMlE5YjltNldqYUE0c1B3NXI4MmdoOTJEV1JOZUVqTFlvU1ItNzFKWUZYTE1YbGxXaW1JV3F4QXFtVmdYdldkTngzU202ZTVvUHZDZUk2aXpCNVZUeHhfaGlPVUsxbjNfcjJSN29LQnNkenZ3M1docjlvRE5EVklYVE8ycXl1cDF4UHA0NXNjUG4tLXRfNklPTkpOX0s2TmVMV0JB?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T16:37:11+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
