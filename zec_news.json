@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-09T09:11:09.250499+00:00",
-  "last_success_at": "2026-11-09T09:11:09.250499+00:00",
+  "checked_at": "2026-11-09T10:04:20.162847+00:00",
+  "last_success_at": "2026-11-09T10:04:20.162847+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "73824e98f1b0a0bc160e",
+      "title": "Zcash Developers Propose 20-Second Block Times After NU7 Upgrade - CoinGape",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1akhmSDdOUGh0b3JYWkVPYjAtdXF3bmJENDVDc3Vvb1hVNjNJVVk0YzhUdmpEQ21OUVduTXJWYWVMRWNVWnFHUTA5dXlZTDFWZDd3dDFUcVdIZVlTdmtBNDNnTU9kc0NuUzQtLU5OOERJZE9sQ1Z3Sw?oc=5",
+      "source": "CoinGape",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T08:55:12+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
     {
       "id": "cafad8d58461ea160912",
       "title": "Zcash Developers Propose Reducing Block Creation Time to 20 Seconds - ForkLog",
@@ -258,19 +271,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "25c693c11e3268ef44cc",
-      "title": "Zcash Activates NU7, Targets 25-Second Block Time - IDNFinancials",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXROeTRkbmtmTGs5b2lxODJwQUpCVDA5U3JCNU9vQ1cteF92SkZRVUltZ3dpN1laLWM2LVRjVlN2NXpoOERGUW0xNHJpWGpNajRxWExnVDh2bEpNN0h1YjFIRTc0dklXeFctSW5DWW12bTh3TnFFRm9QT213M2lUNWpueWRubHVERDZTQk1SR2g0d0pMRW1oQTFidUJMNGM?oc=5",
-      "source": "IDNFinancials",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T13:00:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "eeebadd2fd44face284c",
       "title": "Zcash 激活 NU7，目标区块时间降至 25 秒 - IDNFinancials",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNmZ3VTQwRVZva01NX0JrR0E1MUJDRXh6YUlPdjVwTjNlZEN3U3lDaVR3Tmkzb3M1MHZ5Snp1c0E2OGFXQTV4dWktT25QMEhiZ3E5bWdPSFdaZjFKY0RZSkg5YkN2Nlo0bTV6TGkxQy13SDhlS29hRjRvZ1h1LUZxR0NIS2ZhMno4YmZScXh2NHktMHkzZnJEMEVINjc2RnEzZnNaMHEtazZlWXlvSjNmdHlrRHRtQmxlandXODNTbFFSWWFsN3NvLVRPMkVLX3pJQlFqT1pteG10UVNLRGozSVpNMTJaWmlXRlhEczZtNDlvaHYxOFhHUHhB?oc=5",
@@ -304,6 +304,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-07T09:33:53+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "405881c4a13a19c59cfc",
+      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CeEl3cUcxS011QkY4S3NCVlFyMDJQQi0wVl9OWHlvVlpVQkdydFk0OTR1U21sdkw3eEZwWDMtN2FBcW9mZXlBUjVnUlhtRWd1ZW94dnJn?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T08:41:44+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -359,19 +372,6 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "405881c4a13a19c59cfc",
-      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CeEl3cUcxS011QkY4S3NCVlFyMDJQQi0wVl9OWHlvVlpVQkdydFk0OTR1U21sdkw3eEZwWDMtN2FBcW9mZXlBUjVnUlhtRWd1ZW94dnJn?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T00:04:04+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
