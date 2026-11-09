@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-09T18:55:43.767775+00:00",
-  "last_success_at": "2026-11-09T18:55:43.767775+00:00",
+  "checked_at": "2026-11-09T19:57:02.979144+00:00",
+  "last_success_at": "2026-11-09T19:57:02.979144+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "de341fe37d9d954aae4a",
+      "title": "Zcash (ZEC) price prediction for December 31, 2026 - Coinpedia",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQmZjMk4wMV9xd0pNZmtlaDBUMnpiWXQzdzYxWmh2aHo0WHJEb3dDcDNfbDNiMGc5WGUyQV9oNDFRbmpzekVOaHhYU29vSWpfeVN2MG1pbjhLUUNBUDd3UUpHQkJacnJydWZNamZMNjRXRVZHVW9SeUxKVGh5LWIzVVhqbUVDQTBvVm9TYl9B0gGTAUFVX3lxTE9ONm9RV3Q3aUVQZ3Jub3FiSWh2TmxoRjhJT1JkVDViY0c4UWFlQmdUWFBSUEMyU2VZSTdFLXpRc1hKWWhaV1V6dXZ5WjhFSHl0T0QzNlFSRElhamRrTm52b0hKckZiQS1qcFQwWm43YnJrTGM2QkdnT1F0Z3FyVUNpNEF5OEJiTzNuSThVU1FVLWtmcw?oc=5",
+      "source": "Coinpedia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T18:46:28+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "6c430e7ddf5650e7e69c",
       "title": "Zcash Developers ValarDragon and Evan Forbes Propose 20-Second Blocks After NU7: 11 outlets compared - NewsCord",
@@ -473,19 +486,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-07T12:10:32+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "405881c4a13a19c59cfc",
-      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CeEl3cUcxS011QkY4S3NCVlFyMDJQQi0wVl9OWHlvVlpVQkdydFk0OTR1U21sdkw3eEZwWDMtN2FBcW9mZXlBUjVnUlhtRWd1ZW94dnJn?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T12:01:47+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
