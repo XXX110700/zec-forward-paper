@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-10T18:51:58.248348+00:00",
-  "last_success_at": "2026-11-10T18:51:58.248348+00:00",
+  "checked_at": "2026-11-10T19:54:03.176671+00:00",
+  "last_success_at": "2026-11-10T19:54:03.176671+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,32 @@
     }
   ],
   "items": [
+    {
+      "id": "5f002ed853efd392265f",
+      "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTRhMEVkSDVUWkFOR2lKQWFzYXVQSm9yUW1GenpVZVBGbi1uMmE5OWxPSnBKaGh3dUx6T012eDRGTi1uQXZGMl9SUWVsWlNmNWpJYTNvZmVGTVNGMzlGTFJEekREamFhaE9PMXFtWGRpZ2R2NWgyQnBJUWl5YnpZd2dEcWRVSDRBQlFlSWhlWllpWjY1ODB2WUEtVQ?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T19:16:02+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "f63a4723ca38b92e8154",
+      "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbVNZZlV1QXprQnE3WTVVNlM3XzZIVy1KYXR6elM1TXJPZHdYbDhvWUw4NDZMS0JVeDZHUnpWZWMwSEZNdUdiZzNVU0U5MmxPWWRjQy1DZ2tiSmNYN3U5R1ZWdFJtRGg3RmFpOHgxYUVzbTk3Y3lFaGJNU3U0WVlSdEx6T3BmU2IySnNr?oc=5",
+      "source": "Decrypt",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T19:16:02+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "0e8f6328b951b191b1e9",
       "title": "Grayscale Zcash ETF campaign grows as firm pledges $1 million to ecosystem - Cryptonews.net",
@@ -141,6 +167,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "290f15fc5d4e24eb8ce2",
+      "title": "Grayscale Launches Zcash Invest and Commits $1 Million to Support the Zcash Ecosystem - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPR056TnNEX004YzlMNzlaWnNyWUx3eXlmNlhMbWo4VktJTFZTb0RSQ0pWOVEzb1JwTk0yajJMblJIeHpWSWxtVl9yaGlHZE1hMlFxcUUwRGw1VlhlejdCSG5ZeHk2UHRxS092bERXWnE3bHJlcWsxYTNHcEM5WllrRnFkRmFRdW5XeE00ekxtY3VtbXFjQldhMW92VEFWV2JwdVIyaVpkQjZRS2FLc3c0WHlMUnpKcXJCa2hZSHZVX2JhQlBieVh2Vlg0UVVuSWFJYXZPUWduLUZVcnFoVmpFYjRSSWMwNDZVSk1yZA?oc=5",
+      "source": "GlobeNewswire",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T13:00:00+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：launch",
+      "verification": "未独立核实"
+    },
+    {
       "id": "07862d765b714200a436",
       "title": "24-hour fund flows: BTC draws $205.65 million as XRP and ZEC post net outflows - TOKENPOST",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWdEpTR3B5T3Z1bnhHTm9XUlFlREJtOG9NX1JmQUkzMGdSUlZ3czdsak8zM19sNjQzYnpSX0RWcHlzcjlQZ3YwdE5McWJYd0w5MVBiMHFVVERRZw?oc=5",
@@ -161,6 +200,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-10T11:32:51+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "3fe5e098e80a14cb1217",
+      "title": "Grayscale：Zcash ETF持有373.81K ZEC - blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ01pc2FZMTRIU1M2ZUc3YWktemIyMm8xX2UtMHNCQmhKRk5lSWpEWVhJSHFKVGUzMFo5WkFMdmFTRGxuT2hRaGQ2aGlBcGtRQnJnaU1Oa1J4dHFPYUVqOExvd1JwYzVwMEJLY3U1WVZ0anRiZzhIVXhhczZOQzBNMU1XZw?oc=5",
+      "source": "blockchain.news",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T06:20:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -200,19 +252,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-10T02:31:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "6d738c966fd6360a0023",
-      "title": "Zcash Developers Propose 20-Second Target Block Interval After NU7 - TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhbzhMTndNV0g2SzBWaF9sU29EZl84b3NNLUtCbWxRbE1wdWl6aGJHLThMb1VDRXg1NkYtTXpnWUlPektJZXQtSzB4UGRfa1p0QTBUVm9CNEFiSU0?oc=5",
-      "source": "TOKENPOST",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-10T00:52:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -466,6 +505,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "c4b4218791ab202e0f8b",
+      "title": "ZEC：鲸鱼在Hyperliquid上出售$1.29M隐蔽堆叠 - blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUjRTX3AtNVpaTGlONVN6cW1vRi1CTHFPYzdKVllORGZOaGtJVDNBVVFWYnlNUWVaX1ZWc01HTVRLU2RRZTBGcmxuX19fTUZCV3A0RDN1dGdudXgxMGNFMTJIVXV1NEV3NFVDS2pMQ0tUQ0JPek01Y1E5NFZ1bEVHVkc1S1ZldDkzQnMxT1JnUk0xUQ?oc=5",
+      "source": "blockchain.news",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T09:12:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "73824e98f1b0a0bc160e",
       "title": "Zcash Developers Propose 20-Second Block Times After NU7 Upgrade - CoinGape",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1akhmSDdOUGh0b3JYWkVPYjAtdXF3bmJENDVDc3Vvb1hVNjNJVVk0YzhUdmpEQ21OUVduTXJWYWVMRWNVWnFHUTA5dXlZTDFWZDd3dDFUcVdIZVlTdmtBNDNnTU9kc0NuUzQtLU5OOERJZE9sQ1Z3Sw?oc=5",
@@ -502,19 +554,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "66cf4daace70ac1be899",
-      "title": "Zcash Just Completed NU7 Upgrade, Developers Now Propose Cutting Block Interval to 20 Seconds - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOdmo3a19DVXl3dHYzdnRjRDBwTDJVOTUzTVBGTzlJbFRaSDBWTUJQVW15Y0ItYkZtSktOLWJCOFNPaUFLYnFpZHk1eUFUQUJJb24yVWMwNENpQ2syUUotV3JoWF9WdXkwWXRNNFpPbC0xTTVGMVE?oc=5",
-      "source": "BigGo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T06:25:00+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -642,45 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-08T03:12:56+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "4a4add66c5957f8ecccd",
-      "title": "Lookonchain: TornadoCash 黑客将 ETH 交换为 ZEC - blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNkF0blpwU3dYdXk1ZGJQaHN6bFVwZ205RmdLVWJMaV96QVBNWXJDd2htNjZMRThvalhzQTIwZlExay1QS3Q1bG9TQlpLMVREbm5yLUYzclFDeFhUV1NVNDJTODU1QmNfT0x2TWpNb3BJaG1XYWZoeEljUC1PalNCeW00TThhRHMzakwyWQ?oc=5",
-      "source": "blockchain.news",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-08T02:00:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "87ad633465f4b50827ad",
-      "title": "Zcash Dropped 6% in a Day, the Most in the Top 50. Does Its $1,030 Support Hold? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVHUxek9rRkZaSHp6SXp6Zncwa1JGdFJYbHlTOWlmTWJtVTgzVmFwLTNvWG1vcFNNVkUtemREYnRGQlVhZTdKbVp4UXhpYVF3U0NsMVBfNldzLUF3amMyZkRLMy1WYUk2QUdWU1ExTVNJSW5uZTlTVnZYMkdZZlhVLWJ6LVd5TWFyYkFtVGNzbVlkMzFxeVBpdjVENmFPckl0aFM4X2QwNWNEWDRQMFpzUHRTLWxxTWVyZlZmZDBNN2JmUk1SQlJGZVBYYms1dw?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T21:07:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "97188b9d50571d6911d2",
-      "title": "Zcash’s new security fund is 99.7% old money - CryptoSlate",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13NUM2bnhfTjhBOFFDbTcxSkRQU3ozNkMydFl0T2o2Wm51XzU3d2t4ZFJTcnlRTXZMUnloSV83TnBSTjZ2bzRLbWpINk9GQldGaFhVdEdLR3NzU1JzVWRjdTBSV3pJaDBOZDJCb0dqYzVITXlTSkE?oc=5",
-      "source": "CryptoSlate",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T19:24:41+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
