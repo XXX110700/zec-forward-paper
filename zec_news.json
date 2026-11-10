@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-10T09:56:31.048187+00:00",
-  "last_success_at": "2026-11-10T09:56:31.048187+00:00",
+  "checked_at": "2026-11-10T10:54:52.326551+00:00",
+  "last_success_at": "2026-11-10T10:54:52.326551+00:00",
   "status": "ok",
   "sources": [
     {
@@ -349,6 +349,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "66cf4daace70ac1be899",
+      "title": "Zcash Just Completed NU7 Upgrade, Developers Now Propose Cutting Block Interval to 20 Seconds - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOdmo3a19DVXl3dHYzdnRjRDBwTDJVOTUzTVBGTzlJbFRaSDBWTUJQVW15Y0ItYkZtSktOLWJCOFNPaUFLYnFpZHk1eUFUQUJJb24yVWMwNENpQ2syUUotV3JoWF9WdXkwWXRNNFpPbC0xTTVGMVE?oc=5",
+      "source": "BigGo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T06:25:00+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
       "id": "d92f609e924b4dd1ed04",
       "title": "Zcash (ZEC) Price Prediction 2026, 2027–2030: Privacy Coin Growth Ahead - Coinpedia",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoU3dVWkJENVR3LUlKcVlnZnVCbFBSNXJ4NmpVdUhRbk8xYmJVbjRvZzBfdGNNRVdPSXN3LXJlaEotYnhhakI0X25Dd0kzanRUYmkwSlB1cURULTIyT3RaLWdsSzNWRE9vZHR0NWdpVU5LdmNt0gF6QVVfeXFMT1RvVFdPZ25LSC04T25ZSEJyZ3hHUEpHdzhDbkRUQWZ4YWhXX0hGLThKczlNUVZiSHoxUXlfcHN1S2x1YWZVOUcxOTM3YVMtY3pvUlBxNGUzRjZjUnEyRUplX1FuTl9mdU5lT1dQanRybVRCV0RmMk5OdUE?oc=5",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-06T23:26:32+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "da9ddc541d6b81975738",
-      "title": "Zcash NU7 Upgrade Goes Live, Slashing Block Times From 75 Seconds to Just 25 Seconds - CryptoPotato",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYjZ2YWg1NU9OWEpwTDdubEpPaE5LOWZFUXNZZjdRNXNGOWpmMFFuNDN1SXdJVXVQUUdVeEJ4WkxXX2JUT01vX3plZkVKZWd5RVVqVVV0Q2pyaTVHbFdCTGJKSUNNR3c2dWI0UUdsZ0Z3Mm5ZbXVDOFZxd3laNklzU184d1JLLVNnQk40RmIzejBfWHd1M2dKUmlNcDZiYWRBU2p3dGMtVHpLaW50VGc?oc=5",
-      "source": "CryptoPotato",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T22:52:00+00:00",
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
