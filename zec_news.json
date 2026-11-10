@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-10T17:48:48.668698+00:00",
-  "last_success_at": "2026-11-10T17:48:48.668698+00:00",
+  "checked_at": "2026-11-10T18:51:58.248348+00:00",
+  "last_success_at": "2026-11-10T18:51:58.248348+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,36 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 23
+      "matched": 24
     }
   ],
   "items": [
+    {
+      "id": "0e8f6328b951b191b1e9",
+      "title": "Grayscale Zcash ETF campaign grows as firm pledges $1 million to ecosystem - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3VnVrMFhGdjZrSkRXQ0RXT0xzUkJFUFc0c1RQR0V0WHpadEl5NmtNTjJDQ0xQTmZTOGRUd3pYb0VHYUxBcjBvTWpnR3BjVklzU0VTbUhtc2lldw?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T18:22:30+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "eb8e927d380e89ae0e95",
+      "title": "Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12% - The Block",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc3hlV3paaWZXVDNxOGFaSWVNanFickNwc3lBNlNaUjB6QWpKSnE2VVladFZ4ZERTZmJSNmlMbENlYlpzLW5xbi1FOGxkOS1hSDgxNVZqRnNaZ0JJZzBZVnFnY1F0cHRoamZsNjZxYmpETnk1LWl0NG5FMXRmLXppVGdTN3RIby1DR19mNWswMkJTcnNTOEU3Z19mbWp1MlJXY3ZpSHlLalFNd1hOVUpJNS1DVEs5SnFleU1OZGJ5LXlxSEdZZlZCX1pyS1U?oc=5",
+      "source": "The Block",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T17:52:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "48047c71cbe55145095d",
       "title": "Zcash price falls to $1,003: lowest since September - CryptoTicker.io",
@@ -56,7 +82,7 @@
       "source": "The Defiant",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-10T16:01:32+00:00",
+      "published_at": "2026-11-10T16:52:49+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -174,6 +200,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-10T02:31:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "6d738c966fd6360a0023",
+      "title": "Zcash Developers Propose 20-Second Target Block Interval After NU7 - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhbzhMTndNV0g2SzBWaF9sU29EZl84b3NNLUtCbWxRbE1wdWl6aGJHLThMb1VDRXg1NkYtTXpnWUlPektJZXQtSzB4UGRfa1p0QTBUVm9CNEFiSU0?oc=5",
+      "source": "TOKENPOST",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T00:52:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -466,6 +505,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "66cf4daace70ac1be899",
+      "title": "Zcash Just Completed NU7 Upgrade, Developers Now Propose Cutting Block Interval to 20 Seconds - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOdmo3a19DVXl3dHYzdnRjRDBwTDJVOTUzTVBGTzlJbFRaSDBWTUJQVW15Y0ItYkZtSktOLWJCOFNPaUFLYnFpZHk1eUFUQUJJb24yVWMwNENpQ2syUUotV3JoWF9WdXkwWXRNNFpPbC0xTTVGMVE?oc=5",
+      "source": "BigGo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T06:25:00+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
       "id": "d92f609e924b4dd1ed04",
       "title": "Zcash (ZEC) Price Prediction 2026, 2027–2030: Privacy Coin Growth Ahead - Coinpedia",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoU3dVWkJENVR3LUlKcVlnZnVCbFBSNXJ4NmpVdUhRbk8xYmJVbjRvZzBfdGNNRVdPSXN3LXJlaEotYnhhakI0X25Dd0kzanRUYmkwSlB1cURULTIyT3RaLWdsSzNWRE9vZHR0NWdpVU5LdmNt0gF6QVVfeXFMT1RvVFdPZ25LSC04T25ZSEJyZ3hHUEpHdzhDbkRUQWZ4YWhXX0hGLThKczlNUVZiSHoxUXlfcHN1S2x1YWZVOUcxOTM3YVMtY3pvUlBxNGUzRjZjUnEyRUplX1FuTl9mdU5lT1dQanRybVRCV0RmMk5OdUE?oc=5",
@@ -629,58 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-07T19:24:41+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1e7ebc588790ee86c4b8",
-      "title": "Zcash Price Is Flashing a Warning Sign for Bitcoin and Ethereum - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcHhkenlzdGxoSnI0VTlBN3NqNG5DSDZiTWpUQjZ3LUZGNW5vQzRKbGFHN2ZHeXpZREpsc1RYcmdtNGdFakdCZ010NnF0X0wwVV9wLUhrOFhFVnhpME9HZ2FSRjFPLUtONW5YWmFuZFQyTjV3N2ladk9hZUdRdHYxZHJuajhtUnc2M1VRVnlveTAteXhWbVBKcDBrdzM2aGc?oc=5",
-      "source": "Yahoo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T15:23:55+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "25bf460785b83e720e46",
-      "title": "Zcash Price Is Flashing a Warning Sign for Bitcoin and Ethereum - BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rcHhZNUhxeGtaOVdGb0NTTHhucFRnaVZvc1VGY3pMN1NuRl9nR3VpUldLWTQwZnNXQXpzbFJOSWM5NmZmRDF0WXQwLTAyOWF3M01NTE1XZGhOZDVnRGgyNXUwbnF1cGoyM2c?oc=5",
-      "source": "BeInCrypto",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T15:23:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "25c693c11e3268ef44cc",
-      "title": "Zcash Activates NU7, Targets 25-Second Block Time - IDNFinancials",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXROeTRkbmtmTGs5b2lxODJwQUpCVDA5U3JCNU9vQ1cteF92SkZRVUltZ3dpN1laLWM2LVRjVlN2NXpoOERGUW0xNHJpWGpNajRxWExnVDh2bEpNN0h1YjFIRTc0dklXeFctSW5DWW12bTh3TnFFRm9QT213M2lUNWpueWRubHVERDZTQk1SR2g0d0pMRW1oQTFidUJMNGM?oc=5",
-      "source": "IDNFinancials",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T13:00:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "eeebadd2fd44face284c",
-      "title": "Zcash 激活 NU7，目标区块时间降至 25 秒 - IDNFinancials",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNmZ3VTQwRVZva01NX0JrR0E1MUJDRXh6YUlPdjVwTjNlZEN3U3lDaVR3Tmkzb3M1MHZ5Snp1c0E2OGFXQTV4dWktT25QMEhiZ3E5bWdPSFdaZjFKY0RZSkg5YkN2Nlo0bTV6TGkxQy13SDhlS29hRjRvZ1h1LUZxR0NIS2ZhMno4YmZScXh2NHktMHkzZnJEMEVINjc2RnEzZnNaMHEtazZlWXlvSjNmdHlrRHRtQmxlandXODNTbFFSWWFsN3NvLVRPMkVLX3pJQlFqT1pteG10UVNLRGozSVpNMTJaWmlXRlhEczZtNDlvaHYxOFhHUHhB?oc=5",
-      "source": "IDNFinancials",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T13:00:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
