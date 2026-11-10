@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-10T02:04:07.395254+00:00",
-  "last_success_at": "2026-11-10T02:04:07.395254+00:00",
+  "checked_at": "2026-11-10T02:51:49.980554+00:00",
+  "last_success_at": "2026-11-10T02:51:49.980554+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 25
+      "matched": 26
     }
   ],
   "items": [
@@ -95,7 +95,7 @@
       "source": "KuCoin",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-09T20:34:24+00:00",
+      "published_at": "2026-11-09T20:33:36+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -213,19 +213,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-09T12:38:12+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "877650e3a5c251a5df0a",
-      "title": "Zcash Price Shows Neutral Bias with Key Hourly Pivot Test - The Cryptonomist",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY0I5WFM1dFBTWjFSSlFUaThNZjRpWVJjUkR6VHVtSGhQdDF4YlFlR004VXRmX3pHckx1dGZmVEt0d3VNZnlZRVVRM1VqamFHWnktbHkwRTR1bG45QWpMNHVKTnNoQVhFLTJiTWxvRVV3eFgyRmhvYkdPODd3TzNGdGtVQ0pYVFAweGczWEVkN1NqajJTSUw1NlN3cTZueUNkbGc?oc=5",
-      "source": "The Cryptonomist",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T12:10:49+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -684,6 +671,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "2b726888b0eac3539dbf",
+      "title": "Zcash’s Game-Changing NU7 Upgrade Goes Live, Slashing Block Times 3X as $5,000 ZEC Rally Comes Into Focus - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONUhOTzNzX01jcUN2X3NMMlZpME9aUC1Oc0NGbG5FeXlPVXhMZng1NW50bXA0NHNzb3h1RXVBUEUzOFZIMWpfNDNnQU9BT2hadjhxVEdxS0ZqX1RUeFNCZ1NDV2ZXVzlnZWctUkhQYTZTZTRQaGEtV1dZZmxiM2dIaDdqSlhuRmFZYkFyYmE5Y2V0ZUpOcWgxbzB3X09fdkNlcGpBek9OY182QUx5LWdVYjkxQ3VtYlBkMnJoR3k0dUhJcnlNRFc4R3plRUs0UmU4VGQyZk5R?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T20:14:03+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
