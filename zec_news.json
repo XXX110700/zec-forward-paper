@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-10T16:53:36.726420+00:00",
-  "last_success_at": "2026-11-10T16:53:36.726420+00:00",
+  "checked_at": "2026-11-10T17:48:48.668698+00:00",
+  "last_success_at": "2026-11-10T17:48:48.668698+00:00",
   "status": "ok",
   "sources": [
     {
@@ -22,7 +22,7 @@
     {
       "name": "CoinDesk",
       "status": "ok",
-      "matched": 1
+      "matched": 0
     },
     {
       "name": "Google News EN",
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "48047c71cbe55145095d",
+      "title": "Zcash price falls to $1,003: lowest since September - CryptoTicker.io",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LQXp2NlF6UmZEd05JUV9IZy1UQmR5Y0pXUHBzcHFfUHdsSVJzSUpmTWx2WDljWlNqaE56dGd6RHFtQXlyei1jaDZXZ1IyUFhkTW1pSm1DSzhTOU1JTURIeGEyVDA0d3lYUmswbGNUTUdvdGF1NTF5TjFINW4?oc=5",
+      "source": "CryptoTicker.io",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T17:29:33+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "621202469d5f33bdf32d",
       "title": "Zcash Falls Below $1,100 as Daily Loss Reaches 10.5% - The Defiant",
@@ -57,6 +70,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-10T15:36:31+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "e5bb3d0b062cc43c4699",
+      "title": "Zcash Gains 4.84% in Four Hours to Reach $1,198 on Binance - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOd1pnSnRMQks5cTR6ZVJwNFc2cldwNlI1M2tYbk9DVGRzbnQtcTRNX3lIdjlCbzZxUWl0OXlwcEhiTi1ZNF83Y1FsdlQwSmpkWGdWeEt2blI4UQ?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T15:07:56+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -86,6 +112,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "07862d765b714200a436",
+      "title": "24-hour fund flows: BTC draws $205.65 million as XRP and ZEC post net outflows - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWdEpTR3B5T3Z1bnhHTm9XUlFlREJtOG9NX1JmQUkzMGdSUlZ3czdsak8zM19sNjQzYnpSX0RWcHlzcjlQZ3YwdE5McWJYd0w5MVBiMHFVVERRZw?oc=5",
+      "source": "TOKENPOST",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T12:23:45+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -122,6 +161,19 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-10T02:48:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "6e86ffb398c961d65fd8",
+      "title": "Zcash Drops 2.09% in an Hour to $1,152 on Binance Spot - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aTl95bGRNTGpSdEdyUWFJcDhzMEZOVzdxbUs1ek00dzRIb0RTM3hiakROVGRhcjVPZkxYck54QnlGa29Val9IWmo1U1VjMmtGMElpMVE5WUJ5QQ?oc=5",
+      "source": "www.tokenpost.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T02:31:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -349,19 +401,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "2cbb5cc5ae835f3da2ea",
-      "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
-      "url": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
-      "source": "CoinDesk",
-      "feed": "CoinDesk",
-      "kind": "media",
-      "published_at": "2026-11-09T10:52:49+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
       "id": "2feade859e2a410a5a8f",
       "title": "Zcash 开发者在重大速度升级仅数天后即寻求实现 20 秒区块 - CoinDesk",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSTlvMjU5QkRUTzlTU3FqR3I4UG5TakpBdlhaOFVrVWJjdDFCZ0t1MnNKcmNUdVpvQmdTZlZRb3JXdnJPNVRLdHczdVlZS0RodUh0WTVvRG9GbFlNellvV0V6WHJ2SGhTTXRkWW9OR2RRRVZFNGZ6RWk5bUw1cEFaeFZuUDRIa3RTRDUzemhmc1JVZ2NfQWtvVE04S3dDNnU4NEVIbFl0cENXRmRsWXlNenI3NVlkTFk5U1E?oc=5",
@@ -424,19 +463,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "66cf4daace70ac1be899",
-      "title": "Zcash Just Completed NU7 Upgrade, Developers Now Propose Cutting Block Interval to 20 Seconds - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOdmo3a19DVXl3dHYzdnRjRDBwTDJVOTUzTVBGTzlJbFRaSDBWTUJQVW15Y0ItYkZtSktOLWJCOFNPaUFLYnFpZHk1eUFUQUJJb24yVWMwNENpQ2syUUotV3JoWF9WdXkwWXRNNFpPbC0xTTVGMVE?oc=5",
-      "source": "BigGo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T06:25:00+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -658,32 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "fe440871d93d19d14651",
-      "title": "Zcash Price Prediction: Can Zcash Break Above $1,360 and Rally Towards $1,650? - Coinpedia",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkVOLVM4Y0JVUlA1UzFpM2Voc2pRaGVRMVlQYzVELUYzNXpnMWpjNk9yMkFVSHVHR0FERGV5cm5hYVo2b29rdE5WZzJIVEd1NVIyckRJblRWN013VVpxNU84eHBsdEJObFBxeW43RjF4dTRHZkU5ZUIzcjFiY21UYlEzYXI5bmVtNktHS3pDUFl3YzdqaGtaWEdkcWNtQ3h5OEdyMjNwRENreGoySU1J0gG0AUFVX3lxTE05MGlWNTBDT3FOc1RLZ3ZWT09VNDRoeGxianJ3TmhSbUd3UldGdnBUa3JvVkFtWmU5YmVPcWl2QlhVSDhtU1o3enJVWWpzazdmcmdGQ0ROT2VraUxxbV84ejY4VzNocjY3bkRPZDRJX3kzZTVnSzdWT1luSGF2QUpDZUtxdTJSTDh2TENLSUxCd210ckJMLWNUMmxaTW04OFg0d0IwVE9xNDJST1ZCYnFIcm5vbg?oc=5",
-      "source": "Coinpedia",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T12:10:32+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "56331bf144d6426f00c2",
-      "title": "Zcash Surges 3% on NU7 Upgrade Amid Flat Crypto Market - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02WFNCZ0FOUWJRRU95eFRubi1OQmxLV2V4clJWdzVJRzdGZFVZUU9DV3dyczRJai1qQUx0aWFVRHp3YTBpaXhxeUZ5QnY5cm8zQ3E3WlpsdnRiYzg4allxTF93eEVWaFV4YkVYY0RHeEY?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T05:04:00+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
