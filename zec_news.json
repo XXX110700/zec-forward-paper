@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-10T21:42:44.268027+00:00",
-  "last_success_at": "2026-11-10T21:42:44.268027+00:00",
+  "checked_at": "2026-11-10T22:44:04.567819+00:00",
+  "last_success_at": "2026-11-10T22:44:04.567819+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "f3f427cbb9c53e8da020",
+      "title": "Grayscale Introduces Zcash Invest with Zebra-Themed Branding - Adland.tv",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOHlWWDVTcDdpRXRuV2FSTnFiNzZTaDB4RTZaU3JsMDNSeFVLaUdRZ1BXN2NmcmpLSzRkSmZZbWg4NFVfN0tPdW50dC1NMVVYM0pMX245UlRaT3BOc1lXaFFQMi1WTEl5eERFVkVuaGQtTXFSYXVNOTREYmhvS216V1pYVGs?oc=5",
+      "source": "Adland.tv",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T21:59:49+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "9e2b21e4455e26bffbbc",
       "title": "$1,000 in Zcash or Bitcoin: Which Could Be Worth More by 2030? - 24/7 Wall St.",
@@ -89,19 +102,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "0e8f6328b951b191b1e9",
-      "title": "Grayscale Zcash ETF campaign grows as firm pledges $1 million to ecosystem - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3VnVrMFhGdjZrSkRXQ0RXT0xzUkJFUFc0c1RQR0V0WHpadEl5NmtNTjJDQ0xQTmZTOGRUd3pYb0VHYUxBcjBvTWpnR3BjVklzU0VTbUhtc2lldw?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-10T18:22:30+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "eb8e927d380e89ae0e95",
       "title": "Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12% - The Block",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc3hlV3paaWZXVDNxOGFaSWVNanFickNwc3lBNlNaUjB6QWpKSnE2VVladFZ4ZERTZmJSNmlMbENlYlpzLW5xbi1FOGxkOS1hSDgxNVZqRnNaZ0JJZzBZVnFnY1F0cHRoamZsNjZxYmpETnk1LWl0NG5FMXRmLXppVGdTN3RIby1DR19mNWswMkJTcnNTOEU3Z19mbWp1MlJXY3ZpSHlLalFNd1hOVUpJNS1DVEs5SnFleU1OZGJ5LXlxSEdZZlZCX1pyS1U?oc=5",
@@ -134,7 +134,7 @@
       "source": "The Defiant",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-10T16:52:49+00:00",
+      "published_at": "2026-11-10T17:01:33+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -297,6 +297,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "6d738c966fd6360a0023",
+      "title": "Zcash Developers Propose 20-Second Target Block Interval After NU7 - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhbzhMTndNV0g2SzBWaF9sU29EZl84b3NNLUtCbWxRbE1wdWl6aGJHLThMb1VDRXg1NkYtTXpnWUlPektJZXQtSzB4UGRfa1p0QTBUVm9CNEFiSU0?oc=5",
+      "source": "TOKENPOST",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T00:52:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "109608b0cbacd25f53a8",
       "title": "数据：某地址通过Hyperunit 向 Hyperliquid 存入1060 枚 ZEC，随后分3 笔卖出换得129 万美元USDC - CryptoRank",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0eFRJQm5Mc2NVd0oycXlLcUwxWEVUcG94Tk9JZkFuNW1GcmNkVGdsRHZ2eHkyQWNwbHJlRDd4WGxUbjc4eEpTVUtzS2V5Vi1DV0taTzZ3Z05WeG80?oc=5",
@@ -414,10 +427,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "e39658319084ca46e39a",
-      "title": "Zcash Just Turned 10. Here's What Could Be Coming for ZEC Investors Over the Next 10 Years. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQjdkdENxUjE0NG9XNjNsNHdHTDVBU2dmSzZLLVhQZ3pmeUtQdFNaVy15bXk2WlhBRWExTFVKTU9DN05NQmMtM2xod2otenlFMG1xZUFyc2FCazV3ck5fQmNUMmVlU1ZfSU5qUkhvdlVmaFJlbWxSbmM5cFFCM2l5VmE0Vy1XUFI0NktuVU9DalZEVE1aVlE?oc=5",
-      "source": "Yahoo Finance",
+      "id": "3148856e9a4b2039e91f",
+      "title": "Zcash Just Turned 10. Here's What Could Be Coming for ZEC Investors Over the Next 10 Years. - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Dc0RsSTE2T1Fvb0NRNFU2RHNGOVhvQzRXY1lfVWw1ejkxMThhN2R2dXE5OVhDTzkydlFKemhxRkNQaGZkUjBEVDBPMWYyQ1plTTNEQk54cHdkTDJGVkh3ZnN6S0xueGw3aXB0TnppNUp2dG94bmZJTXZ3?oc=5",
+      "source": "AOL.com",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-09T14:46:00+00:00",
@@ -596,6 +609,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "66cf4daace70ac1be899",
+      "title": "Zcash Just Completed NU7 Upgrade, Developers Now Propose Cutting Block Interval to 20 Seconds - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOdmo3a19DVXl3dHYzdnRjRDBwTDJVOTUzTVBGTzlJbFRaSDBWTUJQVW15Y0ItYkZtSktOLWJCOFNPaUFLYnFpZHk1eUFUQUJJb24yVWMwNENpQ2syUUotV3JoWF9WdXkwWXRNNFpPbC0xTTVGMVE?oc=5",
+      "source": "BigGo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T06:25:00+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
       "id": "d92f609e924b4dd1ed04",
       "title": "Zcash (ZEC) Price Prediction 2026, 2027–2030: Privacy Coin Growth Ahead - Coinpedia",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoU3dVWkJENVR3LUlKcVlnZnVCbFBSNXJ4NmpVdUhRbk8xYmJVbjRvZzBfdGNNRVdPSXN3LXJlaEotYnhhakI0X25Dd0kzanRUYmkwSlB1cURULTIyT3RaLWdsSzNWRE9vZHR0NWdpVU5LdmNt0gF6QVVfeXFMT1RvVFdPZ25LSC04T25ZSEJyZ3hHUEpHdzhDbkRUQWZ4YWhXX0hGLThKczlNUVZiSHoxUXlfcHN1S2x1YWZVOUcxOTM3YVMtY3pvUlBxNGUzRjZjUnEyRUplX1FuTl9mdU5lT1dQanRybVRCV0RmMk5OdUE?oc=5",
@@ -648,42 +674,16 @@
       "verification": "未独立核实"
     },
     {
-      "id": "45e0b340dc37c1a3cafc",
-      "title": "What is Zcash (ZEC)? How shielded transactions work - The Block",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wUkdxcWRRZTNZdDBRckN2MlczQV9EZDlkTmdZOG1PNXRqT0ZNM0tKcmRzdGpwM3E0eHFQcWpzXzE5bS1rU1NjVGhOUU5yREJrYmVmMzI4WGdYR2lTbFBwU0o3dGhTdy1DNkdKTXlweDRRdVk?oc=5",
-      "source": "The Block",
+      "id": "438d7a254dd77b111070",
+      "title": "Bitcoin Traded Near $76,000 in Nov. 7 Weekend Snapshot as Quant and Zcash Gained - www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0waG9vR2RGbVB2T3hGcno4NDVNUkJTTkZ1ZVV1dDdsakFSTXB3Ri1ncm5fWmZEeDQySllIdGo1endXNVo5dGpMbEp1QkU2U2laczd0dUpINXNxUQ?oc=5",
+      "source": "www.tokenpost.com",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-09T02:37:00+00:00",
+      "published_at": "2026-11-09T03:31:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "c2ef7fdc5bccb55321fd",
-      "title": "Zcash and Monero hold up as Bitcoin slides toward $75,000 - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa3VRM0djSE8zdE1CYm9VVS13RVdRbVhadV82ZHNTR2x3NDI1SWNtRVVIMGl0SXRQSnVuQzloVlhORU10YnZqVmZ5bFgtbzNmN180UFQwWGRlbzAzeGdWWGJ2a2Z0TDFqb2Z4ZFc0ZU9CeGNaaUZrcmF1ZzNtUnVULThWR1dRbWp0SExj?oc=5",
-      "source": "Startup Fortune",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-08T22:50:15+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b2818a995d112d33a9e6",
-      "title": "A Hacker Swapped $3.7 Million of Ethereum Into Zcash on Hyperliquid. Is Privacy Demand Holding ZEC Above $1,200? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYndfaWZkbDRaWXhLVmZrVzhHMFE0ZkJjcFprOTVtT2t4RmZyMks0cjVyR3JNQ2tseXJrVjdacHRRS1ZYbzFHNFM5QjlENnVRT3dzcTc2NkpfcXBsOEEtc0ptRGhVN09PRHNTdjlBbWtiV2NZVUoyYjNESEFxNmVoMFpPQXMxYWdxV3QwTXB2c3FkYXFrZ1owcjhianVFUFNJNTZjdGROY3lmS3VNRFFtYzJ6eVNLQkw2N0d1Y0E3T1NlSUZ5Wl9JWUpTTlV2eUF3eUp6Y21ZWjZyY2ZhRC10S3JrRWpjTE96Q3hybWRrZWVlNXRySG1DZVFn?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-08T21:09:00+00:00",
-      "event_time": null,
-      "sentiment": "偏利空",
-      "basis": "标题关键词：hack",
       "verification": "未独立核实"
     }
   ]
