@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-10T15:49:59.547919+00:00",
-  "last_success_at": "2026-11-10T15:49:59.547919+00:00",
+  "checked_at": "2026-11-10T16:53:36.726420+00:00",
+  "last_success_at": "2026-11-10T16:53:36.726420+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "621202469d5f33bdf32d",
+      "title": "Zcash Falls Below $1,100 as Daily Loss Reaches 10.5% - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeUtWemNuQXVpZkxIU1NQUVVQNllfcXFHV2MxMnNoQXNib013S3NDUXNaVl9LeEZPY3d4czJsVWVyMVpWS2x1NXZVS3JzbUU3dnhHX0JkOWhhTTY4Q3VhZjV1d1EtT0NCMUtQVXVldzNZYnc0NC1haWRYWGo1NVNvV25ZZTl4VWdHN0w0OE1R?oc=5",
+      "source": "The Defiant",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T16:01:32+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "21e3c5ad7428224953ed",
       "title": "Grayscale Pledges $1 Million in Zcash ETF Campaign - The Defiant",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "00ca3dd49ff1375952fa",
-      "title": "[Altcoin spot ETFs] ZEC draws $1.77 million as SOL, LINK and HYPE post outflows - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MejA5V0NpSkZOSHY0R05Wb0FwUUljOE45NDR3aWl0NHhGTW40WFZ2ZDRuQ0Q5V01nY0lMWmdZenJOdzM2UDkzeDF1SlpuOF9DNXdrWjJtUlJZUQ?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T03:41:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
