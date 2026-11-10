@@ -9,21 +9,7 @@
     "long": 0,
     "short": 5
   },
-  "pending": [
-    {
-      "kind": "entry",
-      "id": "entry:short:1794348900000:1794349800000",
-      "side": "short",
-      "ts": 1794349800000,
-      "signal_ts": 1794348900000,
-      "score": 5,
-      "position": "已有模拟持仓",
-      "entry": 1051.74,
-      "sl": 1073.351900769093,
-      "tp1": 1025.8057190770885,
-      "tp2": 1008.5161984618143
-    }
-  ],
+  "pending": [],
   "lifecycle_after": 1793113200000,
   "lifecycle_seen": [
     "signal:long:1793117700000",
