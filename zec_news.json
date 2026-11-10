@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-10T13:00:27.827028+00:00",
-  "last_success_at": "2026-11-10T13:00:27.827028+00:00",
+  "checked_at": "2026-11-10T14:13:13.263963+00:00",
+  "last_success_at": "2026-11-10T14:13:13.263963+00:00",
   "status": "ok",
   "sources": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Cointelegraph",
       "status": "ok",
-      "matched": 1
+      "matched": 0
     },
     {
       "name": "CoinDesk",
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 99
+      "matched": 98
     },
     {
       "name": "Google News 中文",
@@ -401,19 +401,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "a1192094d38cd7edbbd7",
-      "title": "Zcash devs propose another block time cut days after NU7 upgrade",
-      "url": "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "feed": "Cointelegraph",
-      "kind": "media",
-      "published_at": "2026-11-09T05:36:08+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
       "id": "67c7788c3db20025250e",
       "title": "Zcash devs propose another block time cut days after NU7 upgrade - TradingView",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVzZfYXluRHdZNUlFWEM5VFdzanRhNGh0VWZlVXNkUTl2bFByenctXzVNbzVnMjYwZFZYQ2dEd2VZN1JXR3lhVVpNTl9pOUZKVFJ5ZnNzbGdIYkxDYmdrVU9pWXBzUEpJZ1hMdC1Xd2VwbUFNaEJISEJvUGdtcGt6TV9zNk9oNHU1TXl1YTFWZXo4NEMxd2RYLTlZSzVvUTRDazNGSUJQSW81aGFKVEpIY2J3WHctanZuTnRMYWZrdzU3cERJRmkw?oc=5",
@@ -684,6 +671,19 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "0c2fe005e4735037f1f4",
+      "title": "Monero vs Zcash: Which Wins by 2028? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYi1na2ZqbTAwa1gyNkd5NVI4OUdweFlOb2ZJb0k0RF91S3NkMU1tOGZVb1dtLUxHNlBYdFhNMzF2ZWJtdmxDOWRwckVnYzNYQm5CS3RkM1JodmxHdThJeHAyczQwcjVpd1E4UUJMTFY1eHlVSzJEb2ZhM3l0RUo0LVJQdmNlU2ZTbWJ3VnhHV2hDQzZtQldobw?oc=5",
+      "source": "24/7 Wall St.",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T00:01:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
