@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-10T14:13:13.263963+00:00",
-  "last_success_at": "2026-11-10T14:13:13.263963+00:00",
+  "checked_at": "2026-11-10T15:49:59.547919+00:00",
+  "last_success_at": "2026-11-10T15:49:59.547919+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,49 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 21
+      "matched": 23
     }
   ],
   "items": [
+    {
+      "id": "21e3c5ad7428224953ed",
+      "title": "Grayscale Pledges $1 Million in Zcash ETF Campaign - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ0JiMXBXM1lPMmI2U05NbTJqYWhfX3NTMXRVT2ktVWkwdHMxdjE4WHQ2QmVCOGNHVGRmSDl4Q2Q5R1JuUjNKUEh3aTZ5UHk4ZW9fcVcwekl4aDV1VzM2RnZ6OUEtWFNiMFdydGppYUQ5aUZ6Q3A0TF9NdU9YdktSV1kzemVyZGJyYjh4UHo2bjhHSDdZejA5YTY3QnpRYlNf?oc=5",
+      "source": "The Defiant",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T15:36:31+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "9c5d7db593fe8b1cd455",
+      "title": "灰度在《华尔街日报》纸版投放 Zcash 广告，拟投入 100 万美元支持其生态 - ForesightNews",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3eFBKemcybU9iNUtneWZWbjNXaFkxMTJudmRYUFZCTEItQlRjV1hpdnJVYUc5Z1pFR21OUjRnY1oxc0NLblZOVC0yd3NacWVWU0pheVdJUQ?oc=5",
+      "source": "ForesightNews",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T15:01:03+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "efb73203630c0ee818a4",
+      "title": "Zcash Developers Propose 20-Second Block Times in Draft NU7.1 Upgrade - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xNWlWM0gwajFHRnJVclNMdDV4YTdBVXVoUk9LQkYtZmVTRUlmRzhNbDdqNkx4WjF3Z3dPaWlUbmd0aFJwdk1vNFZMSXpscGhmbURqQg?oc=5",
+      "source": "bloomingbit",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T14:31:27+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
     {
       "id": "8b34ddefdd9c047d3479",
       "title": "Zcash remains stuck in a range as macro headwinds continue to limit the upside. What's next? - investingLive",
@@ -557,19 +596,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "d9eba880f15b34b941d8",
-      "title": "Zcash Price Is Flashing a Warning Sign for Bitcoin and Ethereum - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGTmVSTE5qMHdiZUJpOEVDbDBLNWlsaVFoaGFUS193cnJQMUl6SzhfMG5EUUJ3M0dVSE1OYUpZWGExVWY5MDg1R2FRRUJHMXdQMG5FeG5sa3NKWlU?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T16:49:55+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "1e7ebc588790ee86c4b8",
       "title": "Zcash Price Is Flashing a Warning Sign for Bitcoin and Ethereum - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcHhkenlzdGxoSnI0VTlBN3NqNG5DSDZiTWpUQjZ3LUZGNW5vQzRKbGFHN2ZHeXpZREpsc1RYcmdtNGdFakdCZ010NnF0X0wwVV9wLUhrOFhFVnhpME9HZ2FSRjFPLUtONW5YWmFuZFQyTjV3N2ladk9hZUdRdHYxZHJuajhtUnc2M1VRVnlveTAteXhWbVBKcDBrdzM2aGc?oc=5",
@@ -577,6 +603,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-07T15:23:55+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "25bf460785b83e720e46",
+      "title": "Zcash Price Is Flashing a Warning Sign for Bitcoin and Ethereum - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rcHhZNUhxeGtaOVdGb0NTTHhucFRnaVZvc1VGY3pMN1NuRl9nR3VpUldLWTQwZnNXQXpzbFJOSWM5NmZmRDF0WXQwLTAyOWF3M01NTE1XZGhOZDVnRGgyNXUwbnF1cGoyM2c?oc=5",
+      "source": "BeInCrypto",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T15:23:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -642,45 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-07T03:41:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "9781cbf130c3e1565ff3",
-      "title": "Zcash Falls 2.01% in One Hour to $1,330 on Binance Spot Market - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEZjMxYjBBMXl0eUI0dHhmZU53TUtHZEF2RFJQcWpFcWJYcW1tYy10UmhTTHZHRmpnVEpmU3pjUmNiQThJVDdIYXptM2I4S203Q1hBS2xnM3M3QQ?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T03:25:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "030df5adb7aad4b2fc03",
-      "title": "Zcash 价格上涨，升级冻结 1600 万美元 ZEC 并建立安全储备金 - Bitcoin News",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWkVhNzNwZ21tS2FjQUtQdVo0WGdNSThNZFJENy1heHRBTW9HZWhhT3dCcHZIUkFpUkxYSFZLZEhlZWZjMDdhdHp4UDdVa1pzUW9rX1VNMVZ6RmhWR2dRaC1LNTl3Nkw0RHBjd0FZOTF6MFJUclVVcFpfVEF3cWM5TURCWVJlclpKRktXNXdjYzNKSHNBcG01SUpzRjFrTzF3Z0dJaXk0clc2QTNrRUgtaWVKY0ZlSzI2SVNrSlNlZlVDTkNHT29sTFIzaGgwVG9kamxj?oc=5",
-      "source": "Bitcoin News",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T01:20:11+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "0c2fe005e4735037f1f4",
-      "title": "Monero vs Zcash: Which Wins by 2028? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYi1na2ZqbTAwa1gyNkd5NVI4OUdweFlOb2ZJb0k0RF91S3NkMU1tOGZVb1dtLUxHNlBYdFhNMzF2ZWJtdmxDOWRwckVnYzNYQm5CS3RkM1JodmxHdThJeHAyczQwcjVpd1E4UUJMTFY1eHlVSzJEb2ZhM3l0RUo0LVJQdmNlU2ZTbWJ3VnhHV2hDQzZtQldobw?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T00:01:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
