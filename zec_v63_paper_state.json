@@ -1,11 +1,11 @@
 {
   "version": "V6.3",
-  "last_processed_15m_ts": 1794327300000,
+  "last_processed_15m_ts": 1794328200000,
   "pending_signal": {
     "side": "short",
-    "signal_ts": 1794327300000,
-    "signal_close": 1060.66,
-    "atr": 21.27154140697056,
+    "signal_ts": 1794328200000,
+    "signal_close": 1030.77,
+    "atr": 23.909288449395383,
     "long_confirm": 0,
     "short_confirm": 5
   },
@@ -1047,19 +1047,36 @@
       "reason": "TP1",
       "gross_r": 1.2,
       "net_r": 1.147248
+    },
+    {
+      "side": "short",
+      "signal_ts": 1794327300000,
+      "entry_candle_ts": 1794328200000,
+      "entry": 1060.69,
+      "risk": 31.90731211045584,
+      "sl": 1092.597312110456,
+      "tp1": 1022.4012254674531,
+      "tp2": 996.8753757790884,
+      "long_confirm": 0,
+      "short_confirm": 5,
+      "exit_ts": 1794328200000,
+      "exit_price": 1022.4012254674531,
+      "reason": "TP1",
+      "gross_r": 1.2,
+      "net_r": 1.15346
     }
   ],
   "long_confirm": 0,
   "short_confirm": 5,
   "max_drawdown": 9.095062000000002,
-  "updated_at": "2026-11-10T16:33:03.290746+00:00",
-  "last_processed_close_ts": 1794328200000,
+  "updated_at": "2026-11-10T16:48:03.608262+00:00",
+  "last_processed_close_ts": 1794329100000,
   "market_snapshot": {
     "source": "OKX public closed candles",
-    "close_ts": 1794328200000,
-    "close": 1060.66,
-    "rsi_15m": 23.168062186250978,
-    "atr_15m": 21.27154140697056,
+    "close_ts": 1794329100000,
+    "close": 1030.77,
+    "rsi_15m": 19.24860076931479,
+    "atr_15m": 23.909288449395383,
     "score_1h": -1,
     "score_4h": -3,
     "close_1h_ts": 1794326400000,
@@ -1068,12 +1085,12 @@
     "supertrend_4h": -1
   },
   "tp_confirmation_refresh": {
-    "event_id": "short:1794324600000:1794325500000:1794327300000:TP1",
+    "event_id": "short:1794327300000:1794328200000:1794328200000:TP1",
     "reason": "TP1",
-    "decision_ts": 1794328200000,
+    "decision_ts": 1794329100000,
     "long_confirm": 0,
     "short_confirm": 5,
-    "count": 20
+    "count": 21
   },
   "sl_confirmation_refresh": {
     "event_id": "short:1794310200000:1794311100000:1794314700000:SL",
