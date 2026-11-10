@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-10T20:46:28.872557+00:00",
-  "last_success_at": "2026-11-10T20:46:28.872557+00:00",
+  "checked_at": "2026-11-10T21:42:44.268027+00:00",
+  "last_success_at": "2026-11-10T21:42:44.268027+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,15 +27,28 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 98
+      "matched": 99
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 24
+      "matched": 23
     }
   ],
   "items": [
+    {
+      "id": "9e2b21e4455e26bffbbc",
+      "title": "$1,000 in Zcash or Bitcoin: Which Could Be Worth More by 2030? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYmtjVXBfeFVNOExPYjNMVWF0WDhRS0k0d2ZaWEozNG93THN4LXZnYlZlQXJUdUs1ZVIzYjA1RWFaS3AxVEFmZWlIWUxmaVk1c1RJOVd0REEzWG1fUVJndlpUaUcwcnNmX0gwQll5SXA4WXZhckVwb2xJaE1rM0RtcW9RMG5EbGNHQ0UtTkZiZmQtNHFnMXoybFJ0b3Fxcy1Tcm1wNXhwVnpZeGNPdXN6UzJXT1VWd2xn?oc=5",
+      "source": "24/7 Wall St.",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T21:27:00+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
     {
       "id": "b4cc97a67693ecd079ac",
       "title": "Grayscale Commits $1M to Zcash Ecosystem, Launches Zcash Campaign - CoinMarketCap",
@@ -134,7 +147,7 @@
       "source": "The Defiant",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-10T15:36:31+00:00",
+      "published_at": "2026-11-10T16:21:31+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -164,6 +177,19 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "920e3c678dfa18a4e5f6",
+      "title": "Zcash Pushes to Cut Block Time Further From 25 to 20 Seconds, Unveils NU7.1 Draft - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uZE1FNFJRakRPUU1BQ1d6M1ZwcnlqVi1WcFR6ZlNKOHdhTHVuZlp3R3hlS1dlWDdqWXRxSUpRekg1OGgxTEotQ1k5b0s5c0ZnRXp0RVlWYXBYcEo5U1hadkZ2dGUzSlFueUtvUzIzR1FtWkItZlE?oc=5",
+      "source": "BigGo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T14:56:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -658,32 +684,6 @@
       "event_time": null,
       "sentiment": "偏利空",
       "basis": "标题关键词：hack",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "8f148c4b7ba7688429fc",
-      "title": "ZEC and CC Lead Altcoin Swings as BTC Settles at $76K Despite US-Iran Attacks: Weekend Watch - CryptoPotato",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdktwLTltQnJGVk9ZZVoyTkN2Z3JrUFZfYThJb3NTV1huNTRiU2tXbHU4cVhlUm1QVEl3UHhla3JESU1mby0xb1ZYMXd5UFVzbmFwdHhjazVKeXBqc0VoZzlFYTNscUF6UzZtb0NweEtYaG9XcXNKSXJkcU1qRzJuN2pwV19SN2U2T1hGbmdnMzJTVXZMZHU4Y1p5ZGktMXRDZ1BnZUFqUTRxQVNpcHgzMXA5SEd3UkU?oc=5",
-      "source": "CryptoPotato",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-08T11:42:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "8db02792591c99320c44",
-      "title": "Remittix Earn, Zcash or Solana? $1.3M TVL in Four Days Makes a New Yield Story Hard to Ignore - StreetInsider",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa0RrSDBsSFRMYTllcEw3UjU1VjJZdzYzMEFoaWFvQS1yUnZKaE03SHpIdENiVWYyZnNmdHdxdXc5YU1UOWFNc0ZGOGd6dzZndElDSWlBV3UxQmZrSVFScmRwdDBCUm5IMGpNbjFITkxXVUpxblM3d0I3YXpUTWNkOS1PX0ZFdmNYUE9Zem0yV0dIaG11cXlsTTRRMmxIdzBUSndvX3UwUnFqRUQxMlFzc3hHOHUxNG9Lc1ltRHlfX01DTkJJUmlIVndJaHpwVGpJV0p4Mm4zMkVpTDJBUnEwVWpXT2JKQlBXcWN2Tw?oc=5",
-      "source": "StreetInsider",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-08T06:52:36+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
