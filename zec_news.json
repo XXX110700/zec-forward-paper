@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-10T05:54:49.523006+00:00",
-  "last_success_at": "2026-11-10T05:54:49.523006+00:00",
+  "checked_at": "2026-11-10T07:07:12.140574+00:00",
+  "last_success_at": "2026-11-10T07:07:12.140574+00:00",
   "status": "ok",
   "sources": [
     {
@@ -52,11 +52,11 @@
     {
       "id": "f08a097fe4690dc7f0ad",
       "title": "美国 HYPE、ZEC 现货 ETF 单日合计净流出 480.45 万美元 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mTTZiUDhWUmZaSzhzREljbmFRc2RlcGYybUVRa25GR0M4S3J3V1Q5eWY5MlB3TFN2SVRnSVJjeU45VmNzeW5nbzNXTUFQRVJxNkpXTkU2cXRYLVQ4THdFU2hJZVNOUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50UVB5U09vS0xuNFlUT1d2ZzEyUU5qbVZ5ak1RRTJpRUdScTdjU2pRZm43dkRmcUJsSTUzeWQ0czNTOVFFVElEODFHSnlVeXZrbE43NG52WjdLakM1aHM3RzBLTlVEUQ?oc=5",
       "source": "TradingView",
       "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-11-10T02:48:21+00:00",
+      "published_at": "2026-11-10T02:48:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -245,6 +245,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "877650e3a5c251a5df0a",
+      "title": "Zcash Price Shows Neutral Bias with Key Hourly Pivot Test - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY0I5WFM1dFBTWjFSSlFUaThNZjRpWVJjUkR6VHVtSGhQdDF4YlFlR004VXRmX3pHckx1dGZmVEt0d3VNZnlZRVVRM1VqamFHWnktbHkwRTR1bG45QWpMNHVKTnNoQVhFLTJiTWxvRVV3eFgyRmhvYkdPODd3TzNGdGtVQ0pYVFAweGczWEVkN1NqajJTSUw1NlN3cTZueUNkbGc?oc=5",
+      "source": "The Cryptonomist",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T12:10:49+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "7c04450e8f93b040a2dc",
       "title": "Zcash developers want 20-second blocks just days after major speed upgrade - CoinDesk",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWhqQk9ScDFrR2xzRkxXNnNzYVgxc3dYRUlkdE5oWUtUQkhzZV9OWW8xSWhSbm1kcjBvY2Q2UzJlQkdmdUNqZ3d0U0JJdlVvOTlqbjdKY3Rla0k3VVJQZGJncTMzUlFmZ2FscnA3OGtWTExqek4xRlRSbGxYcmxXRExnTktaS3hFY3dPQ3hsa0JuZ0xGeE5oLXdXQ0V2Qm9TRW9ScDdRMWlncUxpeFl6cldpeTZWZw?oc=5",
@@ -323,16 +336,16 @@
       "verification": "未独立核实"
     },
     {
-      "id": "66cf4daace70ac1be899",
-      "title": "Zcash Just Completed NU7 Upgrade, Developers Now Propose Cutting Block Interval to 20 Seconds - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOdmo3a19DVXl3dHYzdnRjRDBwTDJVOTUzTVBGTzlJbFRaSDBWTUJQVW15Y0ItYkZtSktOLWJCOFNPaUFLYnFpZHk1eUFUQUJJb24yVWMwNENpQ2syUUotV3JoWF9WdXkwWXRNNFpPbC0xTTVGMVE?oc=5",
-      "source": "BigGo Finance",
+      "id": "f49326ede2f4f838fbcf",
+      "title": "Zcash developers propose cutting block times to 20 seconds - grafa.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS0Q2QkpGYTdjbnQ2V21IZDV0N0c2eHB3dDZpdlBXZUJNbFZhMTJCSGw0YWY4MWNFQjlMRWdLaDF2TXZqYXdSbVFjUTN6Y2lxNWhTSkNQVUlHVzMyZmNRV0JmTUl4NmRSeUFEbnVEeEpFWnlGdkVEOUF0MU1RcUE3d0xnNWh4WkU0LVg5VTdKc2c2dw?oc=5",
+      "source": "grafa.com",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-09T06:25:00+00:00",
+      "published_at": "2026-11-09T06:47:24+00:00",
       "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -505,19 +518,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "511992e565f2988d60c0",
-      "title": "Zcash (ZEC) Price Drops 7% After NU7 Upgrade as Long Liquidations Dominate - The Crypto Times",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVlhRWGMxbFZsMFJRMWNTRVNheTlQdy1RVEV3Yk9NcTR4OHVGa19NeURQM3A5d3NjVXFEN19Vd3NwZDZDa2tLa1FnNzA1WUkxQmVsZ1FSY3l6Z25GWFBQeGU2dFF5VW1uQTFqeFdDUjRtV3pRRHNYeEQ2Q3JOdDYxYjFCalpka2JuNk9lYTJfb2t4cFdtR2QxNzVoZjZiUl8zYU1YaGFaTGxDNWhFNTUw?oc=5",
-      "source": "The Crypto Times",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T19:51:47+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
       "id": "97188b9d50571d6911d2",
       "title": "Zcash’s new security fund is 99.7% old money - CryptoSlate",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13NUM2bnhfTjhBOFFDbTcxSkRQU3ozNkMydFl0T2o2Wm51XzU3d2t4ZFJTcnlRTXZMUnloSV83TnBSTjZ2bzRLbWpINk9GQldGaFhVdEdLR3NzU1JzVWRjdTBSV3pJaDBOZDJCb0dqYzVITXlTSkE?oc=5",
@@ -551,6 +551,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-07T15:23:55+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "25c693c11e3268ef44cc",
+      "title": "Zcash Activates NU7, Targets 25-Second Block Time - IDNFinancials",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXROeTRkbmtmTGs5b2lxODJwQUpCVDA5U3JCNU9vQ1cteF92SkZRVUltZ3dpN1laLWM2LVRjVlN2NXpoOERGUW0xNHJpWGpNajRxWExnVDh2bEpNN0h1YjFIRTc0dklXeFctSW5DWW12bTh3TnFFRm9QT213M2lUNWpueWRubHVERDZTQk1SR2g0d0pMRW1oQTFidUJMNGM?oc=5",
+      "source": "IDNFinancials",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-07T13:00:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -622,19 +635,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "9e16f70b0dbe30909ee7",
-      "title": "Zcash Rises After Upgrade Freezes $16M in ZEC, Establishes Security Reserve - Bitcoin News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNUxOZDRtaDBqblhnVnctNXRpQjR3V1o5X0x2SkVwaGpyQkJlaUFKaUQtZ1NrX2tDUnBWcXlRc2VSeHVHdEZ2ZEJqekNnRWtWWkRFa1RDWWxEX0JQUnVWRVdTNFhad1pPSVZQVm9mM3BkX1FYTkVKUjVmTDY0M20xamFUdzY3c3F0RGpmQ2R5VkF2cnM?oc=5",
-      "source": "Bitcoin News",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T01:09:57+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
       "id": "0c2fe005e4735037f1f4",
       "title": "Monero vs Zcash: Which Wins by 2028? - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYi1na2ZqbTAwa1gyNkd5NVI4OUdweFlOb2ZJb0k0RF91S3NkMU1tOGZVb1dtLUxHNlBYdFhNMzF2ZWJtdmxDOWRwckVnYzNYQm5CS3RkM1JodmxHdThJeHAyczQwcjVpd1E4UUJMTFY1eHlVSzJEb2ZhM3l0RUo0LVJQdmNlU2ZTbWJ3VnhHV2hDQzZtQldobw?oc=5",
@@ -645,6 +645,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "c8599d841e522b2680df",
+      "title": "Zcash NU7 Upgrade Goes Live, Slashing Block Times From 75 Seconds to Just 25 Seconds - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejFZSEQ4Z0hqb3dVVVV4ZWpXS083dmRlQnB5VFV0YXVkYU5UV3JOb0tjZDVldzFfNmc3V0dybDE3aG05YTIyUGlzTmxyZHFmOEdqamZXNFJpX2NLSTl2M1Z5VllDSVFQUUFSUmJjbTdXaGdBUFl3ZU9iX2VDcGxYSzdMTFdiV2M5YnJEaGFxUm1hVVN3QkZhckl2MVpWMnlPajZnSk5IVnZOWnRtYllBd1JCNTF4YXRPSTJjUUFR?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-06T23:26:32+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "09de26d465443a5a3498",
-      "title": "Zcash Price Prediction After NU7 Goes Live — Can ZEC Rally? - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FeXdBZWJHV05SUm84TXRKVVVWUG5rdi14ZmVrNkk5M21wZTdKSm13Q0VBRFVrS2duTkdFMUNrUnlsdmZEWjZGeGkyOGRCX1RQbEZKVm1OQ2k5eG8?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T22:39:45+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
