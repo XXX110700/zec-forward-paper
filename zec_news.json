@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-10T03:51:34.780300+00:00",
-  "last_success_at": "2026-11-10T03:51:34.780300+00:00",
+  "checked_at": "2026-11-10T04:54:03.822791+00:00",
+  "last_success_at": "2026-11-10T04:54:03.822791+00:00",
   "status": "ok",
   "sources": [
     {
@@ -37,6 +37,19 @@
   ],
   "items": [
     {
+      "id": "f08a097fe4690dc7f0ad",
+      "title": "美国 HYPE、ZEC 现货 ETF 单日合计净流出 480.45 万美元 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mTTZiUDhWUmZaSzhzREljbmFRc2RlcGYybUVRa25GR0M4S3J3V1Q5eWY5MlB3TFN2SVRnSVJjeU45VmNzeW5nbzNXTUFQRVJxNkpXTkU2cXRYLVQ4THdFU2hJZVNOUQ?oc=5",
+      "source": "TradingView",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T02:48:21+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "109608b0cbacd25f53a8",
       "title": "数据：某地址通过Hyperunit 向 Hyperliquid 存入1060 枚 ZEC，随后分3 笔卖出换得129 万美元USDC - CryptoRank",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0eFRJQm5Mc2NVd0oycXlLcUwxWEVUcG94Tk9JZkFuNW1GcmNkVGdsRHZ2eHkyQWNwbHJlRDd4WGxUbjc4eEpTVUtzS2V5Vi1DV0taTzZ3Z05WeG80?oc=5",
@@ -47,19 +60,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "ad93a2a9522389a7a82b",
-      "title": "Zcash (ZEC) Activates Network Upgrade 7, Shortening Block Intervals and Easing Wallet Sync for Private Transactions - Crowdfund Insider",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdm9hQnlrTGlOZkFtd2ZSS29rRGxJS1MtTUdDX2VjR1FXZjRIcWVzZm1kVTlsTEZkN1Z2UHRJQkNMSE9nR0xWcHV5MEYzOU51Y3pUb3BQR0U0MXhkbDJRQmNpal9ubVN4VHYxTmZLRHdZbjdOVkc2eUJReDg4cTZaNmhQcTZLN2dPa2JKMXhqckxxTUhiX2Njd0hRZFVwMTlfbklYMHhDQ2pOVGhJeXdFaklFbHZaTlFTaDJGSEhsdFZlOG5NUlB2MHFBSGJ1ZnRZRzNvSXlCNnJaQUpaY0FDaGY5YnVTMDQ3aUk1WlhaZlBZOUU?oc=5",
-      "source": "Crowdfund Insider",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T22:36:40+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -99,6 +99,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "ad93a2a9522389a7a82b",
+      "title": "Zcash (ZEC) Activates Network Upgrade 7, Shortening Block Intervals and Easing Wallet Sync for Private Transactions - Crowdfund Insider",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdm9hQnlrTGlOZkFtd2ZSS29rRGxJS1MtTUdDX2VjR1FXZjRIcWVzZm1kVTlsTEZkN1Z2UHRJQkNMSE9nR0xWcHV5MEYzOU51Y3pUb3BQR0U0MXhkbDJRQmNpal9ubVN4VHYxTmZLRHdZbjdOVkc2eUJReDg4cTZaNmhQcTZLN2dPa2JKMXhqckxxTUhiX2Njd0hRZFVwMTlfbklYMHhDQ2pOVGhJeXdFaklFbHZaTlFTaDJGSEhsdFZlOG5NUlB2MHFBSGJ1ZnRZRzNvSXlCNnJaQUpaY0FDaGY5YnVTMDQ3aUk1WlhaZlBZOUU?oc=5",
+      "source": "Crowdfund Insider",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T19:35:30+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -213,6 +226,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-09T12:38:12+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "877650e3a5c251a5df0a",
+      "title": "Zcash Price Shows Neutral Bias with Key Hourly Pivot Test - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY0I5WFM1dFBTWjFSSlFUaThNZjRpWVJjUkR6VHVtSGhQdDF4YlFlR004VXRmX3pHckx1dGZmVEt0d3VNZnlZRVVRM1VqamFHWnktbHkwRTR1bG45QWpMNHVKTnNoQVhFLTJiTWxvRVV3eFgyRmhvYkdPODd3TzNGdGtVQ0pYVFAweGczWEVkN1NqajJTSUw1NlN3cTZueUNkbGc?oc=5",
+      "source": "The Cryptonomist",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T12:10:49+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -557,19 +583,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "8972c6ba75e043d34177",
-      "title": "ZEC 兑 RSD：将 Zcash 转换为 塞尔维亚第纳尔 | 实时 ZEC 兑 RSD 价格 | MEXC - MEXC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBERkplY2tkZS1udDA2NldnTkxJTHFReWlpY0lsUjVhNWdwOElPZUNpNVFSQ1E0VFBVei1iRWtGWEI5X1dNUHlpOXdCa0dYMGxuVUVWYQ?oc=5",
-      "source": "MEXC",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T07:21:55+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "56331bf144d6426f00c2",
       "title": "Zcash Surges 3% on NU7 Upgrade Amid Flat Crypto Market - CoinMarketCap",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02WFNCZ0FOUWJRRU95eFRubi1OQmxLV2V4clJWdzVJRzdGZFVZUU9DV3dyczRJai1qQUx0aWFVRHp3YTBpaXhxeUZ5QnY5cm8zQ3E3WlpsdnRiYzg4allxTF93eEVWaFV4YkVYY0RHeEY?oc=5",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "2b726888b0eac3539dbf",
-      "title": "Zcash’s Game-Changing NU7 Upgrade Goes Live, Slashing Block Times 3X as $5,000 ZEC Rally Comes Into Focus - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONUhOTzNzX01jcUN2X3NMMlZpME9aUC1Oc0NGbG5FeXlPVXhMZng1NW50bXA0NHNzb3h1RXVBUEUzOFZIMWpfNDNnQU9BT2hadjhxVEdxS0ZqX1RUeFNCZ1NDV2ZXVzlnZWctUkhQYTZTZTRQaGEtV1dZZmxiM2dIaDdqSlhuRmFZYkFyYmE5Y2V0ZUpOcWgxbzB3X09fdkNlcGpBek9OY182QUx5LWdVYjkxQ3VtYlBkMnJoR3k0dUhJcnlNRFc4R3plRUs0UmU4VGQyZk5R?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T20:14:03+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
