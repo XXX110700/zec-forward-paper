@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-10T11:52:02.571703+00:00",
-  "last_success_at": "2026-11-10T11:52:02.571703+00:00",
+  "checked_at": "2026-11-10T13:00:27.827028+00:00",
+  "last_success_at": "2026-11-10T13:00:27.827028+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "8b34ddefdd9c047d3479",
+      "title": "Zcash remains stuck in a range as macro headwinds continue to limit the upside. What's next? - investingLive",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVE81d1NDTm9qOWlRQWM0cW1nU3F1M0pfd2FTR2xlLS1MVGIzLUtKMmN6QlNKaEEyOUtJWHMxT1RVLUhfM21HbE1wUzZZUEpaMjE5UzN1SG9lVkZyNUR4blFETzNGelIxZUhtRnJLbEI5b2FNOVgzX1lTeU9UdDBGZlRYMERiMHZwOERKS0FKMmlMSFg2YVpld3lzUEg1dmV3Yms3d0thYXc1NkI4M29NbEd1dmhFX0tOdk1wX1J4TGpDdzUxSFpjTVRTWDg?oc=5",
+      "source": "investingLive",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T11:32:51+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "3dffc45caf5340363381",
       "title": "Zcash Proposes NU8 Upgrade: 4x Block Size, 200 TPS Privacy Transactions, Quantum Resistance - KuCoin",
@@ -180,10 +193,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "e39658319084ca46e39a",
-      "title": "Zcash Just Turned 10. Here's What Could Be Coming for ZEC Investors Over the Next 10 Years. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQjdkdENxUjE0NG9XNjNsNHdHTDVBU2dmSzZLLVhQZ3pmeUtQdFNaVy15bXk2WlhBRWExTFVKTU9DN05NQmMtM2xod2otenlFMG1xZUFyc2FCazV3ck5fQmNUMmVlU1ZfSU5qUkhvdlVmaFJlbWxSbmM5cFFCM2l5VmE0Vy1XUFI0NktuVU9DalZEVE1aVlE?oc=5",
-      "source": "Yahoo Finance",
+      "id": "3148856e9a4b2039e91f",
+      "title": "Zcash Just Turned 10. Here's What Could Be Coming for ZEC Investors Over the Next 10 Years. - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Dc0RsSTE2T1Fvb0NRNFU2RHNGOVhvQzRXY1lfVWw1ejkxMThhN2R2dXE5OVhDTzkydlFKemhxRkNQaGZkUjBEVDBPMWYyQ1plTTNEQk54cHdkTDJGVkh3ZnN6S0xueGw3aXB0TnppNUp2dG94bmZJTXZ3?oc=5",
+      "source": "AOL.com",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-09T14:46:00+00:00",
@@ -343,6 +356,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-09T08:10:20+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "d31fdcc4eac647551371",
+      "title": "Zcash 开发者提议将区块间隔从 25 秒缩短至 20 秒 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YS3VFeVJPZU8zb0xJbmlXank3SjE3TEhZTjVuNE5iV3ZCVnFVYnRUaDF3U1pvYU9JYzNkTXJNMUhITjlJcXZaNG10bThlZnVfUmlrTXZOVGFkbnY0?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T08:00:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -658,32 +684,6 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "0c2fe005e4735037f1f4",
-      "title": "Monero vs Zcash: Which Wins by 2028? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYi1na2ZqbTAwa1gyNkd5NVI4OUdweFlOb2ZJb0k0RF91S3NkMU1tOGZVb1dtLUxHNlBYdFhNMzF2ZWJtdmxDOWRwckVnYzNYQm5CS3RkM1JodmxHdThJeHAyczQwcjVpd1E4UUJMTFY1eHlVSzJEb2ZhM3l0RUo0LVJQdmNlU2ZTbWJ3VnhHV2hDQzZtQldobw?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-07T00:01:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "c8599d841e522b2680df",
-      "title": "Zcash NU7 Upgrade Goes Live, Slashing Block Times From 75 Seconds to Just 25 Seconds - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejFZSEQ4Z0hqb3dVVVV4ZWpXS083dmRlQnB5VFV0YXVkYU5UV3JOb0tjZDVldzFfNmc3V0dybDE3aG05YTIyUGlzTmxyZHFmOEdqamZXNFJpX2NLSTl2M1Z5VllDSVFQUUFSUmJjbTdXaGdBUFl3ZU9iX2VDcGxYSzdMTFdiV2M5YnJEaGFxUm1hVVN3QkZhckl2MVpWMnlPajZnSk5IVnZOWnRtYllBd1JCNTF4YXRPSTJjUUFR?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-06T23:26:32+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
