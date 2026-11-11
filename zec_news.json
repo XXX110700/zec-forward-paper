@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-11T16:57:03.238937+00:00",
-  "last_success_at": "2026-11-11T16:57:03.238937+00:00",
+  "checked_at": "2026-11-11T17:56:09.731608+00:00",
+  "last_success_at": "2026-11-11T17:56:09.731608+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 98
+      "matched": 97
     },
     {
       "name": "Google News 中文",
@@ -362,6 +362,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "68aa6355cb2d634a9588",
+      "title": "Grayscale launches U.S.-wide ads, ecosystem support amid outflows from Zcash ETF - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOempQX0dBT0FWUGhJOURBbERpcy1GdnBObGZlNURJM0dQcTB4Z09QLWd6TlV6ME9ZMUpLM2pCd0FCTU1qd1QyTVJVZmJqSThZcW56b1J5eVROc1U4cTE4M3hyV0RkSVY3NjRWYU1WaVRxVVZSUmxMSm1HYlJ0bFQ4OWFycVJtbGxURTJjLU14M0xVVU9lY2xSenNQbHpXLW96WWNWN3FEU3R4MlpLeU02anpHSXlUd3F6dUFWS3VRdVc?oc=5",
+      "source": "디지털투데이",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T00:27:26+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：launch",
+      "verification": "未独立核实"
+    },
+    {
       "id": "ffdcf6c3201f522ecd00",
       "title": "Grayscale Pledges ¥160 Million to Zcash, but Market Moves the Other Way as Outflows Persist - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LeVBGWGc2Sy1UQy1nRzBxUlhzWlpjYi1TVFlrTXFsRENYUUxHZzR0aVN1YWI3YmZiQlBTWVZaMUFFNEViajI5UmE5WXpEWFZ5Rm16bS1HSVRqU1BSa1VBeWE2UWYtTEQtYnhYM0hvR3h6T3V2WFE?oc=5",
@@ -580,19 +593,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：launch",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "07862d765b714200a436",
-      "title": "24-hour fund flows: BTC draws $205.65 million as XRP and ZEC post net outflows - TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWdEpTR3B5T3Z1bnhHTm9XUlFlREJtOG9NX1JmQUkzMGdSUlZ3czdsak8zM19sNjQzYnpSX0RWcHlzcjlQZ3YwdE5McWJYd0w5MVBiMHFVVERRZw?oc=5",
-      "source": "TOKENPOST",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-10T12:23:45+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
