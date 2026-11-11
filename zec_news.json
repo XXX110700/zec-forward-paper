@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-11T04:59:44.073238+00:00",
-  "last_success_at": "2026-11-11T04:59:44.073238+00:00",
+  "checked_at": "2026-11-11T05:59:25.092835+00:00",
+  "last_success_at": "2026-11-11T05:59:25.092835+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 99
+      "matched": 98
     },
     {
       "name": "Google News 中文",
@@ -96,6 +96,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T02:21:45+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "ffdcf6c3201f522ecd00",
+      "title": "Grayscale Pledges ¥160 Million to Zcash, but Market Moves the Other Way as Outflows Persist - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LeVBGWGc2Sy1UQy1nRzBxUlhzWlpjYi1TVFlrTXFsRENYUUxHZzR0aVN1YWI3YmZiQlBTWVZaMUFFNEViajI5UmE5WXpEWFZ5Rm16bS1HSVRqU1BSa1VBeWE2UWYtTEQtYnhYM0hvR3h6T3V2WFE?oc=5",
+      "source": "BigGo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T22:55:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "cafad8d58461ea160912",
-      "title": "Zcash Developers Propose Reducing Block Creation Time to 20 Seconds - ForkLog",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlJ3bWlCbzBOWHhaTGhTeXhYenhEX0dGUWNVS2ljTjNKamo4bmdtcGlsdkhoVElicUlocHRfNFZNbFBrbXVSejFJMndYSXVHR01iSm44cm1RcFZsNk15aER4bE4yTVJDNUtkWm5CeGRKX3hkYWFpazkwczRmRk0zd3hhN1NrRjVvR0lCNGdIN3paTlpUalE?oc=5",
-      "source": "ForkLog",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T08:10:20+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
