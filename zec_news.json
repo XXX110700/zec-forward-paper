@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-11T02:52:33.117378+00:00",
-  "last_success_at": "2026-11-11T02:52:33.117378+00:00",
+  "checked_at": "2026-11-11T03:55:50.307256+00:00",
+  "last_success_at": "2026-11-11T03:55:50.307256+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,36 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 21
+      "matched": 22
     }
   ],
   "items": [
+    {
+      "id": "513749f460b546ec722b",
+      "title": "Zcash 社区提出 NU8 升级方案：计划明年 1 月底引入 Tachyon 隐私池并将区块上限提高至 8MB - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05THBZVHowOEhsTHVORWlPR2Fsby1xbWNrci1SZ2FaUUpsTUJHNkgyN1BhT29XcWxqb2tobG5wOVg1ekxRZlZjbmdzN1RHUFdiWUtyb0pnZ2NTUkkx?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T02:56:30+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：升级",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "69b7d617f86d81f44437",
+      "title": "Zcash slips toward $1,000 amid derivative liquidations, outflows (ZEC-USD:Cryptocurrency) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZjBOU00tTkxtVU90cXdySTR3b0ppbmx3QTZyeWViZ3QzLVRNU1g4WEVJYTYyLUpaeDFwNnBodHZtZnBmdE1EUy14dkI2R2swOGtDOVVxNDNWQWxMUDhSQTV4Ynp3SDVxamI5R0xUZXFlNEJwTDAwQXNIMGNKMjMxLS03VjdhVW5jY0M1TEJENnhSZDVuaWlDckFTNzcxTmRM?oc=5",
+      "source": "Seeking Alpha",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T02:54:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "a1ef743eeae868d19933",
       "title": "Grayscale commits $1 million to support Zcash ecosystem - grafa.com",
@@ -167,19 +193,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "d56520a1fe2ffe8cbe6c",
-      "title": "Best Crypto to Buy in November 2026: Early Buyers Pick Pepeto as ZEC Drops 8% After a Faster Block Plan - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWDZXS19rWTE1bXRRaElLYjhZQ0k5Sk53eVJzd0pJUktOamNIV0c5elNyX3M0N0ZJa0hkVENERUdjY0hwN3ptSDJhYy1WRTYtaERVcHQ5YS14Rl9xeC0xNkZBU0VBOVJmRlBHTVlkX2lrYzdLTnAxVXpielZyNVZubFJFWUVuU21BVUxHak81c2JMUUs5ZVlETUFMM0ppREE2dFhnc2Y1OGRXeWlwa0JMazJ5T0ZveE5MTUpjN0ZQQ2xZUWdS?oc=5",
-      "source": "TechBullion",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-10T16:00:55+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "174bcf7d767f3cd05110",
       "title": "Grayscale Expands Zcash ETF Campaign with $1M Funding - The Cryptonomist",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1ZkhuX0x4cG1VTDZUbER3OGt2UzVWcGlxWUpEdEk0TFp3WHBIaDY1Z1FLYjFkZGgtUHRnOFpyYWJKNld1bFlUelZhOG9DME9hNXYzaUxiTzczSWJlNk0xWmV3ZUtiVUF5bGc?oc=5",
@@ -208,11 +221,11 @@
     {
       "id": "9c5d7db593fe8b1cd455",
       "title": "灰度在《华尔街日报》纸版投放 Zcash 广告，拟投入 100 万美元支持其生态 - ForesightNews",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3eFBKemcybU9iNUtneWZWbjNXaFkxMTJudmRYUFZCTEItQlRjV1hpdnJVYUc5Z1pFR21OUjRnY1oxc0NLblZOVC0yd3NacWVWU0pheVdJUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmaVFGWldOWmlYNHNoUUN5Wjd4SjFNM3NWRU56Nzd2LWpEUXp3SGVON2pnelZYOVV4MlJsNjY2dFZveU9NTXJUVnRtOFRsS1lrX2FxNzZlSXpHdw?oc=5",
       "source": "ForesightNews",
       "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-11-10T15:01:03+00:00",
+      "published_at": "2026-11-10T15:01:08+00:00",
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
@@ -453,10 +466,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "e39658319084ca46e39a",
-      "title": "Zcash Just Turned 10. Here's What Could Be Coming for ZEC Investors Over the Next 10 Years. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQjdkdENxUjE0NG9XNjNsNHdHTDVBU2dmSzZLLVhQZ3pmeUtQdFNaVy15bXk2WlhBRWExTFVKTU9DN05NQmMtM2xod2otenlFMG1xZUFyc2FCazV3ck5fQmNUMmVlU1ZfSU5qUkhvdlVmaFJlbWxSbmM5cFFCM2l5VmE0Vy1XUFI0NktuVU9DalZEVE1aVlE?oc=5",
-      "source": "Yahoo Finance",
+      "id": "3148856e9a4b2039e91f",
+      "title": "Zcash Just Turned 10. Here's What Could Be Coming for ZEC Investors Over the Next 10 Years. - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Dc0RsSTE2T1Fvb0NRNFU2RHNGOVhvQzRXY1lfVWw1ejkxMThhN2R2dXE5OVhDTzkydlFKemhxRkNQaGZkUjBEVDBPMWYyQ1plTTNEQk54cHdkTDJGVkh3ZnN6S0xueGw3aXB0TnppNUp2dG94bmZJTXZ3?oc=5",
+      "source": "AOL.com",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-09T14:46:00+00:00",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "67c7788c3db20025250e",
-      "title": "Zcash devs propose another block time cut days after NU7 upgrade - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVzZfYXluRHdZNUlFWEM5VFdzanRhNGh0VWZlVXNkUTl2bFByenctXzVNbzVnMjYwZFZYQ2dEd2VZN1JXR3lhVVpNTl9pOUZKVFJ5ZnNzbGdIYkxDYmdrVU9pWXBzUEpJZ1hMdC1Xd2VwbUFNaEJISEJvUGdtcGt6TV9zNk9oNHU1TXl1YTFWZXo4NEMxd2RYLTlZSzVvUTRDazNGSUJQSW81aGFKVEpIY2J3WHctanZuTnRMYWZrdzU3cERJRmkw?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T05:36:00+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
