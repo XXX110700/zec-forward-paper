@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-10T23:37:49.815184+00:00",
-  "last_success_at": "2026-11-10T23:37:49.815184+00:00",
+  "checked_at": "2026-11-11T01:01:46.337457+00:00",
+  "last_success_at": "2026-11-11T01:01:46.337457+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 23
+      "matched": 21
     }
   ],
   "items": [
@@ -310,19 +310,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "109608b0cbacd25f53a8",
-      "title": "数据：某地址通过Hyperunit 向 Hyperliquid 存入1060 枚 ZEC，随后分3 笔卖出换得129 万美元USDC - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0eFRJQm5Mc2NVd0oycXlLcUwxWEVUcG94Tk9JZkFuNW1GcmNkVGdsRHZ2eHkyQWNwbHJlRDd4WGxUbjc4eEpTVUtzS2V5Vi1DV0taTzZ3Z05WeG80?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T22:43:36+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "3ac8c2b53fdd29d75ba4",
       "title": "Zcash falls almost 8 percent: why developers want 20-second blocks - CryptoTicker.io",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTUZrWFNtZ0VsaEhOTmVyQnBDZGJzdGpieDlWRTBaaWNEZ1NyNWxVS3hKZDJ2QUk2SXRTU0t2d1pKXzJRVjBncXIxNXFYOGNEWXZ6emNZNDVXdGRNaVZMTmNwSURzZEx3aTFIcXl1X3hLd0tIZDRQYnUxM1dwbmJuNGluNnZOQld4VnlIbXh3?oc=5",
@@ -502,6 +489,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "4eb87e030a6b0c2f17dc",
+      "title": "Zcash developers propose 20-second blocks days after major upgrade - Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41ZzYzenhXZEJYQ0Vac2tnTjJCYWhTRm1JNEtQU3gyTWtENm9VWU1uUlN4cGlkY0lwVFVtUC1ZQjU2anlHeE9VUlhuLWwxdUd6TVJSV3BQbWhSaGNIeXdONmdtaHYyQQ?oc=5",
+      "source": "Crypto News",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T12:23:53+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
