@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-11T15:53:38.631715+00:00",
-  "last_success_at": "2026-11-11T15:53:38.631715+00:00",
-  "status": "partial",
+  "checked_at": "2026-11-11T16:57:03.238937+00:00",
+  "last_success_at": "2026-11-11T16:57:03.238937+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 0
     },
     {
       "name": "Cointelegraph",
@@ -57,6 +57,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T14:08:03+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "d18c41bacdd6172622b8",
+      "title": "Zcash Price Crashes Below $1,000 for First Time Since September as $35.7M Longs Liquidated - The Crypto Times",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVU5pa1lDYzJkVGp1Q3Y4WWwtVGlmU20zdTZ3cExla3pKbm1mMXJsZjlVWjVzclFzVE0xcDd0VXZRTlZPMFgydGVPZW1WVWloWl9vY19pOVhfUkVPLVJaWFdRNWtEb3lzaVVPaTJHY2djWkNEdHUyQlhOdzBaRzcyU0pIaEZKXzZCNkxTTTVfcjhmMVJhWmEyQW1FVEhHZGU5XzMzLWtfX3gzUEtwdkZ3cWhZN1hJS29HLUkxQU1GbXg4S2xG?oc=5",
+      "source": "The Crypto Times",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T14:01:17+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -346,19 +359,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "68aa6355cb2d634a9588",
-      "title": "Grayscale launches U.S.-wide ads, ecosystem support amid outflows from Zcash ETF - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOempQX0dBT0FWUGhJOURBbERpcy1GdnBObGZlNURJM0dQcTB4Z09QLWd6TlV6ME9ZMUpLM2pCd0FCTU1qd1QyTVJVZmJqSThZcW56b1J5eVROc1U4cTE4M3hyV0RkSVY3NjRWYU1WaVRxVVZSUmxMSm1HYlJ0bFQ4OWFycVJtbGxURTJjLU14M0xVVU9lY2xSenNQbHpXLW96WWNWN3FEU3R4MlpLeU02anpHSXlUd3F6dUFWS3VRdVc?oc=5",
-      "source": "디지털투데이",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T00:27:26+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：launch",
       "verification": "未独立核实"
     },
     {
