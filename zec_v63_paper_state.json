@@ -1,19 +1,8 @@
 {
   "version": "V6.3",
-  "last_processed_15m_ts": 1794412800000,
+  "last_processed_15m_ts": 1794413700000,
   "pending_signal": null,
-  "open_trade": {
-    "side": "short",
-    "signal_ts": 1794393000000,
-    "entry_candle_ts": 1794393900000,
-    "entry": 988.4,
-    "risk": 20.322308187338166,
-    "sl": 1008.7223081873382,
-    "tp1": 964.0132301751942,
-    "tp2": 947.7553836253237,
-    "long_confirm": 0,
-    "short_confirm": 5
-  },
+  "open_trade": null,
   "closed_trades": [
     {
       "side": "short",
@@ -1187,19 +1176,36 @@
       "reason": "SL",
       "gross_r": -1.0,
       "net_r": -1.063647
+    },
+    {
+      "side": "short",
+      "signal_ts": 1794393000000,
+      "entry_candle_ts": 1794393900000,
+      "entry": 988.4,
+      "risk": 20.322308187338166,
+      "sl": 1008.7223081873382,
+      "tp1": 964.0132301751942,
+      "tp2": 947.7553836253237,
+      "long_confirm": 0,
+      "short_confirm": 5,
+      "exit_ts": 1794413700000,
+      "exit_price": 1008.7223081873382,
+      "reason": "SL",
+      "gross_r": -1.0,
+      "net_r": -1.068091
     }
   ],
-  "long_confirm": 1,
+  "long_confirm": 2,
   "short_confirm": 4,
   "max_drawdown": 9.095062000000002,
-  "updated_at": "2026-11-11T16:18:03.597939+00:00",
-  "last_processed_close_ts": 1794413700000,
+  "updated_at": "2026-11-11T16:33:02.840393+00:00",
+  "last_processed_close_ts": 1794414600000,
   "market_snapshot": {
     "source": "OKX public closed candles",
-    "close_ts": 1794413700000,
-    "close": 999.58,
-    "rsi_15m": 58.52240151852466,
-    "atr_15m": 14.976372058109874,
+    "close_ts": 1794414600000,
+    "close": 1013.2,
+    "rsi_15m": 64.70491465683017,
+    "atr_15m": 15.09948833970831,
     "score_1h": -3,
     "score_4h": -3,
     "close_1h_ts": 1794412800000,
@@ -1216,18 +1222,17 @@
     "count": 24
   },
   "sl_confirmation_refresh": {
-    "event_id": "short:1794384900000:1794385800000:1794393000000:SL",
+    "event_id": "short:1794393000000:1794393900000:1794413700000:SL",
     "reason": "SL",
-    "decision_ts": 1794393900000,
-    "long_confirm": 0,
-    "short_confirm": 5,
-    "count": 20
+    "decision_ts": 1794414600000,
+    "long_confirm": 2,
+    "short_confirm": 4,
+    "count": 21
   },
   "recovery": {
     "mode": "historical_recovery",
     "source_cursor": 1793413800000,
     "prepared_at_ms": 1794049105074,
     "note": "Historical replay; not an uninterrupted forward run"
-  },
-  "csv_outbox": []
+  }
 }
