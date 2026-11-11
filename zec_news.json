@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-11T11:56:46.833152+00:00",
-  "last_success_at": "2026-11-11T11:56:46.833152+00:00",
+  "checked_at": "2026-11-11T13:07:23.856327+00:00",
+  "last_success_at": "2026-11-11T13:07:23.856327+00:00",
   "status": "ok",
   "sources": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Cointelegraph",
       "status": "ok",
-      "matched": 0
+      "matched": 1
     },
     {
       "name": "CoinDesk",
@@ -36,6 +36,58 @@
     }
   ],
   "items": [
+    {
+      "id": "bb6129ea3718da8185a0",
+      "title": "Zcash Price Prediction: ZEC Braces for a 15% Drop After Breaking Below $1,000 - FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWllZeDI5MVNndjhOT2hjOUdETXNkckFCNnJrU1dFT0hNMl9vNGFNQ05EcVM0YTBqRW9YdHVUQmpRLTVBSWZBWnJUM0VDS3lfTTgta0FSaTREaGJsVTdhTHoteHhqMTRxSFJHMWpOSXEyNVJ0TFZZTnh2LWtYV3VHWjlVYi1rSjBFcmwtU0Zxc2wwbU50OFpEMS0xWFdPTUtwc25JSl8ycUk4cFE5S3JOcWJZOGFrcTllZlgtLWlWZUhUQQ?oc=5",
+      "source": "FXEmpire",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T12:53:39+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "bb41404e8a4d6015fb7a",
+      "title": "Zcash falls below $1,000 for first time since September",
+      "url": "https://cointelegraph.com/markets/zcash-falls-1k-grayscales-1m-ecosystem-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "feed": "Cointelegraph",
+      "kind": "media",
+      "published_at": "2026-11-11T12:31:44+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "44402357c668cfc9236e",
+      "title": "ZEC Price Drops Below $1,000 as Sellers Extend Correction - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUEhwWFJsNC0zNEdPcktacVJoazdOcW9xMnJXYW8ydVZDcFVlaVJmRWIxN2pkYW9zZTVBSzlsYkVEVDZvbWo0Wm4tQ2s1VzVBdTFrRGEwcXlPamhMWlFPdHAtUm5MaTVsZVAtX0lfd09US2dwcnZHY2JCWDV3bkJmY2pwWWVWcUxfU0F6VFZaeHc5YkVu?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T12:04:18+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "4ecd2c60a2e48e256d01",
+      "title": "Zcash (ZEC) Dumps Below $1K, Bitcoin (BTC) Struggles at $74K After CPI Reading: Market Watch - CryptoPotato",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYUNvYmpGUlZ1aFZaOU1zQ3Iya3UtVnpEalc3QzdkWjduMFBKSUFzVDZBRHpreUowZ0VEbmRRLUtOb1dZWV9QVDdNcE5zNXdPbUxENkM5cEpoNk9LT1ZiSFBCWkcyenhibnJJN08yOElNUkp6bnpoMjdLendvQ2FwRkNFOTBRWGJVSFEycWEzcG5UbVpuTkZsSkFVaEI4Q2RZSzJmeG8xLUNBaWJJcUFj?oc=5",
+      "source": "CryptoPotato",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T10:28:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "a4ba1bdfe0b50b0ef260",
       "title": "ZEC Price Loses $1,000 Support: How Much Further Could Zcash Fall? - Coinpedia",
@@ -83,19 +135,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T09:19:20+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "5645833212b18f3d4623",
-      "title": "Grayscale Pledges $1 Million to Zcash Ecosystem as ZEC and Its ETF Slide - Altcoin Buzz",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS3A1RTRFY3lEZHJpaTdwQXVBYi16LWtPTzJNRng0TExsLU1KVGhnY19NN2FHNTZCMG84Y3dVVnAwdTB0MlRHRkNKSE13SzluX1FBSERxcTBNZ3hjazlOX3A0VlIxaVlKVVBBVGtxZGlrTDVKRFNLOWdHWHMxa3ZkR0VwTWNUbDhVSURaMjg1LXYtXzZJeGFPT2lCcFBNcE0?oc=5",
-      "source": "Altcoin Buzz",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T09:08:13+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -186,7 +225,7 @@
       "source": "Seeking Alpha",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-11T02:54:00+00:00",
+      "published_at": "2026-11-11T02:54:51+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -258,10 +297,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "5f002ed853efd392265f",
-      "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTRhMEVkSDVUWkFOR2lKQWFzYXVQSm9yUW1GenpVZVBGbi1uMmE5OWxPSnBKaGh3dUx6T012eDRGTi1uQXZGMl9SUWVsWlNmNWpJYTNvZmVGTVNGMzlGTFJEekREamFhaE9PMXFtWGRpZ2R2NWgyQnBJUWl5YnpZd2dEcWRVSDRBQlFlSWhlWllpWjY1ODB2WUEtVQ?oc=5",
-      "source": "Yahoo Finance",
+      "id": "f63a4723ca38b92e8154",
+      "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbVNZZlV1QXprQnE3WTVVNlM3XzZIVy1KYXR6elM1TXJPZHdYbDhvWUw4NDZMS0JVeDZHUnpWZWMwSEZNdUdiZzNVU0U5MmxPWWRjQy1DZ2tiSmNYN3U5R1ZWdFJtRGg3RmFpOHgxYUVzbTk3Y3lFaGJNU3U0WVlSdEx6T3BmU2IySnNr?oc=5",
+      "source": "Decrypt",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-10T19:16:02+00:00",
@@ -271,10 +310,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "f63a4723ca38b92e8154",
-      "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbVNZZlV1QXprQnE3WTVVNlM3XzZIVy1KYXR6elM1TXJPZHdYbDhvWUw4NDZMS0JVeDZHUnpWZWMwSEZNdUdiZzNVU0U5MmxPWWRjQy1DZ2tiSmNYN3U5R1ZWdFJtRGg3RmFpOHgxYUVzbTk3Y3lFaGJNU3U0WVlSdEx6T3BmU2IySnNr?oc=5",
-      "source": "Decrypt",
+      "id": "5f002ed853efd392265f",
+      "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTRhMEVkSDVUWkFOR2lKQWFzYXVQSm9yUW1GenpVZVBGbi1uMmE5OWxPSnBKaGh3dUx6T012eDRGTi1uQXZGMl9SUWVsWlNmNWpJYTNvZmVGTVNGMzlGTFJEekREamFhaE9PMXFtWGRpZ2R2NWgyQnBJUWl5YnpZd2dEcWRVSDRBQlFlSWhlWllpWjY1ODB2WUEtVQ?oc=5",
+      "source": "Yahoo Finance",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-10T19:16:02+00:00",
@@ -645,45 +684,6 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "7ec821eee1ba7aa01c60",
-      "title": "Zcash Devs Propose Cutting Block Time to 20 Seconds After NU7 - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXZoT0pmWFJkVDFjWUh3YUQzRG9mUUZzVEhETGg1R2VMLWxRR2c4cV96YktWYnBXek44anRzUl9hSXI5Nm83bU1XZ09ibTJuM2Q5bDJUb1NIV1VtMU5XaDE0eDZsdEhUaWRoYlBFd1d6Q045U1VXSVFFck5qV3lIRUZTcUd0aVlTbkJWckloVGJjRWRfVlhKamJ0azFnWm1kVlZhNzJ3?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T14:34:38+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b66022011c7876341d3c",
-      "title": "Zcash Just Turned 10. Here's What Could Be Coming for ZEC Investors Over the Next 10 Years. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdUkzLTJJZ2plTjRVRnRLVExiVUtxLXFwcTJxSUowaTFDWTB5Z2ttLWdrSEx6VTlpdVBMWGgxZWZDM0ZVZG1TQUJRbnFpMXBwY2ZXd1VEcjJXbWxMQTFObTlJUTRnWGkyTlFXYzF1dmtTSVVCcFJrZkJ0SkRDS2ZDc09SOENSMW4zNS01ZGVEMWdlamU2THJLeQ?oc=5",
-      "source": "The Motley Fool",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T14:26:00+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "16a95a328f840c6d57e4",
-      "title": "Zcash Eyes 20-Second Blocks Three Days After NU7 Cuts Confirmation Time to 25 Seconds - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRM01pS3ZYVWJwRUI1bUJDMTJjdDkzOXk2RTFtUHJxV3BybDdmSGRySXQyaC1iQ1QyOFJxY0k3RUxYcGtoNGRPWkMtdENlN2xSR2lqTkh0QjZuWWtTS2MySnVXdkJHWWpXLVR0c0JQaGtkUGdzYmc?oc=5",
-      "source": "finance.biggo.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T13:05:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
