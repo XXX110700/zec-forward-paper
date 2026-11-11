@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-11T02:02:45.507867+00:00",
-  "last_success_at": "2026-11-11T02:02:45.507867+00:00",
+  "checked_at": "2026-11-11T02:52:33.117378+00:00",
+  "last_success_at": "2026-11-11T02:52:33.117378+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "a1ef743eeae868d19933",
+      "title": "Grayscale commits $1 million to support Zcash ecosystem - grafa.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSm92OU52TE0wRFM3eXhWZG1HMC1WdEpzemJjdE5hSUh0MFdHeEt2aEgtUDBCTkxvOVZfLS00QkQ4YXBoTjBCbVRsZ0tDSWpHYnBhWUpCbXJRbTJvYk9nd28yYjY3TkliVVoyZi1vaWJsU2R4WHd0czhLTUVsdldITVVQNk1NWWtyZHU0SG55Y25uMlROc2lVTHVSQ3NMczNjUXowQjdVeEVlNFg2R29ac2FaaFBmLXNMSTdGMnpYZjc4U3dMNVdjV0JodWszTWo4Z2lROQ?oc=5",
+      "source": "grafa.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T02:21:45+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "4cc668ea3b9e2b39b634",
       "title": "Grayscale Introduces Zcash Invest with Zebra-Themed Branding - Adland",
@@ -440,10 +453,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "3148856e9a4b2039e91f",
-      "title": "Zcash Just Turned 10. Here's What Could Be Coming for ZEC Investors Over the Next 10 Years. - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Dc0RsSTE2T1Fvb0NRNFU2RHNGOVhvQzRXY1lfVWw1ejkxMThhN2R2dXE5OVhDTzkydlFKemhxRkNQaGZkUjBEVDBPMWYyQ1plTTNEQk54cHdkTDJGVkh3ZnN6S0xueGw3aXB0TnppNUp2dG94bmZJTXZ3?oc=5",
-      "source": "AOL.com",
+      "id": "e39658319084ca46e39a",
+      "title": "Zcash Just Turned 10. Here's What Could Be Coming for ZEC Investors Over the Next 10 Years. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQjdkdENxUjE0NG9XNjNsNHdHTDVBU2dmSzZLLVhQZ3pmeUtQdFNaVy15bXk2WlhBRWExTFVKTU9DN05NQmMtM2xod2otenlFMG1xZUFyc2FCazV3ck5fQmNUMmVlU1ZfSU5qUkhvdlVmaFJlbWxSbmM5cFFCM2l5VmE0Vy1XUFI0NktuVU9DalZEVE1aVlE?oc=5",
+      "source": "Yahoo Finance",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-09T14:46:00+00:00",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "8f21885b0a0741a6b7df",
-      "title": "Cryptocurrencies Price Prediction: Cardano, Zcash & Bitcoin – Asian Wrap 09 November - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmpwR0NuSlhieUg3dEhDYkpDb29uaXlkZng0bnlQbU5FdEdQS0JEX1U1Rlo3ZVNraUlLMUR6VVJDNmxDZlJqWkVnRnhGS0JSRVE2OFJLN3VCQjVwUDNMMjBxbGoyRVBMT2xWS3pDVnZqRDdMclRWR3Z2ZG1lek4xNjE2VHA1NDBWcXpGcDBGd2VjODJVSW5IUHFvVG5oRl9keExScjZJMVdOaGhYRkY1OVpLVXZLWmhTbTNGNEVOTjg3d2FKT25GeG0zaEstNW54RDk4RA?oc=5",
-      "source": "FXStreet",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T05:32:16+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
