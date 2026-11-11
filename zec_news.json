@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-11T18:56:42.156179+00:00",
-  "last_success_at": "2026-11-11T18:56:42.156179+00:00",
+  "checked_at": "2026-11-11T19:59:32.942242+00:00",
+  "last_success_at": "2026-11-11T19:59:32.942242+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 19
+      "matched": 20
     }
   ],
   "items": [
@@ -128,16 +128,16 @@
       "verification": "未独立核实"
     },
     {
-      "id": "a90019b189acc1043c42",
-      "title": "ZEC Price Drops 11.3% Following Grayscale’s Announcement of $1 Million Zcash ETF Sponsorship - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeWtiOGQtcDBTd3NYN3dJX1NQNm9KbDVZcjFTSVU4bUlEelZlS05OQTItbG1NMTJtNjBlQ1ZDRVBnQmhyMF90YUllR1pZak83QmpjWU5nSXFkVDMtMDVLc1kxcHZrT0RoakZWVmpOYTJrNTVsZ3BWY01rTWwwckxYd192eUhqOVMtdmlzNkhoeEs0R2JFTGNKT04xODNqTDVvUFZid3hrdVpnZXZ6?oc=5",
-      "source": "KuCoin",
+      "id": "6ba0c2a139c276ff45d9",
+      "title": "Hyperliquid Trader KoolKrypto: Zcash Is a $200-or-$5,000 Bet and Crypto Options Could Grow 10x - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYeHpSd2g4MF9MZmRvX2VqUHdDZmdsMnozOFAtT3REeW5RY01lZklzaWpTZDFNcERCWWx2NWtVaUhRSzlJSXQxUERUWlltenBjZm5HSTJMRlFUbE0?oc=5",
+      "source": "BigGo Finance",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-11T13:04:32+00:00",
+      "published_at": "2026-11-11T13:08:00+00:00",
       "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     },
     {
@@ -145,6 +145,19 @@
       "title": "Zcash Price Prediction: ZEC Braces for a 15% Drop After Breaking Below $1,000 - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbm5aRDlXLWxNMlZrems1bmJKbWVxTXQzQkpSYmJFbkdCZ0wzd0pfRE02VUpUaFZaaDlLcVF0WkozeXJTUndaNkxUVDZEMDVuemhmeVVrVnFXNTExeVl5Q2tPN2tLOFNNMFlaVlcxTnJXUGFDUFlNaElKQk9JWVBuZlFmMkw4VXNYdV9yTjBUQmh2VVJ3OHN1cjMwWXFYdUU?oc=5",
       "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T12:53:39+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "bb6129ea3718da8185a0",
+      "title": "Zcash Price Prediction: ZEC Braces for a 15% Drop After Breaking Below $1,000 - FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWllZeDI5MVNndjhOT2hjOUdETXNkckFCNnJrU1dFT0hNMl9vNGFNQ05EcVM0YTBqRW9YdHVUQmpRLTVBSWZBWnJUM0VDS3lfTTgta0FSaTREaGJsVTdhTHoteHhqMTRxSFJHMWpOSXEyNVJ0TFZZTnh2LWtYV3VHWjlVYi1rSjBFcmwtU0Zxc2wwbU50OFpEMS0xWFdPTUtwc25JSl8ycUk4cFE5S3JOcWJZOGFrcTllZlgtLWlWZUhUQQ?oc=5",
+      "source": "FXEmpire",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T12:53:39+00:00",
@@ -492,6 +505,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "f317995296cd663b7a39",
+      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdjQ1OUo2OEIzZFVqRXIwaGNTbUdIb19jRkEtWGlqQTk5SEc5UUxiNmt1X3V0SFZtRnNzOGJKWFktZVBRSVJPT1VlZnN4RmpuY0d4RkVYMzlvUQ?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-10T17:50:10+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "48047c71cbe55145095d",
       "title": "Zcash price falls to $1,003: lowest since September - CryptoTicker.io",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LQXp2NlF6UmZEd05JUV9IZy1UQmR5Y0pXUHBzcHFfUHdsSVJzSUpmTWx2WDljWlNqaE56dGd6RHFtQXlyei1jaDZXZ1IyUFhkTW1pSm1DSzhTOU1JTURIeGEyVDA0d3lYUmswbGNUTUdvdGF1NTF5TjFINW4?oc=5",
@@ -655,32 +681,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-10T02:48:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "6e86ffb398c961d65fd8",
-      "title": "Zcash Drops 2.09% in an Hour to $1,152 on Binance Spot - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aTl95bGRNTGpSdEdyUWFJcDhzMEZOVzdxbUs1ek00dzRIb0RTM3hiakROVGRhcjVPZkxYck54QnlGa29Val9IWmo1U1VjMmtGMElpMVE5WUJ5QQ?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-10T02:31:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "6d738c966fd6360a0023",
-      "title": "Zcash Developers Propose 20-Second Target Block Interval After NU7 - TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhbzhMTndNV0g2SzBWaF9sU29EZl84b3NNLUtCbWxRbE1wdWl6aGJHLThMb1VDRXg1NkYtTXpnWUlPektJZXQtSzB4UGRfa1p0QTBUVm9CNEFiSU0?oc=5",
-      "source": "TOKENPOST",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-10T00:52:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
