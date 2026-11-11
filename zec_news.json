@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-11T07:12:49.759015+00:00",
-  "last_success_at": "2026-11-11T07:12:49.759015+00:00",
+  "checked_at": "2026-11-11T08:56:54.427161+00:00",
+  "last_success_at": "2026-11-11T08:56:54.427161+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,49 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 21
+      "matched": 20
     }
   ],
   "items": [
+    {
+      "id": "1a981fa309962eea6d8b",
+      "title": "Grayscale Launches Zcash Campaign Amid ETF Outflows and Price Drop - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHJ4M0NERlBTZEdLNjJSYnpFUXNUalplRWMwdFYxeV9aeWtGOGtrVzlVQWx3RG54bklzWVY4UThGWThaQ2RSZUdldkl1VndRQ3I2cFlPY1RRUTY5QjhmYWxiRjhicVhBMGRmMWdvV21qTGpja0NFVmZyUTRLa2FQR1dHeVF3WnRMTzFqUld5VUVtS1FBOS02Uno2dndqTTZRM1E?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T08:03:57+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：launch",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "ceed283ac26b814eda6e",
+      "title": "Zcash Slides to Key Floor as US Inflation Caps Ad Boost - TradingPedia",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeUtRUU1hc0h6S2JMVFI1dHhGMUgxUHVyMFNkbDJ5SWVYUzFvanIxNXZnSXhBNGg2UUdUV2xqLW9EN3VCMzFCNUxyVUwxRU1vVXN2anVwT0RSVE5nMWcyWWtWaFpWS01LUmVlMnBpcm5kdm1IM1lpeUV0eExnSFZDVlJkUTRTWlRDRmd4Z2VHQ0Q3VnNueUlVbS1pNE8?oc=5",
+      "source": "TradingPedia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T07:38:19+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "c6573d61d4bf2c87768f",
+      "title": "Hyperliquid (HYPE) and Zcash (ZEC) ETFs Post Net Outflows - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oaEl2Sy1aQUZhUEVDNlgtY2JOYUo3YWY5dWNtTzUtUFdtQ1pHSUFCdkN6eF9xZHFSSmdQb2VYc3JMVzd6cERuWVRBT2U4Ny1JZDItUGtMZU9aQQ?oc=5",
+      "source": "TOKENPOST",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T04:25:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "fc6479bb2381d0a2edf4",
       "title": "Grayscale Expands Zcash Promotion Campaign, Pledges $1 Million to Ecosystem - bloomingbit",
@@ -99,6 +138,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "68aa6355cb2d634a9588",
+      "title": "Grayscale launches U.S.-wide ads, ecosystem support amid outflows from Zcash ETF - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOempQX0dBT0FWUGhJOURBbERpcy1GdnBObGZlNURJM0dQcTB4Z09QLWd6TlV6ME9ZMUpLM2pCd0FCTU1qd1QyTVJVZmJqSThZcW56b1J5eVROc1U4cTE4M3hyV0RkSVY3NjRWYU1WaVRxVVZSUmxMSm1HYlJ0bFQ4OWFycVJtbGxURTJjLU14M0xVVU9lY2xSenNQbHpXLW96WWNWN3FEU3R4MlpLeU02anpHSXlUd3F6dUFWS3VRdVc?oc=5",
+      "source": "디지털투데이",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T00:27:26+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：launch",
       "verification": "未独立核实"
     },
     {
@@ -505,6 +557,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "6eccbb593d2004a18a49",
+      "title": "Zcash (ZEC) Hashrate Hits Record High After NU7 Upgrade as Network Activity Surges - Altcoin Buzz",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXM3OXRCendCbnRKSXQzMmxSMVRNcElnXzdEV09Ja0RvZFlka1ZYOTFGN0htQzlEREZ0Tl9fTGlzQTVhX1dvdy1kZXhleWFBd3RPbGFzeVNIX0tLbVZwU3BOYWI4R0JUWVdROEN6aGQ2Q0wtQy14bXpGWWdYU19ZVHM0QldtWEFwNFdTY19fNjFIVW5pcWhFSEFHRzNyWkhfekthMWhmUFBNUkk?oc=5",
+      "source": "Altcoin Buzz",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-09T14:54:47+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
       "id": "c13ebf1ed1c8fed78eb9",
       "title": "Zcash 钱包 Zodl 推出自营服务器，集成 OHTTP 防止 IP 地址与钱包请求关联 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93REJoWjNId2d3NlYtRHpxZVQ1RG4yZWNoTDhoc0NCczN3Q0pGYUtsRDd4RkZ2Mk5NV1RUUzVvRF9OMFNuLUctVUFMajBocjA3ODM1b2V4RE5nR1RVRnluT3VBX1A0Zw?oc=5",
@@ -619,71 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "7c04450e8f93b040a2dc",
-      "title": "Zcash developers want 20-second blocks just days after major speed upgrade - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWhqQk9ScDFrR2xzRkxXNnNzYVgxc3dYRUlkdE5oWUtUQkhzZV9OWW8xSWhSbm1kcjBvY2Q2UzJlQkdmdUNqZ3d0U0JJdlVvOTlqbjdKY3Rla0k3VVJQZGJncTMzUlFmZ2FscnA3OGtWTExqek4xRlRSbGxYcmxXRExnTktaS3hFY3dPQ3hsa0JuZ0xGeE5oLXdXQ0V2Qm9TRW9ScDdRMWlncUxpeFl6cldpeTZWZw?oc=5",
-      "source": "CoinDesk",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T11:35:45+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "2feade859e2a410a5a8f",
-      "title": "Zcash 开发者在重大速度升级仅数天后即寻求实现 20 秒区块 - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSTlvMjU5QkRUTzlTU3FqR3I4UG5TakpBdlhaOFVrVWJjdDFCZ0t1MnNKcmNUdVpvQmdTZlZRb3JXdnJPNVRLdHczdVlZS0RodUh0WTVvRG9GbFlNellvV0V6WHJ2SGhTTXRkWW9OR2RRRVZFNGZ6RWk5bUw1cEFaeFZuUDRIa3RTRDUzemhmc1JVZ2NfQWtvVE04S3dDNnU4NEVIbFl0cENXRmRsWXlNenI3NVlkTFk5U1E?oc=5",
-      "source": "CoinDesk",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T10:52:49+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：升级",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "7079fd9882370ba6f43d",
-      "title": "Zcash 开发者提议在 NU7 升级数日后再次缩短区块时间 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kWE5mVXBfWUpXQW5GVXI2VWNISWJ4MThXSWJBZDdyWXlNTW9MLVJUMDlPbmVTNHBJczdHR0FoNGw0bkt4cU9DaXd3RHcxOGNiZ3RJSi11Mi1uLXJlRmZFTldiMElqYmtyWlpabVMwOA?oc=5",
-      "source": "TradingView",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T10:09:06+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：升级",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "c4b4218791ab202e0f8b",
-      "title": "ZEC：鲸鱼在Hyperliquid上出售$1.29M隐蔽堆叠 - blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUjRTX3AtNVpaTGlONVN6cW1vRi1CTHFPYzdKVllORGZOaGtJVDNBVVFWYnlNUWVaX1ZWc01HTVRLU2RRZTBGcmxuX19fTUZCV3A0RDN1dGdudXgxMGNFMTJIVXV1NEV3NFVDS2pMQ0tUQ0JPek01Y1E5NFZ1bEVHVkc1S1ZldDkzQnMxT1JnUk0xUQ?oc=5",
-      "source": "blockchain.news",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T09:12:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "73824e98f1b0a0bc160e",
-      "title": "Zcash Developers Propose 20-Second Block Times After NU7 Upgrade - CoinGape",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1akhmSDdOUGh0b3JYWkVPYjAtdXF3bmJENDVDc3Vvb1hVNjNJVVk0YzhUdmpEQ21OUVduTXJWYWVMRWNVWnFHUTA5dXlZTDFWZDd3dDFUcVdIZVlTdmtBNDNnTU9kc0NuUzQtLU5OOERJZE9sQ1Z3Sw?oc=5",
-      "source": "CoinGape",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T08:55:12+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
