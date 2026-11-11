@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-11T08:56:54.427161+00:00",
-  "last_success_at": "2026-11-11T08:56:54.427161+00:00",
+  "checked_at": "2026-11-11T09:59:51.293861+00:00",
+  "last_success_at": "2026-11-11T09:59:51.293861+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,49 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 20
+      "matched": 19
     }
   ],
   "items": [
+    {
+      "id": "727d2cde32478d4b6110",
+      "title": "Why Is Crypto Crashing Today? Bitcoin Falls Below $73K as Zcash (ZEC) Leads Crypto Losses - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlVFdUctN1doQWlBaWpuX3lSbVAxdi1WTEZpYS1TdkR4S3dvZHVlM0FMUHRnMDVSRnhKeG1xRHpySUhjOW1ZbXR3dWhGX2Zqckt5cV9mSVZ4cmVIYkhGWkxoSmFiWlRpWm94WnNyOVo3ekxCYjBQTlFDRGE4cEVHOUtIbTJPYWZYamhUQ0cxVUVuRDBweEcxUjJjblJZWW8?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T09:48:24+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "54ef7dc307a475eca579",
+      "title": "Zcash below $1,000: Grayscale advertises despite outflows - CryptoTicker.io",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iT1BJbGZiMVlYSVVfYmdiZnhxZW5RVnhVRWpDYVoxQ3RBVHp2WEd4QmRwUmlvQzljVzh0b1dFZVhOQ2R1Y1J0dG9fMTFLbDVYMGs4bl9Ia2MydS1MamwzaHFEajNEbG5ZU3BMdmFKalVwZw?oc=5",
+      "source": "CryptoTicker.io",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T09:19:20+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "5645833212b18f3d4623",
+      "title": "Grayscale Pledges $1 Million to Zcash Ecosystem as ZEC and Its ETF Slide - Altcoin Buzz",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS3A1RTRFY3lEZHJpaTdwQXVBYi16LWtPTzJNRng0TExsLU1KVGhnY19NN2FHNTZCMG84Y3dVVnAwdTB0MlRHRkNKSE13SzluX1FBSERxcTBNZ3hjazlOX3A0VlIxaVlKVVBBVGtxZGlrTDVKRFNLOWdHWHMxa3ZkR0VwTWNUbDhVSURaMjg1LXYtXzZJeGFPT2lCcFBNcE0?oc=5",
+      "source": "Altcoin Buzz",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T09:08:13+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "1a981fa309962eea6d8b",
       "title": "Grayscale Launches Zcash Campaign Amid ETF Outflows and Price Drop - KuCoin",
@@ -642,45 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-09T12:48:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1d528bd764e6421ff305",
-      "title": "Zcash Price Forecast: ZEC recovery falters under ETF selling pressure - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPODZFMlVEcGVzeS1Sc3JObnU5SUptQjNJWGtrdUNNamZlMkU1U2NwUmFEU3psWkZsX005ektpd0ZKQ0I2cmJLMjRlRVh4S0xVb1hqdmFITGNDUlV1cFhhallURThmTlNxRnJ3SEpWSzk5Nnc5NlBDa2FfQzFCTkY5UmdlSHZzOEFpdzVUM3pCUHNkQUZubXZCX0NPcDgwNXRKUENRaEpEVkVTWDl0bUcwS3A0RmgyeUJfQVp4Wk5oSl9MU3hSbS1FeGZ0eXhsNDZaSlAwb3hB?oc=5",
-      "source": "www.tmgm.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T12:38:12+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "4eb87e030a6b0c2f17dc",
-      "title": "Zcash developers propose 20-second blocks days after major upgrade - Crypto News",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41ZzYzenhXZEJYQ0Vac2tnTjJCYWhTRm1JNEtQU3gyTWtENm9VWU1uUlN4cGlkY0lwVFVtUC1ZQjU2anlHeE9VUlhuLWwxdUd6TVJSV3BQbWhSaGNIeXdONmdtaHYyQQ?oc=5",
-      "source": "Crypto News",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T12:23:53+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "877650e3a5c251a5df0a",
-      "title": "Zcash Price Shows Neutral Bias with Key Hourly Pivot Test - The Cryptonomist",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY0I5WFM1dFBTWjFSSlFUaThNZjRpWVJjUkR6VHVtSGhQdDF4YlFlR004VXRmX3pHckx1dGZmVEt0d3VNZnlZRVVRM1VqamFHWnktbHkwRTR1bG45QWpMNHVKTnNoQVhFLTJiTWxvRVV3eFgyRmhvYkdPODd3TzNGdGtVQ0pYVFAweGczWEVkN1NqajJTSUw1NlN3cTZueUNkbGc?oc=5",
-      "source": "The Cryptonomist",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T12:10:49+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
