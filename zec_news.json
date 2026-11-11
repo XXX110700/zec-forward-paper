@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-11T09:59:51.293861+00:00",
-  "last_success_at": "2026-11-11T09:59:51.293861+00:00",
+  "checked_at": "2026-11-11T11:00:14.466451+00:00",
+  "last_success_at": "2026-11-11T11:00:14.466451+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,36 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 19
+      "matched": 20
     }
   ],
   "items": [
+    {
+      "id": "a4ba1bdfe0b50b0ef260",
+      "title": "ZEC Price Loses $1,000 Support: How Much Further Could Zcash Fall? - Coinpedia",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON21heGhuWXd2dU5MTnFpNFRVMnRpZlk5SWFHb2daNE1lWFVpQy1XRE5kS1JqWXA3Nm5idTFZQ3JiQjRFUTZiWDhVTDVUWlRYajZZZFFiaS1wSzI5c0ZsMHdkZjB4bm9ET0F1U3IwcTI5N0lfejVLOHlEQzZIbVp6LWFUSDNscUNROFlNVTc3QVlBQkNGdV91RU9XZ18tMDBJVWfSAacBQVVfeXFMTzFrNHR0R1paUzZ0UmlEYWpuWjlaSTZ4Wk13bExYOFhicWVSUnFrbXVsa3VGOFN0a2pnSTVMUWp0OWVWOWFOeGw4d3pVdFJCY01YUUM3amFnWC1QRjlFTV9GZEN4dHZENTRUVTk2VE9DdjNSeHh4NGVlcXY3ckx5RlNEX3BQYktxeG5jZGp3QmNrcjJ6N2lhUzY5XzY0dktuT280QUp0TGs?oc=5",
+      "source": "Coinpedia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T10:10:58+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "badee4d7dd204d5eac07",
+      "title": "Zcash Price Trends near $959 Support in 2026 - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSXMxWURoQWZzNngtQmVuRGRKZVRNOFlhYjA4X2tHX19aM3pKbG52Y2lWd0V0dWlITjE1MlE2UHZSVmZTTjREc1ZOd2lydjR6cmtRRWdkMlFUTVBGUFJVQ1RONS1MYzN5XzI5TnZYdzBaZEplYU1MOVY5Yi1pdGJGMVpTVmVhSVZFSFVfbGg5MFBWSG15aDh4aDc1ZjdTcGJKNXc5djYxbTM?oc=5",
+      "source": "The Cryptonomist",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T09:58:53+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "727d2cde32478d4b6110",
       "title": "Why Is Crypto Crashing Today? Bitcoin Falls Below $73K as Zcash (ZEC) Leads Crypto Losses - Yahoo Finance",
@@ -177,19 +203,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "68aa6355cb2d634a9588",
-      "title": "Grayscale launches U.S.-wide ads, ecosystem support amid outflows from Zcash ETF - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOempQX0dBT0FWUGhJOURBbERpcy1GdnBObGZlNURJM0dQcTB4Z09QLWd6TlV6ME9ZMUpLM2pCd0FCTU1qd1QyTVJVZmJqSThZcW56b1J5eVROc1U4cTE4M3hyV0RkSVY3NjRWYU1WaVRxVVZSUmxMSm1HYlJ0bFQ4OWFycVJtbGxURTJjLU14M0xVVU9lY2xSenNQbHpXLW96WWNWN3FEU3R4MlpLeU02anpHSXlUd3F6dUFWS3VRdVc?oc=5",
-      "source": "디지털투데이",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T00:27:26+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：launch",
       "verification": "未独立核实"
     },
     {
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-09T13:05:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "8bdcbcbf769c44509923",
-      "title": "Zcash coin suffers from negative pressures - Analysis - 09-11-2026 - Economies.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0hxVG5VR2JDbmpkbEx3VzYwaWVFbnE5N2NzbVVVdjNMdjhYWHR3QUt4N2VXUHJyVzZvRldPLVB2cGRadDQtNGRwWThaSlFSZmZDa2s1RmxiTDJpV3VYY3RZSGVBQXJyOFBvZDktejJjZHllc2theXBGQm9EMk4ySnJSVEprbFJPV2ROeGQ5YjFvc0R5RFRDdEZxVXM1MzR3QlZMZ0EtZXJORmptQ2hDX25vUW1sZw?oc=5",
-      "source": "Economies.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T12:48:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
