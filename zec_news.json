@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-11T17:56:09.731608+00:00",
-  "last_success_at": "2026-11-11T17:56:09.731608+00:00",
+  "checked_at": "2026-11-11T18:56:42.156179+00:00",
+  "last_success_at": "2026-11-11T18:56:42.156179+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,49 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 21
+      "matched": 19
     }
   ],
   "items": [
+    {
+      "id": "dc48fba2034dfaadd7c6",
+      "title": "Zcash price crashes 13% despite Grayscale's $1 million push: is $880 now in play? - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CR2ZNQlJEU3NWNThIcHNaNWllaWhtX3JxczNHUF9teGJKakFJUjE2ODhUMXhORkNuNG9fS1E0Um9CUFhpNEJELV8wT1NjQXByQUdmYWdseXFFdG8?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T18:47:17+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "1c19e7937ef2155377dc",
+      "title": "Zcash Price Analysis: ZEC Risks Bearish Breaker Block Rejection and Drop Toward $854 - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1blpudFZxZW90Vm90enVzNWNvZ1hYLS1jeUJqWUt5cUUtTHZxeERyNEpJeTFjYjQ4OFZFNUJQZHBGVHdUdWwwYXdrTDg5bG5XQzktcmFsQXhfcjQ?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T18:31:01+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "6c0bbb1486cc6dcd30b8",
+      "title": "Zcash falls below $1,000 for first time since September - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Z1VpdVFHRXNYU1h1Qlp3Tl93RjE5aWlWMExJZW1WdGh5WnFrWVd6OFhtMmlhRi1IZkstSmpGcXRVaWpJNUFZeVZORmw4VHk0czZRYWlvblFkZw?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T17:27:09+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "a4ba1bdfe0b50b0ef260",
       "title": "ZEC Price Loses $1,000 Support: How Much Further Could Zcash Fall? - Coinpedia",
@@ -102,10 +141,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "bb6129ea3718da8185a0",
-      "title": "Zcash Price Prediction: ZEC Braces for a 15% Drop After Breaking Below $1,000 - FXEmpire",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWllZeDI5MVNndjhOT2hjOUdETXNkckFCNnJrU1dFT0hNMl9vNGFNQ05EcVM0YTBqRW9YdHVUQmpRLTVBSWZBWnJUM0VDS3lfTTgta0FSaTREaGJsVTdhTHoteHhqMTRxSFJHMWpOSXEyNVJ0TFZZTnh2LWtYV3VHWjlVYi1rSjBFcmwtU0Zxc2wwbU50OFpEMS0xWFdPTUtwc25JSl8ycUk4cFE5S3JOcWJZOGFrcTllZlgtLWlWZUhUQQ?oc=5",
-      "source": "FXEmpire",
+      "id": "73b7a03ade1deea40f25",
+      "title": "Zcash Price Prediction: ZEC Braces for a 15% Drop After Breaking Below $1,000 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbm5aRDlXLWxNMlZrems1bmJKbWVxTXQzQkpSYmJFbkdCZ0wzd0pfRE02VUpUaFZaaDlLcVF0WkozeXJTUndaNkxUVDZEMDVuemhmeVVrVnFXNTExeVl5Q2tPN2tLOFNNMFlaVlcxTnJXUGFDUFlNaElKQk9JWVBuZlFmMkw4VXNYdV9yTjBUQmh2VVJ3OHN1cjMwWXFYdUU?oc=5",
+      "source": "Yahoo Finance",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T12:53:39+00:00",
@@ -148,19 +187,6 @@
       "feed": "Cointelegraph",
       "kind": "media",
       "published_at": "2026-11-11T12:31:44+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "6e648b540b8355c63249",
-      "title": "Machine learning algorithm predicts Zcash (ZEC) price on November 30, 2026 - Finbold",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSmJwM3NyZUVFUThPak9pQUJSS0R3QjNfYXJkSFNoTkg3Y0ZLVjJzczZsWTNGM0lvcTJUaGxwYU1fekZNcDg2bmlDc3Iyb29sd0xkR0dVa3hTZ29UV1U3UExCaHZtb1dtektwTnljUndWOW1DbHctYkpvZGoxNm0yYjdCTXUteVU4ZXZNSUd3VTZiRFgyWHBZ?oc=5",
-      "source": "Finbold",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T12:27:09+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -232,19 +258,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "5645833212b18f3d4623",
-      "title": "Grayscale Pledges $1 Million to Zcash Ecosystem as ZEC and Its ETF Slide - Altcoin Buzz",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS3A1RTRFY3lEZHJpaTdwQXVBYi16LWtPTzJNRng0TExsLU1KVGhnY19NN2FHNTZCMG84Y3dVVnAwdTB0MlRHRkNKSE13SzluX1FBSERxcTBNZ3hjazlOX3A0VlIxaVlKVVBBVGtxZGlrTDVKRFNLOWdHWHMxa3ZkR0VwTWNUbDhVSURaMjg1LXYtXzZJeGFPT2lCcFBNcE0?oc=5",
-      "source": "Altcoin Buzz",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T09:08:13+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "1a981fa309962eea6d8b",
       "title": "Grayscale Launches Zcash Campaign Amid ETF Outflows and Price Drop - KuCoin",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHJ4M0NERlBTZEdLNjJSYnpFUXNUalplRWMwdFYxeV9aeWtGOGtrVzlVQWx3RG54bklzWVY4UThGWThaQ2RSZUdldkl1VndRQ3I2cFlPY1RRUTY5QjhmYWxiRjhicVhBMGRmMWdvV21qTGpja0NFVmZyUTRLa2FQR1dHeVF3WnRMTzFqUld5VUVtS1FBOS02Uno2dndqTTZRM1E?oc=5",
@@ -268,6 +281,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "51e3047ebe90fb02ae70",
+      "title": "Zcash falls nearly 12% as ETF outflows and upgrade uncertainties weigh on sentiment - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa1JkQllsQnVkVlVQaEMxRldfaEh5NTNaTWcyVXBJcERsTFA2b0pwSzFIMkN1RFVGQkx2MWtYOHB5S1N3RmNZQlpIeXYtS3N2OFFTVlgwOHZZYkxmbURtc1lNcWoxZmJKRGVrd3BOcEJ0RHVFcE9LRmFsSjhyR0JUSnBWYU5lek9zbWFqNXU3aVdoVG5aSmQtTTFYaV9sQQ?oc=5",
+      "source": "Traders Union",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T06:02:25+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -362,19 +388,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "68aa6355cb2d634a9588",
-      "title": "Grayscale launches U.S.-wide ads, ecosystem support amid outflows from Zcash ETF - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOempQX0dBT0FWUGhJOURBbERpcy1GdnBObGZlNURJM0dQcTB4Z09QLWd6TlV6ME9ZMUpLM2pCd0FCTU1qd1QyTVJVZmJqSThZcW56b1J5eVROc1U4cTE4M3hyV0RkSVY3NjRWYU1WaVRxVVZSUmxMSm1HYlJ0bFQ4OWFycVJtbGxURTJjLU14M0xVVU9lY2xSenNQbHpXLW96WWNWN3FEU3R4MlpLeU02anpHSXlUd3F6dUFWS3VRdVc?oc=5",
-      "source": "디지털투데이",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T00:27:26+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：launch",
-      "verification": "未独立核实"
-    },
-    {
       "id": "ffdcf6c3201f522ecd00",
       "title": "Grayscale Pledges ¥160 Million to Zcash, but Market Moves the Other Way as Outflows Persist - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LeVBGWGc2Sy1UQy1nRzBxUlhzWlpjYi1TVFlrTXFsRENYUUxHZzR0aVN1YWI3YmZiQlBTWVZaMUFFNEViajI5UmE5WXpEWFZ5Rm16bS1HSVRqU1BSa1VBeWE2UWYtTEQtYnhYM0hvR3h6T3V2WFE?oc=5",
@@ -420,7 +433,7 @@
       "source": "CoinMarketCap",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-10T19:59:24+00:00",
+      "published_at": "2026-11-10T20:37:29+00:00",
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：launch",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-10T00:52:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "109608b0cbacd25f53a8",
-      "title": "数据：某地址通过Hyperunit 向 Hyperliquid 存入1060 枚 ZEC，随后分3 笔卖出换得129 万美元USDC - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0eFRJQm5Mc2NVd0oycXlLcUwxWEVUcG94Tk9JZkFuNW1GcmNkVGdsRHZ2eHkyQWNwbHJlRDd4WGxUbjc4eEpTVUtzS2V5Vi1DV0taTzZ3Z05WeG80?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-09T22:43:36+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
