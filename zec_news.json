@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-11T22:52:24.321843+00:00",
-  "last_success_at": "2026-11-11T22:52:24.321843+00:00",
+  "checked_at": "2026-11-11T23:50:10.607317+00:00",
+  "last_success_at": "2026-11-11T23:50:10.607317+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 97
+      "matched": 98
     },
     {
       "name": "Google News 中文",
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "815ceddad5ed5f154052",
+      "title": "What next for Zcash after ZEC’s 15% fall overshadows Grayscale’s $1M promise? - AMBCrypto",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVZISGNoM2w4cUJYZ0o3bkItUmtGbjJMQWREQ1JIa29HNkZrMlhEYnhlaHhScldZXzktcGtORnJaMFcxUnRNX09EbWdidFFTQVNCMG1kcmg4OGVkYUo3NDFFMlloczR2YUIwZl9KVDBNajRHWW9ja0h6NnNOMXd3YkVXRk03ZlJsVVdwMVZXYUJxOTlObWRhemZaSQ?oc=5",
+      "source": "AMBCrypto",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T23:00:21+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "c09d3f775d2ece06b9e7",
       "title": "Zcash gains as privacy demand lifts token ahead of Bitcoin - Traders Union",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f08a097fe4690dc7f0ad",
-      "title": "美国 HYPE、ZEC 现货 ETF 单日合计净流出 480.45 万美元 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50UVB5U09vS0xuNFlUT1d2ZzEyUU5qbVZ5ak1RRTJpRUdScTdjU2pRZm43dkRmcUJsSTUzeWQ0czNTOVFFVElEODFHSnlVeXZrbE43NG52WjdLakM1aHM3RzBLTlVEUQ?oc=5",
-      "source": "TradingView",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-10T02:48:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
