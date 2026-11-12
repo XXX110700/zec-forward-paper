@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-11T23:50:10.607317+00:00",
-  "last_success_at": "2026-11-11T23:50:10.607317+00:00",
+  "checked_at": "2026-11-12T01:09:53.262589+00:00",
+  "last_success_at": "2026-11-12T01:09:53.262589+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 20
+      "matched": 19
     }
   ],
   "items": [
+    {
+      "id": "4ecb83110f72d8fb104a",
+      "title": "Zcash Falls Below $965 as Weekly Loss Reaches 26% - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNHhYMWtQTjJYT3A3TGo2blJDR2x2OUNaV09zdkhNcHFOT2RzRWpyVGlsU1ZQem9DQTFIZ2VVNi1sVWpTdzJPblB4bWhIOXhGQkM1MEVPTEQtcThuSi1mYTVBb1oyd3FmYlpnYW9qZzNlRWpvX1dGOW85Wmczb2hxWV90b0lBdlZrdUE?oc=5",
+      "source": "The Defiant",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T00:25:09+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "815ceddad5ed5f154052",
       "title": "What next for Zcash after ZEC’s 15% fall overshadows Grayscale’s $1M promise? - AMBCrypto",
@@ -70,19 +83,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T18:47:17+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1c19e7937ef2155377dc",
-      "title": "Zcash Price Analysis: ZEC Risks Bearish Breaker Block Rejection and Drop Toward $854 - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1blpudFZxZW90Vm90enVzNWNvZ1hYLS1jeUJqWUt5cUUtTHZxeERyNEpJeTFjYjQ4OFZFNUJQZHBGVHdUdWwwYXdrTDg5bG5XQzktcmFsQXhfcjQ?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T18:31:01+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
