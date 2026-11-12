@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-12T13:11:11.878220+00:00",
-  "last_success_at": "2026-11-12T13:11:11.878220+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-12T14:56:01.831651+00:00",
+  "last_success_at": "2026-11-12T14:56:01.831651+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 0
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -27,15 +27,54 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 97
+      "matched": 98
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 17
+      "matched": 18
     }
   ],
   "items": [
+    {
+      "id": "5510c5813acc78193f63",
+      "title": "Zcash Price Bearish Pressure Tests Key Support near $949 - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUm94ZjJzUFR3eWZDTWo2N01FOVhfZXdEdGdvSzZaOENjd19XRlpteFJRSTNBNVJzREpRV190bDNVc3poTWpiTXpqd0ZBQ3FLUTJvc05JMk5Ra2Q5cDJLb1JrOVlraXl0NDlKakNjX0o0bzc2VlBmM09nQnR5YmJEb1Q0eDNLRGl4akxldzF5V1hJMXowRkFR?oc=5",
+      "source": "The Cryptonomist",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T14:29:27+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "480bfb66fe57ddf6b188",
+      "title": "Zcash Price Drops Below $1,000 as ETF Loses $14.6M Despite Faster Blockchain Upgrade - Coinpaper",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0p2M1pqdEMwVWVjc1BOYUU1Y3JFUnFZSEpoQ2t3dC1xU1h3djFfdGhlZV9YTzVmMVJidFVORmVMODEyZW9EMURWSkppaTd0WC1FZ011RkU1V09hdjR1TWF0NXB6aXRSZnF6STBMX3NWdUttUjNtLXE0SDMwX2dhMlBZNllzRGF4eWlrX2Itek1LdHROTXlBeVhXS1JzYk45MFR1SEx6X0tYX1BFTi1heQ?oc=5",
+      "source": "Coinpaper",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T14:25:48+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "8841c58a2f7e8d57b59e",
+      "title": "Zcash vote: 50,000 ZEC and the future of the ZCG fund - CryptoTicker.io",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWYV9kRUhPUGZrSlBGMmg4bUgzUWNBNVU0azNFSFExQ3ZIVUV2UURGTkx6ZlNMNjV5RUh0amYtcEkyTUxzTm1mMmdCNXJ0dzY3Q2VjZUh4WWpsNVJxX1hMVWZfaURLMFJRclJFTl9R?oc=5",
+      "source": "CryptoTicker.io",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T13:17:58+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "54fec8acdd61a02d4646",
       "title": "Zcash Price Fate: ZEC to Bounce After Grayscale WSJ Ads? - Cryptonews",
@@ -281,6 +320,19 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "856d6f7c3571a0d96ec0",
+      "title": "Zcash Holders To Vote on Pulling 50,000 ZEC From Grants Treasury - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ2dyZTJVRFJ1OEJMSFVPelpzY1JxRWRtMUVSSThxZDA1UWFNZXktRXpWbFlzb0d2SUpuWFFyVXlSTmZEb1ZWekhPemRoM1Y0ZTJTVDZEamN2bllBa2JYRzF0Rld4TVVDYmt6ZXl4NFV2UmpRdVY2a1puNmNmREhWWEVMajlMcDRDcFFFcDcwWDhkb0ZvR1QzSW56bVFVMU5SQkJrZVJFbHA?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T23:54:06+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -531,6 +583,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "5645833212b18f3d4623",
+      "title": "Grayscale Pledges $1 Million to Zcash Ecosystem as ZEC and Its ETF Slide - Altcoin Buzz",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS3A1RTRFY3lEZHJpaTdwQXVBYi16LWtPTzJNRng0TExsLU1KVGhnY19NN2FHNTZCMG84Y3dVVnAwdTB0MlRHRkNKSE13SzluX1FBSERxcTBNZ3hjazlOX3A0VlIxaVlKVVBBVGtxZGlrTDVKRFNLOWdHWHMxa3ZkR0VwTWNUbDhVSURaMjg1LXYtXzZJeGFPT2lCcFBNcE0?oc=5",
+      "source": "Altcoin Buzz",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T09:08:13+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "ceed283ac26b814eda6e",
       "title": "Zcash Slides to Key Floor as US Inflation Caps Ad Boost - TradingPedia",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeUtRUU1hc0h6S2JMVFI1dHhGMUgxUHVyMFNkbDJ5SWVYUzFvanIxNXZnSXhBNGg2UUdUV2xqLW9EN3VCMzFCNUxyVUwxRU1vVXN2anVwT0RSVE5nMWcyWWtWaFpWS01LUmVlMnBpcm5kdm1IM1lpeUV0eExnSFZDVlJkUTRTWlRDRmd4Z2VHQ0Q3VnNueUlVbS1pNE8?oc=5",
@@ -541,19 +606,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "51e3047ebe90fb02ae70",
-      "title": "Zcash falls nearly 12% as ETF outflows and upgrade uncertainties weigh on sentiment - Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa1JkQllsQnVkVlVQaEMxRldfaEh5NTNaTWcyVXBJcERsTFA2b0pwSzFIMkN1RFVGQkx2MWtYOHB5S1N3RmNZQlpIeXYtS3N2OFFTVlgwOHZZYkxmbURtc1lNcWoxZmJKRGVrd3BOcEJ0RHVFcE9LRmFsSjhyR0JUSnBWYU5lek9zbWFqNXU3aVdoVG5aSmQtTTFYaV9sQQ?oc=5",
-      "source": "Traders Union",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T06:02:25+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -632,58 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "ffdcf6c3201f522ecd00",
-      "title": "Grayscale Pledges ¥160 Million to Zcash, but Market Moves the Other Way as Outflows Persist - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LeVBGWGc2Sy1UQy1nRzBxUlhzWlpjYi1TVFlrTXFsRENYUUxHZzR0aVN1YWI3YmZiQlBTWVZaMUFFNEViajI5UmE5WXpEWFZ5Rm16bS1HSVRqU1BSa1VBeWE2UWYtTEQtYnhYM0hvR3h6T3V2WFE?oc=5",
-      "source": "BigGo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-10T22:55:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "4cc668ea3b9e2b39b634",
-      "title": "Grayscale Introduces Zcash Invest with Zebra-Themed Branding - Adland",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOHlWWDVTcDdpRXRuV2FSTnFiNzZTaDB4RTZaU3JsMDNSeFVLaUdRZ1BXN2NmcmpLSzRkSmZZbWg4NFVfN0tPdW50dC1NMVVYM0pMX245UlRaT3BOc1lXaFFQMi1WTEl5eERFVkVuaGQtTXFSYXVNOTREYmhvS216V1pYVGs?oc=5",
-      "source": "Adland",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-10T21:59:49+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "9e2b21e4455e26bffbbc",
-      "title": "$1,000 in Zcash or Bitcoin: Which Could Be Worth More by 2030? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYmtjVXBfeFVNOExPYjNMVWF0WDhRS0k0d2ZaWEozNG93THN4LXZnYlZlQXJUdUs1ZVIzYjA1RWFaS3AxVEFmZWlIWUxmaVk1c1RJOVd0REEzWG1fUVJndlpUaUcwcnNmX0gwQll5SXA4WXZhckVwb2xJaE1rM0RtcW9RMG5EbGNHQ0UtTkZiZmQtNHFnMXoybFJ0b3Fxcy1Tcm1wNXhwVnpZeGNPdXN6UzJXT1VWd2xn?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-10T21:27:00+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b4cc97a67693ecd079ac",
-      "title": "Grayscale Commits $1M to Zcash Ecosystem, Launches Zcash Campaign - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUDVTZHNhTE1wQmw2el9nNUs1bzNTa2xPcjJ3TlhxYVdMbjgyUjJWMnphRm9JdHRTRDRxRl8wRDEwSDJ6U250bHZUdnF5Q3NEcjhsX29PdkUwUEZwT3VRSWlfWDhsdzJJUS15WWs1NUpnMXRvUXNfeWJQT3RJdTVRVktKTXFScDht?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-10T20:37:29+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：launch",
       "verification": "未独立核实"
     }
   ]
