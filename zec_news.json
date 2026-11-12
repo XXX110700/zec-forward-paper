@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-12T02:16:21.124898+00:00",
-  "last_success_at": "2026-11-12T02:16:21.124898+00:00",
-  "status": "partial",
+  "checked_at": "2026-11-12T03:55:54.970147+00:00",
+  "last_success_at": "2026-11-12T03:55:54.970147+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 0
     },
     {
       "name": "Cointelegraph",
@@ -47,6 +47,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "33847d30cd985c3f3598",
+      "title": "Grayscale: Zcash Active Developers Doubled in Two Years, Community Growth May Lift ZEC Valuation - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbGl5LWFiREtvQXotU0MzemFIUmt5aE95WWF4Z1M2YTZGOGdkRXI5SXAzZ19yX0RDYncxNnBOa2p3ZVNRcW5tME1penlmd3VUNXVKRUJHNXg3OTY5Tk41d1JYdnFLb3pwQnZ5MUVCQkVLRVlLTDdYb3ZfQnBhNmNyWkRfOHdKWUVkVTNnWHlpb1JESnJNLUpBT21lQlpfX0p5ZDh3QjRNRlhOSzZiX0t5TTFmWVFleEJZZ2w2Y0g5TkpNYnp6aWM3b20ydVRmNkpkRFZTNy1oVFg2MkUyTHNSbGNyTU5CRTY4a09WWGtB?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T00:26:00+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     },
     {
@@ -598,11 +611,11 @@
     {
       "id": "9c5d7db593fe8b1cd455",
       "title": "灰度在《华尔街日报》纸版投放 Zcash 广告，拟投入 100 万美元支持其生态 - ForesightNews",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmaVFGWldOWmlYNHNoUUN5Wjd4SjFNM3NWRU56Nzd2LWpEUXp3SGVON2pnelZYOVV4MlJsNjY2dFZveU9NTXJUVnRtOFRsS1lrX2FxNzZlSXpHdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3eFBKemcybU9iNUtneWZWbjNXaFkxMTJudmRYUFZCTEItQlRjV1hpdnJVYUc5Z1pFR21OUjRnY1oxc0NLblZOVC0yd3NacWVWU0pheVdJUQ?oc=5",
       "source": "ForesightNews",
       "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-11-10T15:01:08+00:00",
+      "published_at": "2026-11-10T15:01:03+00:00",
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "3dffc45caf5340363381",
-      "title": "Zcash Proposes NU8 Upgrade: 4x Block Size, 200 TPS Privacy Transactions, Quantum Resistance - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjVZbzk3akY2eHNkNEs3OFpMai1GM0NxblRMODlxd2VMQ19jWWtNQ0IweTNQSnlCeGJNeGZMZVZqUkg0cUJsMUNhTlRYZXlIaEVZM19FWmhwY2E1ZmNtQzByQnc0eFdaM3I3ZDJJaUNhOUpCazV6UE5MaGw0eWF1UUVwaFF6T0lwS0RzZ2k3RmVFTnE3U0NoNlpwMW1vRG9hQ3pEV1ItaGxpSm45QnNfZFlGZy1yc1IyYXZRbHlUZnk?oc=5",
-      "source": "KuCoin",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-10T05:43:40+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     }
   ]
