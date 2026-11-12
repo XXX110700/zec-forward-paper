@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-12T01:09:53.262589+00:00",
-  "last_success_at": "2026-11-12T01:09:53.262589+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-12T02:16:21.124898+00:00",
+  "last_success_at": "2026-11-12T02:16:21.124898+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 0
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -37,6 +37,19 @@
   ],
   "items": [
     {
+      "id": "e2b3a91e546baf51374b",
+      "title": "What next for Zcash after ZEC’s 15% fall overshadows Grayscale’s $1M promise? - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yQmM4TjRsOXZFMm9aSHFhbnJ2RW1wVER2Mm1aNVpkNU9QSVBOQkR3NUJPQ095WTB0Tm8zeS1UTkQ5R3VGVHcyV3doOTdsa0o3c0JHVXNGM19XN0k?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T01:23:12+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "4ecb83110f72d8fb104a",
       "title": "Zcash Falls Below $965 as Weekly Loss Reaches 26% - The Defiant",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNHhYMWtQTjJYT3A3TGo2blJDR2x2OUNaV09zdkhNcHFOT2RzRWpyVGlsU1ZQem9DQTFIZ2VVNi1sVWpTdzJPblB4bWhIOXhGQkM1MEVPTEQtcThuSi1mYTVBb1oyd3FmYlpnYW9qZzNlRWpvX1dGOW85Wmczb2hxWV90b0lBdlZrdUE?oc=5",
@@ -44,19 +57,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T00:25:09+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "815ceddad5ed5f154052",
-      "title": "What next for Zcash after ZEC’s 15% fall overshadows Grayscale’s $1M promise? - AMBCrypto",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVZISGNoM2w4cUJYZ0o3bkItUmtGbjJMQWREQ1JIa29HNkZrMlhEYnhlaHhScldZXzktcGtORnJaMFcxUnRNX09EbWdidFFTQVNCMG1kcmg4OGVkYUo3NDFFMlloczR2YUIwZl9KVDBNajRHWW9ja0h6NnNOMXd3YkVXRk03ZlJsVVdwMVZXYUJxOTlObWRhemZaSQ?oc=5",
-      "source": "AMBCrypto",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T23:00:21+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
