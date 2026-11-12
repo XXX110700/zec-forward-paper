@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-12T07:17:59.664605+00:00",
-  "last_success_at": "2026-11-12T07:17:59.664605+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-12T09:00:02.150998+00:00",
+  "last_success_at": "2026-11-12T09:00:02.150998+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 0
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "46571a0545ab37ed5524",
+      "title": "Zcash 拟抽离 5,000 万美元储备金，社区投票定生死 提供者 智通财经 - 英为财情 Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0ybnN5WDJLQVhZLW1xMEpsMUhudEx5SGxWV2p1WUphZ2M3eDRWUFdtMUM0SnlOdG9FVmZpSkkyRFA2Y2dMeTBLb3d0dDFSZmFoQXVQaGR1QzNxVjJBbGl1VUpqakdnY2xBMGtXSHYwWkI?oc=5",
+      "source": "英为财情 Investing.com",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T06:43:00+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
     {
       "id": "50450ea171a6b3a9e2d0",
       "title": "Zcash Community Seeks to Burn 50,000 ZEC Tokens, With Vote Set for Nov. 16 - bloomingbit",
@@ -95,6 +108,19 @@
       "source": "CoinDesk",
       "feed": "CoinDesk",
       "kind": "media",
+      "published_at": "2026-11-12T05:49:44+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "6115fdd51b94a479a93a",
+      "title": "Zcash 持有人将投票决定是否从资助金库中提取 50,000 ZEC - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNVpma0dSQnFyR0pWMlNsMnBJRmZ4dHVEZzVOd1B5WTYyeFRIS3N5eVRxNEpTRzNzT0VLOTlZTTJ0RFR4eUE1T2ZTNjFRLVN3ZnpmWFlCdDZSbzE4UVpyN2FZMzdMR3FFeHN0VERVenlDQkI2LU5CdG05dnVnd1dCNUZfeWdFSkpKTzY4NGFpNjhnZ0pubUhBMnlwcFBjcHFkcFJsSmdyWW9sVEF1?oc=5",
+      "source": "CoinDesk",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
       "published_at": "2026-11-12T05:49:44+00:00",
       "event_time": null,
       "sentiment": "中性",
@@ -466,6 +492,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "513749f460b546ec722b",
+      "title": "Zcash 社区提出 NU8 升级方案：计划明年 1 月底引入 Tachyon 隐私池并将区块上限提高至 8MB - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05THBZVHowOEhsTHVORWlPR2Fsby1xbWNrci1SZ2FaUUpsTUJHNkgyN1BhT29XcWxqb2tobG5wOVg1ekxRZlZjbmdzN1RHUFdiWUtyb0pnZ2NTUkkx?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T02:56:30+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：升级",
+      "verification": "未独立核实"
+    },
+    {
       "id": "69b7d617f86d81f44437",
       "title": "Zcash slips toward $1,000 amid derivative liquidations, outflows (ZEC-USD:Cryptocurrency) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZjBOU00tTkxtVU90cXdySTR3b0ppbmx3QTZyeWViZ3QzLVRNU1g4WEVJYTYyLUpaeDFwNnBodHZtZnBmdE1EUy14dkI2R2swOGtDOVVxNDNWQWxMUDhSQTV4Ynp3SDVxamI5R0xUZXFlNEJwTDAwQXNIMGNKMjMxLS03VjdhVW5jY0M1TEJENnhSZDVuaWlDckFTNzcxTmRM?oc=5",
@@ -642,45 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-10T15:59:13+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "e5bb3d0b062cc43c4699",
-      "title": "Zcash Gains 4.84% in Four Hours to Reach $1,198 on Binance - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOd1pnSnRMQks5cTR6ZVJwNFc2cldwNlI1M2tYbk9DVGRzbnQtcTRNX3lIdjlCbzZxUWl0OXlwcEhiTi1ZNF83Y1FsdlQwSmpkWGdWeEt2blI4UQ?oc=5",
-      "source": "www.tokenpost.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-10T15:07:56+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "9c5d7db593fe8b1cd455",
-      "title": "灰度在《华尔街日报》纸版投放 Zcash 广告，拟投入 100 万美元支持其生态 - ForesightNews",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3eFBKemcybU9iNUtneWZWbjNXaFkxMTJudmRYUFZCTEItQlRjV1hpdnJVYUc5Z1pFR21OUjRnY1oxc0NLblZOVC0yd3NacWVWU0pheVdJUQ?oc=5",
-      "source": "ForesightNews",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-10T15:01:03+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "920e3c678dfa18a4e5f6",
-      "title": "Zcash Pushes to Cut Block Time Further From 25 to 20 Seconds, Unveils NU7.1 Draft - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uZE1FNFJRakRPUU1BQ1d6M1ZwcnlqVi1WcFR6ZlNKOHdhTHVuZlp3R3hlS1dlWDdqWXRxSUpRekg1OGgxTEotQ1k5b0s5c0ZnRXp0RVlWYXBYcEo5U1hadkZ2dGUzSlFueUtvUzIzR1FtWkItZlE?oc=5",
-      "source": "BigGo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-10T14:56:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
