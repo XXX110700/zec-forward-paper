@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-12T20:51:48.157405+00:00",
-  "last_success_at": "2026-11-12T20:51:48.157405+00:00",
+  "checked_at": "2026-11-12T21:48:20.353784+00:00",
+  "last_success_at": "2026-11-12T21:48:20.353784+00:00",
   "status": "ok",
   "sources": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Cointelegraph",
       "status": "ok",
-      "matched": 1
+      "matched": 0
     },
     {
       "name": "CoinDesk",
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "4376d1746d6fd74abf01",
+      "title": "Why Is Zcash (ZEC) Price Falling? The Answer Isn’t the Broader Market - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zNlpsRjFLOFlTc0thb1hiVU90VnA1NWVoSUVDbnUxVDhKX1EtaHhaS29pWUN1QjJPLXRUUFBXTi0tMl9vY0pzaVNQT2JXMDBKZUxwcXZWWTl2bENYRmZOVm43V3puc2hFNW1jTVoyNURLdw?oc=5",
+      "source": "BeInCrypto",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T20:45:32+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "a38a4ce3f2bcf4024e29",
       "title": "The Grayscale Zcash ETF Lost $14.6 Million in One Day. Is That Why ZEC Can't Hold $1,000? - 24/7 Wall St.",
@@ -200,19 +213,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T11:03:50+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "4376d1746d6fd74abf01",
-      "title": "Why Is Zcash (ZEC) Price Falling? The Answer Isn’t the Broader Market - BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zNlpsRjFLOFlTc0thb1hiVU90VnA1NWVoSUVDbnUxVDhKX1EtaHhaS29pWUN1QjJPLXRUUFBXTi0tMl9vY0pzaVNQT2JXMDBKZUxwcXZWWTl2bENYRmZOVm43V3puc2hFNW1jTVoyNURLdw?oc=5",
-      "source": "BeInCrypto",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T10:58:01+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -427,19 +427,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "f0bbf7311be90d737b9c",
-      "title": "Why Did Zcash Fall Below $1,000 for the First Time Since September? - Altcoin Buzz",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYy1KR0l1X01DbnJqLVM1VmtpcVdkVy1fcWp4X0I5aWVoRWtqVXdHbjhDSGNZdU1kUURGWEQ3OFFudXA1UTNnZkdmOWo3VUxQMmZmWUxhMmkzU2JWbFNTUmNpQmRwaE1zV2NDVVZ2YmhRRW5TS05EU0hLZ1JGalVMbk44UkxRemxLcldRaEFwY0hNemZlUXlj?oc=5",
-      "source": "Altcoin Buzz",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T18:29:13+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "6c0bbb1486cc6dcd30b8",
       "title": "Zcash falls below $1,000 for first time since September - Cryptonews.net",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Z1VpdVFHRXNYU1h1Qlp3Tl93RjE5aWlWMExJZW1WdGh5WnFrWVd6OFhtMmlhRi1IZkstSmpGcXRVaWpJNUFZeVZORmw4VHk0czZRYWlvblFkZw?oc=5",
@@ -596,19 +583,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "bb41404e8a4d6015fb7a",
-      "title": "Zcash falls below $1,000 for first time since September",
-      "url": "https://cointelegraph.com/markets/zcash-falls-1k-grayscales-1m-ecosystem-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "feed": "Cointelegraph",
-      "kind": "media",
-      "published_at": "2026-11-11T12:31:44+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "44402357c668cfc9236e",
       "title": "ZEC Price Drops Below $1,000 as Sellers Extend Correction - KuCoin",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUEhwWFJsNC0zNEdPcktacVJoazdOcW9xMnJXYW8ydVZDcFVlaVJmRWIxN2pkYW9zZTVBSzlsYkVEVDZvbWo0Wm4tQ2s1VzVBdTFrRGEwcXlPamhMWlFPdHAtUm5MaTVsZVAtX0lfd09US2dwcnZHY2JCWDV3bkJmY2pwWWVWcUxfU0F6VFZaeHc5YkVu?oc=5",
@@ -681,6 +655,32 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T09:08:13+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "ceed283ac26b814eda6e",
+      "title": "Zcash Slides to Key Floor as US Inflation Caps Ad Boost - TradingPedia",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeUtRUU1hc0h6S2JMVFI1dHhGMUgxUHVyMFNkbDJ5SWVYUzFvanIxNXZnSXhBNGg2UUdUV2xqLW9EN3VCMzFCNUxyVUwxRU1vVXN2anVwT0RSVE5nMWcyWWtWaFpWS01LUmVlMnBpcm5kdm1IM1lpeUV0eExnSFZDVlJkUTRTWlRDRmd4Z2VHQ0Q3VnNueUlVbS1pNE8?oc=5",
+      "source": "TradingPedia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T07:38:19+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "c6573d61d4bf2c87768f",
+      "title": "Hyperliquid (HYPE) and Zcash (ZEC) ETFs Post Net Outflows - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oaEl2Sy1aQUZhUEVDNlgtY2JOYUo3YWY5dWNtTzUtUFdtQ1pHSUFCdkN6eF9xZHFSSmdQb2VYc3JMVzd6cERuWVRBT2U4Ny1JZDItUGtMZU9aQQ?oc=5",
+      "source": "TOKENPOST",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T04:25:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
