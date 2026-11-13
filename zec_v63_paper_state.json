@@ -1,14 +1,7 @@
 {
   "version": "V6.3",
-  "last_processed_15m_ts": 1794583800000,
-  "pending_signal": {
-    "side": "short",
-    "signal_ts": 1794583800000,
-    "signal_close": 932.08,
-    "atr": 12.730188701018433,
-    "long_confirm": 1,
-    "short_confirm": 5
-  },
+  "last_processed_15m_ts": 1794584700000,
+  "pending_signal": null,
   "open_trade": null,
   "closed_trades": [
     {
@@ -1421,23 +1414,40 @@
       "reason": "SL",
       "gross_r": -1.0,
       "net_r": -1.059535
+    },
+    {
+      "side": "short",
+      "signal_ts": 1794583800000,
+      "entry_candle_ts": 1794584700000,
+      "entry": 932.09,
+      "risk": 19.095283051527648,
+      "sl": 951.1852830515277,
+      "tp1": 909.1756603381668,
+      "tp2": 893.8994338969447,
+      "long_confirm": 1,
+      "short_confirm": 5,
+      "exit_ts": 1794584700000,
+      "exit_price": 951.1852830515277,
+      "reason": "SL",
+      "gross_r": -1.0,
+      "net_r": -1.068338
     }
   ],
   "long_confirm": 1,
-  "short_confirm": 5,
+  "short_confirm": 4,
   "max_drawdown": 9.095062000000002,
-  "updated_at": "2026-11-13T15:48:03.827101+00:00",
-  "last_processed_close_ts": 1794584700000,
+  "updated_at": "2026-11-13T16:03:03.067158+00:00",
+  "last_processed_close_ts": 1794585600000,
   "market_snapshot": {
     "source": "OKX public closed candles",
-    "close_ts": 1794584700000,
-    "close": 932.08,
-    "rsi_15m": 34.81539140562438,
-    "atr_15m": 12.730188701018433,
+    "close_ts": 1794585600000,
+    "close": 948.26,
+    "rsi_15m": 46.60857192700368,
+    "atr_15m": 13.374460937847923,
     "score_1h": 3,
     "score_4h": -3,
-    "close_1h_ts": 1794582000000,
-    "close_4h_ts": 1794571200000,
+    "close_1h_ts": 1794585600000,
+    "close_4h_ts": 1794585600000,
     "supertrend_1h": -1,
     "supertrend_4h": -1
   },
@@ -1450,12 +1460,12 @@
     "count": 31
   },
   "sl_confirmation_refresh": {
-    "event_id": "short:1794546000000:1794546900000:1794549600000:SL",
+    "event_id": "short:1794583800000:1794584700000:1794584700000:SL",
     "reason": "SL",
-    "decision_ts": 1794550500000,
-    "long_confirm": 0,
+    "decision_ts": 1794585600000,
+    "long_confirm": 1,
     "short_confirm": 4,
-    "count": 27
+    "count": 28
   },
   "recovery": {
     "mode": "historical_recovery",
