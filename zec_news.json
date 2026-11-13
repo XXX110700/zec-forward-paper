@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-13T03:55:19.023381+00:00",
-  "last_success_at": "2026-11-13T03:55:19.023381+00:00",
-  "status": "partial",
+  "checked_at": "2026-11-13T04:59:09.839511+00:00",
+  "last_success_at": "2026-11-13T04:59:09.839511+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 0
     },
     {
       "name": "Cointelegraph",
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 11
+      "matched": 9
     }
   ],
   "items": [
@@ -648,6 +648,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "badee4d7dd204d5eac07",
+      "title": "Zcash Price Trends near $959 Support in 2026 - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSXMxWURoQWZzNngtQmVuRGRKZVRNOFlhYjA4X2tHX19aM3pKbG52Y2lWd0V0dWlITjE1MlE2UHZSVmZTTjREc1ZOd2lydjR6cmtRRWdkMlFUTVBGUFJVQ1RONS1MYzN5XzI5TnZYdzBaZEplYU1MOVY5Yi1pdGJGMVpTVmVhSVZFSFVfbGg5MFBWSG15aDh4aDc1ZjdTcGJKNXc5djYxbTM?oc=5",
+      "source": "The Cryptonomist",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T09:58:53+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "dd02161eeeb124eb4aa6",
       "title": "Why Is Crypto Crashing Today? Bitcoin Falls Below $73K as Zcash (ZEC) Leads Crypto Losses - Coinspeaker",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdHlNdExhWXl1c29JOEg4WE5PNk0wckpBbG5Wd2VKSnRUdnJSWnhKdjZVLV9aaVNVbFFGZWNyMnVtd1pLRGFsV2hzMDItXy1jckU4ZUZCc3dNUEgyei1GOXBNc19oVlJMbVVVRGtseG5YbWZBTEM3MVJYMWhfRXBnWFluejJpNzE4bncycDBpcEhGQTNaNjdLTFRKYTVQMFBEa1ZnOFc3b0gtM1RnQnU5djZzQ3XSAboBQVVfeXFMTm1RRGNUOWMyaVlqQ1ZYOEl1OWU0TXg3SzF2VnN4R3ZqQVJLczg1UGRybXA2bV9CRjlid240dFNhU1F2dDNKZFNnQnhwQXAtUEdYS0pPdjZ1M2lHNm96V01iSE1KLUJySy1XX0xMRllZWjR4THR6WjhrNXZZRTExX25xLU5MYUh3OWlnbHNEWHdyb1Vjc2hhWnp1MzlyQzEtOTl6SlVXZjNZaF9SYUxIZndCNnQweUlKc25n?oc=5",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T09:19:20+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "ceed283ac26b814eda6e",
-      "title": "Zcash Slides to Key Floor as US Inflation Caps Ad Boost - TradingPedia",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeUtRUU1hc0h6S2JMVFI1dHhGMUgxUHVyMFNkbDJ5SWVYUzFvanIxNXZnSXhBNGg2UUdUV2xqLW9EN3VCMzFCNUxyVUwxRU1vVXN2anVwT0RSVE5nMWcyWWtWaFpWS01LUmVlMnBpcm5kdm1IM1lpeUV0eExnSFZDVlJkUTRTWlRDRmd4Z2VHQ0Q3VnNueUlVbS1pNE8?oc=5",
-      "source": "TradingPedia",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T07:38:19+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
