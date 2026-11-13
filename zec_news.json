@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-13T04:59:09.839511+00:00",
-  "last_success_at": "2026-11-13T04:59:09.839511+00:00",
+  "checked_at": "2026-11-13T06:00:06.172909+00:00",
+  "last_success_at": "2026-11-13T06:00:06.172909+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 9
+      "matched": 11
     }
   ],
   "items": [
@@ -232,19 +232,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "bc81ec2dfed20a2a8e0c",
-      "title": "November 12, 2026: ZEC 15 min · 6:00–6:15 AM EST Prediction Market - Robinhood",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0JFb3E3Y25TMzVwQ2xxbEV4b21VMEVfUU9wNEluY3Y2c3ZTS1NjSUY0dFZHQkJhblRrOUFRdi05ZUpnYlBOS3RVaXpBdFRPSVBGODI3aDZxdUtyUkVrRjJ1TXVxLWsyRzhrbzJxR09TRjlLNlRBXy11djVDWW5mSjFlUDk3azVHWXJBUGVsU3A3LU9IQnF6ZThnRnRZRzI2?oc=5",
-      "source": "Robinhood",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T11:03:50+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "1e1928d6f0f5098e2439",
       "title": "Zcash Proposes Withdrawal of 50,000 ZEC from Grant Fund - ForkLog",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2dRR0Z4Xy1KUVdmWkdhbHBzb1FMdkItTk5EcTlSNFJrUm1GTVFITVRucWdJdW5IajVZTHJuaWZSNzhTS0k4RkZsZ0stSjlKeEh2VVVRM1RzRjNBNGZCNk1yQW5yWGk1dFlPU1p6QVR6VDlUR3VOY3pnTjBQR0pkVVZmMnQ?oc=5",
@@ -362,6 +349,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "18e6e76e7b67ecf8aac8",
+      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart and Price History - Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WZGo2cEdsSlFybjBqZzliNGVvS2pRempCSkdUdmNvQlBraHhGMzR6WDBpTXZJb0ozN194TTU3Skd2MVJYRjdMUTFDWTNPdW1rM1lLNm5R?oc=5",
+      "source": "Yahoo Finance Australia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T05:22:20+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "405881c4a13a19c59cfc",
       "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CeEl3cUcxS011QkY4S3NCVlFyMDJQQi0wVl9OWHlvVlpVQkdydFk0OTR1U21sdkw3eEZwWDMtN2FBcW9mZXlBUjVnUlhtRWd1ZW94dnJn?oc=5",
@@ -381,7 +381,7 @@
       "source": "Yahoo Finance Singapore",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-12T00:42:30+00:00",
+      "published_at": "2026-11-12T02:52:55+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
