@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-13T15:51:16.304107+00:00",
-  "last_success_at": "2026-11-13T15:51:16.304107+00:00",
+  "checked_at": "2026-11-13T16:55:42.828449+00:00",
+  "last_success_at": "2026-11-13T16:55:42.828449+00:00",
   "status": "ok",
   "sources": [
     {
@@ -43,7 +43,7 @@
       "source": "Cryptonews.net",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-13T15:36:44+00:00",
+      "published_at": "2026-11-13T15:45:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -304,6 +304,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T12:00:00+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "b0cf476b1f0481ca2328",
+      "title": "ZCASH $大零币(ZEC.CC)$持有人将于11月16日至30日就一项联合创始人方案进行投票，该方案拟从资助金库中... - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNzJ4OGViY0lGLTBTSDBPX29teEIwWmRDUUdFNUx4RlJMM09CY1VwTzN6SjVzdmJfRXlGU0ZnVHduNUZScnVvdXRnTWt3ZWh1TGxGa2g3cVUzRXF5S0J4SnZET2dGcTdYSXFMaU82QjhBQ1ZCVExIUXV6ZExlWlk4eHhqbXpIVkxTb01GbEhCcGhnRXRnU0w5VVlCWW9tOWhUU01HdjJB?oc=5",
+      "source": "Moomoo",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T11:58:31+00:00",
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
@@ -668,19 +681,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-11T12:46:09+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "681167368f9fa5321735",
-      "title": "ZEC Derivatives Signal Deleveraging as Open Interest Drops 28% – What’s Next for Zcash Price? - Coinpedia",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaVRsQVg5U0pGSVBTQXpyVVloODhWQnZoa0pPTU9nX1VYSXB0Y0IzX3ZTWlRsTThScDhiVnZvRUlRNENQYTRKSC1JRnl1NWpWalJPQ2VSaXN1ZGtqY3I1RkprRW9CMWd6TUhUbWRnb3cwSHkxWF9tRl9ibGR2aTE5R1lQMjNRUk93elZfRVVYRE9SbkhNb0JkanhOQkUwQzQ5dkZ1OHVjNFJlS0ZuUVBiZEdRaVlCd1JBcmU2N0Z5X19SSzBl0gHKAUFVX3lxTE1DVHVMTFh5TW1OZDFFR0JERUp4Z01EU2d5bFlBM1BZSGtjQ2tMQkFQV28wS2xwSnVRUG5PQU55ZURqOVV5YlJLTjhNdU9ma1Bsb0pzT2k4UXFNU3ljeWE4dHdVNUc5cnNELVBwMzdlZUtMNnY5ZzM0OW9jaTRRWURLZjZSSEJrdTN3OU5XWThZazMxWVNBWWozUjdIN0dHcTdPblBvMVd5dkcwNjBjaGd2MlJBbU1jM0N6RklRc3ozZ200LVJfcDAzc3c?oc=5",
-      "source": "Coinpedia",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T12:33:20+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
