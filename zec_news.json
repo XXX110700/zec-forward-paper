@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-13T07:15:26.961713+00:00",
-  "last_success_at": "2026-11-13T07:15:26.961713+00:00",
+  "checked_at": "2026-11-13T08:58:21.564959+00:00",
+  "last_success_at": "2026-11-13T08:58:21.564959+00:00",
   "status": "ok",
   "sources": [
     {
@@ -22,7 +22,7 @@
     {
       "name": "CoinDesk",
       "status": "ok",
-      "matched": 1
+      "matched": 0
     },
     {
       "name": "Google News EN",
@@ -32,10 +32,36 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 11
+      "matched": 13
     }
   ],
   "items": [
+    {
+      "id": "8911f6f69ad5e53b7433",
+      "title": "数据：某巨鲸从币安累计买入并提取 678.4 枚 ZEC，价值约 66.78 万美元 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WR3lha29LV1lyVU52Y19tamNwZTZlVmZvRXcxY0I5amlLaDlnaHdEaHZVTVVMRmlLbzVmSkQ5UWN4YkdLT011UUxQQlAyRmJ5eFIyS080WHFuX1Qw?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-13T08:47:07+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "94b33e7a4d18a8c66f4b",
+      "title": "美国 ZEC 现货 ETF 单日总净流出 987.97 万美元 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mdF9fa1d6TkdVOW9WY1lTbXhCUlFSWkh6Y3NhNVdPcF9WaGJJbjdkSTdiZURKNWVTenVhZThxZGU4SHZfNGRIVDRSTmdfVVlRSTE2dXdfQ1Rac1ox?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-13T08:47:06+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "0e188acc34862e4c31ba",
       "title": "Crypto Price Analysis, BTC, XRP, SUI, LINK and ZEC, Nov. 13: Bitcoin Slides 6.7% as XRP Tests $1 - Cryptonews.net",
@@ -109,6 +135,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T17:45:18+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "5510c5813acc78193f63",
+      "title": "Zcash Price Bearish Pressure Tests Key Support near $949 - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUm94ZjJzUFR3eWZDTWo2N01FOVhfZXdEdGdvSzZaOENjd19XRlpteFJRSTNBNVJzREpRV190bDNVc3poTWpiTXpqd0ZBQ3FLUTJvc05JMk5Ra2Q5cDJLb1JrOVlraXl0NDlKakNjX0o0bzc2VlBmM09nQnR5YmJEb1Q0eDNLRGl4akxldzF5V1hJMXowRkFR?oc=5",
+      "source": "The Cryptonomist",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T14:29:27+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -330,19 +369,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T05:51:37+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "9d8b7b579fd3dcc7fb03",
-      "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
-      "url": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
-      "source": "CoinDesk",
-      "feed": "CoinDesk",
-      "kind": "media",
-      "published_at": "2026-11-12T05:49:44+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -655,32 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T10:28:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "badee4d7dd204d5eac07",
-      "title": "Zcash Price Trends near $959 Support in 2026 - The Cryptonomist",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSXMxWURoQWZzNngtQmVuRGRKZVRNOFlhYjA4X2tHX19aM3pKbG52Y2lWd0V0dWlITjE1MlE2UHZSVmZTTjREc1ZOd2lydjR6cmtRRWdkMlFUTVBGUFJVQ1RONS1MYzN5XzI5TnZYdzBaZEplYU1MOVY5Yi1pdGJGMVpTVmVhSVZFSFVfbGg5MFBWSG15aDh4aDc1ZjdTcGJKNXc5djYxbTM?oc=5",
-      "source": "The Cryptonomist",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T09:58:53+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "dd02161eeeb124eb4aa6",
-      "title": "Why Is Crypto Crashing Today? Bitcoin Falls Below $73K as Zcash (ZEC) Leads Crypto Losses - Coinspeaker",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdHlNdExhWXl1c29JOEg4WE5PNk0wckpBbG5Wd2VKSnRUdnJSWnhKdjZVLV9aaVNVbFFGZWNyMnVtd1pLRGFsV2hzMDItXy1jckU4ZUZCc3dNUEgyei1GOXBNc19oVlJMbVVVRGtseG5YbWZBTEM3MVJYMWhfRXBnWFluejJpNzE4bncycDBpcEhGQTNaNjdLTFRKYTVQMFBEa1ZnOFc3b0gtM1RnQnU5djZzQ3XSAboBQVVfeXFMTm1RRGNUOWMyaVlqQ1ZYOEl1OWU0TXg3SzF2VnN4R3ZqQVJLczg1UGRybXA2bV9CRjlid240dFNhU1F2dDNKZFNnQnhwQXAtUEdYS0pPdjZ1M2lHNm96V01iSE1KLUJySy1XX0xMRllZWjR4THR6WjhrNXZZRTExX25xLU5MYUh3OWlnbHNEWHdyb1Vjc2hhWnp1MzlyQzEtOTl6SlVXZjNZaF9SYUxIZndCNnQweUlKc25n?oc=5",
-      "source": "Coinspeaker",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T09:52:43+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
