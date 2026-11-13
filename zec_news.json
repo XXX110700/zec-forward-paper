@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-13T08:58:21.564959+00:00",
-  "last_success_at": "2026-11-13T08:58:21.564959+00:00",
+  "checked_at": "2026-11-13T09:59:17.747158+00:00",
+  "last_success_at": "2026-11-13T09:59:17.747158+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,23 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 13
+      "matched": 14
     }
   ],
   "items": [
+    {
+      "id": "5438400ff7e3bf379d10",
+      "title": "Zcash's NU7 Goes Live and Strands 12,224 ZEC in Sprout Pool - www.blockhead.co",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPck41R1ExZnBwSmNFTVB2Y1ZZSFQzUDktVE5zR2o0Zzh5eThWcEVfUzc1WlVIM2ZHM0pyMXhDa0VXWk56WW9oR2FSMl8tNDIwU3hWMzVNWVZMRTdsdUZtbWl5LTlVX2tNNnNHU3FJSXF3aEw3VVkzbzNlTDJZLS1JZkFaZ1NKNERLRFVES0U2bHNrZ1NXdTEzMVB4dkpWdUUtZm1icV9EWXhnRWxPbXA5ZGJmWjFVMnJfYUlRcEQwWkRQWTJpU3RudjhJSQ?oc=5",
+      "source": "www.blockhead.co",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-13T08:59:23+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "8911f6f69ad5e53b7433",
       "title": "数据：某巨鲸从币安累计买入并提取 678.4 枚 ZEC，价值约 66.78 万美元 - CryptoRank",
@@ -102,6 +115,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "b2d11049ecca89264008",
+      "title": "ZEC Price Faces $740 Risk as ETF Outflows Hit and Developer Growth Continues - Coinpedia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakU1TWFzOE9MZjhYZWJrZ3RQd05oNmtJOVNMRjRUbzJjbjhVSnE2ZXdNc0U3eGFQQUE1SjctR1Utd0o5c3VscXF2SW05RkZzVDZvdkhQY3FZWFpodjEweHVvSVlxU3huWHZHWWJhUmRfZFlZSlZGNTVjczNQV25teVpvZnlrcXM1OFhzM1NuNUVUTGRleFJUQ0NyWENSajRaeXFERWtHSng0WDVQRVZIVlVzSdIBuAFBVV95cUxPMjk5N1BXNHAxYk4xTU5qUzNnTU15VEdMNDZ0amE1LXRjd1dDbWUwQnMxWVhROTRWS3hWMUtQSFBMbGJQcVJNbU9SV2ZkU0lMT2dJZy1rWlYySFZuRFg1bDNyNm5iaktmMHV5bEs2WW5NWWsxbkhjcVlGdWR0d3dBS3VaRUdRUUNWYUE0dGVQNDg5bzJMd2FnQjd5aFhpbDRJSE9VUXRKcWp4MDN5TDM3ZmpZOFJ4azls?oc=5",
+      "source": "Coinpedia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T19:52:30+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "a38a4ce3f2bcf4024e29",
       "title": "The Grayscale Zcash ETF Lost $14.6 Million in One Day. Is That Why ZEC Can't Hold $1,000? - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWGF3RzdHX1ZEa3BiVXREam5vSEl0NlYzWGJzZEdHcXRpaF9GOGFjSzZwcmFQYnZnamZ6aDdkTnd1azNGWVJXNEduT0RQSXliS2dQWmJtcDFtaW1KU3ZBSGFmNnJpX2VXTHRERkh5R0R2N2FiYjk4UDliS2xxR2ZpV0lmY0xpeFhBTmZ1WkFDcGRrME9FNnhCeFpOUWxOdEVRRUxERmxxLVVISEMxUWdreExwdV94NlBKUHV5cDlJMzJ1WHMwRW4wLVFuSkNxbzVaMllqOENWWW9pQQ?oc=5",
@@ -135,19 +161,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T17:45:18+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "5510c5813acc78193f63",
-      "title": "Zcash Price Bearish Pressure Tests Key Support near $949 - The Cryptonomist",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUm94ZjJzUFR3eWZDTWo2N01FOVhfZXdEdGdvSzZaOENjd19XRlpteFJRSTNBNVJzREpRV190bDNVc3poTWpiTXpqd0ZBQ3FLUTJvc05JMk5Ra2Q5cDJLb1JrOVlraXl0NDlKakNjX0o0bzc2VlBmM09nQnR5YmJEb1Q0eDNLRGl4akxldzF5V1hJMXowRkFR?oc=5",
-      "source": "The Cryptonomist",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T14:29:27+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -232,6 +245,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "b0cf476b1f0481ca2328",
+      "title": "ZCASH $大零币(ZEC.CC)$持有人将于11月16日至30日就一项联合创始人方案进行投票，该方案拟从资助金库中... - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNzJ4OGViY0lGLTBTSDBPX29teEIwWmRDUUdFNUx4RlJMM09CY1VwTzN6SjVzdmJfRXlGU0ZnVHduNUZScnVvdXRnTWt3ZWh1TGxGa2g3cVUzRXF5S0J4SnZET2dGcTdYSXFMaU82QjhBQ1ZCVExIUXV6ZExlWlk4eHhqbXpIVkxTb01GbEhCcGhnRXRnU0w5VVlCWW9tOWhUU01HdjJB?oc=5",
+      "source": "Moomoo",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T11:58:31+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
       "id": "81aa000656397a5564d7",
       "title": "Zcash tumbles as hawkish Fed repricing weighs on the crypto market; focus remains on the Fed and US-Iran negotiations - investingLive",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQ3k0UkRmd0huMm13SjZrdzIwcXJBTWRIazd4Nmc5bHZFazRlbGlJMGdtWnY4M3hBMmtlLXVoR1NmcngzN0luOUQ1Mm9lQ3d3VElQWEYxOURQSWhhbjd1V3J2YldDc3JwaFNONU93dGZ4VFMzcWdVaW1SMGVnYjV6UmNaNjJnelpPQ3A0TnE3RE5qVFNsYV9fTEZVa3BNNEpKbW0xVmJFN0h0Qk9aNndsWl9kLXdNeHJ2UGpVNnpuczZwT0stTkVlUmxnNDFPTWJ5Mk5qRWYxUjZNU1lqRzFmWHY1cDYtNGQ3SVNFMVRVbw?oc=5",
@@ -252,19 +278,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T11:41:45+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b2d11049ecca89264008",
-      "title": "ZEC Price Faces $740 Risk as ETF Outflows Hit and Developer Growth Continues - Coinpedia",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakU1TWFzOE9MZjhYZWJrZ3RQd05oNmtJOVNMRjRUbzJjbjhVSnE2ZXdNc0U3eGFQQUE1SjctR1Utd0o5c3VscXF2SW05RkZzVDZvdkhQY3FZWFpodjEweHVvSVlxU3huWHZHWWJhUmRfZFlZSlZGNTVjczNQV25teVpvZnlrcXM1OFhzM1NuNUVUTGRleFJUQ0NyWENSajRaeXFERWtHSng0WDVQRVZIVlVzSdIBuAFBVV95cUxPMjk5N1BXNHAxYk4xTU5qUzNnTU15VEdMNDZ0amE1LXRjd1dDbWUwQnMxWVhROTRWS3hWMUtQSFBMbGJQcVJNbU9SV2ZkU0lMT2dJZy1rWlYySFZuRFg1bDNyNm5iaktmMHV5bEs2WW5NWWsxbkhjcVlGdWR0d3dBS3VaRUdRUUNWYUE0dGVQNDg5bzJMd2FnQjd5aFhpbDRJSE9VUXRKcWp4MDN5TDM3ZmpZOFJ4azls?oc=5",
-      "source": "Coinpedia",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T11:21:06+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T12:04:18+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "4ecd2c60a2e48e256d01",
-      "title": "Zcash (ZEC) Dumps Below $1K, Bitcoin (BTC) Struggles at $74K After CPI Reading: Market Watch - CryptoPotato",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYUNvYmpGUlZ1aFZaOU1zQ3Iya3UtVnpEalc3QzdkWjduMFBKSUFzVDZBRHpreUowZ0VEbmRRLUtOb1dZWV9QVDdNcE5zNXdPbUxENkM5cEpoNk9LT1ZiSFBCWkcyenhibnJJN08yOElNUkp6bnpoMjdLendvQ2FwRkNFOTBRWGJVSFEycWEzcG5UbVpuTkZsSkFVaEI4Q2RZSzJmeG8xLUNBaWJJcUFj?oc=5",
-      "source": "CryptoPotato",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T10:28:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
