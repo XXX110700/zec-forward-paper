@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-13T21:49:21.006259+00:00",
-  "last_success_at": "2026-11-13T21:49:21.006259+00:00",
+  "checked_at": "2026-11-13T22:44:57.327058+00:00",
+  "last_success_at": "2026-11-13T22:44:57.327058+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 14
+      "matched": 15
     }
   ],
   "items": [
@@ -57,6 +57,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-13T15:46:09+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "90e5a62cac37457250c6",
+      "title": "Zcash 今日价格，ZEC 兑 BTC 实时走势图 - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCOFVrajhNTjMzNjRCZzJES0lDVXZNZGtYaXVKTkxhNUxKaGM3aUg3MEtIblFDblUxRDVmcE9mV2FlMmhtWmpXVHFlT3BtWHFyZXdNYS1nMHRsRDZaTnMxaDNSUQ?oc=5",
+      "source": "Traders Union",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-13T10:58:42+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -128,6 +141,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "b2d11049ecca89264008",
+      "title": "ZEC Price Faces $740 Risk as ETF Outflows Hit and Developer Growth Continues - Coinpedia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakU1TWFzOE9MZjhYZWJrZ3RQd05oNmtJOVNMRjRUbzJjbjhVSnE2ZXdNc0U3eGFQQUE1SjctR1Utd0o5c3VscXF2SW05RkZzVDZvdkhQY3FZWFpodjEweHVvSVlxU3huWHZHWWJhUmRfZFlZSlZGNTVjczNQV25teVpvZnlrcXM1OFhzM1NuNUVUTGRleFJUQ0NyWENSajRaeXFERWtHSng0WDVQRVZIVlVzSdIBuAFBVV95cUxPMjk5N1BXNHAxYk4xTU5qUzNnTU15VEdMNDZ0amE1LXRjd1dDbWUwQnMxWVhROTRWS3hWMUtQSFBMbGJQcVJNbU9SV2ZkU0lMT2dJZy1rWlYySFZuRFg1bDNyNm5iaktmMHV5bEs2WW5NWWsxbkhjcVlGdWR0d3dBS3VaRUdRUUNWYUE0dGVQNDg5bzJMd2FnQjd5aFhpbDRJSE9VUXRKcWp4MDN5TDM3ZmpZOFJ4azls?oc=5",
+      "source": "Coinpedia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-13T01:39:53+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "657b7814c9b722fa44d7",
       "title": "美国 ZEC 现货 ETF 单日总净流出 987.97 万美元 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCaDE5VGw5ZE5fRzR1VmZSV1NoLWFER21YdzJyU185UFBpUzhMS0h2QUNkYi01OWZ5c2dCSkg1Z1RxNFhkbXZxTy1uQllreHhaLUJLbndGSHlLVXN2SWRhRGtoSi13QQ?oc=5",
@@ -154,6 +180,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "405881c4a13a19c59cfc",
+      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CeEl3cUcxS011QkY4S3NCVlFyMDJQQi0wVl9OWHlvVlpVQkdydFk0OTR1U21sdkw3eEZwWDMtN2FBcW9mZXlBUjVnUlhtRWd1ZW94dnJn?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T20:59:39+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "4376d1746d6fd74abf01",
       "title": "Why Is Zcash (ZEC) Price Falling? The Answer Isn’t the Broader Market - BeInCrypto",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zNlpsRjFLOFlTc0thb1hiVU90VnA1NWVoSUVDbnUxVDhKX1EtaHhaS29pWUN1QjJPLXRUUFBXTi0tMl9vY0pzaVNQT2JXMDBKZUxwcXZWWTl2bENYRmZOVm43V3puc2hFNW1jTVoyNURLdw?oc=5",
@@ -161,19 +200,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T20:45:32+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b2d11049ecca89264008",
-      "title": "ZEC Price Faces $740 Risk as ETF Outflows Hit and Developer Growth Continues - Coinpedia",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakU1TWFzOE9MZjhYZWJrZ3RQd05oNmtJOVNMRjRUbzJjbjhVSnE2ZXdNc0U3eGFQQUE1SjctR1Utd0o5c3VscXF2SW05RkZzVDZvdkhQY3FZWFpodjEweHVvSVlxU3huWHZHWWJhUmRfZFlZSlZGNTVjczNQV25teVpvZnlrcXM1OFhzM1NuNUVUTGRleFJUQ0NyWENSajRaeXFERWtHSng0WDVQRVZIVlVzSdIBuAFBVV95cUxPMjk5N1BXNHAxYk4xTU5qUzNnTU15VEdMNDZ0amE1LXRjd1dDbWUwQnMxWVhROTRWS3hWMUtQSFBMbGJQcVJNbU9SV2ZkU0lMT2dJZy1rWlYySFZuRFg1bDNyNm5iaktmMHV5bEs2WW5NWWsxbkhjcVlGdWR0d3dBS3VaRUdRUUNWYUE0dGVQNDg5bzJMd2FnQjd5aFhpbDRJSE9VUXRKcWp4MDN5TDM3ZmpZOFJ4azls?oc=5",
-      "source": "Coinpedia",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T19:52:30+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -265,19 +291,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T12:57:43+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "405881c4a13a19c59cfc",
-      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CeEl3cUcxS011QkY4S3NCVlFyMDJQQi0wVl9OWHlvVlpVQkdydFk0OTR1U21sdkw3eEZwWDMtN2FBcW9mZXlBUjVnUlhtRWd1ZW94dnJn?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T12:40:20+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -577,19 +590,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T18:47:17+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "9bcf71d1a600679eb5ee",
-      "title": "Zcash drops below $1,000 amid US inflation fears and leveraged sell-offs - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXd5aldiMXQwUmhXWlpad2FmaV93d1lUODhZRjRCQXNEZkNEbXROdnMzZDZackFpS2pqWXBvR0I0dUdSc1JtQnBLVk1oNVZiSUlEbUtWZFZqY2FPLXlQOFhWSnVNRk9MQ2dKNkhtNzZjdFFYci1OX0ZBdlZWU2I2Y2tJU0ZSdGFPWHlKM2M3ekNCS2kxN1pjMUhKcUtQMzRE?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T18:46:13+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
