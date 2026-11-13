@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-13T06:00:06.172909+00:00",
-  "last_success_at": "2026-11-13T06:00:06.172909+00:00",
+  "checked_at": "2026-11-13T07:15:26.961713+00:00",
+  "last_success_at": "2026-11-13T07:15:26.961713+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "0e188acc34862e4c31ba",
+      "title": "Crypto Price Analysis, BTC, XRP, SUI, LINK and ZEC, Nov. 13: Bitcoin Slides 6.7% as XRP Tests $1 - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpTVY3SVB5dnoxd2Z6bFJGeVdRcktKMXdNQW5CTW91Qi1qMEdZNzJYR3FVVFNXRHE2OU44blQ0c25aNE1uTXFZVk5aUE9Qa0tsbndnNEItOUphQ3c?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-13T06:55:48+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "bec2feed9ac59829794f",
       "title": "Here’s why Zcash could remove 50,000 ZEC from its grants treasury - AMBCrypto",
@@ -368,7 +381,7 @@
       "source": "Yahoo! Finance Canada",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-12T02:55:27+00:00",
+      "published_at": "2026-11-12T05:00:34+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T09:52:43+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "54ef7dc307a475eca579",
-      "title": "Zcash below $1,000: Grayscale advertises despite outflows - CryptoTicker.io",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iT1BJbGZiMVlYSVVfYmdiZnhxZW5RVnhVRWpDYVoxQ3RBVHp2WEd4QmRwUmlvQzljVzh0b1dFZVhOQ2R1Y1J0dG9fMTFLbDVYMGs4bl9Ia2MydS1MamwzaHFEajNEbG5ZU3BMdmFKalVwZw?oc=5",
-      "source": "CryptoTicker.io",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T09:19:20+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
