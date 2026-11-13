@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-13T16:55:42.828449+00:00",
-  "last_success_at": "2026-11-13T16:55:42.828449+00:00",
+  "checked_at": "2026-11-13T17:52:49.599508+00:00",
+  "last_success_at": "2026-11-13T17:52:49.599508+00:00",
   "status": "ok",
   "sources": [
     {
@@ -570,6 +570,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "b142721c71606c1437f3",
+      "title": "Zcash Price Prediction Today, November 2026, 2030 & 2040 - CoinDCX",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oTVVSd0xLaFRFTkJOS2JOZ0ZXaENBR3NaX1VqRFJMR1M4MzlOMUlGbXpHTFhnNFVGaVRsbjkyaTh5R1RnX2hvZDN5emJtWF9zSERfZms3dFJ2bGtjeHl3bVlhdnY?oc=5",
+      "source": "CoinDCX",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T16:16:47+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "a4ba1bdfe0b50b0ef260",
       "title": "ZEC Price Loses $1,000 Support: How Much Further Could Zcash Fall? - Coinpedia",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON21heGhuWXd2dU5MTnFpNFRVMnRpZlk5SWFHb2daNE1lWFVpQy1XRE5kS1JqWXA3Nm5idTFZQ3JiQjRFUTZiWDhVTDVUWlRYajZZZFFiaS1wSzI5c0ZsMHdkZjB4bm9ET0F1U3IwcTI5N0lfejVLOHlEQzZIbVp6LWFUSDNscUNROFlNVTc3QVlBQkNGdV91RU9XZ18tMDBJVWfSAacBQVVfeXFMTzFrNHR0R1paUzZ0UmlEYWpuWjlaSTZ4Wk13bExYOFhicWVSUnFrbXVsa3VGOFN0a2pnSTVMUWp0OWVWOWFOeGw4d3pVdFJCY01YUUM3amFnWC1QRjlFTV9GZEN4dHZENTRUVTk2VE9DdjNSeHh4NGVlcXY3ckx5RlNEX3BQYktxeG5jZGp3QmNrcjJ6N2lhUzY5XzY0dktuT280QUp0TGs?oc=5",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：investment",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "7163e78cf5165b5adb77",
-      "title": "灰度赞助 100 万也扶不起，被捧成香饽饽的 ZEC 怎么又崩了？ - 深潮TechFlow",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkeXRiNzFlM25peEZFMTRsUkRoQkFOblRYVWwwd3VTcTU4Z2ZlWm4xZGJYVUpuaUV3d0JPS1Nlb2xpdTBIbVhOUlNWQXkwQklpbUJrZw?oc=5",
-      "source": "深潮TechFlow",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T12:46:09+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
