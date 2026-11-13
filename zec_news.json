@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-13T22:44:57.327058+00:00",
-  "last_success_at": "2026-11-13T22:44:57.327058+00:00",
+  "checked_at": "2026-11-13T23:41:46.078642+00:00",
+  "last_success_at": "2026-11-13T23:41:46.078642+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,36 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 15
+      "matched": 16
     }
   ],
   "items": [
+    {
+      "id": "4749dc30f1f384c1d930",
+      "title": "Top 7 weekly crypto losers: RAIN, ZEC, BTW lead declines as market sell-off intensifies - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc0ZlcXdubXZQZUo2cTB0Q3F0TFNqMFh1d1lUazZST21acVlTMUg4SUJCb3VKOW1ZNEdUM1hHY0RaWWhIbG9YN19GWDFVb0xJZDZnZXVndUthMkhadkFpa1prNW16Y3IxdXpQMWJMMG10NDFIbVpKbVpoQ3ZRR1dPWFYtUFkyc2FmNEZYY1JxeDd2U0pSekh1OVpWMHVjZUdESEdGNE4xT24wRkNRTndJdTVqZDI3UERiOV9idEpkWUtvLTRLWUtSeEtNY1MxMDJKeUpSZUp1aVJlTUdXaVRMYmhfQzc?oc=5",
+      "source": "www.tmgm.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-13T23:18:33+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "df9dae4d9ca3b286518b",
+      "title": "Top 7 weekly crypto losers: RAIN, ZEC, BTW lead declines as market sell-off intensifies - tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWWZPX1dxaTlaS1B6ZlRqeThab1EwaDRucE1jODVKdnEzWHFzSmhUVUNUUDd6bExpVm9vWjNSR3ByM01veHN6VXhTUExoV3gtNldfYXVBeWxQczljY1hQeDVjdkpkTVJtRExHeFVScTJqWS02eUVuY2dpR0xWemhsNkItTDkzTm9kaU5GRHZuWi1CNmhmZ1VxMWJFZWluMlk2aFMwc0I2cGhldmJQVW9OV0QyWTJMUlNKWlU0RE1KNEszeWZQeWtLQWw3X2s2RVN2bmVUVU9GYmNFSVFsZ0l1RUYtcFhHTXlqWkln?oc=5",
+      "source": "tmgm.com",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-13T22:58:33+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "598b0560729ca03b1b1c",
       "title": "How Might Zcash Holdings Shape Cypherpunk Technologies Inc. (NASDAQ:CYPH) in Its Q3 2026 Release on November 16, 2026? - Kalkine",
@@ -518,19 +544,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "345b46227ff7063e693c",
-      "title": "Zcash price jumps 3% in one hour despite 24-hou... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPellGRW43TGJWUzNJMWdQdWxGWnRLd0R3Zmc1UHVCeTJya3pfWkwyS3FCcjZUbF9ROVdzUlJfekRpNFpQR2RERFZ3RzdrajBiV3hyNWhTNk9TYzh2T2JKeEFmcS1HbHJtX3puX0VqYW1JeUtfWWJQNTFFampGVlBSd3JvLTJTb0NDVzN0TXJ2dmhCTkMxZzJXYkd3?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T00:44:04+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "33847d30cd985c3f3598",
       "title": "Grayscale: Zcash Active Developers Doubled in Two Years, Community Growth May Lift ZEC Valuation - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbGl5LWFiREtvQXotU0MzemFIUmt5aE95WWF4Z1M2YTZGOGdkRXI5SXAzZ19yX0RDYncxNnBOa2p3ZVNRcW5tME1penlmd3VUNXVKRUJHNXg3OTY5Tk41d1JYdnFLb3pwQnZ5MUVCQkVLRVlLTDdYb3ZfQnBhNmNyWkRfOHdKWUVkVTNnWHlpb1JESnJNLUpBT21lQlpfX0p5ZDh3QjRNRlhOSzZiX0t5TTFmWVFleEJZZ2w2Y0g5TkpNYnp6aWM3b20ydVRmNkpkRFZTNy1oVFg2MkUyTHNSbGNyTU5CRTY4a09WWGtB?oc=5",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T14:04:40+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b4473a815c3f8dc8f300",
-      "title": "Grayscale to Allocate $1M to Zcash Development Amid Capital Outflows From ETFs - Incrypted",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPazFwSGQweFp6cl9jSkk4STBNallyQ3I4ZkIzQ253SUs3WGVzLTlvQURaV2RSRFNqWGhzODBOd1NHbUdHcGxJbU9QallfVUNFdEk5Rm5hUjhCQ0xILWd3Vm9VTVdDVEZFSVowRmhfQ3VXMnFIOVpweDZucWhuSVRfcEctbkp3OWU5d3d5dmctMlNCd2I3Y0pTdU9QVERJRnc5bUZVcmZn?oc=5",
-      "source": "Incrypted",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T13:41:53+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
