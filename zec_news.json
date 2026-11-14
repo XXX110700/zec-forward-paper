@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-14T02:51:57.880077+00:00",
-  "last_success_at": "2026-11-14T02:51:57.880077+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-14T03:52:01.577414+00:00",
+  "last_success_at": "2026-11-14T03:52:01.577414+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 0
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -50,6 +50,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "4376d1746d6fd74abf01",
+      "title": "Why Is Zcash (ZEC) Price Falling? The Answer Isn’t the Broader Market - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zNlpsRjFLOFlTc0thb1hiVU90VnA1NWVoSUVDbnUxVDhKX1EtaHhaS29pWUN1QjJPLXRUUFBXTi0tMl9vY0pzaVNQT2JXMDBKZUxwcXZWWTl2bENYRmZOVm43V3puc2hFNW1jTVoyNURLdw?oc=5",
+      "source": "BeInCrypto",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-13T23:19:18+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "df9dae4d9ca3b286518b",
       "title": "Top 7 weekly crypto losers: RAIN, ZEC, BTW lead declines as market sell-off intensifies - tmgm.com",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWWZPX1dxaTlaS1B6ZlRqeThab1EwaDRucE1jODVKdnEzWHFzSmhUVUNUUDd6bExpVm9vWjNSR3ByM01veHN6VXhTUExoV3gtNldfYXVBeWxQczljY1hQeDVjdkpkTVJtRExHeFVScTJqWS02eUVuY2dpR0xWemhsNkItTDkzTm9kaU5GRHZuWi1CNmhmZ1VxMWJFZWluMlk2aFMwc0I2cGhldmJQVW9OV0QyWTJMUlNKWlU0RE1KNEszeWZQeWtLQWw3X2s2RVN2bmVUVU9GYmNFSVFsZ0l1RUYtcFhHTXlqWkln?oc=5",
@@ -70,6 +83,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-13T22:45:46+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "4ad598506604c6aa89b2",
+      "title": "Crypto Price Analysis, BTC, XRP, SUI, LINK and ZEC, Nov. 13: Bitcoin Slides 6.7% as XRP Tests $1 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWVJINDRFMzd0X3NGU1VGMy0xVkxfZFNUODhMelNCLXZuMjFWV1lsRlM5T0F4Q2NNaEl0ZmtaYXUwTEtzWTBPblFZdzNIWVhHRVJ3UE91TlhYWjNORWVjNXBfc05pN2FRRk4tUU4zUEMtMzNseDFYREphZks2UDh1cUNxVHdEUk0xTVVKRkNyTEdMZFVPc25vYWNfcGotR0stNEZGbk1FMkhibkVEMWR2XzdtMUVUT05EX3dEeEc3TjltT1E?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-13T20:13:03+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -135,19 +161,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-13T08:58:33+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "8911f6f69ad5e53b7433",
-      "title": "数据：某巨鲸从币安累计买入并提取 678.4 枚 ZEC，价值约 66.78 万美元 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WR3lha29LV1lyVU52Y19tamNwZTZlVmZvRXcxY0I5amlLaDlnaHdEaHZVTVVMRmlLbzVmSkQ5UWN4YkdLT011UUxQQlAyRmJ5eFIyS080WHFuX1Qw?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-13T08:47:07+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -226,19 +239,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T20:59:39+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "4376d1746d6fd74abf01",
-      "title": "Why Is Zcash (ZEC) Price Falling? The Answer Isn’t the Broader Market - BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zNlpsRjFLOFlTc0thb1hiVU90VnA1NWVoSUVDbnUxVDhKX1EtaHhaS29pWUN1QjJPLXRUUFBXTi0tMl9vY0pzaVNQT2JXMDBKZUxwcXZWWTl2bENYRmZOVm43V3puc2hFNW1jTVoyNURLdw?oc=5",
-      "source": "BeInCrypto",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T20:45:32+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -414,6 +414,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "7a336613d22c299dd434",
+      "title": "Zcash 持币者将投票决定从社区资助金库中移除 5 万枚 ZEC，价值约 5000 万美元 - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vZy1fYjZoYmtyS3hoSkFKSkdXR2ZISkNTeU5wY3FadEh2ZkVHUVljNGNFeFRhTFhhZTFnLVVxUzVGVVNIc0RjZElrZ2NfVG9aOUtTaVdmZzVtaXVi?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T08:00:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "a348b4190f269ef5f564",
       "title": "Zcash holders to vote on pulling 50,000 ZEC from the grants treasury - Cryptonews.net",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwOFM2ZzgwWXlaX3pmczVHYU1QZXhYRWRDVVF6R05CMTZncmpBRUtwel95MGZ2QnkyOF9EYkpFYS0tdzdMWV9FVk1ITFdsdXcxRlNTVDNJeEFpZw?oc=5",
@@ -511,7 +524,7 @@
       "source": "CoinDesk",
       "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-11-12T05:51:37+00:00",
+      "published_at": "2026-11-12T05:49:44+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -551,19 +564,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T01:33:28+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "345b46227ff7063e693c",
-      "title": "Zcash price jumps 3% in one hour despite 24-hou... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPellGRW43TGJWUzNJMWdQdWxGWnRLd0R3Zmc1UHVCeTJya3pfWkwyS3FCcjZUbF9ROVdzUlJfekRpNFpQR2RERFZ3RzdrajBiV3hyNWhTNk9TYzh2T2JKeEFmcS1HbHJtX3puX0VqYW1JeUtfWWJQNTFFampGVlBSd3JvLTJTb0NDVzN0TXJ2dmhCTkMxZzJXYkd3?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T00:44:04+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
