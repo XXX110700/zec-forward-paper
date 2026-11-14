@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-14T10:43:43.010421+00:00",
-  "last_success_at": "2026-11-14T10:43:43.010421+00:00",
+  "checked_at": "2026-11-14T11:40:20.201084+00:00",
+  "last_success_at": "2026-11-14T11:40:20.201084+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "f317995296cd663b7a39",
+      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdjQ1OUo2OEIzZFVqRXIwaGNTbUdIb19jRkEtWGlqQTk5SEc5UUxiNmt1X3V0SFZtRnNzOGJKWFktZVBRSVJPT1VlZnN4RmpuY0d4RkVYMzlvUQ?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-14T09:39:03+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "865fbf048c14584ca017",
       "title": "Zcash (ZEC) price drops 3.42% in one hour to $9... - Pluang",
@@ -200,19 +213,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-13T08:58:33+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f317995296cd663b7a39",
-      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdjQ1OUo2OEIzZFVqRXIwaGNTbUdIb19jRkEtWGlqQTk5SEc5UUxiNmt1X3V0SFZtRnNzOGJKWFktZVBRSVJPT1VlZnN4RmpuY0d4RkVYMzlvUQ?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-13T06:59:48+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
