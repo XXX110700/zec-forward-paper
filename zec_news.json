@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-14T14:43:57.960445+00:00",
-  "last_success_at": "2026-11-14T14:43:57.960445+00:00",
+  "checked_at": "2026-11-14T15:40:21.960253+00:00",
+  "last_success_at": "2026-11-14T15:40:21.960253+00:00",
   "status": "ok",
   "sources": [
     {
@@ -161,6 +161,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-13T20:13:03+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "598b0560729ca03b1b1c",
+      "title": "How Might Zcash Holdings Shape Cypherpunk Technologies Inc. (NASDAQ:CYPH) in Its Q3 2026 Release on November 16, 2026? - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLWRqYV9aRk1oU1Ytak8xbkQtd2k2MlBvbi1sWkVIeWNteXFPTGJxVlZOc3ViNUpUdUw1eXdfU3JrMTE0SDN2ZmN0T2NMYlN5MnQwVzNUQzdubjVXS1pEb1hVcHNGMVktcmwzSl90MzI1UXllOUxGV0hBZ3djekNIWGRaUTVlVHJ3TUdCSFBfcWhSNXNvd2hWZWpTMzJqdVh1ME9XX0JRbTQ4V3B5Y2VkQUcwenVWQndiUm9TUnR6Q3dPLUg3TlFWcEppZUlQVUVXVkFZcTVGb20yOTBBZGsxOHpncHg?oc=5",
+      "source": "Kalkine",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-13T17:55:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -362,19 +375,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "60b959bbc775fe36c228",
-      "title": "HSCS: HeartSciences to combine with Zcash miner Fortitude in all-stock deal - Quantisnow",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSllYSTA3S18wd3VoVlA2cnZCSER1Y3R2N0dGcWdjeUFERFA5TzdQbE1wRDVNQVROeVMwREpEYkpUcnFIRjk3c0lHWEpQMVh6S0Z4NlRQTzBDbDNmYmQ1X0tVTHJtVHFheXp3MzhtTVNPcURnOWJQRnhpaHNGUzNEY2QzZUtFNzktVjkwMFZDaw?oc=5",
-      "source": "Quantisnow",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T13:11:52+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "54fec8acdd61a02d4646",
       "title": "Zcash Price Fate: ZEC to Bounce After Grayscale WSJ Ads? - Cryptonews",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1NkxpaWpUR2lIZm9nMmNfNEYzblNRaXFHaWpiOHpUdk9vM1I2YVZmSUlUYVhJaGtsOWZyM1hQSWNLaXFaSTgtNDZ2eXJEWFZ2M0RQTmFpUTlDWlhEbzY5cHlFWURXTnNkRVJjYUdVMGp6c2l1Yl9WNnRGMDBaUQ?oc=5",
@@ -416,7 +416,7 @@
     {
       "id": "b0cf476b1f0481ca2328",
       "title": "ZCASH $大零币(ZEC.CC)$持有人将于11月16日至30日就一项联合创始人方案进行投票，该方案拟从资助金库中... - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeDA1WHZoWXFLYWhnUE1YcG5nX19WSGZBQjI5VjR6MWtpdmVyNUlVVEF5RW9MRDJpd3VWUnUtR25nVWpNeFhKRUl0ZU5NRlRhOVYwNFNDeVYwcnktVGY3VEhRMi1PUmd6aGxTOTBmcER6NDFrRms2ZEIyLURnbWpFZ3BmSkxiOTJ4Q0gtRjBfYk9BcTlYeW83YUZyQTVVLVVqd1RlZg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNzJ4OGViY0lGLTBTSDBPX29teEIwWmRDUUdFNUx4RlJMM09CY1VwTzN6SjVzdmJfRXlGU0ZnVHduNUZScnVvdXRnTWt3ZWh1TGxGa2g3cVUzRXF5S0J4SnZET2dGcTdYSXFMaU82QjhBQ1ZCVExIUXV6ZExlWlk4eHhqbXpIVkxTb01GbEhCcGhnRXRnU0w5VVlCWW9tOWhUU01HdjJB?oc=5",
       "source": "Moomoo",
       "feed": "Google News 中文",
       "kind": "aggregation",
@@ -635,6 +635,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "345b46227ff7063e693c",
+      "title": "Zcash price jumps 3% in one hour despite 24-hou... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPellGRW43TGJWUzNJMWdQdWxGWnRLd0R3Zmc1UHVCeTJya3pfWkwyS3FCcjZUbF9ROVdzUlJfekRpNFpQR2RERFZ3RzdrajBiV3hyNWhTNk9TYzh2T2JKeEFmcS1HbHJtX3puX0VqYW1JeUtfWWJQNTFFampGVlBSd3JvLTJTb0NDVzN0TXJ2dmhCTkMxZzJXYkd3?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T00:44:04+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "815ceddad5ed5f154052",
       "title": "What next for Zcash after ZEC’s 15% fall overshadows Grayscale’s $1M promise? - AMBCrypto",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVZISGNoM2w4cUJYZ0o3bkItUmtGbjJMQWREQ1JIa29HNkZrMlhEYnhlaHhScldZXzktcGtORnJaMFcxUnRNX09EbWdidFFTQVNCMG1kcmg4OGVkYUo3NDFFMlloczR2YUIwZl9KVDBNajRHWW9ja0h6NnNOMXd3YkVXRk03ZlJsVVdwMVZXYUJxOTlObWRhemZaSQ?oc=5",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T20:18:45+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "dc48fba2034dfaadd7c6",
-      "title": "Zcash price crashes 13% despite Grayscale's $1 million push: is $880 now in play? - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CR2ZNQlJEU3NWNThIcHNaNWllaWhtX3JxczNHUF9teGJKakFJUjE2ODhUMXhORkNuNG9fS1E0Um9CUFhpNEJELV8wT1NjQXByQUdmYWdseXFFdG8?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T18:47:17+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
