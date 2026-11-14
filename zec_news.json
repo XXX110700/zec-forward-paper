@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-14T08:51:58.294058+00:00",
-  "last_success_at": "2026-11-14T08:51:58.294058+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-14T09:47:13.986249+00:00",
+  "last_success_at": "2026-11-14T09:47:13.986249+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 0
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -271,6 +271,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "cd0256f2cd884d8322c2",
+      "title": "Zcash (ZEC) Plummets 13% Amid Macro Shock and ETF Outflows - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ELVRiblhhNHRrVkU4Q0JKQW5naVpiOVJvRHNldmxYOUM2NjZSVzJuTFhQTldMU291VDY1eUx3MnMwZnRLclV0Z1ZjUEhPcjlUOXdXenMwNHNrc0JReE1ES0FLTzlUd19HZGx6ZFFVZ1A?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T18:25:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "a38a4ce3f2bcf4024e29",
       "title": "The Grayscale Zcash ETF Lost $14.6 Million in One Day. Is That Why ZEC Can't Hold $1,000? - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWGF3RzdHX1ZEa3BiVXREam5vSEl0NlYzWGJzZEdHcXRpaF9GOGFjSzZwcmFQYnZnamZ6aDdkTnd1azNGWVJXNEduT0RQSXliS2dQWmJtcDFtaW1KU3ZBSGFmNnJpX2VXTHRERkh5R0R2N2FiYjk4UDliS2xxR2ZpV0lmY0xpeFhBTmZ1WkFDcGRrME9FNnhCeFpOUWxOdEVRRUxERmxxLVVISEMxUWdreExwdV94NlBKUHV5cDlJMzJ1WHMwRW4wLVFuSkNxbzVaMllqOENWWW9pQQ?oc=5",
@@ -440,6 +453,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "2523154f84256f563ce2",
+      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart and Price History - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWUF3VTYyMmFad2tQamthVmVhT3dPWlh5NG01LUtxbm42S0pOU2R0Q2FQZHVlOHBhV29xSzdsTEExX21FTTd2cTNObTc3RlBQVGZLMm5n?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T07:38:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "79fc4f9cdc55125b7bc4",
       "title": "Zcash 拟抽离 5,000 万美元储备金，社区投票定生死 - Moomoo",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUZLUWRTRU8yNnBUZDk0d0lPUzEtQlhKT3Jnc21PZklTWUhSMEJ3ekh2RUJGYVZhUFN4R0k4VnFLWloyYV9IdlNFWWpHbFh2ak9zSjRFYmpVZDlJanNOV3FGeXV0LVN4TktpTUpSa2hZVzJmYk81YUNySzl4LWhjd1JidzlXbjQyTUUzZGsyUXowdE1OaF9tRTNZeTJJUzlhTFhEeDM5bDlkMEx6ck9mVjUyZFlkUQ?oc=5",
@@ -486,19 +512,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-12T05:49:44+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "2523154f84256f563ce2",
-      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart and Price History - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWUF3VTYyMmFad2tQamthVmVhT3dPWlh5NG01LUtxbm42S0pOU2R0Q2FQZHVlOHBhV29xSzdsTEExX21FTTd2cTNObTc3RlBQVGZLMm5n?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T05:41:02+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -616,19 +629,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T18:47:17+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "9bcf71d1a600679eb5ee",
-      "title": "Zcash drops below $1,000 amid US inflation fears and leveraged sell-offs - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXd5aldiMXQwUmhXWlpad2FmaV93d1lUODhZRjRCQXNEZkNEbXROdnMzZDZackFpS2pqWXBvR0I0dUdSc1JtQnBLVk1oNVZiSUlEbUtWZFZqY2FPLXlQOFhWSnVNRk9MQ2dKNkhtNzZjdFFYci1OX0ZBdlZWU2I2Y2tJU0ZSdGFPWHlKM2M3ekNCS2kxN1pjMUhKcUtQMzRE?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T18:46:13+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
