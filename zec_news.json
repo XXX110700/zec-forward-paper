@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-14T03:52:01.577414+00:00",
-  "last_success_at": "2026-11-14T03:52:01.577414+00:00",
-  "status": "partial",
+  "checked_at": "2026-11-14T04:54:06.422740+00:00",
+  "last_success_at": "2026-11-14T04:54:06.422740+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 0
     },
     {
       "name": "Cointelegraph",
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "865fbf048c14584ca017",
+      "title": "Zcash (ZEC) price drops 3.42% in one hour to $9... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRjlSVksySzNDM3gtNUQ1UDc1VnFYRTRIbURIWVlQNm9LbGQ3dGV3VDc5ejYybVVBVG1WREtEQnVqNThxU2V5bm9jb1dqSkYzS3hjSFBMc2NfRTZJNENqQkhxaTJBaWpUMzFNRG1MOGowd2VaMkllQTZwMkxLWS1FbVlMUGNka25EMzRKc2xQWlRwckI2ekE?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-14T04:24:59+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "d5ee1791febe0d05e310",
       "title": "ZEC is following a familiar historical pattern. Following Se - KuCoin",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "42f44bb6195c13f05127",
-      "title": "Zcash Loses $1,000 Just One Day After Grayscale Launches $1 Million Ecosystem Initiative - Coinpaper",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUo2QjVtVjM2eHlZdTF2NVJDMkhmdW9Pbk9aOWJRcXNBVUFqRVhBTkZxZGpOUnF0OVVqVTdKcmtKTXVJMmxpMXhlUnRFaFp3UnJJZEl1V3BvaDhnalZDWFlQOFpsRXRPUFhPQTlfbVdyU0xRb0pxSWdyZkRTU0JiUHFCb0ZJdHZrbVJzQU5ST2g0WFJHa1BKVzRFTTdrVFJjVXhMWkRxNmxpbzJ6NmRKQ3V1Y1g?oc=5",
-      "source": "Coinpaper",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T14:04:58+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：launch",
       "verification": "未独立核实"
     }
   ]
