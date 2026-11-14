@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-14T05:51:18.799531+00:00",
-  "last_success_at": "2026-11-14T05:51:18.799531+00:00",
+  "checked_at": "2026-11-14T06:58:27.732219+00:00",
+  "last_success_at": "2026-11-14T06:58:27.732219+00:00",
   "status": "ok",
   "sources": [
     {
@@ -44,6 +44,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-14T04:24:59+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "55f00c5984cafef20b81",
+      "title": "Whale Adds to ZEC Long on Each Dip; 5x Position Shows $3.5 Million Loss - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX3BrN29UTkhya2lNcUlWSGtzSTZDanRrM2JHdEl3YTR1WlZaaDlqalppLWNiN2RKSEh5M1RPaWY2dnkybXZEMzllM0plck5talZhRGtwSlF5eGxjZVJ2QVRPdUdjdl9TRDhsMEZHUUtaS1o1NVJPTWtaZmV6WkFCaWdlNHk0YXk1dWoxVUh6TXhkQTBaa3d4MkRRYXYxVGhkSmM0ODdiTUY0NGhScVRtb1c5WTc0dUZOLXBPRnp4QTU5YnROQXdtdXhSaVI?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-14T02:25:18+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -242,19 +255,6 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "405881c4a13a19c59cfc",
-      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CeEl3cUcxS011QkY4S3NCVlFyMDJQQi0wVl9OWHlvVlpVQkdydFk0OTR1U21sdkw3eEZwWDMtN2FBcW9mZXlBUjVnUlhtRWd1ZW94dnJn?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T20:59:39+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -544,6 +544,32 @@
       "verification": "未独立核实"
     },
     {
+      "id": "2523154f84256f563ce2",
+      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart and Price History - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWUF3VTYyMmFad2tQamthVmVhT3dPWlh5NG01LUtxbm42S0pOU2R0Q2FQZHVlOHBhV29xSzdsTEExX21FTTd2cTNObTc3RlBQVGZLMm5n?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T05:41:02+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "405881c4a13a19c59cfc",
+      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CeEl3cUcxS011QkY4S3NCVlFyMDJQQi0wVl9OWHlvVlpVQkdydFk0OTR1U21sdkw3eEZwWDMtN2FBcW9mZXlBUjVnUlhtRWd1ZW94dnJn?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T05:20:38+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "5c25af83733681f1cf08",
       "title": "ZEC Price Drops 11.3% Despite Grayscale’s $1 Million Sponsorship - KuCoin",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOG5tMWVIOHZOY0ZkRmdtQmdTZjBIYXJHcWtHQVI5ckYxQlZzbFdtRW0zT3ExUTNVNmxhazY2R3hwcFIwb1ZTZkg5ZjlZT0x3akpkVW5QdnA1aWYwWnN1WWE0bmZxTENRX0h1a0JPTWhvZVhNUVBYVndMOU5jaEhPMTBXUTRvRTduQ256SThJWEFLQm5BRlVJ?oc=5",
@@ -551,19 +577,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T03:19:41+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "2523154f84256f563ce2",
-      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart and Price History - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWUF3VTYyMmFad2tQamthVmVhT3dPWlh5NG01LUtxbm42S0pOU2R0Q2FQZHVlOHBhV29xSzdsTEExX21FTTd2cTNObTc3RlBQVGZLMm5n?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T02:52:55+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T16:42:33+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b142721c71606c1437f3",
-      "title": "Zcash Price Prediction Today, November 2026, 2030 & 2040 - CoinDCX",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oTVVSd0xLaFRFTkJOS2JOZ0ZXaENBR3NaX1VqRFJMR1M4MzlOMUlGbXpHTFhnNFVGaVRsbjkyaTh5R1RnX2hvZDN5emJtWF9zSERfZms3dFJ2bGtjeHl3bVlhdnY?oc=5",
-      "source": "CoinDCX",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T16:16:47+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
