@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-14T21:38:48.186709+00:00",
-  "last_success_at": "2026-11-14T21:38:48.186709+00:00",
+  "checked_at": "2026-11-14T22:39:29.916208+00:00",
+  "last_success_at": "2026-11-14T22:39:29.916208+00:00",
   "status": "ok",
   "sources": [
     {
@@ -37,6 +37,19 @@
   ],
   "items": [
     {
+      "id": "858c40d2566d216bb0f0",
+      "title": "Zcash (ZEC) Price Warning? Long Liquidation Cluster Sits at $860 - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uZEVHRDBIZXBhZlc5RUkyMTRadHBpUmZYazlQUzEycVhOYlpxS2F2cEtJY0JLM1A0eVA3Z2R2TnVkME1tSWZPSk54MDY1Rnhab3lRRWRoaU1NN00?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-14T22:13:09+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "f3febb773d26b6365938",
       "title": "Zcash plunged nearly 8%, falling below $900 to around $861. - KuCoin",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wUGxPYnM1TS05UWxzenNvSlN0Tk9YRmVBaUZCbnlYWE5xQ1FTWkxlMXRQbGZUOTFoa1pLM0JUc2xFWmZ2NVA1Y1hMaGRYZWJCN2Uyci1kZnVWSEpxajlzS2l5R1hsaTNGbklIWV8wMzVoZw?oc=5",
@@ -44,6 +57,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-14T20:28:11+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "4376d1746d6fd74abf01",
+      "title": "Why Is Zcash (ZEC) Price Falling? The Answer Isn’t the Broader Market - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zNlpsRjFLOFlTc0thb1hiVU90VnA1NWVoSUVDbnUxVDhKX1EtaHhaS29pWUN1QjJPLXRUUFBXTi0tMl9vY0pzaVNQT2JXMDBKZUxwcXZWWTl2bENYRmZOVm43V3puc2hFNW1jTVoyNURLdw?oc=5",
+      "source": "BeInCrypto",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-14T17:39:04+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -109,19 +135,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-14T02:25:18+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "4376d1746d6fd74abf01",
-      "title": "Why Is Zcash (ZEC) Price Falling? The Answer Isn’t the Broader Market - BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zNlpsRjFLOFlTc0thb1hiVU90VnA1NWVoSUVDbnUxVDhKX1EtaHhaS29pWUN1QjJPLXRUUFBXTi0tMl9vY0pzaVNQT2JXMDBKZUxwcXZWWTl2bENYRmZOVm43V3puc2hFNW1jTVoyNURLdw?oc=5",
-      "source": "BeInCrypto",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-13T23:19:18+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T00:44:04+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "815ceddad5ed5f154052",
-      "title": "What next for Zcash after ZEC’s 15% fall overshadows Grayscale’s $1M promise? - AMBCrypto",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVZISGNoM2w4cUJYZ0o3bkItUmtGbjJMQWREQ1JIa29HNkZrMlhEYnhlaHhScldZXzktcGtORnJaMFcxUnRNX09EbWdidFFTQVNCMG1kcmg4OGVkYUo3NDFFMlloczR2YUIwZl9KVDBNajRHWW9ja0h6NnNOMXd3YkVXRk03ZlJsVVdwMVZXYUJxOTlObWRhemZaSQ?oc=5",
-      "source": "AMBCrypto",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T23:00:21+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
