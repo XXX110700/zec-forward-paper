@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-14T19:44:26.042266+00:00",
-  "last_success_at": "2026-11-14T19:44:26.042266+00:00",
+  "checked_at": "2026-11-14T20:40:00.742794+00:00",
+  "last_success_at": "2026-11-14T20:40:00.742794+00:00",
   "status": "ok",
   "sources": [
     {
@@ -245,13 +245,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "12fd324a87eb4777f1c8",
-      "title": "Zcash spot ETFs saw $9.88M outflows on Nov 12, led by ZCSH fund withdrawals. - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQREhENjhETGEwSmZEVWdCbkhQX1BncjFMUHdWT1JWNjlDaURzZjVaeGxrWlEwVjVjTFdJSFpmbHlmWk5GNlJtSnJkVkJrMUNUMG5QZ0dXdnhRMHE3dVNKVnBUaVNHbmhJT3AxQlJkanhQUTZER3ZXbU5MU2xJdVgxaUZn?oc=5",
-      "source": "Pluang",
+      "id": "76bd167be1e799c5b46f",
+      "title": "Is $ZEC about to break even? - Binance",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wbmlGNkcxbE5SbmFQbk0zaUp4SnJBRzh6SGt0Q21RRDd0OWNHbTRvcEhUSEVFSzVnNFBmUEVTbGNTQ2xFM2Jtek1WQjVMT0hGTGh1ZTRZVmU0Rk1fN1UxRHJVREM?oc=5",
+      "source": "Binance",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-13T01:54:22+00:00",
+      "published_at": "2026-11-13T03:53:34+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -416,7 +416,7 @@
     {
       "id": "b0cf476b1f0481ca2328",
       "title": "ZCASH $大零币(ZEC.CC)$持有人将于11月16日至30日就一项联合创始人方案进行投票，该方案拟从资助金库中... - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeDA1WHZoWXFLYWhnUE1YcG5nX19WSGZBQjI5VjR6MWtpdmVyNUlVVEF5RW9MRDJpd3VWUnUtR25nVWpNeFhKRUl0ZU5NRlRhOVYwNFNDeVYwcnktVGY3VEhRMi1PUmd6aGxTOTBmcER6NDFrRms2ZEIyLURnbWpFZ3BmSkxiOTJ4Q0gtRjBfYk9BcTlYeW83YUZyQTVVLVVqd1RlZg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNzJ4OGViY0lGLTBTSDBPX29teEIwWmRDUUdFNUx4RlJMM09CY1VwTzN6SjVzdmJfRXlGU0ZnVHduNUZScnVvdXRnTWt3ZWh1TGxGa2g3cVUzRXF5S0J4SnZET2dGcTdYSXFMaU82QjhBQ1ZCVExIUXV6ZExlWlk4eHhqbXpIVkxTb01GbEhCcGhnRXRnU0w5VVlCWW9tOWhUU01HdjJB?oc=5",
       "source": "Moomoo",
       "feed": "Google News 中文",
       "kind": "aggregation",
