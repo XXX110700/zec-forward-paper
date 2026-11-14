@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_ts": 1794678300000,
+  "last_ts": 1794679200000,
   "above": {
     "long": false,
     "short": true
@@ -9,10 +9,23 @@
     "long": 0,
     "short": 5
   },
-  "pending": [],
+  "pending": [
+    {
+      "kind": "entry",
+      "id": "entry:short:1794678300000:1794679200000",
+      "side": "short",
+      "ts": 1794679200000,
+      "signal_ts": 1794678300000,
+      "score": 5,
+      "position": "已有模拟持仓",
+      "entry": 866.34,
+      "sl": 886.4299355047286,
+      "tp1": 842.2320773943258,
+      "tp2": 826.160128990543
+    }
+  ],
   "lifecycle_after": 1793113200000,
   "lifecycle_seen": [
-    "entry:short:1794328200000:1794329100000",
     "signal:short:1794348900000",
     "entry:short:1794348900000:1794349800000",
     "signal:short:1794362400000",
@@ -75,6 +88,7 @@
     "entry:short:1794670200000:1794671100000",
     "signal:short:1794672900000",
     "entry:short:1794672900000:1794673800000",
-    "signal:short:1794678300000"
+    "signal:short:1794678300000",
+    "entry:short:1794678300000:1794679200000"
   ]
 }
