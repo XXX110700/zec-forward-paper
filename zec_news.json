@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-14T15:40:21.960253+00:00",
-  "last_success_at": "2026-11-14T15:40:21.960253+00:00",
+  "checked_at": "2026-11-14T16:42:36.724222+00:00",
+  "last_success_at": "2026-11-14T16:42:36.724222+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 97
+      "matched": 98
     },
     {
       "name": "Google News 中文",
@@ -47,6 +47,19 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "b27e98ec679c9260c1f8",
+      "title": "Weekly Project Updates: CFTC Weighs Charges Against Kalshi, NYSE Uses Avalanche for Tokenized Stocks, Zcash Pushes NU8 Major Upgrade, etc - Substack",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Bd1Y0R2JpcUlFTVFQTkJHclNaaFhOOGRKSW9Oc2k3QnJEWHZaTktGVDhtX2d6bFduVENFQkR4eDd5OWppay01U1B1LWxsMHBpYzhwQnB6dURSOTJhUXBuTGthTmRjSUZYY0dEeGRyRTRqd2c?oc=5",
+      "source": "Substack",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-14T12:48:41+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T21:44:41+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "c09d3f775d2ece06b9e7",
-      "title": "Zcash gains as privacy demand lifts token ahead of Bitcoin - Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1pfZnRRZ1Q3MmJGc0t5MDAyeEJiNmxYWjluVzlWcFFuX3BrMTM1Zy1iNWQ2OU1XR2xKRk1vU1ZqLW9YU1ZjMXczdjkzWjZVYUVIQ283S1VOdDhLZkpJUHBOVUtQY1UyQWN3Y3pWSk9KSzRqdXBycV8zblRaNk81bTdOX2xnNFZRa21sbmI2ejUxQ1hod0VTc3lHXzdzdw?oc=5",
-      "source": "Traders Union",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T20:18:45+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
