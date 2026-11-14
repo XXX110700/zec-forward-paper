@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-14T11:40:20.201084+00:00",
-  "last_success_at": "2026-11-14T11:40:20.201084+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-14T12:50:29.654458+00:00",
+  "last_success_at": "2026-11-14T12:50:29.654458+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -26,13 +26,13 @@
     },
     {
       "name": "Google News EN",
-      "status": "ok",
-      "matched": 97
+      "status": "error",
+      "error": "HTTPError"
     },
     {
       "name": "Google News 中文",
-      "status": "ok",
-      "matched": 17
+      "status": "error",
+      "error": "HTTPError"
     }
   ],
   "items": [
