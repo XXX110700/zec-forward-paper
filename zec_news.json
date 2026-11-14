@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-14T02:02:02.011563+00:00",
-  "last_success_at": "2026-11-14T02:02:02.011563+00:00",
+  "checked_at": "2026-11-14T02:51:57.880077+00:00",
+  "last_success_at": "2026-11-14T02:51:57.880077+00:00",
   "status": "ok",
   "sources": [
     {
@@ -557,6 +557,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "345b46227ff7063e693c",
+      "title": "Zcash price jumps 3% in one hour despite 24-hou... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPellGRW43TGJWUzNJMWdQdWxGWnRLd0R3Zmc1UHVCeTJya3pfWkwyS3FCcjZUbF9ROVdzUlJfekRpNFpQR2RERFZ3RzdrajBiV3hyNWhTNk9TYzh2T2JKeEFmcS1HbHJtX3puX0VqYW1JeUtfWWJQNTFFampGVlBSd3JvLTJTb0NDVzN0TXJ2dmhCTkMxZzJXYkd3?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T00:44:04+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "33847d30cd985c3f3598",
       "title": "Grayscale: Zcash Active Developers Doubled in Two Years, Community Growth May Lift ZEC Valuation - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbGl5LWFiREtvQXotU0MzemFIUmt5aE95WWF4Z1M2YTZGOGdkRXI5SXAzZ19yX0RDYncxNnBOa2p3ZVNRcW5tME1penlmd3VUNXVKRUJHNXg3OTY5Tk41d1JYdnFLb3pwQnZ5MUVCQkVLRVlLTDdYb3ZfQnBhNmNyWkRfOHdKWUVkVTNnWHlpb1JESnJNLUpBT21lQlpfX0p5ZDh3QjRNRlhOSzZiX0t5TTFmWVFleEJZZ2w2Y0g5TkpNYnp6aWM3b20ydVRmNkpkRFZTNy1oVFg2MkUyTHNSbGNyTU5CRTY4a09WWGtB?oc=5",
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：launch",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b4473a815c3f8dc8f300",
-      "title": "Grayscale to Allocate $1M to Zcash Development Amid Capital Outflows From ETFs - Incrypted",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPazFwSGQweFp6cl9jSkk4STBNallyQ3I4ZkIzQ253SUs3WGVzLTlvQURaV2RSRFNqWGhzODBOd1NHbUdHcGxJbU9QallfVUNFdEk5Rm5hUjhCQ0xILWd3Vm9VTVdDVEZFSVowRmhfQ3VXMnFIOVpweDZucWhuSVRfcEctbkp3OWU5d3d5dmctMlNCd2I3Y0pTdU9QVERJRnc5bUZVcmZn?oc=5",
-      "source": "Incrypted",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T13:41:53+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
