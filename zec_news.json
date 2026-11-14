@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-14T06:58:27.732219+00:00",
-  "last_success_at": "2026-11-14T06:58:27.732219+00:00",
+  "checked_at": "2026-11-14T08:01:41.495215+00:00",
+  "last_success_at": "2026-11-14T08:01:41.495215+00:00",
   "status": "ok",
   "sources": [
     {
@@ -44,6 +44,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-14T04:24:59+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "dad6bb650719371975e8",
+      "title": "Zcash spot ETFs see $4.06M outflow, all from on... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONDZCSnNldUlMbG5WTnB5TjdJNEk5OEItZjN5bnBlQU5sV3VIam8tcUliYktHVnAtRkkzeWItRGlDemFHaE9JaWhTZTJLdndJRFhCMHByYkVMbjNTOXJweElQTjM0dTNjdk9SZjBpOVVvRHhKa09mMUVmNHVWLXRBd09EdmZpUQ?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-14T03:25:41+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -206,6 +219,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "f2001a13bcc9b3e7ab6b",
+      "title": "Here’s why Zcash could remove 50,000 ZEC from its grants treasury - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52TzJsS0V6YzhGSGF1aldEcmJST0xFTTE0RXZBMmY5cFlCTEZtY0Y2SFFUMXpLV1Bxd2RmS1BtZENFZ2pnYUdINGRkMWs3ajRvMEU0azZqSG9RUQ?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-13T06:00:40+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
       "id": "2b6bc0465f006e6b2789",
       "title": "Zcash (ZEC) drops 7.63% in 24 hours, hitting $9... - Pluang",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFFyQmhlX1FsZjZEcnpLUDlPaUk0UXFhVW1aRFZ2bjVrMTVTb0s5Y2ItNHh0Y09QZXBKaE1jTUtYYUl4V2lZeVZoM21aWHdLX0ozSG9aQ19xeDJiOVlBbGtZOTZGZWxjeElpa05xZEV6SzhkR2RjQXQyeVZXZGdUXzlGLUdvNjl5SWowdFpwczF2ZmtvWW1IMHAyM2o5VWpH?oc=5",
@@ -213,19 +239,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-13T04:55:53+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b2d11049ecca89264008",
-      "title": "ZEC Price Faces $740 Risk as ETF Outflows Hit and Developer Growth Continues - Coinpedia",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakU1TWFzOE9MZjhYZWJrZ3RQd05oNmtJOVNMRjRUbzJjbjhVSnE2ZXdNc0U3eGFQQUE1SjctR1Utd0o5c3VscXF2SW05RkZzVDZvdkhQY3FZWFpodjEweHVvSVlxU3huWHZHWWJhUmRfZFlZSlZGNTVjczNQV25teVpvZnlrcXM1OFhzM1NuNUVUTGRleFJUQ0NyWENSajRaeXFERWtHSng0WDVQRVZIVlVzSdIBuAFBVV95cUxPMjk5N1BXNHAxYk4xTU5qUzNnTU15VEdMNDZ0amE1LXRjd1dDbWUwQnMxWVhROTRWS3hWMUtQSFBMbGJQcVJNbU9SV2ZkU0lMT2dJZy1rWlYySFZuRFg1bDNyNm5iaktmMHV5bEs2WW5NWWsxbkhjcVlGdWR0d3dBS3VaRUdRUUNWYUE0dGVQNDg5bzJMd2FnQjd5aFhpbDRJSE9VUXRKcWp4MDN5TDM3ZmpZOFJ4azls?oc=5",
-      "source": "Coinpedia",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-13T01:39:53+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -242,19 +255,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "bec2feed9ac59829794f",
-      "title": "Here’s why Zcash could remove 50,000 ZEC from its grants treasury - AMBCrypto",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaC1hRTIwX0xGVVJHUUNtelhMakloQjNiRW9vQ2ZMMjU1ZW5EcXFKQnVXeUpwTTZzYWhJcXhidHZGaERlWGZQd0hWN21aZnNHUWVBRWJ4VkdUY0FlN2dpZ2lxTmJCMUVHZkN6djVBOHB5WFhhT2xwbEV6Mi12MEtxSXpNdjVGM1BSMEtnRVJrOA?oc=5",
-      "source": "AMBCrypto",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-13T00:00:29+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     },
     {
@@ -362,19 +362,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "cf3430934068d48c15f0",
-      "title": "Zcash Could End Flow of Block Rewards to Community Grants as Polls Open Nov. 16 - unchainedcrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVXJhdXkzOVlqem4wZV9WbmJjUWpjVXZ3X1hnR0xpWWZzZ19GMVZscFBLRS1uS1VwUm4zeExGTlVaOXB0Y2hNSVk1aHNSU2F1aEd6d2JBZE45QVktb3U5MnB3Y01ndnNaWVoyS0Z4QU5uZDYwZGYtUm9fRDcxOXZIaTl6Q05reUU1dzZfUXI3dkNsd2F6d29GQmU1ZW5lY1F1Z3BBdFpSTkdCelE?oc=5",
-      "source": "unchainedcrypto.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T12:00:00+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
       "id": "b0cf476b1f0481ca2328",
       "title": "ZCASH $大零币(ZEC.CC)$持有人将于11月16日至30日就一项联合创始人方案进行投票，该方案拟从资助金库中... - Moomoo",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNzJ4OGViY0lGLTBTSDBPX29teEIwWmRDUUdFNUx4RlJMM09CY1VwTzN6SjVzdmJfRXlGU0ZnVHduNUZScnVvdXRnTWt3ZWh1TGxGa2g3cVUzRXF5S0J4SnZET2dGcTdYSXFMaU82QjhBQ1ZCVExIUXV6ZExlWlk4eHhqbXpIVkxTb01GbEhCcGhnRXRnU0w5VVlCWW9tOWhUU01HdjJB?oc=5",
@@ -401,6 +388,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "b2d11049ecca89264008",
+      "title": "ZEC Price Faces $740 Risk as ETF Outflows Hit and Developer Growth Continues - Coinpedia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakU1TWFzOE9MZjhYZWJrZ3RQd05oNmtJOVNMRjRUbzJjbjhVSnE2ZXdNc0U3eGFQQUE1SjctR1Utd0o5c3VscXF2SW05RkZzVDZvdkhQY3FZWFpodjEweHVvSVlxU3huWHZHWWJhUmRfZFlZSlZGNTVjczNQV25teVpvZnlrcXM1OFhzM1NuNUVUTGRleFJUQ0NyWENSajRaeXFERWtHSng0WDVQRVZIVlVzSQ?oc=5",
+      "source": "Coinpedia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T11:46:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "4ecb83110f72d8fb104a",
       "title": "Zcash Falls Below $965 as Weekly Loss Reaches 26% - The Defiant",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNHhYMWtQTjJYT3A3TGo2blJDR2x2OUNaV09zdkhNcHFOT2RzRWpyVGlsU1ZQem9DQTFIZ2VVNi1sVWpTdzJPblB4bWhIOXhGQkM1MEVPTEQtcThuSi1mYTVBb1oyd3FmYlpnYW9qZzNlRWpvX1dGOW85Wmczb2hxWV90b0lBdlZrdUE?oc=5",
@@ -408,19 +408,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T11:41:45+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1e1928d6f0f5098e2439",
-      "title": "Zcash Proposes Withdrawal of 50,000 ZEC from Grant Fund - ForkLog",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2dRR0Z4Xy1KUVdmWkdhbHBzb1FMdkItTk5EcTlSNFJrUm1GTVFITVRucWdJdW5IajVZTHJuaWZSNzhTS0k4RkZsZ0stSjlKeEh2VVVRM1RzRjNBNGZCNk1yQW5yWGk1dFlPU1p6QVR6VDlUR3VOY3pnTjBQR0pkVVZmMnQ?oc=5",
-      "source": "ForkLog",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T08:13:10+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -440,19 +427,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "a348b4190f269ef5f564",
-      "title": "Zcash holders to vote on pulling 50,000 ZEC from the grants treasury - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwOFM2ZzgwWXlaX3pmczVHYU1QZXhYRWRDVVF6R05CMTZncmpBRUtwel95MGZ2QnkyOF9EYkpFYS0tdzdMWV9FVk1ITFdsdXcxRlNTVDNJeEFpZw?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T07:38:37+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "79fc4f9cdc55125b7bc4",
       "title": "Zcash 拟抽离 5,000 万美元储备金，社区投票定生死 - Moomoo",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUZLUWRTRU8yNnBUZDk0d0lPUzEtQlhKT3Jnc21PZklTWUhSMEJ3ekh2RUJGYVZhUFN4R0k4VnFLWloyYV9IdlNFWWpHbFh2ak9zSjRFYmpVZDlJanNOV3FGeXV0LVN4TktpTUpSa2hZVzJmYk81YUNySzl4LWhjd1JidzlXbjQyTUUzZGsyUXowdE1OaF9tRTNZeTJJUzlhTFhEeDM5bDlkMEx6ck9mVjUyZFlkUQ?oc=5",
@@ -466,32 +440,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "95b4dbbc7d4339c0b528",
-      "title": "Zcash Community Launches Vote on Proposal to Withdraw 50,000 ZEC, Worth About $50 Million - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pWWdtekRPS2VuRkpnMjFJWVBzWmpSb21JWkhuWVZtSTdCa0lwMWRmU1BEVmMzdEotVWVwcUctUC1uZlpreFpCQ1pSUjdncVFYUkdGWUxid0hSU3ZjZ0ticl9BSU1MVkJoTFlHV0RxUk53THd5bGc?oc=5",
-      "source": "BigGo Finance",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T06:26:00+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "50450ea171a6b3a9e2d0",
-      "title": "Zcash Community Seeks to Burn 50,000 ZEC Tokens, With Vote Set for Nov. 16 - bloomingbit",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TakhxcU13SnNRdTV4ZWVwUVJTSXVoZHRRcWxXYXBWeUdZVl9DYlI5T0hhbnY2R0d2TVhBUHBreGhYRUh0bjNZcm5EeWY2SGpQV2hibQ?oc=5",
-      "source": "bloomingbit",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T06:04:09+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "bd6ef325c8ccb2f630a4",
       "title": "Zcash price drops below $1,000 despite Grayscale’s $1M pledge - Crypto News",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qLVF3VWNzNUs5OVlzRHJ0Wl83TlR2dmNhVkhyUGRPbmZGQklUZEppdThMeVZxa0g3cUQ2dDlQeUx4RTlBeXdYMkVDVC03SnhCZTYwUDRveVlQanl5UFE1VFozTy03WEtuUWFCd2QyZTFpUnM0?oc=5",
@@ -502,19 +450,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "eb10cf79b3ab2db3dabb",
-      "title": "Zcash proposal would redirect grants treasury and block rewards to miner, legal defense funding - Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd2RLRTlKSXFzMVVWTG5GamJkZkdXRDZ6UnFyQU8waFliajZiYUota05peXkwMEFHOTktaURsM3dkNmU0bkh2dkR5d0VHWkNZckRNa2wtdVR2YUIwRmZ3bk1XcGMzRDVtREp3MDlQUTN3NW4wZFk2QjFUV1FRZ2ppTW9XcTRNMWx4aTFzUXJ2UWJpNFU3eDNiWHRBSmRDSGpM?oc=5",
-      "source": "Traders Union",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T05:55:30+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     },
     {
@@ -590,6 +525,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T01:33:28+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "345b46227ff7063e693c",
+      "title": "Zcash price jumps 3% in one hour despite 24-hou... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPellGRW43TGJWUzNJMWdQdWxGWnRLd0R3Zmc1UHVCeTJya3pfWkwyS3FCcjZUbF9ROVdzUlJfekRpNFpQR2RERFZ3RzdrajBiV3hyNWhTNk9TYzh2T2JKeEFmcS1HbHJtX3puX0VqYW1JeUtfWWJQNTFFampGVlBSd3JvLTJTb0NDVzN0TXJ2dmhCTkMxZzJXYkd3?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T00:44:04+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -681,6 +629,58 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T16:42:33+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "b142721c71606c1437f3",
+      "title": "Zcash Price Prediction Today, November 2026, 2030 & 2040 - CoinDCX",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oTVVSd0xLaFRFTkJOS2JOZ0ZXaENBR3NaX1VqRFJMR1M4MzlOMUlGbXpHTFhnNFVGaVRsbjkyaTh5R1RnX2hvZDN5emJtWF9zSERfZms3dFJ2bGtjeHl3bVlhdnY?oc=5",
+      "source": "CoinDCX",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T16:16:47+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "42f44bb6195c13f05127",
+      "title": "Zcash Loses $1,000 Just One Day After Grayscale Launches $1 Million Ecosystem Initiative - Coinpaper",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUo2QjVtVjM2eHlZdTF2NVJDMkhmdW9Pbk9aOWJRcXNBVUFqRVhBTkZxZGpOUnF0OVVqVTdKcmtKTXVJMmxpMXhlUnRFaFp3UnJJZEl1V3BvaDhnalZDWFlQOFpsRXRPUFhPQTlfbVdyU0xRb0pxSWdyZkRTU0JiUHFCb0ZJdHZrbVJzQU5ST2g0WFJHa1BKVzRFTTdrVFJjVXhMWkRxNmxpbzJ6NmRKQ3V1Y1g?oc=5",
+      "source": "Coinpaper",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T14:04:58+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：launch",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "31ecaf25a8dd33cde3bf",
+      "title": "Zcash drops below $1,000 despite Grayscale's $1M support pledge amid ETF outflows and liquidations. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeE9lRm1pdWV1NmE0WTdtekJYMDA5Mks0dHVXc3VFZm54NEsxSDNNTWRqZVFXWERpNEktZS03NzlaakNNNXRlVGZUN2hCZHUwLU1EbU5ybUt0NHhYYk9FSEdubWY2YlJuMkh1dGhQUEc5ZjhkQ1U2UkhYbWRUY2JKVVpnanBxOUhPTkVBeUd3MFB6Qm9DOUxrZmpYMVdvcVBpUVg0NjhDOGtmZWthZkZ3ek5B?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T14:04:40+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "b4473a815c3f8dc8f300",
+      "title": "Grayscale to Allocate $1M to Zcash Development Amid Capital Outflows From ETFs - Incrypted",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPazFwSGQweFp6cl9jSkk4STBNallyQ3I4ZkIzQ253SUs3WGVzLTlvQURaV2RSRFNqWGhzODBOd1NHbUdHcGxJbU9QallfVUNFdEk5Rm5hUjhCQ0xILWd3Vm9VTVdDVEZFSVowRmhfQ3VXMnFIOVpweDZucWhuSVRfcEctbkp3OWU5d3d5dmctMlNCd2I3Y0pTdU9QVERJRnc5bUZVcmZn?oc=5",
+      "source": "Incrypted",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T13:41:53+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
