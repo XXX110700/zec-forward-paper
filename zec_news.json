@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-15T20:40:56.083764+00:00",
-  "last_success_at": "2026-11-15T20:40:56.083764+00:00",
+  "checked_at": "2026-11-15T21:40:03.381904+00:00",
+  "last_success_at": "2026-11-15T21:40:03.381904+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 98
+      "matched": 99
     },
     {
       "name": "Google News 中文",
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "7cb79cdadca8a7672e04",
+      "title": "Why is Zcash price up 10% today? - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXdESi1rWWxoeC1zY1JDRlVXRFhWZTRuM3dHQ1hpQUZkSlJvOTNTd3B2MUx5S2RPd011WFFGUzFROEtZcGcwM09oSW5uVmI5dkZic3hhSkx0SV9YVFNSbk9tdmFfWFhnUFRhckw2eU5DYlBCLTRaTlozSC1jbndqRlZvN0NYYWlnNmdHTk8ya3BvNHg3RmlPYmd3X3FzRXc?oc=5",
+      "source": "Traders Union",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-15T20:54:24+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "38bc29e880193045a73a",
       "title": "Zcash proposes NU8 upgrade, targeting 200 anonymous transactions per second and stronger quantum resistance - 디지털투데이",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T18:46:13+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "6c0bbb1486cc6dcd30b8",
-      "title": "Zcash falls below $1,000 for first time since September - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Z1VpdVFHRXNYU1h1Qlp3Tl93RjE5aWlWMExJZW1WdGh5WnFrWVd6OFhtMmlhRi1IZkstSmpGcXRVaWpJNUFZeVZORmw4VHk0czZRYWlvblFkZw?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T17:27:09+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
