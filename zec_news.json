@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-15T01:03:40.401597+00:00",
-  "last_success_at": "2026-11-15T01:03:40.401597+00:00",
+  "checked_at": "2026-11-15T02:06:20.026223+00:00",
+  "last_success_at": "2026-11-15T02:06:20.026223+00:00",
   "status": "partial",
   "sources": [
     {
@@ -141,6 +141,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "f317995296cd663b7a39",
+      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdjQ1OUo2OEIzZFVqRXIwaGNTbUdIb19jRkEtWGlqQTk5SEc5UUxiNmt1X3V0SFZtRnNzOGJKWFktZVBRSVJPT1VlZnN4RmpuY0d4RkVYMzlvUQ?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-13T23:03:08+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "df9dae4d9ca3b286518b",
       "title": "Top 7 weekly crypto losers: RAIN, ZEC, BTW lead declines as market sell-off intensifies - tmgm.com",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWWZPX1dxaTlaS1B6ZlRqeThab1EwaDRucE1jODVKdnEzWHFzSmhUVUNUUDd6bExpVm9vWjNSR3ByM01veHN6VXhTUExoV3gtNldfYXVBeWxQczljY1hQeDVjdkpkTVJtRExHeFVScTJqWS02eUVuY2dpR0xWemhsNkItTDkzTm9kaU5GRHZuWi1CNmhmZ1VxMWJFZWluMlk2aFMwc0I2cGhldmJQVW9OV0QyWTJMUlNKWlU0RE1KNEszeWZQeWtLQWw3X2s2RVN2bmVUVU9GYmNFSVFsZ0l1RUYtcFhHTXlqWkln?oc=5",
@@ -174,19 +187,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-13T17:55:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f317995296cd663b7a39",
-      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdjQ1OUo2OEIzZFVqRXIwaGNTbUdIb19jRkEtWGlqQTk5SEc5UUxiNmt1X3V0SFZtRnNzOGJKWFktZVBRSVJPT1VlZnN4RmpuY0d4RkVYMzlvUQ?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-13T17:34:15+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -442,7 +442,7 @@
     {
       "id": "b0cf476b1f0481ca2328",
       "title": "ZCASH $大零币(ZEC.CC)$持有人将于11月16日至30日就一项联合创始人方案进行投票，该方案拟从资助金库中... - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeDA1WHZoWXFLYWhnUE1YcG5nX19WSGZBQjI5VjR6MWtpdmVyNUlVVEF5RW9MRDJpd3VWUnUtR25nVWpNeFhKRUl0ZU5NRlRhOVYwNFNDeVYwcnktVGY3VEhRMi1PUmd6aGxTOTBmcER6NDFrRms2ZEIyLURnbWpFZ3BmSkxiOTJ4Q0gtRjBfYk9BcTlYeW83YUZyQTVVLVVqd1RlZg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNzJ4OGViY0lGLTBTSDBPX29teEIwWmRDUUdFNUx4RlJMM09CY1VwTzN6SjVzdmJfRXlGU0ZnVHduNUZScnVvdXRnTWt3ZWh1TGxGa2g3cVUzRXF5S0J4SnZET2dGcTdYSXFMaU82QjhBQ1ZCVExIUXV6ZExlWlk4eHhqbXpIVkxTb01GbEhCcGhnRXRnU0w5VVlCWW9tOWhUU01HdjJB?oc=5",
       "source": "Moomoo",
       "feed": "Google News 中文",
       "kind": "aggregation",
@@ -468,7 +468,7 @@
     {
       "id": "b2d11049ecca89264008",
       "title": "ZEC Price Faces $740 Risk as ETF Outflows Hit and Developer Growth Continues - Coinpedia",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakU1TWFzOE9MZjhYZWJrZ3RQd05oNmtJOVNMRjRUbzJjbjhVSnE2ZXdNc0U3eGFQQUE1SjctR1Utd0o5c3VscXF2SW05RkZzVDZvdkhQY3FZWFpodjEweHVvSVlxU3huWHZHWWJhUmRfZFlZSlZGNTVjczNQV25teVpvZnlrcXM1OFhzM1NuNUVUTGRleFJUQ0NyWENSajRaeXFERWtHSng0WDVQRVZIVlVzSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakU1TWFzOE9MZjhYZWJrZ3RQd05oNmtJOVNMRjRUbzJjbjhVSnE2ZXdNc0U3eGFQQUE1SjctR1Utd0o5c3VscXF2SW05RkZzVDZvdkhQY3FZWFpodjEweHVvSVlxU3huWHZHWWJhUmRfZFlZSlZGNTVjczNQV25teVpvZnlrcXM1OFhzM1NuNUVUTGRleFJUQ0NyWENSajRaeXFERWtHSng0WDVQRVZIVlVzSdIBuAFBVV95cUxPMjk5N1BXNHAxYk4xTU5qUzNnTU15VEdMNDZ0amE1LXRjd1dDbWUwQnMxWVhROTRWS3hWMUtQSFBMbGJQcVJNbU9SV2ZkU0lMT2dJZy1rWlYySFZuRFg1bDNyNm5iaktmMHV5bEs2WW5NWWsxbkhjcVlGdWR0d3dBS3VaRUdRUUNWYUE0dGVQNDg5bzJMd2FnQjd5aFhpbDRJSE9VUXRKcWp4MDN5TDM3ZmpZOFJ4azls?oc=5",
       "source": "Coinpedia",
       "feed": "Google News EN",
       "kind": "aggregation",
