@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-15T05:54:38.263098+00:00",
-  "last_success_at": "2026-11-15T05:54:38.263098+00:00",
+  "checked_at": "2026-11-15T07:02:09.291814+00:00",
+  "last_success_at": "2026-11-15T07:02:09.291814+00:00",
   "status": "ok",
   "sources": [
     {
@@ -112,6 +112,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "d0bedf1cc7bf97e469de",
+      "title": "November 14, 2026: ZEC 15 min · 5:00–5:15 AM EST Crypto Prediction Market - Robinhood",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNmZfanlqOHRDN0pMdWd0WjBZbTNZZ0RRYjdDeXE5WXZsRGhabFZVcFZZWkxtTVBoVzZOZlFEYWw1ZTlqVlkzQy1lQ2FYd3JfdE9Zd0hoeUNGd2gtSGJ1WUV2VkJTOEFpNjg5SFpFOExmWHBUdi1JaWMtVm8yTldUYktBNW5yODhxTEpqbzlKWVdDTGFDVmRKSGRZaFZGY09h?oc=5",
+      "source": "Robinhood",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-14T10:07:28+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T03:19:41+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "e2a92f3a8d65fbbf9feb",
-      "title": "Zcash breaks below $1,000, biggest drop among top 100 coins - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObzJlMWpKYm02elpsYUtEbHZFRFVzTjJHOXRnejFyTU1QNW1OWFR5ZUJBR3hDY0FvWGlvWmh2ZmRzVWRwbm1JaTJWLWdhRTJWTFJNYUl6UU95NHY2QkZUUE5RU2Vpbk1jbWJHNlRHMGtzdFU1eE9WZnJhREU5SVdqZVRBSlhBQkNXTUx5aXFPa0swNWdRaU9CNFlCM0wxWHh4M1BaZQ?oc=5",
-      "source": "디지털투데이",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T01:33:28+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
