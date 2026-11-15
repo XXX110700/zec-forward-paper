@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-15T17:39:03.465152+00:00",
-  "last_success_at": "2026-11-15T17:39:03.465152+00:00",
+  "checked_at": "2026-11-15T18:46:02.285094+00:00",
+  "last_success_at": "2026-11-15T18:46:02.285094+00:00",
   "status": "ok",
   "sources": [
     {
@@ -102,6 +102,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "9dd7d05781d018e2523f",
+      "title": "Zcash (ZEC) drops 3.17% in one hour, down 9.46% over 24 hours amid heavy long liquidations. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVW04Z0NVU3hna2RSLW45dWxhTUc2WmxkcUlCTkV5YXBhVmhURWNmOEwwRXEyQUl0NW1HelpjV0dVejgzOFdxMmVpTEUwMlRORVh6S0FqN3lqVXRrUlhyNUg5aHdET0RZM1p4RlZUTElWODdCLTFBWGJHQkd6RkpoNGFacTlOaFdfblI0eXdOX21kU3NwZnE4Q3FiSQ?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-14T17:17:22+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "c2c9267b4909cb6a316c",
       "title": "Zcash price drops below $900 amid ETF outflows and upcoming community vote - Pluang",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkhWQ0N5T05leDAxR2JFYUFCMDZ1TVNha2VqTkNYcnV0eFdsa29abzdUbjFQQ203b3JnazJacVdJMEROay1MXzRzVkotM1BEaEtaeUR1QkppVEY5SFVVaW52UEhqUlM4VDJqNERBb0NHNmc5VGJ2RkNWejFISTFxeVJtWWdHdnFQQy1qQkZHZDlGbnBnR25wOHVicFJZZw?oc=5",
@@ -161,19 +174,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-14T04:24:59+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "55f00c5984cafef20b81",
-      "title": "Whale Adds to ZEC Long on Each Dip; 5x Position Shows $3.5 Million Loss - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX3BrN29UTkhya2lNcUlWSGtzSTZDanRrM2JHdEl3YTR1WlZaaDlqalppLWNiN2RKSEh5M1RPaWY2dnkybXZEMzllM0plck5talZhRGtwSlF5eGxjZVJ2QVRPdUdjdl9TRDhsMEZHUUtaS1o1NVJPTWtaZmV6WkFCaWdlNHk0YXk1dWoxVUh6TXhkQTBaa3d4MkRRYXYxVGhkSmM0ODdiTUY0NGhScVRtb1c5WTc0dUZOLXBPRnp4QTU5YnROQXdtdXhSaVI?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-14T02:25:18+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
