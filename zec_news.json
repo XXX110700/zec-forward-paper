@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-15T04:56:22.122592+00:00",
-  "last_success_at": "2026-11-15T04:56:22.122592+00:00",
+  "checked_at": "2026-11-15T05:54:38.263098+00:00",
+  "last_success_at": "2026-11-15T05:54:38.263098+00:00",
   "status": "ok",
   "sources": [
     {
@@ -36,6 +36,19 @@
     }
   ],
   "items": [
+    {
+      "id": "3cefda9d01d4f78359a8",
+      "title": "Crypto Presale Watch: SOL Breaks $80, Zcash Tests $900 and FLASH03 Puts Remittix RTX at an Effective $0.03 - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRFpYR2h4OW5lQjhOQ05yRlM2Y05PYUpyQUcwMnA4bnk4bXpJdkI1dlZUZDU0R0Z2RjRSZXp4WE5aenFzRlVWVS1iMmhBWlBlRU41VVR5ZllncS10eXVRR3ZHUUpHNU1hVV9GYWg3Njc2eVpIUG1rTXNMVzRNekp6ZHAzbFppdkpEUlJjRzJyNFk0dmIyWExxUXhqajZ4RUVUWHB2LXg0dXZDTS1BVXBvV0lPUXQyNzI5RG1ZdDVUbF8teElWZHFiZGc0Q1JsbjFvdVRPMDFpYnlZa1ZTZWZ3Ym1wcG1hRkU3TFBkWC1fdEtnSHJiaS11bjBEeTl1SzVhTVFrdUh6Yw?oc=5",
+      "source": "StreetInsider",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-15T05:06:43+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "a5e3e649e2a670efd096",
       "title": "zcash:native Zcash - Shorting and you'll be exitting at $80 - KuCoin",
@@ -468,7 +481,7 @@
     {
       "id": "b0cf476b1f0481ca2328",
       "title": "ZCASH $大零币(ZEC.CC)$持有人将于11月16日至30日就一项联合创始人方案进行投票，该方案拟从资助金库中... - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNzJ4OGViY0lGLTBTSDBPX29teEIwWmRDUUdFNUx4RlJMM09CY1VwTzN6SjVzdmJfRXlGU0ZnVHduNUZScnVvdXRnTWt3ZWh1TGxGa2g3cVUzRXF5S0J4SnZET2dGcTdYSXFMaU82QjhBQ1ZCVExIUXV6ZExlWlk4eHhqbXpIVkxTb01GbEhCcGhnRXRnU0w5VVlCWW9tOWhUU01HdjJB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeDA1WHZoWXFLYWhnUE1YcG5nX19WSGZBQjI5VjR6MWtpdmVyNUlVVEF5RW9MRDJpd3VWUnUtR25nVWpNeFhKRUl0ZU5NRlRhOVYwNFNDeVYwcnktVGY3VEhRMi1PUmd6aGxTOTBmcER6NDFrRms2ZEIyLURnbWpFZ3BmSkxiOTJ4Q0gtRjBfYk9BcTlYeW83YUZyQTVVLVVqd1RlZg?oc=5",
       "source": "Moomoo",
       "feed": "Google News 中文",
       "kind": "aggregation",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T01:33:28+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "345b46227ff7063e693c",
-      "title": "Zcash price jumps 3% in one hour despite 24-hou... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPellGRW43TGJWUzNJMWdQdWxGWnRLd0R3Zmc1UHVCeTJya3pfWkwyS3FCcjZUbF9ROVdzUlJfekRpNFpQR2RERFZ3RzdrajBiV3hyNWhTNk9TYzh2T2JKeEFmcS1HbHJtX3puX0VqYW1JeUtfWWJQNTFFampGVlBSd3JvLTJTb0NDVzN0TXJ2dmhCTkMxZzJXYkd3?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T00:44:04+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
