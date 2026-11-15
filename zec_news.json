@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-15T12:52:30.081509+00:00",
-  "last_success_at": "2026-11-15T12:52:30.081509+00:00",
+  "checked_at": "2026-11-15T13:54:15.692804+00:00",
+  "last_success_at": "2026-11-15T13:54:15.692804+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 14
+      "matched": 11
     }
   ],
   "items": [
