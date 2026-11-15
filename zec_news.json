@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-15T02:52:14.620335+00:00",
-  "last_success_at": "2026-11-15T02:52:14.620335+00:00",
+  "checked_at": "2026-11-15T03:53:31.255389+00:00",
+  "last_success_at": "2026-11-15T03:53:31.255389+00:00",
   "status": "ok",
   "sources": [
     {
@@ -245,6 +245,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "45b37d3f190f4ec4a5e6",
+      "title": "Zcash (ZEC) rises 5.64% in hours despite 24-hou... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ19lczFtUmd5ZkNxVUw0NTRIdVMydUJQekZwNjFzSFByTUJvVXlPNEpnblQxU1Q5Y2tXbWJmcGJNSVJQQ2tWQW9nWFZXejBaZTlqSWV5YlFiWEY3QkhFZlZRc0h4V3U2SHk4Rlc1WU04REd5UTJvV09SUDduUF9kMTMzYlV3c2pZUC1FSzlqR1k5YmdieWxB?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-13T09:34:10+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "c6761448b44a66f80f98",
       "title": "Zcash's NU7 Goes Live and Strands 12,224 ZEC in Sprout Pool - Blockhead",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPck41R1ExZnBwSmNFTVB2Y1ZZSFQzUDktVE5zR2o0Zzh5eThWcEVfUzc1WlVIM2ZHM0pyMXhDa0VXWk56WW9oR2FSMl8tNDIwU3hWMzVNWVZMRTdsdUZtbWl5LTlVX2tNNnNHU3FJSXF3aEw3VVkzbzNlTDJZLS1JZkFaZ1NKNERLRFVES0U2bHNrZ1NXdTEzMVB4dkpWdUUtZm1icV9EWXhnRWxPbXA5ZGJmWjFVMnJfYUlRcEQwWkRQWTJpU3RudjhJSQ?oc=5",
@@ -455,7 +468,7 @@
     {
       "id": "b0cf476b1f0481ca2328",
       "title": "ZCASH $大零币(ZEC.CC)$持有人将于11月16日至30日就一项联合创始人方案进行投票，该方案拟从资助金库中... - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNzJ4OGViY0lGLTBTSDBPX29teEIwWmRDUUdFNUx4RlJMM09CY1VwTzN6SjVzdmJfRXlGU0ZnVHduNUZScnVvdXRnTWt3ZWh1TGxGa2g3cVUzRXF5S0J4SnZET2dGcTdYSXFMaU82QjhBQ1ZCVExIUXV6ZExlWlk4eHhqbXpIVkxTb01GbEhCcGhnRXRnU0w5VVlCWW9tOWhUU01HdjJB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeDA1WHZoWXFLYWhnUE1YcG5nX19WSGZBQjI5VjR6MWtpdmVyNUlVVEF5RW9MRDJpd3VWUnUtR25nVWpNeFhKRUl0ZU5NRlRhOVYwNFNDeVYwcnktVGY3VEhRMi1PUmd6aGxTOTBmcER6NDFrRms2ZEIyLURnbWpFZ3BmSkxiOTJ4Q0gtRjBfYk9BcTlYeW83YUZyQTVVLVVqd1RlZg?oc=5",
       "source": "Moomoo",
       "feed": "Google News 中文",
       "kind": "aggregation",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T00:44:04+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "815ceddad5ed5f154052",
-      "title": "What next for Zcash after ZEC’s 15% fall overshadows Grayscale’s $1M promise? - AMBCrypto",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVZISGNoM2w4cUJYZ0o3bkItUmtGbjJMQWREQ1JIa29HNkZrMlhEYnhlaHhScldZXzktcGtORnJaMFcxUnRNX09EbWdidFFTQVNCMG1kcmg4OGVkYUo3NDFFMlloczR2YUIwZl9KVDBNajRHWW9ja0h6NnNOMXd3YkVXRk03ZlJsVVdwMVZXYUJxOTlObWRhemZaSQ?oc=5",
-      "source": "AMBCrypto",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T23:00:21+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
