@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-15T21:40:03.381904+00:00",
-  "last_success_at": "2026-11-15T21:40:03.381904+00:00",
+  "checked_at": "2026-11-15T22:41:11.709320+00:00",
+  "last_success_at": "2026-11-15T22:41:11.709320+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 12
+      "matched": 11
     }
   ],
   "items": [
@@ -226,19 +226,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-13T15:46:09+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "0e9a98f08e5626603be4",
-      "title": "Grayscale: Zcash ETF 出现 $4.1M 资金流出 - blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNW9ZMkFsQkk1dVlTZFAtMFVVa29uUjVtZEpOem1EQlJkZjhTSm9RVVpBRkFaTEdNZnVYc0ZUMHlNdmJKWE1RcktDQS02R1d6S0NwaFNRSnpwaUhGS2h2VFpyWXN6ZE5kcFl0TVZSdVJwWGpHZmlEUmItRHVjUXhqQnc5WXQ?oc=5",
-      "source": "blockchain.news",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-13T15:15:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -681,6 +668,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T18:46:13+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "6c0bbb1486cc6dcd30b8",
+      "title": "Zcash falls below $1,000 for first time since September - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Z1VpdVFHRXNYU1h1Qlp3Tl93RjE5aWlWMExJZW1WdGh5WnFrWVd6OFhtMmlhRi1IZkstSmpGcXRVaWpJNUFZeVZORmw4VHk0czZRYWlvblFkZw?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T17:27:09+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
