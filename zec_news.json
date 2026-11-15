@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-15T07:02:09.291814+00:00",
-  "last_success_at": "2026-11-15T07:02:09.291814+00:00",
+  "checked_at": "2026-11-15T08:08:39.773609+00:00",
+  "last_success_at": "2026-11-15T08:08:39.773609+00:00",
   "status": "ok",
   "sources": [
     {
@@ -115,19 +115,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "d0bedf1cc7bf97e469de",
-      "title": "November 14, 2026: ZEC 15 min · 5:00–5:15 AM EST Crypto Prediction Market - Robinhood",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNmZfanlqOHRDN0pMdWd0WjBZbTNZZ0RRYjdDeXE5WXZsRGhabFZVcFZZWkxtTVBoVzZOZlFEYWw1ZTlqVlkzQy1lQ2FYd3JfdE9Zd0hoeUNGd2gtSGJ1WUV2VkJTOEFpNjg5SFpFOExmWHBUdi1JaWMtVm8yTldUYktBNW5yODhxTEpqbzlKWVdDTGFDVmRKSGRZaFZGY09h?oc=5",
-      "source": "Robinhood",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-14T10:07:28+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "865fbf048c14584ca017",
       "title": "Zcash (ZEC) price drops 3.42% in one hour to $9... - Pluang",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRjlSVksySzNDM3gtNUQ1UDc1VnFYRTRIbURIWVlQNm9LbGQ3dGV3VDc5ejYybVVBVG1WREtEQnVqNThxU2V5bm9jb1dqSkYzS3hjSFBMc2NfRTZJNENqQkhxaTJBaWpUMzFNRG1MOGowd2VaMkllQTZwMkxLWS1FbVlMUGNka25EMzRKc2xQWlRwckI2ekE?oc=5",
@@ -135,19 +122,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-14T04:24:59+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "dad6bb650719371975e8",
-      "title": "Zcash spot ETFs see $4.06M outflow, all from on... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONDZCSnNldUlMbG5WTnB5TjdJNEk5OEItZjN5bnBlQU5sV3VIam8tcUliYktHVnAtRkkzeWItRGlDemFHaE9JaWhTZTJLdndJRFhCMHByYkVMbjNTOXJweElQTjM0dTNjdk9SZjBpOVVvRHhKa09mMUVmNHVWLXRBd09EdmZpUQ?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-14T03:25:41+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -297,6 +271,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "3f0b2fb189c9cd799434",
+      "title": "Top 7 weekly crypto losers: Intensifying market sell-off leaves RAIN, ZEC, BTW leading losses - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPME92WFE0UUNaem5vc3NTTU1neWtaUmYtbFBuU1A4a2F4WlJfanBJNU9uSzdtcHRQdklRQVNVb2ItVVFNUE9MS0xLT0ZOMmMzOXEzYl9OckowbHVwaXZwTFR1RjNjcWpNVVlKdDFkSHdzeHFFTU01RG5mbWhXTHBuZDZqNDRaZDB5T0NLVjBUbmNZWW1vLTYxeG50VFBZcWJsSFBGb1pnbGFteXRjUVc5NVF2SjhGTkRMTGw0Y2s5QzZfMWFnTGJha2Y4V29NdzVKeEYxNFFOUHNsN3Q0cXFUM2dsU255dHhu?oc=5",
+      "source": "www.tmgm.com",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-13T08:00:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "0e188acc34862e4c31ba",
       "title": "Crypto Price Analysis, BTC, XRP, SUI, LINK and ZEC, Nov. 13: Bitcoin Slides 6.7% as XRP Tests $1 - Cryptonews.net",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpTVY3SVB5dnoxd2Z6bFJGeVdRcktKMXdNQW5CTW91Qi1qMEdZNzJYR3FVVFNXRHE2OU44blQ0c25aNE1uTXFZVk5aUE9Qa0tsbndnNEItOUphQ3c?oc=5",
@@ -336,19 +323,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "12fd324a87eb4777f1c8",
-      "title": "Zcash spot ETFs saw $9.88M outflows on Nov 12, led by ZCSH fund withdrawals. - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQREhENjhETGEwSmZEVWdCbkhQX1BncjFMUHdWT1JWNjlDaURzZjVaeGxrWlEwVjVjTFdJSFpmbHlmWk5GNlJtSnJkVkJrMUNUMG5QZ0dXdnhRMHE3dVNKVnBUaVNHbmhJT3AxQlJkanhQUTZER3ZXbU5MU2xJdVgxaUZn?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-13T01:54:22+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "657b7814c9b722fa44d7",
       "title": "美国 ZEC 现货 ETF 单日总净流出 987.97 万美元 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCaDE5VGw5ZE5fRzR1VmZSV1NoLWFER21YdzJyU185UFBpUzhMS0h2QUNkYi01OWZ5c2dCSkg1Z1RxNFhkbXZxTy1uQllreHhaLUJLbndGSHlLVXN2SWRhRGtoSi13QQ?oc=5",
@@ -382,19 +356,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T18:25:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "a38a4ce3f2bcf4024e29",
-      "title": "The Grayscale Zcash ETF Lost $14.6 Million in One Day. Is That Why ZEC Can't Hold $1,000? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWGF3RzdHX1ZEa3BiVXREam5vSEl0NlYzWGJzZEdHcXRpaF9GOGFjSzZwcmFQYnZnamZ6aDdkTnd1azNGWVJXNEduT0RQSXliS2dQWmJtcDFtaW1KU3ZBSGFmNnJpX2VXTHRERkh5R0R2N2FiYjk4UDliS2xxR2ZpV0lmY0xpeFhBTmZ1WkFDcGRrME9FNnhCeFpOUWxOdEVRRUxERmxxLVVISEMxUWdreExwdV94NlBKUHV5cDlJMzJ1WHMwRW4wLVFuSkNxbzVaMllqOENWWW9pQQ?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T18:02:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -681,6 +642,45 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T03:19:41+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "e2a92f3a8d65fbbf9feb",
+      "title": "Zcash breaks below $1,000, biggest drop among top 100 coins - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObzJlMWpKYm02elpsYUtEbHZFRFVzTjJHOXRnejFyTU1QNW1OWFR5ZUJBR3hDY0FvWGlvWmh2ZmRzVWRwbm1JaTJWLWdhRTJWTFJNYUl6UU95NHY2QkZUUE5RU2Vpbk1jbWJHNlRHMGtzdFU1eE9WZnJhREU5SVdqZVRBSlhBQkNXTUx5aXFPa0swNWdRaU9CNFlCM0wxWHh4M1BaZQ?oc=5",
+      "source": "디지털투데이",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T01:33:28+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "345b46227ff7063e693c",
+      "title": "Zcash price jumps 3% in one hour despite 24-hou... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPellGRW43TGJWUzNJMWdQdWxGWnRLd0R3Zmc1UHVCeTJya3pfWkwyS3FCcjZUbF9ROVdzUlJfekRpNFpQR2RERFZ3RzdrajBiV3hyNWhTNk9TYzh2T2JKeEFmcS1HbHJtX3puX0VqYW1JeUtfWWJQNTFFampGVlBSd3JvLTJTb0NDVzN0TXJ2dmhCTkMxZzJXYkd3?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T00:44:04+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "815ceddad5ed5f154052",
+      "title": "What next for Zcash after ZEC’s 15% fall overshadows Grayscale’s $1M promise? - AMBCrypto",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVZISGNoM2w4cUJYZ0o3bkItUmtGbjJMQWREQ1JIa29HNkZrMlhEYnhlaHhScldZXzktcGtORnJaMFcxUnRNX09EbWdidFFTQVNCMG1kcmg4OGVkYUo3NDFFMlloczR2YUIwZl9KVDBNajRHWW9ja0h6NnNOMXd3YkVXRk03ZlJsVVdwMVZXYUJxOTlObWRhemZaSQ?oc=5",
+      "source": "AMBCrypto",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T23:00:21+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
