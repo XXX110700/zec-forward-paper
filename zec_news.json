@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-15T08:08:39.773609+00:00",
-  "last_success_at": "2026-11-15T08:08:39.773609+00:00",
+  "checked_at": "2026-11-15T08:55:08.731884+00:00",
+  "last_success_at": "2026-11-15T08:55:08.731884+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 15
+      "matched": 14
     }
   ],
   "items": [
@@ -115,6 +115,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "d0bedf1cc7bf97e469de",
+      "title": "November 14, 2026: ZEC 15 min · 5:00–5:15 AM EST Crypto Prediction Market - Robinhood",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNmZfanlqOHRDN0pMdWd0WjBZbTNZZ0RRYjdDeXE5WXZsRGhabFZVcFZZWkxtTVBoVzZOZlFEYWw1ZTlqVlkzQy1lQ2FYd3JfdE9Zd0hoeUNGd2gtSGJ1WUV2VkJTOEFpNjg5SFpFOExmWHBUdi1JaWMtVm8yTldUYktBNW5yODhxTEpqbzlKWVdDTGFDVmRKSGRZaFZGY09h?oc=5",
+      "source": "Robinhood",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-14T10:07:28+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "865fbf048c14584ca017",
       "title": "Zcash (ZEC) price drops 3.42% in one hour to $9... - Pluang",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRjlSVksySzNDM3gtNUQ1UDc1VnFYRTRIbURIWVlQNm9LbGQ3dGV3VDc5ejYybVVBVG1WREtEQnVqNThxU2V5bm9jb1dqSkYzS3hjSFBMc2NfRTZJNENqQkhxaTJBaWpUMzFNRG1MOGowd2VaMkllQTZwMkxLWS1FbVlMUGNka25EMzRKc2xQWlRwckI2ekE?oc=5",
@@ -135,19 +148,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-14T02:25:18+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f317995296cd663b7a39",
-      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdjQ1OUo2OEIzZFVqRXIwaGNTbUdIb19jRkEtWGlqQTk5SEc5UUxiNmt1X3V0SFZtRnNzOGJKWFktZVBRSVJPT1VlZnN4RmpuY0d4RkVYMzlvUQ?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-13T23:03:08+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -187,19 +187,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-13T20:13:03+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "598b0560729ca03b1b1c",
-      "title": "How Might Zcash Holdings Shape Cypherpunk Technologies Inc. (NASDAQ:CYPH) in Its Q3 2026 Release on November 16, 2026? - Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLWRqYV9aRk1oU1Ytak8xbkQtd2k2MlBvbi1sWkVIeWNteXFPTGJxVlZOc3ViNUpUdUw1eXdfU3JrMTE0SDN2ZmN0T2NMYlN5MnQwVzNUQzdubjVXS1pEb1hVcHNGMVktcmwzSl90MzI1UXllOUxGV0hBZ3djekNIWGRaUTVlVHJ3TUdCSFBfcWhSNXNvd2hWZWpTMzJqdVh1ME9XX0JRbTQ4V3B5Y2VkQUcwenVWQndiUm9TUnR6Q3dPLUg3TlFWcEppZUlQVUVXVkFZcTVGb20yOTBBZGsxOHpncHg?oc=5",
-      "source": "Kalkine",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-13T17:55:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -681,6 +668,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T23:00:21+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "e2b59919d61c04f243fd",
+      "title": "Bitcoin Stays Below $75,000 as XRP and Zcash Lose About 20 Percent in a Week - trendingtopics.eu",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeTJNMTFGdXJHS2s5eUg3S3FrOVVUUlQ5QXNWRl9VeTgxUGVfbTA4YmxvWUwxaXdkUmtiUjZ0T3lLM2NCYl9CUTQxQmtjeGU3QmUxRG9vblA3M3E2TE5SejZXZWpSSHRZcEhXa3RDUktGcUxvRGlCX2YxcGl6cmhVcVZZWG9kY2M?oc=5",
+      "source": "trendingtopics.eu",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T21:44:41+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
