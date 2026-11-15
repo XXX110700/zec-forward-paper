@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-15T22:41:11.709320+00:00",
-  "last_success_at": "2026-11-15T22:41:11.709320+00:00",
+  "checked_at": "2026-11-15T23:47:03.485406+00:00",
+  "last_success_at": "2026-11-15T23:47:03.485406+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 99
+      "matched": 98
     },
     {
       "name": "Google News 中文",
@@ -174,19 +174,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-13T22:45:46+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "4ad598506604c6aa89b2",
-      "title": "Crypto Price Analysis, BTC, XRP, SUI, LINK and ZEC, Nov. 13: Bitcoin Slides 6.7% as XRP Tests $1 - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWVJINDRFMzd0X3NGU1VGMy0xVkxfZFNUODhMelNCLXZuMjFWV1lsRlM5T0F4Q2NNaEl0ZmtaYXUwTEtzWTBPblFZdzNIWVhHRVJ3UE91TlhYWjNORWVjNXBfc05pN2FRRk4tUU4zUEMtMzNseDFYREphZks2UDh1cUNxVHdEUk0xTVVKRkNyTEdMZFVPc25vYWNfcGotR0stNEZGbk1FMkhibkVEMWR2XzdtMUVUT05EX3dEeEc3TjltT1E?oc=5",
-      "source": "CryptoRank",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-13T20:13:03+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -681,6 +668,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T17:27:09+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "93a8984eea361899ba81",
+      "title": "Zcash (ZEC) sees $14.34M liquidations as price drops nearly 10% in one hour - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcXFYelhpZFpEcncyd2pmeVlXQkkwUVZGMnhpR2t2dDNNM01WTnpfYlNSM1VFbEtSdVFjODBJSGprYlkzbzFVdWR0M1FaelFaVjUwYXVnal9Fdm1oVzdoMldFSEVhWnBTYWo3MzU2SmU4anFmYTh1aV9xeThnMWhfc1UzbEFOdzd1UE5tOEdCSQ?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T17:17:45+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
