@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-14T23:37:39.228259+00:00",
-  "last_success_at": "2026-11-14T23:37:39.228259+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-15T01:03:40.401597+00:00",
+  "last_success_at": "2026-11-15T01:03:40.401597+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 0
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 98
+      "matched": 97
     },
     {
       "name": "Google News 中文",
@@ -37,13 +37,13 @@
   ],
   "items": [
     {
-      "id": "858c40d2566d216bb0f0",
-      "title": "Zcash (ZEC) Price Warning? Long Liquidation Cluster Sits at $860 - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uZEVHRDBIZXBhZlc5RUkyMTRadHBpUmZYazlQUzEycVhOYlpxS2F2cEtJY0JLM1A0eVA3Z2R2TnVkME1tSWZPSk54MDY1Rnhab3lRRWRoaU1NN00?oc=5",
-      "source": "Cryptonews.net",
+      "id": "a5e3e649e2a670efd096",
+      "title": "zcash:native Zcash - Shorting and you'll be exitting at $80 - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tMnQ1UDhZRE1oMFVTdGVGWFZwZ1pPR2l3cHJ0SzNRMFlEaG5ZVl9KS2VoRmxiZ0NHeWR0SU9oN0VXSWpxQ3FjMm1oMExadGJ0eTlqZFotemQySGIwTFExcnlwRmZEOHZrOC1taS1vS1ZDQQ?oc=5",
+      "source": "KuCoin",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-14T22:13:09+00:00",
+      "published_at": "2026-11-15T00:34:12+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -401,19 +401,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "405881c4a13a19c59cfc",
-      "title": "Zcash ZEC (ZEC-USD) Live Price, News, Chart & Price History - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CeEl3cUcxS011QkY4S3NCVlFyMDJQQi0wVl9OWHlvVlpVQkdydFk0OTR1U21sdkw3eEZwWDMtN2FBcW9mZXlBUjVnUlhtRWd1ZW94dnJn?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T13:24:04+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "54fec8acdd61a02d4646",
       "title": "Zcash Price Fate: ZEC to Bounce After Grayscale WSJ Ads? - Cryptonews",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1NkxpaWpUR2lIZm9nMmNfNEYzblNRaXFHaWpiOHpUdk9vM1I2YVZmSUlUYVhJaGtsOWZyM1hQSWNLaXFaSTgtNDZ2eXJEWFZ2M0RQTmFpUTlDWlhEbzY5cHlFWURXTnNkRVJjYUdVMGp6c2l1Yl9WNnRGMDBaUQ?oc=5",
@@ -455,7 +442,7 @@
     {
       "id": "b0cf476b1f0481ca2328",
       "title": "ZCASH $大零币(ZEC.CC)$持有人将于11月16日至30日就一项联合创始人方案进行投票，该方案拟从资助金库中... - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNzJ4OGViY0lGLTBTSDBPX29teEIwWmRDUUdFNUx4RlJMM09CY1VwTzN6SjVzdmJfRXlGU0ZnVHduNUZScnVvdXRnTWt3ZWh1TGxGa2g3cVUzRXF5S0J4SnZET2dGcTdYSXFMaU82QjhBQ1ZCVExIUXV6ZExlWlk4eHhqbXpIVkxTb01GbEhCcGhnRXRnU0w5VVlCWW9tOWhUU01HdjJB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeDA1WHZoWXFLYWhnUE1YcG5nX19WSGZBQjI5VjR6MWtpdmVyNUlVVEF5RW9MRDJpd3VWUnUtR25nVWpNeFhKRUl0ZU5NRlRhOVYwNFNDeVYwcnktVGY3VEhRMi1PUmd6aGxTOTBmcER6NDFrRms2ZEIyLURnbWpFZ3BmSkxiOTJ4Q0gtRjBfYk9BcTlYeW83YUZyQTVVLVVqd1RlZg?oc=5",
       "source": "Moomoo",
       "feed": "Google News 中文",
       "kind": "aggregation",
@@ -628,7 +615,7 @@
       "source": "CoinDesk",
       "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-11-12T05:49:44+00:00",
+      "published_at": "2026-11-12T05:51:37+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -681,6 +668,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T23:00:21+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "e2b59919d61c04f243fd",
+      "title": "Bitcoin Stays Below $75,000 as XRP and Zcash Lose About 20 Percent in a Week - trendingtopics.eu",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeTJNMTFGdXJHS2s5eUg3S3FrOVVUUlQ5QXNWRl9VeTgxUGVfbTA4YmxvWUwxaXdkUmtiUjZ0T3lLM2NCYl9CUTQxQmtjeGU3QmUxRG9vblA3M3E2TE5SejZXZWpSSHRZcEhXa3RDUktGcUxvRGlCX2YxcGl6cmhVcVZZWG9kY2M?oc=5",
+      "source": "trendingtopics.eu",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T21:44:41+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
