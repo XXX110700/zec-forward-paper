@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-15T15:41:10.508890+00:00",
-  "last_success_at": "2026-11-15T15:41:10.508890+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-15T16:43:45.230498+00:00",
+  "last_success_at": "2026-11-15T16:43:45.230498+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 0
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 97
+      "matched": 98
     },
     {
       "name": "Google News 中文",
@@ -52,7 +52,7 @@
     {
       "id": "3867f9f7a0b341fd4809",
       "title": "一周热门项目动态：CFTC 或对Kalshi 提起指控、纽交所将使用Avalanche 结算代币化股票、Zcash 推进 NU8 重大升级等（1108–1114） - 吴说",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR3B4NUZ5bGJhR25Vc0VNWlotNHRnUXgwTlRSQlVldUtlNTllR1U4WDd2WVVzX09sNzVNaWE0eU9NN19BUkNwQV9OUlBuY3NqdW1PR1dsMEtacGhOa1p3RU1SRnU4ZVBqeUZvd1MtQnozZ2otVEJQNmFaY054WVpTb2hJVFZ0Yi1GMS1odXhiRlVyejlTNG9WNVB6Tk9HMzVSTEdQTkdlNmc4X2s3LThWQ3lsRVVpekdrZkdaMV9CUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVjVDQkc0eFk0TW05VlZadmVEd0JqbUljVTRrTFlfR3RSTkVBZHpSUEdYMm1QWThvYXF2Vmc3Y3NZNVZFdGZlS3FEcDd5RUVtbW90X09KNi1SZ3BWNnlmNFVmWjBlWFQzVVhzdmNJR19YTnBHNUZGa1dpMUhmT1lQOW5PR1JRZXNXenhfMkM0dUU4VWtVUDdCQ3ZQbktWLVNMS193TkU5WHZVeWNFWG9kUmhoLTR0RnpIOWdGV051UDdldEZw?oc=5",
       "source": "吴说",
       "feed": "Google News 中文",
       "kind": "aggregation",
@@ -200,6 +200,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-13T20:13:03+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "d0b6ee58c763d272a649",
+      "title": "What is Zcash (ZEC)? The Privacy Coin Using Zero-Knowledge Proofs - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ad3B1RDBXVnFkY2F6VFBMLTU3M0JfWl9iSEZnaTdfZXRldXVPdzZhVVBKdmRZUGZsZV9vR2s0VkNrQjM1NmJVRW13?oc=5",
+      "source": "Decrypt",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-13T16:50:13+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T14:04:40+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b4473a815c3f8dc8f300",
-      "title": "Grayscale to Allocate $1M to Zcash Development Amid Capital Outflows From ETFs - Incrypted",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPazFwSGQweFp6cl9jSkk4STBNallyQ3I4ZkIzQ253SUs3WGVzLTlvQURaV2RSRFNqWGhzODBOd1NHbUdHcGxJbU9QallfVUNFdEk5Rm5hUjhCQ0xILWd3Vm9VTVdDVEZFSVowRmhfQ3VXMnFIOVpweDZucWhuSVRfcEctbkp3OWU5d3d5dmctMlNCd2I3Y0pTdU9QVERJRnc5bUZVcmZn?oc=5",
-      "source": "Incrypted",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T13:41:53+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
