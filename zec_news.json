@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-15T13:54:15.692804+00:00",
-  "last_success_at": "2026-11-15T13:54:15.692804+00:00",
+  "checked_at": "2026-11-15T14:44:55.818031+00:00",
+  "last_success_at": "2026-11-15T14:44:55.818031+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 11
+      "matched": 12
     }
   ],
   "items": [
@@ -47,6 +47,19 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：upgrade",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "3867f9f7a0b341fd4809",
+      "title": "一周热门项目动态：CFTC 或对Kalshi 提起指控、纽交所将使用Avalanche 结算代币化股票、Zcash 推进 NU8 重大升级等（1108–1114） - 吴说",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR3B4NUZ5bGJhR25Vc0VNWlotNHRnUXgwTlRSQlVldUtlNTllR1U4WDd2WVVzX09sNzVNaWE0eU9NN19BUkNwQV9OUlBuY3NqdW1PR1dsMEtacGhOa1p3RU1SRnU4ZVBqeUZvd1MtQnozZ2otVEJQNmFaY054WVpTb2hJVFZ0Yi1GMS1odXhiRlVyejlTNG9WNVB6Tk9HMzVSTEdQTkdlNmc4X2s3LThWQ3lsRVVpekdrZkdaMV9CUQ?oc=5",
+      "source": "吴说",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-15T08:00:00+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：升级",
       "verification": "未独立核实"
     },
     {
@@ -671,19 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：launch",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "31ecaf25a8dd33cde3bf",
-      "title": "Zcash drops below $1,000 despite Grayscale's $1M support pledge amid ETF outflows and liquidations. - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeE9lRm1pdWV1NmE0WTdtekJYMDA5Mks0dHVXc3VFZm54NEsxSDNNTWRqZVFXWERpNEktZS03NzlaakNNNXRlVGZUN2hCZHUwLU1EbU5ybUt0NHhYYk9FSEdubWY2YlJuMkh1dGhQUEc5ZjhkQ1U2UkhYbWRUY2JKVVpnanBxOUhPTkVBeUd3MFB6Qm9DOUxrZmpYMVdvcVBpUVg0NjhDOGtmZWthZkZ3ek5B?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T14:04:40+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
