@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-15T02:06:20.026223+00:00",
-  "last_success_at": "2026-11-15T02:06:20.026223+00:00",
-  "status": "partial",
+  "checked_at": "2026-11-15T02:52:14.620335+00:00",
+  "last_success_at": "2026-11-15T02:52:14.620335+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 0
     },
     {
       "name": "Cointelegraph",
@@ -161,6 +161,19 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-13T22:58:33+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "4ce66e54cc1c065b5905",
+      "title": "Top 7 weekly crypto losers: RAIN, ZEC, BTW lead declines as market sell-off intensifies - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPelNkSUFUOUdjNWtJdVlGVmlzNEM2WjMwTDlVUUs1bkhiYkNERC1Qc2JlSDkySmE2OHBCT2NoQmdwWjRvVjVnS1U1ejJ1ZjdPNHpsaUxMTFlIVloxZ0RTOWNvQk5icVBHWmphMjlyZlNHZ2thUXByN3V6R0FoVDFoQ0pZcThKYjk4NV8yMFZnREFCSFdVMDVfc19ScFpBamxydktNNUQ1T1REcmJXUGFDMG9Zak5fSllXQldQMm9LYnpYNkExR2J0Ti1wVExNWm85X0dXc3JMS0dVRzlU?oc=5",
+      "source": "FXStreet",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-13T22:45:46+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T23:00:21+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "e2b59919d61c04f243fd",
-      "title": "Bitcoin Stays Below $75,000 as XRP and Zcash Lose About 20 Percent in a Week - trendingtopics.eu",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeTJNMTFGdXJHS2s5eUg3S3FrOVVUUlQ5QXNWRl9VeTgxUGVfbTA4YmxvWUwxaXdkUmtiUjZ0T3lLM2NCYl9CUTQxQmtjeGU3QmUxRG9vblA3M3E2TE5SejZXZWpSSHRZcEhXa3RDUktGcUxvRGlCX2YxcGl6cmhVcVZZWG9kY2M?oc=5",
-      "source": "trendingtopics.eu",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T21:44:41+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
