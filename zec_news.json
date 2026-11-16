@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-16T02:57:23.706895+00:00",
-  "last_success_at": "2026-11-16T02:57:23.706895+00:00",
+  "checked_at": "2026-11-16T04:13:59.316012+00:00",
+  "last_success_at": "2026-11-16T04:13:59.316012+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 10
+      "matched": 11
     }
   ],
   "items": [
@@ -180,6 +180,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "dad6bb650719371975e8",
+      "title": "Zcash spot ETFs see $4.06M outflow, all from on... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONDZCSnNldUlMbG5WTnB5TjdJNEk5OEItZjN5bnBlQU5sV3VIam8tcUliYktHVnAtRkkzeWItRGlDemFHaE9JaWhTZTJLdndJRFhCMHByYkVMbjNTOXJweElQTjM0dTNjdk9SZjBpOVVvRHhKa09mMUVmNHVWLXRBd09EdmZpUQ?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-14T03:25:41+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "4ce66e54cc1c065b5905",
       "title": "Top 7 weekly crypto losers: RAIN, ZEC, BTW lead declines as market sell-off intensifies - FXStreet",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPelNkSUFUOUdjNWtJdVlGVmlzNEM2WjMwTDlVUUs1bkhiYkNERC1Qc2JlSDkySmE2OHBCT2NoQmdwWjRvVjVnS1U1ejJ1ZjdPNHpsaUxMTFlIVloxZ0RTOWNvQk5icVBHWmphMjlyZlNHZ2thUXByN3V6R0FoVDFoQ0pZcThKYjk4NV8yMFZnREFCSFdVMDVfc19ScFpBamxydktNNUQ1T1REcmJXUGFDMG9Zak5fSllXQldQMm9LYnpYNkExR2J0Ti1wVExNWm85X0dXc3JMS0dVRzlU?oc=5",
@@ -226,6 +239,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-13T15:46:09+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "0e9a98f08e5626603be4",
+      "title": "Grayscale: Zcash ETF 出现 $4.1M 资金流出 - blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNW9ZMkFsQkk1dVlTZFAtMFVVa29uUjVtZEpOem1EQlJkZjhTSm9RVVpBRkFaTEdNZnVYc0ZUMHlNdmJKWE1RcktDQS02R1d6S0NwaFNRSnpwaUhGS2h2VFpyWXN6ZE5kcFl0TVZSdVJwWGpHZmlEUmItRHVjUXhqQnc5WXQ?oc=5",
+      "source": "blockchain.news",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-13T15:15:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -310,6 +336,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "12fd324a87eb4777f1c8",
+      "title": "Zcash spot ETFs saw $9.88M outflows on Nov 12, led by ZCSH fund withdrawals. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQREhENjhETGEwSmZEVWdCbkhQX1BncjFMUHdWT1JWNjlDaURzZjVaeGxrWlEwVjVjTFdJSFpmbHlmWk5GNlJtSnJkVkJrMUNUMG5QZ0dXdnhRMHE3dVNKVnBUaVNHbmhJT3AxQlJkanhQUTZER3ZXbU5MU2xJdVgxaUZn?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-13T01:54:22+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "657b7814c9b722fa44d7",
       "title": "美国 ZEC 现货 ETF 单日总净流出 987.97 万美元 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCaDE5VGw5ZE5fRzR1VmZSV1NoLWFER21YdzJyU185UFBpUzhMS0h2QUNkYi01OWZ5c2dCSkg1Z1RxNFhkbXZxTy1uQllreHhaLUJLbndGSHlLVXN2SWRhRGtoSi13QQ?oc=5",
@@ -343,6 +382,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-12T18:25:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "a38a4ce3f2bcf4024e29",
+      "title": "The Grayscale Zcash ETF Lost $14.6 Million in One Day. Is That Why ZEC Can't Hold $1,000? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWGF3RzdHX1ZEa3BiVXREam5vSEl0NlYzWGJzZEdHcXRpaF9GOGFjSzZwcmFQYnZnamZ6aDdkTnd1azNGWVJXNEduT0RQSXliS2dQWmJtcDFtaW1KU3ZBSGFmNnJpX2VXTHRERkh5R0R2N2FiYjk4UDliS2xxR2ZpV0lmY0xpeFhBTmZ1WkFDcGRrME9FNnhCeFpOUWxOdEVRRUxERmxxLVVISEMxUWdreExwdV94NlBKUHV5cDlJMzJ1WHMwRW4wLVFuSkNxbzVaMllqOENWWW9pQQ?oc=5",
+      "source": "24/7 Wall St.",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-12T18:02:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -629,58 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T23:00:21+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "e2b59919d61c04f243fd",
-      "title": "Bitcoin Stays Below $75,000 as XRP and Zcash Lose About 20 Percent in a Week - trendingtopics.eu",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeTJNMTFGdXJHS2s5eUg3S3FrOVVUUlQ5QXNWRl9VeTgxUGVfbTA4YmxvWUwxaXdkUmtiUjZ0T3lLM2NCYl9CUTQxQmtjeGU3QmUxRG9vblA3M3E2TE5SejZXZWpSSHRZcEhXa3RDUktGcUxvRGlCX2YxcGl6cmhVcVZZWG9kY2M?oc=5",
-      "source": "trendingtopics.eu",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T21:44:41+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "dc48fba2034dfaadd7c6",
-      "title": "Zcash price crashes 13% despite Grayscale's $1 million push: is $880 now in play? - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CR2ZNQlJEU3NWNThIcHNaNWllaWhtX3JxczNHUF9teGJKakFJUjE2ODhUMXhORkNuNG9fS1E0Um9CUFhpNEJELV8wT1NjQXByQUdmYWdseXFFdG8?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T18:47:17+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "9bcf71d1a600679eb5ee",
-      "title": "Zcash drops below $1,000 amid US inflation fears and leveraged sell-offs - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXd5aldiMXQwUmhXWlpad2FmaV93d1lUODhZRjRCQXNEZkNEbXROdnMzZDZackFpS2pqWXBvR0I0dUdSc1JtQnBLVk1oNVZiSUlEbUtWZFZqY2FPLXlQOFhWSnVNRk9MQ2dKNkhtNzZjdFFYci1OX0ZBdlZWU2I2Y2tJU0ZSdGFPWHlKM2M3ekNCS2kxN1pjMUhKcUtQMzRE?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T18:46:13+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "6c0bbb1486cc6dcd30b8",
-      "title": "Zcash falls below $1,000 for first time since September - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Z1VpdVFHRXNYU1h1Qlp3Tl93RjE5aWlWMExJZW1WdGh5WnFrWVd6OFhtMmlhRi1IZkstSmpGcXRVaWpJNUFZeVZORmw4VHk0czZRYWlvblFkZw?oc=5",
-      "source": "Cryptonews.net",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T17:27:09+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
