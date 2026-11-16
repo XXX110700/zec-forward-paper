@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-15T23:47:03.485406+00:00",
-  "last_success_at": "2026-11-15T23:47:03.485406+00:00",
+  "checked_at": "2026-11-16T01:23:38.278014+00:00",
+  "last_success_at": "2026-11-16T01:23:38.278014+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 11
+      "matched": 10
     }
   ],
   "items": [
@@ -44,6 +44,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-15T20:54:24+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "9ae2e96598fdb00048a1",
+      "title": "November 15, 2026: ZEC 15 min · 10:00–10:15 AM EST Crypto Prediction Market - Robinhood",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQXFQUkNhTS1kcGI2cUtid2h3WHZYVWU3X0VfYjc2Z191aDd5WExPUXJoajV5aUVmUlN5NnQwa3hjUEZONlpROTZqWWkxd0Z5UWJUVkJlYmtTckpNeThFX3JGa0M5bXBnbHVULTdHN0pLbWlSd3dQbnlzVS04RDNZVU1QWHhqNF9sRXhQY2d0cFZQMzh2RWF6a0RRbmFIMDhQ?oc=5",
+      "source": "Robinhood",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-15T15:09:19+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -128,19 +141,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "84e3e94edad4c4ef6f1d",
-      "title": "November 14, 2026: ZEC 15 min · 7:45–8:00 AM EST Crypto Prediction Market - Robinhood",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHhTdnFzWnpnbU1vQnB3MlRwZXk1YTdzdDg0SDlOM2xUc3Z1Smw4UWphYnJBeGVfWlhrQUhiMUZ6MGo5bVJaSXpZb0NmandhTGlRSFhtbFIwYms0aHpmOHdBdndYbDgzS2liOUQtSDFNdHBEdVlETXlQc0x0cDNHSk05b05EenE5R2tLV3MxRVZKZU84S0FENTlseGtnVHdv?oc=5",
-      "source": "Robinhood",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-14T12:56:01+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "b27e98ec679c9260c1f8",
       "title": "Weekly Project Updates: CFTC Weighs Charges Against Kalshi, NYSE Uses Avalanche for Tokenized Stocks, Zcash Pushes NU8 Major Upgrade, etc - Substack",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Bd1Y0R2JpcUlFTVFQTkJHclNaaFhOOGRKSW9Oc2k3QnJEWHZaTktGVDhtX2d6bFduVENFQkR4eDd5OWppay01U1B1LWxsMHBpYzhwQnB6dURSOTJhUXBuTGthTmRjSUZYY0dEeGRyRTRqd2c?oc=5",
@@ -193,13 +193,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "f317995296cd663b7a39",
-      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdjQ1OUo2OEIzZFVqRXIwaGNTbUdIb19jRkEtWGlqQTk5SEc5UUxiNmt1X3V0SFZtRnNzOGJKWFktZVBRSVJPT1VlZnN4RmpuY0d4RkVYMzlvUQ?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News 中文",
+      "id": "b142721c71606c1437f3",
+      "title": "Zcash Price Prediction Today, November 2026, 2030 & 2040 - CoinDCX",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oTVVSd0xLaFRFTkJOS2JOZ0ZXaENBR3NaX1VqRFJMR1M4MzlOMUlGbXpHTFhnNFVGaVRsbjkyaTh5R1RnX2hvZDN5emJtWF9zSERfZms3dFJ2bGtjeHl3bVlhdnY?oc=5",
+      "source": "CoinDCX",
+      "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-13T16:01:57+00:00",
+      "published_at": "2026-11-13T16:16:47+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -563,7 +563,7 @@
       "source": "CoinDesk",
       "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-11-12T05:51:37+00:00",
+      "published_at": "2026-11-12T05:49:44+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
