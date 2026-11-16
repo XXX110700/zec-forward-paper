@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-16T01:23:38.278014+00:00",
-  "last_success_at": "2026-11-16T01:23:38.278014+00:00",
+  "checked_at": "2026-11-16T02:57:23.706895+00:00",
+  "last_success_at": "2026-11-16T02:57:23.706895+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 98
+      "matched": 99
     },
     {
       "name": "Google News 中文",
@@ -43,7 +43,20 @@
       "source": "Traders Union",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-15T20:54:24+00:00",
+      "published_at": "2026-11-15T20:53:09+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "ecf0a30511cae8fd748c",
+      "title": "Zcash Jumps 12% Off Weekend Low as Shorts Unwind Ahead of Treasury Vote - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuLXlPNWtnZG1FWWJuSzc1Z0loNkRONTB0N0NDb2JMZEVwQURqSnRrZ3lwS0lXRTdoZWJxUkhOMVZJRmhOLUNEcXpscjdRUjN4WnBtNVRtLV9KMUlzSVBFTzAyM2gzOTA1aUZtb1ZiVW5KUTZJWnc?oc=5",
+      "source": "BigGo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-15T20:05:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -668,19 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T17:27:09+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "93a8984eea361899ba81",
-      "title": "Zcash (ZEC) sees $14.34M liquidations as price drops nearly 10% in one hour - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcXFYelhpZFpEcncyd2pmeVlXQkkwUVZGMnhpR2t2dDNNM01WTnpfYlNSM1VFbEtSdVFjODBJSGprYlkzbzFVdWR0M1FaelFaVjUwYXVnal9Fdm1oVzdoMldFSEVhWnBTYWo3MzU2SmU4anFmYTh1aV9xeThnMWhfc1UzbEFOdzd1UE5tOEdCSQ?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-11T17:17:45+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
