@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-16T09:41:43.377041+00:00",
-  "last_success_at": "2026-11-16T09:41:43.377041+00:00",
+  "checked_at": "2026-11-16T11:25:11.988726+00:00",
+  "last_success_at": "2026-11-16T11:25:11.988726+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,15 +27,54 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 98
+      "matched": 97
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 11
+      "matched": 10
     }
   ],
   "items": [
+    {
+      "id": "b1b4d4d0ccea78e419ca",
+      "title": "Zcash needs a dovish Fed or a US-Iran breakthrough to reverse the bearish trend - investingLive",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHlITGw2QlR1MWJfNXBoM3pkTHo4RjViOFh1UXNzN19hWDBmeFBaVFZYazVDUE9tdWNmZ2dQR3ZIVmdwa0xMRjVHVkhlNVhNVXJXRFZaNjFnNzhVY2FIUWt6N29ZMXpaVEdZOXlTdkR0TXhJNkhiZTRZYXNvMThXdURVWDRBYW1SY3FfUzVMTHlJMTRQWlQtVDRnSlBmYTNZZXp2Y1J5R2NXVHhXMndaZk5RdXp1cWo4QXVvNzFn?oc=5",
+      "source": "investingLive",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-16T11:06:12+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "11c5a2afd0d69dc41298",
+      "title": "Crypto Price Analysis, BTC, ETH, CC, QNT and ZEC, Nov. 16: Canton and Quant Gain as Bitcoin Rebounds From $61,970 - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnT3BfYUFnLXZPQ3Q2NjBlZkFoM0VGVGRXVWNDbzZCN0VqZzJFZEVGbEVnZ2ZSZUVOWFRqbF9zNnZ2LWc4OUZaLUFQQWU3QVBaY1JVb05kNmlBU1U?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-16T10:14:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "54f32635419256e8bec2",
+      "title": "$ZEC Lost The 900 Zone. Retest Got Rejected 📉 Last week it - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2dU1oNDBNS3ZoS0NMN2s3T0NRdk5UTmh5NTdDaE1EdTBRX0xHY1pFQm12eGRKa25BeW13cUxKdmQzOE9MMXlvbXVFdDBWNS1Mc0ltd1JfNlNXOE95TGhOSVBVTURPNkd4TmV2blN2SURwdw?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-16T09:46:03+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "bc156a547f892790ffa0",
       "title": "Zcash Tops Bitcoin by 73% in 2026, but $44M ETF Exit and a $1.4M Liquidation Cluster Test the Rally - BigGo Finance",
@@ -50,10 +89,10 @@
       "verification": "未独立核实"
     },
     {
-      "id": "9b56109c2e166b9f8896",
-      "title": "Zcash Stays Ahead Of Bitcoin In 2026, But Traders Are Split On Whether Outperformance Can Last - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTU52WW1vZ3EzMkEzTEE4LVZQWVNUS0JKS1BkMjBHSVNKa055c3Nlc0JSbXNvMUVaQmZ0VWhwQlZWY0hob01DTThjZDFYRS1BZjB3djJoaVlTT0FsaHhOXzQxclZFM1o4d2I1OW9WelRweDRnOXdIWlgyZXI3eWxTSjh4VFlvaUt0dHk0dXdSMzg1VmduRWpjckRlaw?oc=5",
-      "source": "Yahoo Finance",
+      "id": "16fa308b52734d13eca9",
+      "title": "Zcash Stays Ahead Of Bitcoin In 2026, But Traders Are Split On Whether Outperformance Can Last - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWnhBVTlHRDI5c3k2VGxKQ2lsR3l2UjZ5WmJNUGdFVmhTcVhvMUZNNEFBdUxzeXctT0pKR3Jab3JGcS0zSGxCcWIzVHUxY0ZfeVU4ZHlYeWFzNGk3cXQ5TE9HcGp2Tk1nVk9sc0VSTGZRS3NWSlFaU3FIYURmVWI1UWVjOUEzd3d5VDlld2ZrLVRoUlNuQ0xtLUlfV0kwM0ptNlNRVC1Id09kTjZiMXE0OEpVSGxEdEFhcEg2bzdDUTNaVWxfa1E5VzVNSHFYRzdFWUh1VnJQUzVFcU9wRGNzMWI4aG9icEw2Q0E?oc=5",
+      "source": "TradingView",
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-16T07:57:00+00:00",
@@ -63,13 +102,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "16fa308b52734d13eca9",
-      "title": "Zcash Stays Ahead Of Bitcoin In 2026, But Traders Are Split On Whether Outperformance Can Last - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWnhBVTlHRDI5c3k2VGxKQ2lsR3l2UjZ5WmJNUGdFVmhTcVhvMUZNNEFBdUxzeXctT0pKR3Jab3JGcS0zSGxCcWIzVHUxY0ZfeVU4ZHlYeWFzNGk3cXQ5TE9HcGp2Tk1nVk9sc0VSTGZRS3NWSlFaU3FIYURmVWI1UWVjOUEzd3d5VDlld2ZrLVRoUlNuQ0xtLUlfV0kwM0ptNlNRVC1Id09kTjZiMXE0OEpVSGxEdEFhcEg2bzdDUTNaVWxfa1E5VzVNSHFYRzdFWUh1VnJQUzVFcU9wRGNzMWI4aG9icEw2Q0E?oc=5",
-      "source": "TradingView",
+      "id": "68d52762d7c306d775ca",
+      "title": "Bitrue unveils flexible staking promotion for ZEC, Midnight, and CC with daily rewards - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0JYeWR2allMZ09oa1VYRi1lV0NsS18yLW83c29iT0xmTHVBRDBlcnZyU3puTGo4V0F3OERoTko3TEUxaXpUWnBCWW5LQzlzaThYbzNkeUlzLWFhTVpOcS1reEM0VEJRZWhiSDk5WHJVY1QtZ2RGOXBVU090bTlURzBqbkIyMGQzSjhwNUZYblpHT0tHeWxFQXY0NkI?oc=5",
+      "source": "Traders Union",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-16T07:57:00+00:00",
+      "published_at": "2026-11-16T05:03:16+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -645,45 +684,6 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "1c3439f9da10e88dd145",
-      "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUno0RXVhQ3BmS2t5UEFoLXBxSWh6Nzh4UGxMdnE3QUZnYkhUSmkzODBmc250bVEwaURRWXZ6enRqTEROTHR1dmRDWjRFZThDSldIVkFpZG9yQkVreE5YMXh5dFpTNDJkMXRvSmFkSmJ4Y1h6MEgzeXpuTFJMeVZOUjQ4MlNkaTBSVlgzWlNCeGdPYXlvdVYzMWUzX0J0Sm9PbzJVeXpnLXg?oc=5",
-      "source": "CoinDesk",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T05:51:37+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "6115fdd51b94a479a93a",
-      "title": "Zcash 持有人将投票决定是否从资助金库中提取 50,000 ZEC - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNVpma0dSQnFyR0pWMlNsMnBJRmZ4dHVEZzVOd1B5WTYyeFRIS3N5eVRxNEpTRzNzT0VLOTlZTTJ0RFR4eUE1T2ZTNjFRLVN3ZnpmWFlCdDZSbzE4UVpyN2FZMzdMR3FFeHN0VERVenlDQkI2LU5CdG05dnVnd1dCNUZfeWdFSkpKTzY4NGFpNjhnZ0pubUhBMnlwcFBjcHFkcFJsSmdyWW9sVEF1?oc=5",
-      "source": "CoinDesk",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T05:49:44+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "5c25af83733681f1cf08",
-      "title": "ZEC Price Drops 11.3% Despite Grayscale’s $1 Million Sponsorship - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOG5tMWVIOHZOY0ZkRmdtQmdTZjBIYXJHcWtHQVI5ckYxQlZzbFdtRW0zT3ExUTNVNmxhazY2R3hwcFIwb1ZTZkg5ZjlZT0x3akpkVW5QdnA1aWYwWnN1WWE0bmZxTENRX0h1a0JPTWhvZVhNUVBYVndMOU5jaEhPMTBXUTRvRTduQ256SThJWEFLQm5BRlVJ?oc=5",
-      "source": "KuCoin",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T03:19:41+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
