@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-16T15:06:05.044517+00:00",
-  "last_success_at": "2026-11-16T15:06:05.044517+00:00",
+  "checked_at": "2026-11-16T23:43:39.878263+00:00",
+  "last_success_at": "2026-11-16T23:43:39.878263+00:00",
   "status": "ok",
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Zcash Foundation",
       "status": "ok",
-      "matched": 0
+      "matched": 2
     },
     {
       "name": "Cointelegraph",
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 96
+      "matched": 94
     },
     {
       "name": "Google News 中文",
@@ -36,6 +36,162 @@
     }
   ],
   "items": [
+    {
+      "id": "07a3b629a0b2ebbff2dc",
+      "title": "UEFA Nations League: Karetsas’ Greece out despite win over Serbia, Zec's Slovenia finish ahead of Scotland - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSXlqY2lFbmVjVlFiVUFzMFJYaEhyT3ZfY1QwT05EblR1a1dXZ19FMmU1aUFibVBWMHdMZkJZd3VmX3g2d21YNWdsYjkxZTllQnZoZ3JFaktfbVgtNXN5aklaeGppUkxjVU0xekhYSU4zNzZ6ZktrTldFWTVyRXhVWFBKc3JhNU43MzZUZw?oc=5",
+      "source": "Yahoo Sports",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-16T22:54:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "0f0cbb4680dd5c488768",
+      "title": "Zebra 7.1.0: Security Fixes for Sync and Memory Exhaustion",
+      "url": "https://zfnd.org/zebra-7-1-0-security-fixes-for-sync-and-memory-exhaustion/",
+      "source": "Zcash Foundation",
+      "feed": "Zcash Foundation",
+      "kind": "official",
+      "published_at": "2026-11-16T21:34:42+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "官方发布"
+    },
+    {
+      "id": "8f0f9a1e20541a148d64",
+      "title": "Cypherpunk Mines $9.9M in Zcash in First Quarter of Mining - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjk4bGlfWjVuZHI4Z3N2QjRMNG80NlBNd2ZfWmxKbmRhbTJzNWFEZGdiV0M1Y0toX2x2U2dxMFdoVlVEeU5nUjE3LVk5Y2sxdkZhZ0paODU2Tkpyd09oSXEtY1ExTnM0M2xjTjJGN0J6MThLbHczcktqWGthcEF5aktR?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-16T21:15:01+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "34efc8d74cff41958f56",
+      "title": "ZCAP Poll Now Open: NU7.1",
+      "url": "https://zfnd.org/zcap-poll-now-open-nu7-1/",
+      "source": "Zcash Foundation",
+      "feed": "Zcash Foundation",
+      "kind": "official",
+      "published_at": "2026-11-16T20:41:27+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "官方发布"
+    },
+    {
+      "id": "32402c8d729afe5ee195",
+      "title": "Cypherpunk Swings to $2.6 Million Operating Profit on Zcash Mining Launch, Resumes ZEC Purchases - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNlNrSmE1UXl1ZG9pWnR4RklxRjJxM292MHNYbjN3a0FfTENkdTQ0aW1yd3NYbmxxOVhSZ2c2YXl0a1JRaVJOSmJBMmJaR3RhQWpKUlNXTjFMV2hzR2hqUllwZGVBa2NrQlJyT0lVRVdZNFNDRmVvaWozTFp1WHBaS3dnZG5uSWE5TU1rWHNrOFh3U2dsMmY1b3Rn?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-16T19:18:00+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：launch",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "98da43f827bbef388657",
+      "title": "Cypherpunk Technologies buys the ZEC dip as its mining arm turns a profit - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUgydVFPQVFrSU1NT0RJR1BiMmhWTzJ6UzFKN0owcHdhRmNFbmZVV3VwaHY5aTJkck5WMkJUQ1NIZjcyR1RpOWNQTHRWOUUwYmNXR0l3NWU3RVNBbGRoTV9KbTJFbzVwQ0Y1eTR4bVlDbE1tLXNFQ2FMWmV3ZDEtTGFyX3c?oc=5",
+      "source": "Crypto Briefing",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-16T18:46:52+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "ad5808c0553265273036",
+      "title": "Winklevoss-backed Cypherpunk buys Zcash dip as mining debut delivers $2.6 million operating profit - The Block",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdE5QT05KZDI1VDJpOHo0cy1tVkdPdEhKNGhCaGpjbXVlTHJoaF9tcm1KRTFacFROOHVnbzlCQzhUMTBlWFlZSTFLMlN3eHh1OFpjZzY0VDZmd3NTb1lIbkJUS0VleWxQMzQzSWR4Y0QzRUdwREdwazF2TWNiVzFoUkNZendHYVVIUEZWS24tN2thNXdIRlhOYUFvOUlsa0Q0QUJaY2ZzVUVfc24zSC1Mckh1UHZRZE5UWFdLWEdIV1h3QVFSMldBQUQ0U1JrbUpaSnRjdXNIQVg5RlE?oc=5",
+      "source": "The Block",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-16T18:43:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "26ac59d232e61a291e20",
+      "title": "$ZEC THE MOST IMPORTANT TEST FOR BUYERS IS HAPPENING RIGHT - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UTHRDZHp4N1V1VW84bmRlYnBHbVpSRHZZYTV4c3NPekwwQjhtZ2ZTOGFPaFFiT2dTdHA5d3djUDFWNlkxczA4RUtKY05WRThiZmgzd3FSQzZ1Z1pZaGNfUmI5c1BrNV9JUFJWT09GS25iUQ?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-16T17:35:04+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "1c2b36ec5e18a06ea33d",
+      "title": "Tiny Tins’ Karlie Zec Wins National Waste Industry Award - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORDBFYUtvVHU4dWVWTTlpbjRXdFYzNTdZSTdfNnZiZjRtUDJsSzNUd2xDMXRaai1mUWNWU3NXM3VDbktjeEU5aGFFRmZWLTg3RU04d2Z0TXVsQ1hBX2pUMFNHUVlNUzlNOVY2RlBTdWp4eUQ2TEZpdm5LaTFrc1F0SjJFVXJtc01kdVQzU1RpTUl5dVI5cWhDdEZWWUxidVRhLUs4anFPS0FnTldWeEQwTGQtLTllcDZUMDlrSVo0Vnc2STM0X3lyQtIBzgFBVV95cUxOM1A2S0ZBVVRNdXZtd1dqLVByZFVEOEV4VS11M25kc3FQazdpZmp0WVhMb0kxSkwyUFdqNUxYdmFCYTlSbS12eEpQaWp6ZDNKOUg4dmxtMzBKOHR2NUx1cXJfLWVaSzhnUm0yUS1FZHVwTjlUYXpNVmRXTndjRURXZUdLZGJlZ29tR3VsdGZkV3ppcXB6VjRhcVlzVU1PeHNUN1BZWDBOZ1kzc1M4TzlPNjVqUzlHRFRQWHUxLVJlRFdYbERDMmhZVlhNZFduQQ?oc=5",
+      "source": "The Manila Times",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-16T16:49:26+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "f0af9e05e815c49c1a20",
+      "title": "CYPH: Zcash mining delivered operating profit as treasury and fleet expansion accelerated - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZmhzN0d3MHMxaGt6dm1xYkZ4a2p0SXU4VlRId0NjOWFWYTI5U2h6UkdtalpMd0dOS3lYUWF4dUJ0OGMzbk14bUUwa2owemxXODJKRHVqZW83MHJOMnNDZ1FRdGZHeDB0aDRVMEpoM3pGdm1PejRTdXJ1c2tNZVlxX2lkQkpkN3lONWh5anZXX3VMNC14Z25ad3liMHJwVS1XWEFvUUgwcDlnczVMRmxzM3hJdEI3b2VYb01xZjFsU0RPUkNmdXNSOGM3LUpTVUV0RkZYU1dnWkpHN19WejV2RDNqN3dCc1dCMEJTemdJTUprNzRGdDF5LWVhak1XLUlfbTlnX3ZB?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-16T15:40:26+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "a5eb18e249bb828b15f1",
+      "title": "MACRO MONDAY CRYPTO | $ZEC Zcash is trading near $890, down - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yUVM4Z29sWGxpWEJjZXBXZnFWd01UekFWWjVWZFIyUUh3emE2VVdfeklTRDdjTUlscWdKZ0J2eURrTnJLWTZ5SnBvSXpxWkFXWDBGNDRCdWpYVmtMWk92U29EeFZmeDlXSDhncVp3S01rQQ?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-16T15:29:02+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "86f061c46fc1806e4226",
+      "title": "Zcash price rises 3.38% in one hour with $750K in short liquidations on major exchanges - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcHNWSjhES3FIMmM4X2NLcXBicEVSOXlPZGxNWFNjZkxEUFczYWFUMDNXb19CdjdvdnprYjZPRG5FQ1FzcVFxb2sybFFaeHp0bUw2S18wbnhFaFNXVENhUElTNlVKZFBiendqOWdGTklJZ2x3LUdmYkt5YjExa1NDZVVlcUZVMG54dk9PUzR5ZEs3ZnJNcHhEMQ?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-16T15:08:04+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "30851e1917fecb0c36ed",
       "title": "Cypherpunk reports $306M Q3 profit as ZEC price surge lifts its books - Crypto Briefing",
@@ -154,6 +310,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "c18e2e41bf9ecef0a56c",
+      "title": "A new operation mined 8,967 Zcash coins in 44 days, recording $9.9 million in revenue for Cypherpunk. - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZnFKbFp0dzNTU2o1YzFzMEtCWDRzcTVrNEpPN0p0NlRMcWE4R2FKN1Z6QTJWNDNWR0tSaEwwYXd5NVpuYjNJRFdSeXhza1Y1TzVHQkpydXgyM1NuQkljcE9UY1NFU2dwV1NfMkRDSTJCRlI4eWYyWjJCRDBIY1N3dUpRV2d1Vm5CYTBRNnFHUldwM3dFVl9WZkpSdUhCZlNMcFpFMVZxanlwdzZtSzBaRWRjS0VFZw?oc=5",
+      "source": "Stock Titan",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-16T12:00:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "b1b4d4d0ccea78e419ca",
       "title": "Zcash needs a dovish Fed or a US-Iran breakthrough to reverse the bearish trend - investingLive",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHlITGw2QlR1MWJfNXBoM3pkTHo4RjViOFh1UXNzN19hWDBmeFBaVFZYazVDUE9tdWNmZ2dQR3ZIVmdwa0xMRjVHVkhlNVhNVXJXRFZaNjFnNzhVY2FIUWt6N29ZMXpaVEdZOXlTdkR0TXhJNkhiZTRZYXNvMThXdURVWDRBYW1SY3FfUzVMTHlJMTRQWlQtVDRnSlBmYTNZZXp2Y1J5R2NXVHhXMndaZk5RdXp1cWo4QXVvNzFn?oc=5",
@@ -255,19 +424,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "38bc29e880193045a73a",
-      "title": "Zcash proposes NU8 upgrade, targeting 200 anonymous transactions per second and stronger quantum resistance - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNVl3akNjZW10S3RFMzhlclZ6VV85a2ZwWkJjbF9zQVRCdGQ2YzJUbmt3T1NKVkVsLTMzLU84ckdGNVJET3NoN0J2T3AySnExMlJmbm1UdkI4Zk1ZenJMQXU1cENCVmJzYnUzOFRRRGx0WENHZU94X3p3ZDFydXV6Z0ZOV25VVjFhRUNQZjNxa2pINWpzVnRhZEJ0T3pNNmpOdXIwT0pRcmNRTEFRUDFLM1RxWjhNZTZWcW1Vb0F5amU0Q1FiUHIxeWZsLXJOYTYt?oc=5",
-      "source": "디지털투데이",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-15T11:25:41+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -388,19 +544,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "dad6bb650719371975e8",
-      "title": "Zcash spot ETFs see $4.06M outflow, all from on... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONDZCSnNldUlMbG5WTnB5TjdJNEk5OEItZjN5bnBlQU5sV3VIam8tcUliYktHVnAtRkkzeWItRGlDemFHaE9JaWhTZTJLdndJRFhCMHByYkVMbjNTOXJweElQTjM0dTNjdk9SZjBpOVVvRHhKa09mMUVmNHVWLXRBd09EdmZpUQ?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-14T03:25:41+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "55f00c5984cafef20b81",
       "title": "Whale Adds to ZEC Long on Each Dip; 5x Position Shows $3.5 Million Loss - TradingView",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX3BrN29UTkhya2lNcUlWSGtzSTZDanRrM2JHdEl3YTR1WlZaaDlqalppLWNiN2RKSEh5M1RPaWY2dnkybXZEMzllM0plck5talZhRGtwSlF5eGxjZVJ2QVRPdUdjdl9TRDhsMEZHUUtaS1o1NVJPTWtaZmV6WkFCaWdlNHk0YXk1dWoxVUh6TXhkQTBaa3d4MkRRYXYxVGhkSmM0ODdiTUY0NGhScVRtb1c5WTc0dUZOLXBPRnp4QTU5YnROQXdtdXhSaVI?oc=5",
@@ -505,19 +648,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "c6761448b44a66f80f98",
-      "title": "Zcash's NU7 Goes Live and Strands 12,224 ZEC in Sprout Pool - Blockhead",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPck41R1ExZnBwSmNFTVB2Y1ZZSFQzUDktVE5zR2o0Zzh5eThWcEVfUzc1WlVIM2ZHM0pyMXhDa0VXWk56WW9oR2FSMl8tNDIwU3hWMzVNWVZMRTdsdUZtbWl5LTlVX2tNNnNHU3FJSXF3aEw3VVkzbzNlTDJZLS1JZkFaZ1NKNERLRFVES0U2bHNrZ1NXdTEzMVB4dkpWdUUtZm1icV9EWXhnRWxPbXA5ZGJmWjFVMnJfYUlRcEQwWkRQWTJpU3RudjhJSQ?oc=5",
-      "source": "Blockhead",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-13T08:58:33+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "3f0b2fb189c9cd799434",
       "title": "Top 7 weekly crypto losers: Intensifying market sell-off leaves RAIN, ZEC, BTW leading losses - www.tmgm.com",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPME92WFE0UUNaem5vc3NTTU1neWtaUmYtbFBuU1A4a2F4WlJfanBJNU9uSzdtcHRQdklRQVNVb2ItVVFNUE9MS0xLT0ZOMmMzOXEzYl9OckowbHVwaXZwTFR1RjNjcWpNVVlKdDFkSHdzeHFFTU01RG5mbWhXTHBuZDZqNDRaZDB5T0NLVjBUbmNZWW1vLTYxeG50VFBZcWJsSFBGb1pnbGFteXRjUVc5NVF2SjhGTkRMTGw0Y2s5QzZfMWFnTGJha2Y4V29NdzVKeEYxNFFOUHNsN3Q0cXFUM2dsU255dHhu?oc=5",
@@ -551,136 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-13T04:55:53+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "12fd324a87eb4777f1c8",
-      "title": "Zcash spot ETFs saw $9.88M outflows on Nov 12, led by ZCSH fund withdrawals. - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQREhENjhETGEwSmZEVWdCbkhQX1BncjFMUHdWT1JWNjlDaURzZjVaeGxrWlEwVjVjTFdJSFpmbHlmWk5GNlJtSnJkVkJrMUNUMG5QZ0dXdnhRMHE3dVNKVnBUaVNHbmhJT3AxQlJkanhQUTZER3ZXbU5MU2xJdVgxaUZn?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-13T01:54:22+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "657b7814c9b722fa44d7",
-      "title": "美国 ZEC 现货 ETF 单日总净流出 987.97 万美元 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCaDE5VGw5ZE5fRzR1VmZSV1NoLWFER21YdzJyU185UFBpUzhMS0h2QUNkYi01OWZ5c2dCSkg1Z1RxNFhkbXZxTy1uQllreHhaLUJLbndGSHlLVXN2SWRhRGtoSi13QQ?oc=5",
-      "source": "TradingView",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-13T01:37:14+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "bec2feed9ac59829794f",
-      "title": "Here’s why Zcash could remove 50,000 ZEC from its grants treasury - AMBCrypto",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaC1hRTIwX0xGVVJHUUNtelhMakloQjNiRW9vQ2ZMMjU1ZW5EcXFKQnVXeUpwTTZzYWhJcXhidHZGaERlWGZQd0hWN21aZnNHUWVBRWJ4VkdUY0FlN2dpZ2lxTmJCMUVHZkN6djVBOHB5WFhhT2xwbEV6Mi12MEtxSXpNdjVGM1BSMEtnRVJrOA?oc=5",
-      "source": "AMBCrypto",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-13T00:00:29+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "cd0256f2cd884d8322c2",
-      "title": "Zcash (ZEC) Plummets 13% Amid Macro Shock and ETF Outflows - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ELVRiblhhNHRrVkU4Q0JKQW5naVpiOVJvRHNldmxYOUM2NjZSVzJuTFhQTldMU291VDY1eUx3MnMwZnRLclV0Z1ZjUEhPcjlUOXdXenMwNHNrc0JReE1ES0FLTzlUd19HZGx6ZFFVZ1A?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T18:25:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "a38a4ce3f2bcf4024e29",
-      "title": "The Grayscale Zcash ETF Lost $14.6 Million in One Day. Is That Why ZEC Can't Hold $1,000? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWGF3RzdHX1ZEa3BiVXREam5vSEl0NlYzWGJzZEdHcXRpaF9GOGFjSzZwcmFQYnZnamZ6aDdkTnd1azNGWVJXNEduT0RQSXliS2dQWmJtcDFtaW1KU3ZBSGFmNnJpX2VXTHRERkh5R0R2N2FiYjk4UDliS2xxR2ZpV0lmY0xpeFhBTmZ1WkFDcGRrME9FNnhCeFpOUWxOdEVRRUxERmxxLVVISEMxUWdreExwdV94NlBKUHV5cDlJMzJ1WHMwRW4wLVFuSkNxbzVaMllqOENWWW9pQQ?oc=5",
-      "source": "24/7 Wall St.",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T18:02:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "960613061378ff603cf8",
-      "title": "Is Midnight (NIGHT) Catching Up With Zcash (ZEC)? Network Data Offers a Clue - CryptoPotato",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWFHekVzcEpaSjZQLTI2SWZsNjQ3dVZEb042MjVVa21vdzdnMUYxeHlPaGdaOXJzX19KLVM3WTBUTmotTU5WTUhJeEVrLU9KZGJfeHZYaXhzZ2Q4d3ZPeEM2WVlobnFDajhQNm53TVdNUTNjOG5HcURUcTcxOW40WjRBN2xEMXFYUmNpdHRZMm51S1VIejZfT3FlWjhlUQ?oc=5",
-      "source": "CryptoPotato",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T17:56:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "d822fed69c126e5368ae",
-      "title": "Zcash loses $1,000 as dormant wallets send ZEC coins to exchanges - CryptoSlate",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMVFsNzhDM3lDa2lSQnNNdEZuZ2NKNTR6NXdzWGlpR3dOZHZYNHV3WVVxekZlaGhTTTZvVjVac3lDLW9nbERBaDF6eXNZeXJxMG5fSk9MaHlySnZxQTVVdjE3ZEFHZG5Mcm5wLW1pR29ZNU9XbmZuRHpUSDF4WDFfcXR5al91M1dhVVpmaWpFTjExQQ?oc=5",
-      "source": "CryptoSlate",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T17:45:18+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "480bfb66fe57ddf6b188",
-      "title": "Zcash Price Drops Below $1,000 as ETF Loses $14.6M Despite Faster Blockchain Upgrade - Coinpaper",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0p2M1pqdEMwVWVjc1BOYUU1Y3JFUnFZSEpoQ2t3dC1xU1h3djFfdGhlZV9YTzVmMVJidFVORmVMODEyZW9EMURWSkppaTd0WC1FZ011RkU1V09hdjR1TWF0NXB6aXRSZnF6STBMX3NWdUttUjNtLXE0SDMwX2dhMlBZNllzRGF4eWlrX2Itek1LdHROTXlBeVhXS1JzYk45MFR1SEx6X0tYX1BFTi1heQ?oc=5",
-      "source": "Coinpaper",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T14:25:48+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "856d6f7c3571a0d96ec0",
-      "title": "Zcash Holders To Vote on Pulling 50,000 ZEC From Grants Treasury - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ2dyZTJVRFJ1OEJMSFVPelpzY1JxRWRtMUVSSThxZDA1UWFNZXktRXpWbFlzb0d2SUpuWFFyVXlSTmZEb1ZWekhPemRoM1Y0ZTJTVDZEamN2bllBa2JYRzF0Rld4TVVDYmt6ZXl4NFV2UmpRdVY2a1puNmNmREhWWEVMajlMcDRDcFFFcDcwWDhkb0ZvR1QzSW56bVFVMU5SQkJrZVJFbHA?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T13:54:06+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "54fec8acdd61a02d4646",
-      "title": "Zcash Price Fate: ZEC to Bounce After Grayscale WSJ Ads? - Cryptonews",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1NkxpaWpUR2lIZm9nMmNfNEYzblNRaXFHaWpiOHpUdk9vM1I2YVZmSUlUYVhJaGtsOWZyM1hQSWNLaXFaSTgtNDZ2eXJEWFZ2M0RQTmFpUTlDWlhEbzY5cHlFWURXTnNkRVJjYUdVMGp6c2l1Yl9WNnRGMDBaUQ?oc=5",
-      "source": "Cryptonews",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-12T12:57:43+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
