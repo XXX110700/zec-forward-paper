@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-16T04:13:59.316012+00:00",
-  "last_success_at": "2026-11-16T04:13:59.316012+00:00",
-  "status": "ok",
+  "checked_at": "2026-11-16T06:12:59.296180+00:00",
+  "last_success_at": "2026-11-16T06:12:59.296180+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "ok",
-      "matched": 0
+      "status": "error",
+      "error": "ParseError"
     },
     {
       "name": "Cointelegraph",
@@ -57,19 +57,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-15T20:05:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "9ae2e96598fdb00048a1",
-      "title": "November 15, 2026: ZEC 15 min · 10:00–10:15 AM EST Crypto Prediction Market - Robinhood",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQXFQUkNhTS1kcGI2cUtid2h3WHZYVWU3X0VfYjc2Z191aDd5WExPUXJoajV5aUVmUlN5NnQwa3hjUEZONlpROTZqWWkxd0Z5UWJUVkJlYmtTckpNeThFX3JGa0M5bXBnbHVULTdHN0pLbWlSd3dQbnlzVS04RDNZVU1QWHhqNF9sRXhQY2d0cFZQMzh2RWF6a0RRbmFIMDhQ?oc=5",
-      "source": "Robinhood",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-15T15:09:19+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -681,6 +668,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-11T23:00:21+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "e2b59919d61c04f243fd",
+      "title": "Bitcoin Stays Below $75,000 as XRP and Zcash Lose About 20 Percent in a Week - trendingtopics.eu",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeTJNMTFGdXJHS2s5eUg3S3FrOVVUUlQ5QXNWRl9VeTgxUGVfbTA4YmxvWUwxaXdkUmtiUjZ0T3lLM2NCYl9CUTQxQmtjeGU3QmUxRG9vblA3M3E2TE5SejZXZWpSSHRZcEhXa3RDUktGcUxvRGlCX2YxcGl6cmhVcVZZWG9kY2M?oc=5",
+      "source": "trendingtopics.eu",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-11T21:44:41+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
