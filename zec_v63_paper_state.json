@@ -1,6 +1,6 @@
 {
   "version": "V6.3",
-  "last_processed_15m_ts": 1794912300000,
+  "last_processed_15m_ts": 1794913200000,
   "pending_signal": null,
   "open_trade": null,
   "closed_trades": [
@@ -1722,17 +1722,17 @@
       "net_r": -1.095086
     }
   ],
-  "long_confirm": 3,
+  "long_confirm": 4,
   "short_confirm": 1,
   "max_drawdown": 9.095062000000002,
-  "updated_at": "2026-11-17T11:03:02.556918+00:00",
-  "last_processed_close_ts": 1794913200000,
+  "updated_at": "2026-11-17T11:18:03.576443+00:00",
+  "last_processed_close_ts": 1794914100000,
   "market_snapshot": {
     "source": "OKX public closed candles",
-    "close_ts": 1794913200000,
-    "close": 917.54,
-    "rsi_15m": 48.3440474862912,
-    "atr_15m": 8.94141172334858,
+    "close_ts": 1794914100000,
+    "close": 927.46,
+    "rsi_15m": 56.27764722645915,
+    "atr_15m": 9.224882314430042,
     "score_1h": 3,
     "score_4h": 3,
     "close_1h_ts": 1794913200000,
