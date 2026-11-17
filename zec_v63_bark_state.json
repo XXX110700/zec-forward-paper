@@ -9,17 +9,7 @@
     "long": 5,
     "short": 1
   },
-  "pending": [
-    {
-      "kind": "signal",
-      "id": "signal:long:1794908700000",
-      "side": "long",
-      "ts": 1794908700000,
-      "signal_ts": 1794908700000,
-      "score": 5,
-      "position": "新待入场模拟信号"
-    }
-  ],
+  "pending": [],
   "lifecycle_after": 1793113200000,
   "lifecycle_seen": [
     "entry:short:1794384900000:1794385800000",
