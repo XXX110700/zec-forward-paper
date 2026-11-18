@@ -1,14 +1,7 @@
 {
   "version": "V6.3",
-  "last_processed_15m_ts": 1795041900000,
-  "pending_signal": {
-    "side": "short",
-    "signal_ts": 1795041900000,
-    "signal_close": 898.36,
-    "atr": 7.435149120208275,
-    "long_confirm": 0,
-    "short_confirm": 5
-  },
+  "last_processed_15m_ts": 1795042800000,
+  "pending_signal": null,
   "open_trade": null,
   "closed_trades": [
     {
@@ -1744,19 +1737,36 @@
       "reason": "SL",
       "gross_r": -1.0,
       "net_r": -1.092307
+    },
+    {
+      "side": "short",
+      "signal_ts": 1795041900000,
+      "entry_candle_ts": 1795042800000,
+      "entry": 898.4,
+      "risk": 11.152723680312413,
+      "sl": 909.5527236803124,
+      "tp1": 885.0167315836251,
+      "tp2": 876.0945526393751,
+      "long_confirm": 0,
+      "short_confirm": 5,
+      "exit_ts": 1795042800000,
+      "exit_price": 909.5527236803124,
+      "reason": "SL",
+      "gross_r": -1.0,
+      "net_r": -1.112776
     }
   ],
   "long_confirm": 0,
-  "short_confirm": 5,
+  "short_confirm": 4,
   "max_drawdown": 9.095062000000002,
-  "updated_at": "2026-11-18T23:03:02.548233+00:00",
-  "last_processed_close_ts": 1795042800000,
+  "updated_at": "2026-11-18T23:18:03.184922+00:00",
+  "last_processed_close_ts": 1795043700000,
   "market_snapshot": {
     "source": "OKX public closed candles",
-    "close_ts": 1795042800000,
-    "close": 898.36,
-    "rsi_15m": 31.57077964290282,
-    "atr_15m": 7.435149120208275,
+    "close_ts": 1795043700000,
+    "close": 906.71,
+    "rsi_15m": 41.7125080863014,
+    "atr_15m": 7.811209897405408,
     "score_1h": -3,
     "score_4h": -1,
     "close_1h_ts": 1795042800000,
@@ -1773,12 +1783,12 @@
     "count": 41
   },
   "sl_confirmation_refresh": {
-    "event_id": "long:1794915900000:1794916800000:1794927600000:SL",
+    "event_id": "short:1795041900000:1795042800000:1795042800000:SL",
     "reason": "SL",
-    "decision_ts": 1794928500000,
-    "long_confirm": 3,
-    "short_confirm": 1,
-    "count": 36
+    "decision_ts": 1795043700000,
+    "long_confirm": 0,
+    "short_confirm": 4,
+    "count": 37
   },
   "recovery": {
     "mode": "historical_recovery",
