@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-20T17:44:01.121982+00:00",
-  "last_success_at": "2026-11-20T17:44:01.121982+00:00",
+  "checked_at": "2026-11-20T23:56:51.664178+00:00",
+  "last_success_at": "2026-11-20T23:56:51.664178+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,7 +27,7 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 93
+      "matched": 94
     },
     {
       "name": "Google News 中文",
@@ -36,6 +36,84 @@
     }
   ],
   "items": [
+    {
+      "id": "33c626c3196a8655e64e",
+      "title": "Zcash Miner Fortitude Wins Shareholder Approval for Merger, Approaches Nasdaq Listing - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GOUNocGtOem9nb1drMHRYZEVZSTQtVWs3T25DQ1FoMTZWYXgtZmJwaWpNYUxjQkVFSlpMWXlvUE01RlhVX2Qtd09DbmdVRUlQcGJ1b1FnVjk?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-20T23:16:13+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：approval、listing",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "1a9b4e5cb3c0840011f6",
+      "title": "Crypto Price Analysis, BTC, ETH, NEAR, SKY and ZEC, Nov. 20: Bitcoin Closes Below Its Weekend Low as Sky Volume Surges - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwazIwa2I1bnVIUWtIcDVRd0xRbFROQnI3cHpqVE5TNEptM01ZVWtycUF6aXk0emFKeXZtTXhEVlRKLXFIb2pSSTlQLTlXa21iSDV5X3N6WDRoa28?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-20T21:55:34+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "aac6353c12bc69015928",
+      "title": "Fortitude merger vote advances Nasdaq listing plan for Zcash miner - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2N0Qm14bUlJY1N5UGtoUkVxTUc3Ml83cUxKREJyNmtVNUFjZHpnZVVKdVJScDNQZjlCejJBVjA1T2R0M2NUd2xTMnQ0bENoQlZQUjVOT3FGcllHWHkwUTR2clRkNllaYWxUV3ZETkhCSy1kQzZCQldEY1lnOXFNODREc01nNmtNaDdsdnV6UkMtMFdoMlBfTl9qR1hEek1uUlE?oc=5",
+      "source": "Traders Union",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-20T21:54:31+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：listing",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "fb623cfd070bea7cdc35",
+      "title": "DCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high - The Block",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSmtuQWo3dEM2Ymx2OUVtT1VrcDFnZ3VvLU5yU0UxRTFUdk85NC1ScFR6UlBGZ0h4bWRaRzI1NGUtcEZ5VWVIQzlpRmRFQzV1Vno4WG9jVWRaUVpFZ1pxYTZGS1hiT3UtMWVJZThPcHhvM1hJR1RLTnRaT2lHbDBnak9JUmxFYjVBd29JZC1SSGN5aFl1N0J0VVRiZzVEU1d4WktWdERRY3RGR0YzZ2FDQm85eFUzNWlOM2JBdTFlM0hzNnZmTEhLWDFycm5QMXRia0E?oc=5",
+      "source": "The Block",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-20T21:40:00+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：listing",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "10e963f69ebead33f084",
+      "title": "ETF withdrawals and macro uncertainty deepen risk-off mood for ZCash - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlV0ZlZ1SG1WYndmSVJmVUhSSXZHdTJvWm9sRi1BTkNXLVlxQk84dUhfd3J0RVlRQXp1d2lPY2NhYjhWYkpfc24xaW43ejVFc0JVaVNVckN5R2JPRldXS1FmTFFpUmlXcnc5LTMxaU5vdlRsZ0F6MG5mVHFIdlphM0J5TVQwMWZXMDlKN05ETHFSc0VxRHc?oc=5",
+      "source": "Traders Union",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-20T19:34:31+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "31dea42de4579f393476",
+      "title": "Zcash Falls Below $800 as Losses Outpace Bitcoin, Ether - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc2FUZENSZWlRNGVHbnVnLXpnTHl2TjJ3dTFhbENxSGxJR1VEdldDVU56Sl9CTHZBejFuQ2pIRDJwdk5BYzZwYWpYNVc0WWpka2lPUDJFTGRuWW9wUjhWc1h3bDJmdi1QX2JKQk4xNkxoNlAxWld1Sk1QS05CRHd0eHc3RlZSbm0zcGxkWDJUTkZ3QQ?oc=5",
+      "source": "The Defiant",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-20T16:33:05+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "d9b16c435c1ecc51faef",
       "title": "Zcash: Coinholder polls on ZCG and block times close - 01 Dec 2026 - TradingView",
@@ -128,6 +206,19 @@
       "verification": "官方发布"
     },
     {
+      "id": "2a8257b69953c69ba368",
+      "title": "Zcash drops nearly 14% after Bitwise ETF filing and $54M Grayscale outflows - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWGE2ZUdFZ1l5TWhJZ2hPUlZyS00tcjctc2RpcmpPblhTMEpuQ0VEREk2MG8zc0pQQm5UcWR6ajVobGRJb1RUU2NqNDd0cllqUFk2TFNrQnkzalRxSEZYYzhRN0RZaTZ1cFZad042MnZENWdfdVV0TTV0NmNBanhaUmlkYmlQQm9GbURiMVZ5SmdSOGlfc09HeWlaaGE0Um8?oc=5",
+      "source": "Traders Union",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-20T11:35:26+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "3f94002efab23da99076",
       "title": "Zcash's bearish trend remains intact as the path to recovery depends on two major macro catalysts - investingLive",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNzdMY2RoaDlKVllJdjhQa3VfbEFfeXZwS0dvMF9DcW1lYnhoQUlMZGF3Uy10SU1YT3BpVUluREF6SEZDZ3R6MGstdTFzeFMyRl91amhybjVpUDJ2bzk4Yms2TzMtQ2k0NkY0STBMTU83aU1GUlFTYTJEbkQ2LTlQN3N4RHcybVpWYUQwY09IS0xuaS01eVpkUlZTcmRRRVR3OHZLOG1IQUNQRUpocDhGMjgzRFJVUWU0cUhuQVFFbk9nTFJnakRaVTJVeG5NZkVvVFRkYlBR?oc=5",
@@ -141,19 +232,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "2a8257b69953c69ba368",
-      "title": "Zcash drops nearly 14% after Bitwise ETF filing and $54M Grayscale outflows - Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWGE2ZUdFZ1l5TWhJZ2hPUlZyS00tcjctc2RpcmpPblhTMEpuQ0VEREk2MG8zc0pQQm5UcWR6ajVobGRJb1RUU2NqNDd0cllqUFk2TFNrQnkzalRxSEZYYzhRN0RZaTZ1cFZad042MnZENWdfdVV0TTV0NmNBanhaUmlkYmlQQm9GbURiMVZ5SmdSOGlfc09HeWlaaGE0Um8?oc=5",
-      "source": "Traders Union",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-20T09:38:45+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "2d854ac13bf99cf065f1",
       "title": "More than 10% slide for Zcash amid downside pressure and regulatory headwinds: weekly outlook - Traders Union",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjg0MDlCWHV4MUV0by1BMDducTlMTGRlNjBhSmJQQVg1YkJySHdpRWotdE1KZkxSN0hHc3M5QUNxMC11UFY4S3FuSkZBUFpBZzI5QU9HdFNlVXpHaUNBQmJNWkJjX2dhMUtTTnM0WEs1dURoM0ZiSWRNdU9KQmEtRUdOVjB5aUl4MEs0MmNCYUJnZUxXajQ3T2NBNmgtSzg?oc=5",
@@ -161,6 +239,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-20T09:30:27+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "dd84fc904d8af91fac62",
+      "title": "$ZEC 下周投票，5 万枚出库，约 5000 万美元 Zcash 下周要投... | 欧易 - OKX",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zYXRDQ1dsdkFnMDdtZ2dYR0p0amRfaTJjVnM5ZlV5Z1pGMmpvUndSSFd2N3dsYVh2dW5ZMFY1NVh6V0hNVFFtVk1DYTFNR01Sbi1mNzJmdkVLbldSOHZ4R1ExMmxqajdNY2dV?oc=5",
+      "source": "OKX",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-20T07:35:37+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -208,11 +299,11 @@
     {
       "id": "797b51bf31838bcac748",
       "title": "美国 NEAR、ZEC 现货 ETF 单日合计净流出 138.82 万美元 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1neUtINlJHN2NkNGxWWTVqdVNQRDBWdGdFQk51SnNSRUNRcXlrVUhmcFRxaWRhRklCUnJ5MHBWTVRYMGxuWXZoeV9PZm10eGZGTWhJSml6SXFwNGFNalZoS084OE9zQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiSWNnRnB5dzU0ZmE5c1ZCWUtwc2hqUWxSbmJfU0hpc2NQMHRfSVl0VEZ6MV9tektpYnFBSzBUZG1ZbG5hdHpURWdkTjdKa09US1ZycWtMY0RfTXZBcGo1N2VNYkRwZw?oc=5",
       "source": "TradingView",
       "feed": "Google News 中文",
       "kind": "aggregation",
-      "published_at": "2026-11-20T02:57:00+00:00",
+      "published_at": "2026-11-20T02:57:13+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -226,19 +317,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-20T01:37:48+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "31dea42de4579f393476",
-      "title": "Zcash Falls Below $800 as Losses Outpace Bitcoin, Ether - The Defiant",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc2FUZENSZWlRNGVHbnVnLXpnTHl2TjJ3dTFhbENxSGxJR1VEdldDVU56Sl9CTHZBejFuQ2pIRDJwdk5BYzZwYWpYNVc0WWpka2lPUDJFTGRuWW9wUjhWc1h3bDJmdi1QX2JKQk4xNkxoNlAxWld1Sk1QS05CRHd0eHc3RlZSbm0zcGxkWDJUTkZ3QQ?oc=5",
-      "source": "The Defiant",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-20T00:51:30+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -278,19 +356,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-19T20:49:05+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "8c15a231444ce3d5b79e",
-      "title": "Winklevoss twins predict Zcash could hit $5,000 as privacy coins gain traction amid regulatory challenges. - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZWVIdEQwOVFPNENLNGQ4RTZrM2pVVlAzMDNVZnN4X1pRTk9fODJkYUxKM3E5ZlNhdFRDVkN1N1U5N1pCYnJoSzl2UFBfdHZ4dHhfMVh2b2l1T3g3bmdZZVhvYV9pQ1c4WWdJMEM2ZWJKU3lwZG9idzJUdjFWeldral9FRQ?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-19T20:18:42+00:00",
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
@@ -505,19 +570,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "8839937a955ce6def700",
-      "title": "Zcash (ZEC) price rises 2.13% in one hour, driv... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXloYnhyQmU3endMLXVKR1pFY2lTYWlUZzdTWHg4UEdrcjNtaFdpc1Z1bkd5Rzc2UW92U1pmMExVd3BqOU1FeUgwZnhueDhjVWV2NUIwcl9CMUtfRlFwcmQ0djdva0VQb0lva25MT2JOeUFjcnlVUmRTa2hQd0ctbldpU2lNMTA1ZF9NdGdkSE9iQQ?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-18T17:57:46+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "302a1d59531d9aed00c4",
       "title": "美国 HYPE、ZEC 现货 ETF 单日合计净流出 419.07 万美元 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3OEg1anoyR0Vsc2lyaUwxMFdpMHlVbUMxNjBYcE52NVhPdnlRRjVmcDdoTk45ZlhZeG9mdlJrNWZzQmZlZmFEd1luVkdpd01vNWhIeGNPWmlJMUUxWUM2dEJ4dndBUQ?oc=5",
@@ -632,58 +684,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：listing",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "418cc225a813d7fbf109",
-      "title": "Key facts: Bitwise ZEC ETF Filing; ZECUSD +10.44%; Cypherpunk Profit - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUFlXTFd3NDAzclk0VGhuanJ4R1dMWnNlT0lRamVTRVc0X0JUdFo4R2tweF9oRktkQkNVckV4bHdYcFRqaE5PVlNNNGpTVXVZMDlPRXc1U1NiSmYwZVgteWlHZ3p6NjB0WkNIOWRjWkFGc041ZkotRFJHbUZLNC1IVzBiYTV0QnA2aDlabVF3cVZ2V1AxTUhCeUpVU3ZyN2JRclNwdUJsaHFlRGxpZTJ6RUJUeVBNTW1WZU4zTjdxQllYTk0?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-18T12:00:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "419804d761876d18d1d8",
-      "title": "Zcash extends recovery but significant headwinds persist amid hawkish Fed and US-Iran tensions - investingLive",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLXZtckxtVUhwdjlOd1NuOFh2di1saFExQzRlRHRaYU1fdXBxaXFVczVoSDBvLWNtcnJwY2lmU1pSeVdQMlZCaG05YU1FQXBBOWplVjZkTGxaYW8wOVJhTTlLYnNDQVNzNjR0YkNkMm9pcWJRWWZSRnk4eW9JQTJFYkgxclBlVnZNWmljRjd2dG85UFFCMlVvTGhBb3FtaGQyNXRtOWkxOTFTWEZUYjNpN3pfd0V2b3FVc3I1bEpXQTJ1MjA5NDZENTY4TWMtcUFHSnc?oc=5",
-      "source": "investingLive",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-18T11:21:03+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "5661e2af6e2b4a2a3bec",
-      "title": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90cVZFaC1ZZVEzUVZLVUo1ZC1qUGdRN3FsMG8yUW1Da0pmOGxrU0dDMzlrUV9wTUF5bnhIQmNwWXUteHBQRy1HQXJ4ME13MktmWDM1QnB0dzU4VF9UZ0hjZmVXcERnckZTbHBnaWF1MEdycDR6?oc=5",
-      "source": "Crypto Briefing",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-18T10:45:45+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：listing",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f13213b9d3166db1b1cf",
-      "title": "Zcash price rebounds near $958 but fund withdra... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVFloR0d0Tl90bFRMVFI3R1Yxb21wQWxGc3JiMnJBYVgwSnZ4RVRGd1E4alJmWFV5MHV6VTN0bldlZkZ2cjFBNHcwUnNJMU5aTTFIckdMYlFySGp4S1g2YmEtWXRhc0dSd1h2NzRnVXhXbUp0eW4xcVpTTnlVMG55bVhldTV6NUNfSkpDamF3?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-18T09:27:20+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     }
   ]
