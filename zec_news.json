@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-22T17:46:25.833087+00:00",
-  "last_success_at": "2026-11-22T17:46:25.833087+00:00",
+  "checked_at": "2026-11-22T23:33:15.199938+00:00",
+  "last_success_at": "2026-11-22T23:33:15.199938+00:00",
   "status": "ok",
   "sources": [
     {
@@ -27,23 +27,75 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 94
+      "matched": 93
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 16
+      "matched": 14
     }
   ],
   "items": [
     {
-      "id": "6113f07c03a88a4e19ad",
-      "title": "Zcash Heads to $800 as Selling Pressure Fades – How High Can ZEC Price Go This Month? - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TOVpYSk5VRDRLN2FqczBKaUFzTXN0cFEwQjEyVnVmcDRGaU8yb19KR0tITkduSDIxNzRmdjY2cm5RTWQ4bGxWVFpnemFFckZQbXc1LXh3eU1qNzA?oc=5",
-      "source": "Cryptonews.net",
+      "id": "3d87fb802457b8edafec",
+      "title": "Zcash slides after policy uncertainty and fund withdrawals reduce liquidity in digital assets - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVF3UDhRbFVDV19CYzlpQmZTdU5pMWRfRUZjNXhzamhXS2ZoUkdiRm5Yc0VvUDNQNWpvcGpscFNNY041VG9ib2xiY1BvazZXeTZkb19jRUhlSU5wSWgzMXY4MW9LQlBEMjJTUGFhZ3lzcVlLNk5WR3ptelJxa1Z6RkZxdkxaQUMyT3lmckhSRTY0SVAwT0p2WA?oc=5",
+      "source": "Traders Union",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-22T16:48:49+00:00",
+      "published_at": "2026-11-22T20:34:19+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "3084db157b2d86b52df1",
+      "title": "$ZEC is pulling back into a major breakout zone around $700 - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80X1g4UkozLW92cjNxZnNfeFppUC1OSkcxWHVIQTVCYldqRjVlQXJVOHgyTExNcGMwTmUzVE95eDRibEVTd0VRT3E2MC13RnkyS3B3Uk1kVHFkU01hTlQ3WFBBNmhsc3FIdjZuNzJwcVN3QQ?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-22T18:45:19+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "3c40bc0a6e025dd15f6f",
+      "title": "Zcash Price Rebounds Toward $800 Amid Fading Selling Pressure - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONF80NUd2RGpxaVpPSUNuZ255eENXeW9xb2NrMzhheDk4X0ZITXM4ZlZzTl84Z29Lb2RQZElrX1ZkZkVZeFh5c3RWeGdRQzVVZXM1Rk5DQjFKOTI2Vkh4akxIY3VSaERVa0hBU3E4MExPdno4TTNFbFBOZWRhR3FpWUlSNURMWVBGc1dKazQyQVZuLVRjYmU1TkpB?oc=5",
+      "source": "KuCoin",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-22T17:53:31+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "6400e65e47cb06a001fd",
+      "title": "Zcash 反弹至 800 美元附近，卖压减弱后 ZEC 本月还能涨多高 - 币界网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WUFNRWG92SGdVN2R2VG1za3Y2THpwcWVwTFU5Q1ZXZ0xzeVRDUnhXYnl4WXNOdV9UbEMyY3hqWW1ZaWpmSW9xdURIamJRSk5WV3c?oc=5",
+      "source": "币界网",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-22T16:44:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "a506ba6f81dce28a0eb0",
+      "title": "Zcash Heads to $800 as Selling Pressure Fades – How High Can ZEC Price Go This Month? - Coinpedia",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNGpOdThOVXFUU3ZDWFpSNldtbDhIcHZyamJpRTNxRU1BWGJ3Q2tyTGxCNDhIYk1BcE13VFptLWFaX0JjU0VGak5LQVBfWEI5LVRmMzBSY003UXRrRndLR2toZVFxbXZYdWcyZ3lWZjBGOXRjSUhlb3UwM01iZjdISThXRzExMmpIbXZUVUNRQ2RPRk9TRnM4al8yZlZCM245bHZJNjlWYzNzaWlBVVVib3N6NjJQOHV3U1I00gHyAUFVX3lxTE1wMHBCbHpiQ0xfbDBTbFRuN1YweVBqXzc3bjg1N3dHTUFlaXI3dUF4NTVGdlZHOVd3U0M4ZlU5bjhjb1drX1RHRkdZV1ZValhWLUdqaDFlRHJxc0ZLdUR4S3haT1ZOWmM0VFBhdWZQQnZSekJqd0F1ZlNyZ2RpbU5wTU5sTVNsTWlsdkR5X0l2X3BRR09ucTlzcllnZnkzeDJXRWdrVmg4bzZBLXF1QWpQeTUzRFBFSzhmY3I4RnFjSlhkUEFOVkVJUldNUGhZck5yV0JjNjhzUW4tYzZKVkt2N3RTcDRQWWxENU85QWxoV3pB?oc=5",
+      "source": "Coinpedia",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-22T16:41:56+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -86,19 +138,6 @@
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "0630b845d257ebac4edb",
-      "title": "Zcash price plunges 11% to lowest since September amid market slump and fund outflows - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUpVcU0teXBMRmRmQ1hkZnVneFJzZmd4cVFLcHVQUHRMN0t6cGFqeUJheVVzQzJydERUOEhMU3RHemNta0FYQmx4NlVnTnE3SHRyendrSXRlYWhqQ0YzOHc3UHZlbHVIcDl1b0pGd09COHBJR0ZQaWQyT2IwMlU5d3lqT19STzZxWmxuZlRR?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-22T09:53:56+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -388,19 +427,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "fda461d6e5a46c05a145",
-      "title": "巴里·西尔伯特：Zcash 全新投资方式将登陆公开市场 - Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVHNrdHhZREdWV29ZQkRGak5oUUxIanJTQ0Q0ODZNYW9LVlF1aE5LWVpaVlFuSXE4RU9zdGZCMmd6NGxyV0Z3bWVkd0JYN2lQaUtLdUtoQlN1Z0YxbkliRk9rT3NfWklRZTBLeWFKVFc3eFAwaUJjcm56LUpMMGx5ZloxRHlNbXEzRHotX2lzOWU?oc=5",
-      "source": "Traders Union",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-20T13:40:37+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "9464548fdf3fa791cb7b",
       "title": "HeartSciences Shareholders Approve Merger With Zcash Miner Fortitude - TheEnergyMag",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT0c1SENMWEdPOUt6NGF4Q1B0Z1FJdFR0c25SZWw1bjV1UXZNN1dhVmZjT3M2UmdFZnVWNWdOVGk2ZWpsUEVrYXlyNmlRMjZsaUcxUXNFQTBNd0ZFSlhSZWxpUEpCS2JJejBRSnlFMFBEbE8wVDF1emwtMVNhWnE1bEE5V2hPd3pqd0VqMkdPOVhVYlVYeXc?oc=5",
@@ -411,19 +437,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "f729c326d58855d17b23",
-      "title": "Zcash falls 13% despite Grayscale's $1M support and faster blockchain upgrade - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVjlMR2lXTi1VTTVac2pYc3ZxNlBEN2tsdDFfYjRKS29xR1Jtc0lYeXc5VDFRRzBnY1lCUEMzcWtxWW9mOXV6WVlqQk12OW81T0p1Sl84LXgxT1FHelhDVm1LM2RaQl92NmF2TmwyQ3Q4RzFvWVNlNlJsVGVOV3NNRThpNE1mOV84b0dpMXhjMjJaaHlLU0d5RjZ2NGozWDRKYnEtcVBHS202SDVjalE?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-20T13:10:08+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：upgrade",
       "verification": "未独立核实"
     },
     {
@@ -544,6 +557,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "41647c60fbae188b34f6",
+      "title": "Privacy Coins in the 2027 Spotlight: Zcash's $5,000 Bet Meets Monero's Mandatory-Shield Case - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JM3g4YUZpazFlV0Z1R256empob3hDUF9xVWwwRk1mUTZISEVaQkNOUXI4dHN4ZXpVWS1ZdDRMcW5aSHpZZVZPSGZVZm1zaW5tRFdCY29JNzNQZUk3VFVhNzVoRG5jdWI5VDNLaEZDZnBENlctbmc?oc=5",
+      "source": "BigGo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-19T22:25:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "32d43be820c5a54d6688",
       "title": "Zcash Drops 3.4% Amid Leveraged Pullback, Not New Shock - CoinMarketCap",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84Vllnd3RabXRLT0tSMDdRd3VETmI1aHE3R2NHR21leFZaLUhDZnEzVHhieWlkSDhNZTY3bm1WNGwyUy1lWUg4Q2dDYWpFZWhjM01WQlBoUkRpOFJ3dlo3RjJXbTRFSXZzVFhFYlVyckc?oc=5",
@@ -567,6 +593,32 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "bcd66662753da10a4700",
+      "title": "Winklevoss twins say Zcash could top $5,000 within five to 10 years - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEUTVqeDB4VTZDaVBpSlVpXzc3QVZIb2E4WVJMRjJwZTlTbzZYOWVzaTdwR1AtRWN6OG5zd3ZEX2hjUXU3N1Vhc3lqTzNVbzJYNll3dWpBVURJQQ?oc=5",
+      "source": "Cryptonews.net",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-19T20:49:05+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "8c15a231444ce3d5b79e",
+      "title": "Winklevoss twins predict Zcash could hit $5,000 as privacy coins gain traction amid regulatory challenges. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZWVIdEQwOVFPNENLNGQ4RTZrM2pVVlAzMDNVZnN4X1pRTk9fODJkYUxKM3E5ZlNhdFRDVkN1N1U5N1pCYnJoSzl2UFBfdHZ4dHhfMVh2b2l1T3g3bmdZZVhvYV9pQ1c4WWdJMEM2ZWJKU3lwZG9idzJUdjFWeldral9FRQ?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-19T20:18:42+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     },
     {
@@ -629,58 +681,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-19T15:31:20+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "dfb045aa789dcd5a6b29",
-      "title": "Miners: Have Your Say on NU7.1",
-      "url": "https://zfnd.org/miners-have-your-say-on-nu7-1/",
-      "source": "Zcash Foundation",
-      "feed": "Zcash Foundation",
-      "kind": "official",
-      "published_at": "2026-11-19T15:03:24+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "官方发布"
-    },
-    {
-      "id": "f5265f3353176932629e",
-      "title": "Zebra 7.2.0-beta.1 Release",
-      "url": "https://zfnd.org/zebra-7-2-0-beta-1-release/",
-      "source": "Zcash Foundation",
-      "feed": "Zcash Foundation",
-      "kind": "official",
-      "published_at": "2026-11-19T14:58:46+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "官方发布"
-    },
-    {
-      "id": "301d5c5718e7f2d1c6c1",
-      "title": "Key facts: Bitwise Files Spot Zcash ETF; ZECUSD Trading Limits Cited - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYmpNa1FGY2p1aFFvZUZVaW8yMWhTRzZLb3RHMFZxNUF1NzlyNFNlYVJlMmsxNmhjUldpbVZ0Z3RYSFFGQjZyU3pyUmxCQW84WF9La3NLUElNMEs2X2NOTGVxMENyWTJzUnpOdTRjNGtOM2xOeWdVLUZwa09meXRuUF9ZVVc3ckxXTEVabmZvd2NUWGFCZlZJd0pTbjVFZ0hEWV9ZcUdVR292ZXNFSVdQMk84QW9HZS1yWXRjUWkwUjBkUFc0dlJV?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-19T12:00:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "c5469a1dfe8aa100fc18",
-      "title": "Will Zcash Fall to $700 Before 2027? Dexsport Puts the Odds at 38% - CoinGape",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcFVtZlVwaEdwUllwaWlSeUFfeElnZVhncm1JQUw5S2NEdXdUczhscFgyVS1lUi1hQnAzeUpJR1RaUkU2Rk5xQl9vVkpWQ1h4OWxreDV4Z254X1Q2dk9zczFFelB5TE1KY0puSkx4Z09QY1dONUdlRDZrZ3ZVSWZtTnZ3?oc=5",
-      "source": "CoinGape",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-19T08:00:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
