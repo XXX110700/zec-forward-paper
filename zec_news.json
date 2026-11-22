@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "checked_at": "2026-11-21T21:36:55.452767+00:00",
-  "last_success_at": "2026-11-21T21:36:55.452767+00:00",
-  "status": "partial",
+  "checked_at": "2026-11-22T02:07:18.721029+00:00",
+  "last_success_at": "2026-11-22T02:07:18.721029+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Electric Coin Company",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Zcash Foundation",
-      "status": "error",
-      "error": "ParseError"
+      "status": "ok",
+      "matched": 5
     },
     {
       "name": "Cointelegraph",
@@ -32,10 +32,36 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 18
+      "matched": 17
     }
   ],
   "items": [
+    {
+      "id": "3944fd802064a630c39f",
+      "title": "Zcash Miner Fortitude Wins Shareholder Approval for Merger, Clears Nasdaq Listing Hurdle - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2dS1FMHZpTGlWb21sV3ZNOVk2WWxBV1Zrak1YazNTQWZQclpmOFpIcFUxa1BWR09pWkhiQzlWdnlWNXF0YXM5TkdsbmdFbnlVRVhPVQ?oc=5",
+      "source": "bloomingbit",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-22T00:14:54+00:00",
+      "event_time": null,
+      "sentiment": "偏利好",
+      "basis": "标题关键词：approval、listing",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "abc40167d0f99ee7609d",
+      "title": "Zcash climbs while traders focus on U.S. interest rate risk and inflation outlook - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbVMwOW9KUVg5MGlpOUxqZWFaQ1pRSVVtWG5mcC1ocEdab2NmQlJHSE4zSFdsVlBYZjN4YldocmxHSl9WdGFSVFdRdG9OWG9DNmNxRlBZNTlPZ18zTTFXQzlxRHpMdm53WWtnaHFoUm5fNkVka3dIZldoUkw2dkh3XzVKcGRtZEprcnBhLVh5aTBXdlhXVWc?oc=5",
+      "source": "Traders Union",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-21T21:36:19+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "33a18810bdcf7a75f82b",
       "title": "Zcash Just Dropped Below $1,000 for the First Time Since September. Is This a Buy-the-Dip Opportunity? - Yahoo Finance",
@@ -138,19 +164,6 @@
       "event_time": null,
       "sentiment": "偏利好",
       "basis": "标题关键词：approval、listing",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "6a456823bc37576d644e",
-      "title": "Lecture 3 of my Zcash series is about the server your wallet - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00SC1oWV90UzJEdDRwY0k1UEU0RmlseFlQeDcyRkVsdS1vc29JNlJLeEMtZXBHQVRLR1ZDcDVic2hGQTF0cVp3YUJCQTBKdzhPSnhYaWt5MDJLa2M2dnNFWFQyNGh6YnZaNi1tbVZNc2lvUQ?oc=5",
-      "source": "KuCoin",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-21T03:39:26+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
       "verification": "未独立核实"
     },
     {
@@ -268,19 +281,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "29aac3c7691e1ee8f5f4",
-      "title": "Barry Silbert: New Zcash investment method to launch in public markets - Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTG9vS3BWSnFTSkRHbFNIY2ExYVFaR0dLOUxaOWFMcm1MTkNEY29HQ09aRW5fSmVCQU1hbVVDWGRrMmY1bVh0YU43UGJ3NW9Kc3AtZXVRWU9ZQmF1SWJjUlpQQ0hXTUZFOUcza3A2dzU0SGwwZ0FfN3ozNUFpWFg5S2kzbVhkbnE4VWoyOQ?oc=5",
-      "source": "Traders Union",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-20T13:40:37+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：launch、investment",
       "verification": "未独立核实"
     },
     {
@@ -466,6 +466,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "d164962ff5cedfa64a56",
+      "title": "Gemini AI Predicts Which Privacy Coin Goes to the Moon in 2027? XMR Vs. Zcash - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQjVob08ySGgwY1pxMGE1VE8zRTBVaWZreHRmTi1qRHRKdEFUR2JrbmN5NDBRblJNRFZzM1d4N3E4eVlRdlFaVUROU2lGQmUtV2V0VTItOHlyeEFqVlJQUDhRY2R2WDA4SVNIOUY5NFd3Y2tFVWVyNzMyTjhLMXdnZlhWTEdpUmw2MWhOTERmMWdscDVSd2lvWWlpWlQ1RHc?oc=5",
+      "source": "Cryptonews",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-19T21:57:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "bcd66662753da10a4700",
       "title": "Winklevoss twins say Zcash could top $5,000 within five to 10 years - Cryptonews.net",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEUTVqeDB4VTZDaVBpSlVpXzc3QVZIb2E4WVJMRjJwZTlTbzZYOWVzaTdwR1AtRWN6OG5zd3ZEX2hjUXU3N1Vhc3lqTzNVbzJYNll3dWpBVURJQQ?oc=5",
@@ -499,19 +512,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-19T20:05:00+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "b10a527a83b5bfda9be4",
-      "title": "Winklevoss twins predict Zcash could hit $5,000 but security flaws and regulations pose risks. - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdTQ5WVp3N3VxejZONElBdFRQdm5kdU9Ld0FmNlhXRWN4aVB6aXMtR05QZ3RnT0tDaDljMGVBeG15bm9aUlFmWVdqQWVJYWNSTzYyRng4MkVabnBiRzM3eWE5QWNXV3dFM3pjWkVvT0htb3lxY1JidGpuYmxqZkh5R1JLb3BUYXdUeUp0c20tWXBlcXBGRUtZ?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-19T20:04:33+00:00",
       "event_time": null,
       "sentiment": "待核实",
       "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
