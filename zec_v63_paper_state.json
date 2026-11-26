@@ -1,14 +1,7 @@
 {
   "version": "V6.3",
-  "last_processed_15m_ts": 1795705200000,
-  "pending_signal": {
-    "side": "short",
-    "signal_ts": 1795705200000,
-    "signal_close": 678.16,
-    "atr": 9.197933514781713,
-    "long_confirm": 0,
-    "short_confirm": 5
-  },
+  "last_processed_15m_ts": 1795706100000,
+  "pending_signal": null,
   "open_trade": null,
   "closed_trades": [
     {
@@ -2305,19 +2298,36 @@
       "reason": "TP2",
       "gross_r": 2.0,
       "net_r": 1.913302
+    },
+    {
+      "side": "short",
+      "signal_ts": 1795705200000,
+      "entry_candle_ts": 1795706100000,
+      "entry": 678.2,
+      "risk": 13.79690027217257,
+      "sl": 691.9969002721726,
+      "tp1": 661.643719673393,
+      "tp2": 650.6061994556549,
+      "long_confirm": 0,
+      "short_confirm": 5,
+      "exit_ts": 1795706100000,
+      "exit_price": 691.9969002721726,
+      "reason": "SL",
+      "gross_r": -1.0,
+      "net_r": -1.068818
     }
   ],
   "long_confirm": 0,
-  "short_confirm": 5,
+  "short_confirm": 4,
   "max_drawdown": 9.095062000000002,
-  "updated_at": "2026-11-26T15:18:03.276224+00:00",
-  "last_processed_close_ts": 1795706100000,
+  "updated_at": "2026-11-26T15:33:02.682486+00:00",
+  "last_processed_close_ts": 1795707000000,
   "market_snapshot": {
     "source": "OKX public closed candles",
-    "close_ts": 1795706100000,
-    "close": 678.16,
-    "rsi_15m": 14.354725167891885,
-    "atr_15m": 9.197933514781713,
+    "close_ts": 1795707000000,
+    "close": 689.19,
+    "rsi_15m": 26.60152451835704,
+    "atr_15m": 10.08522397890043,
     "score_1h": -3,
     "score_4h": -1,
     "close_1h_ts": 1795705200000,
@@ -2334,12 +2344,12 @@
     "count": 58
   },
   "sl_confirmation_refresh": {
-    "event_id": "short:1795618800000:1795619700000:1795626000000:SL",
+    "event_id": "short:1795705200000:1795706100000:1795706100000:SL",
     "reason": "SL",
-    "decision_ts": 1795626900000,
-    "long_confirm": 1,
+    "decision_ts": 1795707000000,
+    "long_confirm": 0,
     "short_confirm": 4,
-    "count": 52
+    "count": 53
   },
   "recovery": {
     "mode": "historical_recovery",
