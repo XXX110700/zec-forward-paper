@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-25T19:53:14.154270+00:00",
-  "last_success_at": "2026-11-25T19:53:14.154270+00:00",
+  "checked_at": "2026-11-26T02:45:14.396271+00:00",
+  "last_success_at": "2026-11-26T02:45:14.396271+00:00",
   "status": "ok",
   "sources": [
     {
@@ -37,6 +37,71 @@
   ],
   "items": [
     {
+      "id": "2873f6eb5120743eb589",
+      "title": "Hyperliquid (HYPE), Zcash (ZEC) and Near Protocol (NEAR) Price Analysis for November 26: Buying Opportunity or Bearish Dominance? - U.Today",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUFRUcjJuVTR2a29wa2xtSHFvdnpnOUVDTTFNX2pPOWVOVC1WQXdfQXRBeVV6T2IyWHlkSWRDbm5BdThsajFPaDgtNlZZaTVlcWVFOVZfQVpqYV9weGpzSkJhbjN0YXQxVjgzYUxEMEJNbURfMjhJYXZTQzZnVEYzc201d3h5OUF6UHVPY3d5Uk1WSkpfbzRpZFNvQzVBRlVHODlmRWRyQVhjOFJFN2tkelBpTjljbk9ZUy16UUFJN3k5eXhRMTBQWGZ30gHPAUFVX3lxTE01R1Rpb3VKeC1BTm5fU2phMHhLOEs4RDRyU2JteUtxSV9qbEt2eDB4M0c5cGlGaW56Rl9YT2N1YWktTGNEWEZlZDJmQ0loN01mN2ZxRWdhZ0hVZ1hBUXdrd3Z2ZFhfaTJJbEEtNk1JRVYtMVN1dE5oZ01FdEloUE9uWUN2SzZqVmN1MFExRnRpcmJGVmZGYXJocnB3bE5seEZoUXBtMWJOUmgwaHNSeG82d0RLNzNuNUhadEx6Vm90WDV6enZ2MlRCeVM4R1QtTQ?oc=5",
+      "source": "U.Today",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-26T00:11:57+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "19ca4698f67def0747f3",
+      "title": "Zcash (ZEC) Plunges 25% in a Week: 2 Factors That Could Fuel a Rebound - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbzR3eVotYmp0dEdfRkZObVV4Y2lPUDN3dXh3TjFFQTYtZ1J5TE9FMFlLTlotM0lKWnhpQTBfWTlJTFBvQTRfUHFrLUVpRjhIZE1qOUYtM2RfTXB6SFJYZWNLVXhfZ3c5cUo5R0RhOHFYakk5YXpPYk92U1RKb2Y3TWRkeTNlWDRMTHJrQTkxZ1hYVmRCQ1lrOXRPQzVIRU5zeEw4eGU5MA?oc=5",
+      "source": "CryptoRank",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-25T21:17:25+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "c689f8e01248a53757c6",
+      "title": "Zcash (ZEC) Plunges 25% in a Week: 2 Factors That Could Fuel a Rebound - CryptoPotato",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeFFORzZqbTVuMGV0SFhEdG9JT2Y1ejN2RGxzSUllSjFGcWZtRHpDcDY2ekNkOEZNSHR3QzZ2NXRNZGVBQVd6SVFjd1FkbHVzUmIwU2xlcGlaejJyQUZ5a0haeURNQS1seEFYeTZHamFNeUtuOXEzMW5fZ19adU9YekVRYXJqUUJ2RjA0SnZoUkVrUlJyNHBB?oc=5",
+      "source": "CryptoPotato",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-25T21:09:00+00:00",
+      "event_time": null,
+      "sentiment": "待核实",
+      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "ed912c3fe2bbef526e32",
+      "title": "Gemini Opens Shielded Zcash Deposits, Completing Two-Way Private Flow on a Regulated Exchange - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xVjF0MUZpWU9EWHVUOTJUQ0RreFg1UEw3QjhScWJxU1VSZVByVWx2RTN6WVpUdXNlRkN5c3RyNUpYSjl5YXY3cFlILXUxSmNTeFlCbzJCVVQ0M3UtUklFOHdwTGR6NlBoZXFXcE40b2RuRjk1Mmc?oc=5",
+      "source": "BigGo Finance",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-25T20:25:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "f272a46a0342f857231f",
+      "title": "Gemini enables shielded Zcash deposits, completing private transaction flow on its platform. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSWhpTG5VWFFpS3Y1SGNiSU1yXzRleWdIVW1VemhVaFFZcWY2VjdHUDZGdTJydGxqM21kcTQyU1N1TnZ3eXNjNEo4amJmTFpjQl80SHg0N3FoRC1wRnpTVnFWTmo5WEZVMnZTZGdWVzQ2RllkTm9zeG9rblE4ODV0ak9rbG9ELUFYODFXNkNzUDdTQQ?oc=5",
+      "source": "Pluang",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-25T20:16:25+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "3162afe57b5b9db48f05",
       "title": "Sustained ETF withdrawals deepen risk challenges for Zcash in the current market - Traders Union",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGo0SEVMME53c29Nc1NHZGJPck1WS2FQV0ZYaVVTSVlvT1dPZWhpLWR3djZ0RUxIYkpRWTc3MWtlTV9ndXNEaGVRVUdYSl9xS3puRFFQd1dYU20zRDlHOS1rTm55djhmN2RwLUxWMHBvUmNVRUFGNWs0NkNMMmlvTUs4bEhKUnhfYXA3MjhTZnhwZG5sUmlKTA?oc=5",
@@ -70,6 +135,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-25T15:52:02+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "c94ed05c75385a7a6683",
+      "title": "Zcash (ZEC) Holders Get Key Update as Gemini Adds Shielded Deposit Support - U.Today",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZk4yc1lyT0otVld5MDRpQkc5WW1nOE8xVUVHUl91MUs2QU9UVEdnamYzdkxadF9IbnJuOVpKdXlvLU5YeUVEbmR0Z0VnTVppc0JuZUtuNmQ5aFJxemxkUTRrcEFOR0tKd3MyekhoNlZuemZXUVhGS0h5Ny01WWtzV0Z4T0wyaklCNGpzS0gwV2Q2d9IBlwFBVV95cUxPdml4Tk5XaUxMM0dmam01NFRGWm1xbHFXb1hXSmV5WDE3TzFheTluZXVMWkJKWkRFN2pXZ0lBbElQZWctTmV2SVN1dm5UcjlFS05FSjl4bUZFeWdsMU1UT0Q0cWIzR0xVYU5aTkFiWXRTbmdFSVAwRGtJMnRockNENXNvLTVkSG1menpBVVhNTy02WXRienZr?oc=5",
+      "source": "U.Today",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-25T14:01:14+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -135,19 +213,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-25T06:37:55+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "32d9ad7bb4ac85d4d7fb",
-      "title": "Zcash Price Forecast: Declining ZEC targets $700 as Gemini accepts shielded deposits - tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTFlTNUpqRzEwMm90d1p3UmV1Vmo5UkcybDF1T2lQZjB6cndIQWJySVNoSEpmQWUxOUpFODhFYlJTU1c3cFdEQ2oxdmUyaUJNUDl0RXFNb3diYkt2akR5Ni1Md1JHamludjNYNXdxcmI1Tm15NzhpVGhLYVh2eDNKcFBHRkJGd08zakk2a0pDSzBIc25MbzZGdUt1NlRTZ1ZUV0V3akM5QlhnZW5mbjlIOF9UVjRIUFYzRTIyZUN5NV9xM0Nuc0xSTXYxbzBaRVJUUVE2MHBEQ2tmNkQzWUFnTWNPS05Qc2FZ?oc=5",
-      "source": "tmgm.com",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-25T04:40:27+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -323,19 +388,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "173aef247e99a8eacacc",
-      "title": "ZEC slumps nearly 19% as technical signals and ETF-linked pressure drag price lower - Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTGFXNHpMU2ZpdUtvZy15dnF0cFByQTFmdXB0WDlnckU4dEpWa0lRWXYzTkVZYm1nZ3JLdTM4X012enlOMXRQNGxzb1MyNGRjQXhPMjRWaWJWbFoyY2Q3VndRRUlRRDlfOUlVczQ4aEdIRFRMejNLNTJfak1USDJ5UUtRZ1pIYXZMR003U2x0eGJRNm1TWkt6ZDE3YkVaN2c?oc=5",
-      "source": "Traders Union",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-24T15:28:29+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "f07ebbb203da8200a6f6",
       "title": "Arthur Hayes names his crypto ‘Four Horsemen’: Ethereum, Zcash, NEAR and Venice Token - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xZFZ4RVFfZWhldkFrSi12MWhFT3l3dEJtZGJxZ2VleGlJUzRpQjkxaUdOUm8wckczdzVKZ3ZPbEQ4Mjk3WUx3WDBlVG52Uzk3VTFIZ3BacVBuRVJjbHlmSW9yQ0Q0UUtTb3lnN01ER1VSVzBISHZUcmxnbw?oc=5",
@@ -473,19 +525,6 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-24T05:35:00+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "65e54a37d8c9ab60b4ab",
-      "title": "ZEC: Van de Poppe Flags Dip as Outperformer - Blockchain News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQS0tTWkUtMzUxNnpfcjUzNzZGVWx1X3RxWkxGWFd4dEhTYUhBRmdvSy1adUk2MG1OZjRXU3B3WHpxYXZINFVQS2FER0xMZHphSXdBTHhub05SSlpDdnphSkVQNm1DaEVLV21pUDRsbVA5cTJGS01yYUpqdDAzZw?oc=5",
-      "source": "Blockchain News",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-24T05:30:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -645,45 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "16854c869d589b5a8cbd",
-      "title": "Grayscale Launches ZECX, a Leveraged Zcash-Focused ETF - The Defiant",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbFBnck92RGpjaE5Hc1A5ZlpXUVd2U0RZbDFERjJVeDNPODd2WjBnZXB5TWFBQVlEdHR0Qzg0eXRsVjNoTEJKOWRnUkU3ZzNFTGlENktlUHc5R2hjdjdkY3c3NGdGZjdHcUVhN1lrVGs1Zkp1M3NQRURxd2RINERxNlAtZFc0OFFIODAyNnVmbWFKV0NWaVNNQ3hhQ2ZuVF9KenJ4SFFn?oc=5",
-      "source": "The Defiant",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-23T16:25:28+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：launch",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "512b07d27ecfb2ceaaa3",
-      "title": "Grayscale launches 2x leveraged Zcash ETF ZECX on NYSE Arca for enhanced crypto exposure. - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOXJLQVRGa0lvSmZFb29Xc1Q3NnZVaUp2U2k0bnlhcFg3UXVvcEdHQkNlRG1HLVpqRWl5ekIzYThlNkVmT2U5LVplTzcyYVVYN3hSNHlxNlowX1BDcXgwWVR4NVo0alRmSVNWZzVLaWFZUnhJSzhOT3ZhWTE1Zjh6UmFoZU5JMUtRVHg4YjE3TEpnNnpSdDAtRlBTS21JZw?oc=5",
-      "source": "Pluang",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-23T16:08:04+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：launch",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "304c16c20a01f848d562",
-      "title": "Grayscale Launches 2x Leveraged Zcash ETF Under Ticker ZECX - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQjlPWVF0U1lKVXJGeG1RZGp2UHRpc2VpQ0ZNNFNqZXhhMHNNQXRFOUhqNTFKSkhSRnU3Wk1mWXdUd2JaV0w3VVZFSk1Dc1EzNlp6bC0wU3dTWDJ1V0NVVVBUbWl1MzZLTjhwTVBENFVNMTl0WUY4bDRrYnpfUGhqVDQ4aWF3dDAtZVFPR0MzRDl5eVp5aDZaZmlIUDVNWVB4REhYalpjZ0UxMzNwWlpSOHQ0YnY4VnlIa29ZOTNkWQ?oc=5",
-      "source": "TradingView",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-23T15:02:57+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：launch",
       "verification": "未独立核实"
     }
   ]
