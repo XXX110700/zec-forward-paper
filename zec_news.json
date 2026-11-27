@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-27T14:56:23.125599+00:00",
-  "last_success_at": "2026-11-27T14:56:23.125599+00:00",
+  "checked_at": "2026-11-27T23:23:22.618929+00:00",
+  "last_success_at": "2026-11-27T23:23:22.618929+00:00",
   "status": "ok",
   "sources": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Cointelegraph",
       "status": "ok",
-      "matched": 1
+      "matched": 0
     },
     {
       "name": "CoinDesk",
@@ -27,12 +27,12 @@
     {
       "name": "Google News EN",
       "status": "ok",
-      "matched": 97
+      "matched": 98
     },
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 17
+      "matched": 25
     }
   ],
   "items": [
@@ -44,6 +44,45 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-27T14:17:34+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "b2d4c4b0995a33ac9c2d",
+      "title": "Zcash Price Prediction: Drop to $600 Likely Despite Today’s Jump - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQclZEbEtyNlc1V3R3UVdCWE81OG13dVZOa3lqYzlPekprOV9hNUJxSGstWEJucjY1RW45R3MwU1M0UlE2M3VSbmlZN3JTMG5QTXZqaEZiVV9wdXZKTVNZSHM1eXU2aG9LaTMzNXZoc0s5ckkzcXItenVTLUM0MF8wS0E3YW5Zdkk?oc=5",
+      "source": "Yahoo Finance UK",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-27T14:17:34+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "f317995296cd663b7a39",
+      "title": "Zcash(ZEC) 币价，图表，市值以及其他指标 - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdjQ1OUo2OEIzZFVqRXIwaGNTbUdIb19jRkEtWGlqQTk5SEc5UUxiNmt1X3V0SFZtRnNzOGJKWFktZVBRSVJPT1VlZnN4RmpuY0d4RkVYMzlvUQ?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-27T12:52:27+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "eb0d626012da6a65511a",
+      "title": "Zcash accelerates the closure of the Sapling pool with 400,000 ZEC - Observatorio Blockchain",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbmh6d0NmbUJCb2J2c0N1QUNMN1RCQ0t0S2FPMTRKMEJGZGZoa3dETTVTUFNvSHVodzZQZm11dkdwbjBOaExkbmducU9faUM5OVlWeUZQcm04MTRnWmhVRGhKVmdLMkc3MU5FaEwydEJaRHJUWmEzSXBGWTQtMFlQRmZBMmo2Zw?oc=5",
+      "source": "Observatorio Blockchain",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-27T10:00:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -148,19 +187,6 @@
       "feed": "Google News 中文",
       "kind": "aggregation",
       "published_at": "2026-11-27T05:46:37+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "54b599d30c1875213bd5",
-      "title": "Zcash Price Forecast: ZEC rebound on speculative demand risks trapping buyers - tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNndCdFdjdmp4cFNJc2NRbl9hY05KV2IyX0paMEwtUy14Q3UzVEpteE9zNFpjaDVqa3dKMWRVSHA0V0V4X0FVX3p5MW80YXZodUJjVVo0WE9ZNzNkZTN3ZnpVZWNiS0FRRUpzaEZfdGlab1EtZllJX2dpME9aLUpkTXctNFJhVGVXM0ZlQ0d1VEdGa2N3ZkNiNGJvUktTSUh4eGFQbG1fUnV5cW0yQnZxd1lKT2xucmp2TlBxLVBxR2FLZjB0ZDZVS2tmRTJ1OExYdzJnRGMzVEoxakEtY0lPeQ?oc=5",
-      "source": "tmgm.com",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-27T04:17:45+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -310,6 +336,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "567314a55286182f49b4",
+      "title": "Monero Sinks Below $400 as Privacy Rival Zcash Rallies - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUDBjYkxmbHl3S3FqNjBRVmVGZG5wX1BwN1ltMDBzUDFIdVJ1OXlvR0J2R3pPTTdmLXhrWTl6a1V3M0hpa2s5ZmcybEh4OW1KbU9Dc1JDbk5naE9hWmdwTDJXYXVldUhlWXJvblBGV0dKV0ZXLW4wRmFEVngzaWUyV0x1R2lhaS1oS0VISGVfMUxXdw?oc=5",
+      "source": "The Defiant",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-26T16:40:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "d1479875d21e852056b6",
       "title": "Zakura Asks Zcash to Close Sapling to New Funds, Citing AI Factoring Rumors - unchainedcrypto.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVU00bE9GSlFWMC02cDYyTkR0eTFtdzMzMmlFUUNmeEs3X1c5V3h2Qk1FaEJyeFI2aTFhaHdMbENHRFZhZHVYS1J0dEVFZnBUN1BaNWx3TmtLOFNaVWN0QXJLT3Vwc2ZJNm1jd2VKbFd3ejIwd1Zkako5OW5VMHFKQmQtV2d6d3dJVEVHeExRbDBHSnE1RWE3YkJrSFFOamFWdFk0ZlpR?oc=5",
@@ -330,6 +369,19 @@
       "feed": "Google News EN",
       "kind": "aggregation",
       "published_at": "2026-11-26T15:32:31+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "a3452b0a062201cdfad6",
+      "title": "STAMP 兑 MXN：将 Zcash Shld. Assets 转换为 墨西哥比索 | 实时 STAMP 兑 MXN 价格 | MEXC - MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmTXZKY0k1SVFNcmpSTGVuMWwzclRuTm9GRkdpcTFFd3czZzdxTWk4SC14UWRrbHlBSElmUnROdDRCUllUZE5TQTk0QkllSjZ6Z2dEOHZ4OA?oc=5",
+      "source": "MEXC",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-26T15:11:14+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -440,12 +492,12 @@
       "verification": "未独立核实"
     },
     {
-      "id": "e05a72a308f7afa2f998",
-      "title": "Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement",
-      "url": "https://cointelegraph.com/news/zcash-users-migrate-zec-supply-sapling-pool-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "feed": "Cointelegraph",
-      "kind": "media",
+      "id": "b03d205a6ae0ec7bb4c5",
+      "title": "Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdEFIY1BfWGhRV3YwRklXUEQzOTFfUXIyNFVYWEFYb1J6WVNYTkNYdkJoMV9ZUml5TXdWWjl2SXVsY3ZrUjJMejhVamhFNXZKNTdOdFdyeTdxalB1RjdhSDN0c05qUUdFbHh2cmF1bmpwWVk3azU2Ym9tWHBZZ3d0T1gxTHB2QTFvd1FORFpRM2JvSFJmUkE4WWR5amx5czBzcTQyRllFaDRSX1F6dXFVY052M21yM1ZJdTZfYjlHa3EtU1drd1JXWFFIZUo3T1FOb1FCWU1FNHNPUU5lMHVYVWNtdW4?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
       "published_at": "2026-11-26T10:15:28+00:00",
       "event_time": null,
       "sentiment": "中性",
@@ -466,9 +518,9 @@
       "verification": "未独立核实"
     },
     {
-      "id": "7ec821eee1ba7aa01c60",
-      "title": "Zcash Devs Propose Cutting Block Time to 20 Seconds After NU7 - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXZoT0pmWFJkVDFjWUh3YUQzRG9mUUZzVEhETGg1R2VMLWxRR2c4cV96YktWYnBXek44anRzUl9hSXI5Nm83bU1XZ09ibTJuM2Q5bDJUb1NIV1VtMU5XaDE0eDZsdEhUaWRoYlBFd1d6Q045U1VXSVFFck5qV3lIRUZTcUd0aVlTbkJWckloVGJjRWRfVlhKamJ0azFnWm1kVlZhNzJ3?oc=5",
+      "id": "9777bdb9490e360c0de0",
+      "title": "Bitwise Files for Spot Zcash ETF on Texas Stock Exchange - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWE9UWklNei1teWpzeWJ2TlUwNk00TnNMSTZsNERIOEFjNlVWY19KQlBMRjYzOVpnZ3NhZmV3YkVHazNkWDNNMkMyRkFHYUpyQmtMdUg4SE9EU05mMWFfS3h0aUI4OV92bThNQjc0aVJha3FhQTVRbWVmLWQtVEpvOHN4SXpLS2RSdndHcU81dVlQaFExVmc?oc=5",
       "source": "CoinMarketCap",
       "feed": "Google News EN",
       "kind": "aggregation",
@@ -479,9 +531,9 @@
       "verification": "未独立核实"
     },
     {
-      "id": "9777bdb9490e360c0de0",
-      "title": "Bitwise Files for Spot Zcash ETF on Texas Stock Exchange - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWE9UWklNei1teWpzeWJ2TlUwNk00TnNMSTZsNERIOEFjNlVWY19KQlBMRjYzOVpnZ3NhZmV3YkVHazNkWDNNMkMyRkFHYUpyQmtMdUg4SE9EU05mMWFfS3h0aUI4OV92bThNQjc0aVJha3FhQTVRbWVmLWQtVEpvOHN4SXpLS2RSdndHcU81dVlQaFExVmc?oc=5",
+      "id": "7ec821eee1ba7aa01c60",
+      "title": "Zcash Devs Propose Cutting Block Time to 20 Seconds After NU7 - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXZoT0pmWFJkVDFjWUh3YUQzRG9mUUZzVEhETGg1R2VMLWxRR2c4cV96YktWYnBXek44anRzUl9hSXI5Nm83bU1XZ09ibTJuM2Q5bDJUb1NIV1VtMU5XaDE0eDZsdEhUaWRoYlBFd1d6Q045U1VXSVFFck5qV3lIRUZTcUd0aVlTbkJWckloVGJjRWRfVlhKamJ0azFnWm1kVlZhNzJ3?oc=5",
       "source": "CoinMarketCap",
       "feed": "Google News EN",
       "kind": "aggregation",
@@ -583,13 +635,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "29602bb7f690f4e4aad4",
-      "title": "Zakura urges faster Zcash Sapling retirement over security risks - grafa.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT0dHc0EzMjhTdGNfdXpVdkx0ZExyN0ZiZEV3a014bk5tbnMxRk5KRDk5VEFJT3Y0ZENIRjdhTkFJU1hadk8xc1FxU3l5QkVESFpRRjVnTTczd1FLWTBmdFlST3Q5d0xxNlQyTU4tcVRsM0RtSlU0RUlERjBTTWJDVjB1LVZOTXZQWndaT2Vfcm1OS25leE84OVBvMA?oc=5",
-      "source": "grafa.com",
+      "id": "d852905afc3d2747999c",
+      "title": "Zcash Whale Wakes Up After 9 Years, Moves $11.39 Million To Kraken - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54dXp1d0tfVnBXVXR0RGhkQWU1aGtlR0x1WGJfZHFWcjR3YUk2X240S2ZYeVY3WUdEdVFyTDZCUEVLMWM3RWEwbVRscVJRc3U3WjRyNllqYzVtYW9PcWxmZUEya0tGYkVyOURHdno3bm95Uy1sM3c?oc=5",
+      "source": "CryptoRank",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-26T07:54:26+00:00",
+      "published_at": "2026-11-26T08:00:00+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -629,58 +681,6 @@
       "feed": "CoinDesk",
       "kind": "media",
       "published_at": "2026-11-26T07:09:25+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "87cf5f30b0d4bebaabec",
-      "title": "ZEC 新闻：Zcash 开发者希望用户将 3 亿美元从旧隐私系统中迁出 - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbDNtWWNscnJKTFJDVGlUUElISTBTbXcyb0dicmdfbV81TEZXYlduemVST1VYYmpRd2dOal9vX0Zzel9oeE82UTRtQXRjSUY4M0tWS01kZEpJQlFzM0VEYjFLdEcwSFUxeG9XMkV5alpVazVDd1l0VW9HZzZJQVFiRjNhb1dQczIzU3JfR1RxVldrZWhVNzE2cUxLNlROemlXTFhIWnJacl9BMVpDaEt0MmFqZDhSUDhXSDZtWlNFNjlkR2M?oc=5",
-      "source": "CoinDesk",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-26T07:09:25+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "017f1c5512971f42abc5",
-      "title": "AI 破黎曼猜想引恐慌：40 万 ZEC 悬于一线，Zcash 紧急自救 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53czU3dkkxLTB2NFlQcU1neVAxd1FpNThCcl9VQzVmVG9YQWJTOTJZNlZyVWFjZENQeXBSVzlTeHRmVFRQLTVFd3dGTFU?oc=5",
-      "source": "凤凰网",
-      "feed": "Google News 中文",
-      "kind": "aggregation",
-      "published_at": "2026-11-26T06:47:48+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "6c5df91e0dc82ff9a4da",
-      "title": "ZEC extends gains as buyers remain in control despite short-term overheating risk - Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObFA3ZkROUkstSE16anNkMDJIUWpWeV9YejAyMzloZFdfSVQ1NFNNVF9ZclVzbXVUcGVJU1BrY0U5Q0NWaEdtLWo4NmF0Zml2Y2xkaEpSeUJCYUpQUzZTcjJDODNpbnhUTnNqM0xabWRJNW8xRmdBd0FMWjFHVmdWczFWcTNyNTR2UzlpQTJfTHB5eDBQU2xwZERTUU9tcFU?oc=5",
-      "source": "Traders Union",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-26T06:47:26+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "dc9bef915920a6891bf3",
-      "title": "Zakura Urges Zcash to Cut Off Sapling Deposits Sooner - The Defiant",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT2ozOVFjdGdYNS13UzRxaWlxYmZQUm4tR1d5cUs2MGFsbkdKNWN6TWtFOTExdE01UkNpaEE4T0ZzWHlwRTMxdUJSZEUtSmdkcURCMFJfYlNiWHlVeThUbkF4RlFCMVMtcVZYbm9zRE1heGVDWHl5a25GQy12aVVKYVpEVzV1U1VOcm44SDBWM2I3aTU4NVM0?oc=5",
-      "source": "The Defiant",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-26T06:12:04+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
