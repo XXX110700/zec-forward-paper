@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at": "2026-11-26T22:15:32.709209+00:00",
-  "last_success_at": "2026-11-26T22:15:32.709209+00:00",
+  "checked_at": "2026-11-27T04:56:45.148688+00:00",
+  "last_success_at": "2026-11-27T04:56:45.148688+00:00",
   "status": "ok",
   "sources": [
     {
@@ -32,10 +32,88 @@
     {
       "name": "Google News 中文",
       "status": "ok",
-      "matched": 28
+      "matched": 24
     }
   ],
   "items": [
+    {
+      "id": "54b599d30c1875213bd5",
+      "title": "Zcash Price Forecast: ZEC rebound on speculative demand risks trapping buyers - tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNndCdFdjdmp4cFNJc2NRbl9hY05KV2IyX0paMEwtUy14Q3UzVEpteE9zNFpjaDVqa3dKMWRVSHA0V0V4X0FVX3p5MW80YXZodUJjVVo0WE9ZNzNkZTN3ZnpVZWNiS0FRRUpzaEZfdGlab1EtZllJX2dpME9aLUpkTXctNFJhVGVXM0ZlQ0d1VEdGa2N3ZkNiNGJvUktTSUh4eGFQbG1fUnV5cW0yQnZxd1lKT2xucmp2TlBxLVBxR2FLZjB0ZDZVS2tmRTJ1OExYdzJnRGMzVEoxakEtY0lPeQ?oc=5",
+      "source": "tmgm.com",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-27T04:17:45+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "51ae5cb320c4efd4c14f",
+      "title": "Zcash Price Forecast: Is the 10% rebound another trap for buyers? - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY0UxZGx0YXpXTHlNVV9OUkotM19rZENhaFBMRHYwWDZxUzRfSUNHQlBjN21VQUkzVHdxZld1WkdIejl0VTdsYmd0TVZXXzZMQS1EVjk2QVF0V2JDWkRfeXFFZ1k3UVhjNXZvWkd1bGxqd0FQbXJPVFU4TjJCOEFuQWtLSExUX09rb3diTk5JMXU3OXNnRVY2Y1hLdGZWV1hGN3lSMFVwam4wNXpocGpXM2ZiM3hGUWstTHF6TjY3N1Z3YkhIWlhiSW5nWU1JTHRvU3c?oc=5",
+      "source": "FXStreet",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-27T04:04:16+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "f0d4f956a016922387a5",
+      "title": "ZEC’s Fourth-Largest Long Trader Loracle Stops Out of 29% of Position, Still Holds $4.52 Million Long - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSUV1eEcxcmVqUzlUc252RFlhaW1iOUZqbWIyYU5GREUtQkRnMVYxWXlFSFF2cVRsLU1qTGE0SHhKZGxaMkJJcXRNU1RPZzhmaXRqeG8wN1h5WEl3dVlISlN3Y0ZJenBXQVViUTR2ZEc2NEJxZ21mVGN2bFdqNDAzTDFOTHh5cEJWUlJMSnZSVjdKdllXNUZORzZmZ2dRMkpkS0RCMHVxRGUzSGh0MFc0Vl92TXNTcXJtNGlWRkkwUTgyaEE2aFBCb0x3d0dkc1pOMWNCOFVjcU1mUVpkYnRadkI3SFRZaE5tNW5JNXdXNTh6UGc?oc=5",
+      "source": "TradingView",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-27T00:04:00+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "426a39eb012ed6e36ae3",
+      "title": "ZEC slides over 10% as technical pressures and user migration spark selloff - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRHA5SWVrYm1CT3BGZFpzaGd0aDRJVi1sUlJUTnVhT0dCbWZRbklpV0xpcml0bmdoeEgyZnplNG5GalBPbjNRVUhRRnBfcTV6eDRFOU1BTlpzX1pnS3phQ0t0emphcWhVY29NRjRvRGZqUUxaU21NUGN3aWJtTmhBdXdTREY1Y1F3RmhMdVJXc0l5ejlhSm1GZkF3Tm1Fdw?oc=5",
+      "source": "Traders Union",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-26T23:16:24+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "a7161354859e06710230",
+      "title": "Zcash (ZEC) Drops 3.56% Amid Whale Deposits and Liquidations - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwbHZPVnVuYVktU3gwZmtWVTUtX3hIdjQ2UEpuV0FGYXVQNUVJLU8ySGpBTy0tTHdYN0tyLXBZOTA0TDRpSjc3SDZKd2hzQy03UGRsWXJ0WGdvZDFiQWc4bjI0Z0pLNHlqS2hIMlFHZjA?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-26T23:04:30+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
+      "id": "67fcf74b83362921bfe5",
+      "title": "Zcash (ZEC) Drops 3.59% Amid Whale Deposits, Liquidations - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NWUZZeDIyZGFYNU1aZkZ4YzBLMVhqU05ueEljWXk2MUpRSDBCZFExSkl1TnZBYm4tNGM0cngydW1XSENRNTVMSnFDTVpRUXVnVzZmbV8xYUd6SEVHX2hvbENjLUFaVkw2SU1VdFo2bm8?oc=5",
+      "source": "CoinMarketCap",
+      "feed": "Google News EN",
+      "kind": "aggregation",
+      "published_at": "2026-11-26T21:06:30+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
     {
       "id": "895b37435434ccdccf6f",
       "title": "Zcash Developers Map Out Response to Possible Cryptographic Breakthrough - CryptoPotato",
@@ -284,13 +362,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "9fa5d341c0fc6664a318",
-      "title": "Zcash Price Analysis: Can ZEC Hold $730 Support, or Is a Drop Toward $675 Next? - Coinpedia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmQ3TDRGcFNoTEp1TGJCNjBMcDhnNjdIcWdnZ2pUdHdDWkNBTEtzUDQ5SEpSTW9ROWgyWXVjV1FaeUFEUktJOGd4OUxzNi1QMUpzRGhvalBVVEJZa2lZdFFEdkpuSXZxUHhqR3I5RDVCUDYwNENyOGdMQ3RibG1DZ0RJVE5Ra1cwZFZaUC1GRzF6UnhmUFFUQ3BkWnhzd0RVVzZ6Slhkd3dHSkdTLUNDMEZR0gG3AUFVX3lxTE5yRXlUOWVHTGNjZThPbXNyTE0wWnFiYmlaTWVDNXF5NndKeV9xeHRUOE4wbW14WW1TbG9hT2NYaTdiNW50YldfUHhNNnh0eWZtSmpNOEZEYXFSbnA2bTNFX2tVQmx5amJLUThvLWtjOUVsblFLazM4aVRUZmowU2U5NWFfLUNUN3ByTmZHRkZodTUtTEtObDh6QnVsSFRZdXhneGl2SmJJa0xSZFBYZDY3aGVMeGEwMA?oc=5",
-      "source": "Coinpedia",
+      "id": "8af4d23fb4a84e83186f",
+      "title": "Zcash Price Analysis: Can ZEC Hold $730 Support, or Is a Drop Toward $675 Next? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb3RBNHl6UGZ0MVB4TDktQ2RLOUsxY1IwcE1LVVV1M1BfX1ktYXU5Q3hhbDNWSE1hRWNyc29yRjMtS0o1bU15Xzh2UGZITWZIREZZREdHMVVZR0dEaVk1TzJrR1kwRHMyMzlZbHNhSzFQem8zU1pEZlZBYmlGZFlfSnEyRWVpb240bThSeHdKblFDaXVoX0VycXNEZnNZZjNmdm5vTHIzVlF3ZTF0OWtoQkIyWElyVEZNellsX2RyRzFjV2RXc19YeFNqRm1EZDQ?oc=5",
+      "source": "TradingView",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-26T09:10:03+00:00",
+      "published_at": "2026-11-26T09:10:53+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -388,13 +466,13 @@
       "verification": "未独立核实"
     },
     {
-      "id": "856d6f7c3571a0d96ec0",
-      "title": "Zcash Holders To Vote on Pulling 50,000 ZEC From Grants Treasury - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ2dyZTJVRFJ1OEJMSFVPelpzY1JxRWRtMUVSSThxZDA1UWFNZXktRXpWbFlzb0d2SUpuWFFyVXlSTmZEb1ZWekhPemRoM1Y0ZTJTVDZEamN2bllBa2JYRzF0Rld4TVVDYmt6ZXl4NFV2UmpRdVY2a1puNmNmREhWWEVMajlMcDRDcFFFcDcwWDhkb0ZvR1QzSW56bVFVMU5SQkJrZVJFbHA?oc=5",
-      "source": "CoinMarketCap",
+      "id": "97824dfaa0265e82f1bd",
+      "title": "Zcash Developers Urge Users to Move About $300 Million in ZEC From Sapling to Ironwood - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWlNRNW9abkxsdVNBMU9yS05PTlo5aGFsZGgxRmJOZ3NIbmtlX2NWUmtPd3FaY25Mb055WFVkTEVkYWZvd3Q4ZGI2cUk4eEhmbm42TGdwVXE5LUEtS25PR0ltMEJXdmE0RlBRbjR2VjJ0Y2dTZlJ2dFdXSjJYekxTcHA4WlZGb1JMOVlYbFNNQkcyNTBGZng3X0RydV8wSlRRVHlZNHd6elpqQTRVaEMwOUl0NHU3bU1MLUg0NkpzM0tCTjlFZ0RfWktaMXk3bnExMXVORVJiQXBRa1prM1VuZDN3?oc=5",
+      "source": "TradingView",
       "feed": "Google News EN",
       "kind": "aggregation",
-      "published_at": "2026-11-26T07:31:39+00:00",
+      "published_at": "2026-11-26T07:16:11+00:00",
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
@@ -492,19 +570,6 @@
       "verification": "未独立核实"
     },
     {
-      "id": "761878e35693a8c27c50",
-      "title": "Grayscale ZCSH Files for 3-for-1 Split After ZEC Climbs 2,800% - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUHl6N2xLaGNFZEdBbFRObG1DamFhZWtfUWx0NGpGemV5aDlSUV9jMVRLVXE5LXhKNVhZbm9SQmNhWlBwcVFBdTlQRXM2aTVoS1g4aEZZWmgzNDBCRnU4WVhPNENHZ1kxb0RXQUVJM1NoWGVaQ1RVVEdhREVVM2VscVhTS0s1dTh6X2xpWlpaNA?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-26T05:41:16+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
       "id": "b36f8aa9f52de4f45aab",
       "title": "$XAU 市场整体情绪降温阶段，XAU、ZEC、$HYPE 走出明显分化，... - OKX",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5abFNZUEItaFpvbmxHa0VvNDl2X1VDajVWOVNkcHRlTTZCZlBlREZvVjVqbkxKOElUNFd1TzVwckN5bWVkeGJnQUlWc1NfVjdpSlVBc0pIUUJfVkJ6?oc=5",
@@ -515,19 +580,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "3aa742c7c587b6031c93",
-      "title": "Grayscale Lists First Zcash ETF as ZEC Surges Ahead of Launch - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOGJ0SUhVV1JabGZnUmZPeWNGVElBTFlzXzhIMnd3VFZ1OVBxdTZmejUtd3VQS0lGVlk4a0RlSHFTV1FkUFpCX3Q4Yk1vMGRrUXlyQUFnLXZUR3pwdzNTOUlhOFlxU1RWZEIwMFpqTVAtWUQ4Q0xJVmpJLUhMT0s4TE40dXR5X3Z5bFBOaHNpTm5GOWxEVWRwUks2Y01UZlVfS3c?oc=5",
-      "source": "CoinMarketCap",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-25T23:28:27+00:00",
-      "event_time": null,
-      "sentiment": "偏利好",
-      "basis": "标题关键词：launch",
       "verification": "未独立核实"
     },
     {
@@ -583,6 +635,19 @@
       "verification": "未独立核实"
     },
     {
+      "id": "1fdcee47d3f7694f6a68",
+      "title": "$ZEC 昨天为什么突然爆拉？这轮行情到底走到哪了？ - OKX",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vZ2wzU1J6QUVOUE16bk5NR1k4NXVweTZ4ZXlTNW9XZzlpdkwzYTFqQ2thVTQwWjRRUDJsZTBjRlpYQ0M3SEpkbXptSVE0VklvZTcwS05DY0JXbHRSQ25PMXQ0SmtZMHVMeHc?oc=5",
+      "source": "OKX",
+      "feed": "Google News 中文",
+      "kind": "aggregation",
+      "published_at": "2026-11-25T20:07:44+00:00",
+      "event_time": null,
+      "sentiment": "中性",
+      "basis": "标题未命中明确方向关键词",
+      "verification": "未独立核实"
+    },
+    {
       "id": "1f2fc19e55dc84113b17",
       "title": "美国 HYPE、ZEC 现货 ETF 单日合计净流出 398.42 万美元 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uWk5jTWplWGRLV1NaWVl3Y1o3Sks5M3FNZ2dYdG43NjItN2VLdEs5S2hEaUpKMkJzTV9LQW5aLWJJVXFwVlF5c1c0UFNhMTRnOHEzcUFDSWxwNmZoWXdaamZIY3JqQQ?oc=5",
@@ -619,71 +684,6 @@
       "event_time": null,
       "sentiment": "中性",
       "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "acc342555e78030be259",
-      "title": "Zcash supply on Solana hits all-time high of 110,221 ZEC - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwUWtKank3cEhCWFA1ZVZIa2xUTENuRlE3SkZKYXM4U24tS0M2WXhVY0tiRzBGS3UwaUFSUFYtaTZDYVF1Q2s5NDRnNk5BaXkxbHl4enAzVXNJTWVaSkVycUl1ZnBoWW1DVlBOYjl3?oc=5",
-      "source": "Crypto Briefing",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-25T11:58:20+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "221d88585c2e0f674e47",
-      "title": "Zcash Price Forecast: ZEC falls towards $700 as Gemini begins accepting shielded deposits - www.tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNDY3bm0ycGJ0UGpLNFFxdTZUNXJjUXQ2MHVkZ2JSR1ktbWxrdzRlcWY2UmY0YWNjLTZjb3lEZTlxNFRIRWxwWHJsVThlazBpdmpURjBldm91OWoxalFrb0wwN0hFTGRWLTNraWdDNkx2YWpUeGxhSWpBbW9idEdTaVdwUks1UUNIOUVGN3Q1bXBDVC1RU092VVREX1lCcUdvZ0kzekN2aWR3VTlpZXFTZDJYQ3p5Mzdpd0k2Y1hjN1BmaldwRWt6QlZBSnN5a3dpMlRqN1pDaC1mVGR4UDlXUWs3dzI5QQ?oc=5",
-      "source": "www.tmgm.com",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-25T08:46:38+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "c8d12ba12499183b12d2",
-      "title": "Zcash price prediction: Downward move persists as technical resistance weighs on gains - Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLUNyMktpdjVCVG9jUHJYbXFCZEloalhMaTVSM0NIakRkcHZPSUNLbWZkUFZqTlhNNElPX3g2bGFFVVlYR3JTR2gycUpBZW9RUF9ObjJQMGpGdVltWjRsTU1MWHIwWHdPWWxFZ2hLaUp3TjBLZVduWTZXTkI4bGZQNGxWcUVHSVBZcHh1RzNfMmFwUUN1OWlBQ0w0MA?oc=5",
-      "source": "Traders Union",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-25T06:47:24+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "fba2fe6eddafe6e10171",
-      "title": "Cryptocurrencies Price Prediction: PI, Zcash & Bitcoin – Asian Wrap 25 November - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa2FCYmUyZ2RQYnBob3A0WE85aGU0dGdKQURmRGE3czdMSDBOc0ZCT3ozNHFDNmFKal9OdWtTOTBlYnpJampfNXg2ZExXcnJKd2E3Ni1pejZnODZDdjJPeGNyUXN4akp0WmU0WjJhS3ZjQ0FZVFUwT1cyYzQ1QzhtdU5LVk1mM2xUUklKVzE1ZThFdGIxMXlucG9Idy1VT1ZQa1FLMzV4ci1jei1jUjA4UTYxVFpYNjNkX085aFVPYkpwWHkwNzhZUkFlNUQtUQ?oc=5",
-      "source": "FXStreet",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-25T06:37:55+00:00",
-      "event_time": null,
-      "sentiment": "中性",
-      "basis": "标题未命中明确方向关键词",
-      "verification": "未独立核实"
-    },
-    {
-      "id": "eeef88acbd69aabb6e33",
-      "title": "Zcash crashes 60%: Could ZEC price fall below $700? - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamxqQ3lOQkJSQUZVbnZBRFE1Rm4tTll4LXpzcVZrX0F4MEpFd05zN0xJcjlOSDVoTXFSa0hzTjdlMUhJbFVfTV9GSUVCX3BZOUlzYnAxZ0ZPNFM0V25Kbi1VVEtJRi1TcTRrOTBPSG9mWmxTcV9EQlRzeGJZNEt1YmxLV3hSUjVPNW5oZWNrbWx5bTdoS2JESDA0aUxKcE5fdDJWb1JyQ0JpTFZmZmlYVUVvWjBkWHE4WHhaNkFFdjZIclJ4Vm1YX2U0Y1A1bkEyczllaFltb1hKUQ?oc=5",
-      "source": "FXStreet",
-      "feed": "Google News EN",
-      "kind": "aggregation",
-      "published_at": "2026-11-25T04:25:37+00:00",
-      "event_time": null,
-      "sentiment": "待核实",
-      "basis": "标题含不确定表述或正负因素并存，需阅读原文核实",
       "verification": "未独立核实"
     }
   ]
